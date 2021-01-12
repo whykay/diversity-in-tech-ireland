@@ -1,60 +1,21 @@
-# Neat Starter
+# Diversity in Tech in Ireland
+I've been maintaining a list of Diversity in Tech groups around the island of Ireland since 2017, and I think it's about the right time to get more of the community involved (and a chance for me to try a new framework out).
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
+Also on my TODO list is write something to pull Irish hosted events
 
-## Live Demo
+* where I can curate them
+* remove duplicates
+* remove non-techie events
+* and this one is more custom for me, output HTML code that I can paste into my Mailchimp for my monthyly newsletters. Hand-curation takes so much time, this may help solve that problem.
 
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
+### Some caveats
+There's lots of Irish meetup groups sharing non-Irish events, and these are generating more work when it comes to curation for my monthly newsletters and live blogs on Irish events. There are some exceptions:
 
-### Technologies used:
+* some events may benefit the community even though they are not Irish hosted
+* some events may have Irish-based speakers
+* some events maybe co-hosted by someone based in Ireland
+* events maybe recommended by community
 
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Tailwind CSS](https://tailwindcss.com/)
+This is still an idea in the making, things may change, but I hope information here can benefit others in the community and also gain some community contributers.
 
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
-| ------------------------------------------------------------------------------------------------------------- |
-
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
-
-## Getting Started
-
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
-
-### 1\. Clone this Repository
-
-```
-git clone https://github.com/surjithctly/neat-starter.git
-```
-
-### 2\. Navigate to the directory
-
-```
-cd neat-starter
-```
-
-### 3\. Install dependencies
-
-```
-npm install
-```
-
-### 4\. Build the project to generate the first CSS
-
-This step is only required the very first time.
-
-```
-npm run build
-```
-
-### 5\. Run Eleventy
-
-```
-npm run start
-```
-
-## Author
-
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d48d68e5-08ea-424f-8e77-62bd4375242d/deploy-status)](https://app.netlify.com/sites/irish-diversity-in-tech/deploys)
