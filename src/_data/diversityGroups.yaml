@@ -1,0 +1,16 @@
+---
+groups:
+  - name: Coding Grace
+    url: "https://codinggrace.com"
+    desc: Organises diversity in tech events
+    region: Ireland
+    date_added: 2017-09-01
+  - name: PyLadies Dublin
+    url: "https://dublin.pyladies.com"
+    desc: Monthly Python-related talks and activities, open to all levels and backgrounds.
+    region: Dublin
+    date_added: 2017-09-01
+  - name: Women Who Code Dublin
+    url: "https://twitter.com/wwcodeDublin"
+    region: Dublin
+    date_aded: 2017-09-01
