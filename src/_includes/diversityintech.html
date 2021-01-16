@@ -21,7 +21,7 @@ data: diversityGroups
 
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 <li>
-                    <a href="{{ item.url }}">{{ item.name }}</a> - {{ item.region }} {% if item.status == "New" %} - New{% endif %} 
+                    <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
             {% endfor %}
         {% endif %}

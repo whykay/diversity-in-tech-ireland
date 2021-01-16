@@ -50,3 +50,11 @@ groups:
     month_added: 10
     day_added: 05
     status: NA
+  - name: codebarBelfast
+    url: "https://twitter.com/codebarBelfast"
+    region: Belfast, Northern Ireland
+    date_added: 2017-09-01
+    year_added: 2017
+    month_added: 09
+    day_added: 01
+    status: NA
