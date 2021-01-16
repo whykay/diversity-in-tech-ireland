@@ -28,22 +28,27 @@ data: diversityGroups
         </ul>
 
         {% if diversityGroups.groups %}
-            <h2>Updates</h2>
+            <h3>Updates</h3>
+            <div class="-mb-5">
             {% for date_added, groups in diversityGroups.groups | groupby("date_added") %}
-                <div>
-                    <strong>{{ date_added | truncate(15, true, "") }}:</strong> {{ groups | join(", ", "name") }}
+                <div class="text-sm">
+                    <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups | join(", ", "name") }}
                 </div>
-                
-
             {% endfor %}
+            </div>
 
-            <h2>Region</h2>
+            <h3>Region</h3>
+            <div class="mb-3">
+            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again).
+            </div>
+            <div>
             {% for region, groups in diversityGroups.groups | groupby("region") %}
-                <h4>{{ region }}</h4>
-                {{ groups | join(", ", "name") }}
+                <dl>
+                    <dt class="text-large font-semibold">{{ region }}</dt>
+                    <dd class="text-base">{{ groups | join(", ", "name") }}</dd>
+                </dl>
             {% endfor %}
-
-       
+            </div>
         {% endif %}
     </article>
 </div>
