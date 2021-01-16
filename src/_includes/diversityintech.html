@@ -15,13 +15,35 @@ data: diversityGroups
     <article class="prose lg:prose-xl my-4 mx-auto">
         {{ content | safe }}</article>
 
+    <article class="prose lg:prose-xl my-4 mx-auto">
         <ul>
         {% if diversityGroups.groups %}
+
             {% for item in diversityGroups.groups %}
-                <li><a href="{{ item.url }}">{{ item.name }}</a> - {{ item.region }}</li>
+                <li>
+                    <a href="{{ item.url }}">{{ item.name }}</a> - {{ item.region }} {% if item.status == "New" %} - New{% endif %} 
+                </li>
+            {% endfor %}
+        {% endif %}
+        </ul>
+
+        {% if diversityGroups.groups %}
+            <h2>Updates</h2>
+            {% for date_added, groups in diversityGroups.groups | groupby("date_added") %}
+                <div>
+                    <strong>{{ date_added | truncate(15, true, "") }}:</strong> {{ groups | join(", ", "name") }}
+                </div>
+                
 
             {% endfor %}
 
+            <h2>Region</h2>
+            {% for region, groups in diversityGroups.groups | groupby("region") %}
+                <h4>{{ region }}</h4>
+                {{ groups | join(", ", "name") }}
+            {% endfor %}
+
+       
         {% endif %}
-        </ul>
+    </article>
 </div>

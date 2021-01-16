@@ -1,16 +1,44 @@
 ---
 groups:
+  - name: AnitaB.org Dublin
+    url: https://community.anitab.org/tag/anitabdublin/
+    region: Dublin
+    date_added: 2020-09-11
+    year_added: 2020
+    month_added: 09
+    day_added: 11
+    status: New
   - name: Coding Grace
     url: "https://codinggrace.com"
     desc: Organises diversity in tech events
     region: Ireland
     date_added: 2017-09-01
+    year_added: 2017
+    month_added: 09
+    day_added: 01
+    status: NA
   - name: PyLadies Dublin
     url: "https://dublin.pyladies.com"
     desc: Monthly Python-related talks and activities, open to all levels and backgrounds.
     region: Dublin
     date_added: 2017-09-01
+    year_added: 2017
+    month_added: 09
+    day_added: 01
+    status: NA
   - name: Women Who Code Dublin
     url: "https://twitter.com/wwcodeDublin"
     region: Dublin
-    date_aded: 2017-09-01
+    date_added: 2017-09-01
+    year_added: 2017
+    month_added: 09
+    day_added: 01
+    status: NA
+  - name: Belfast IT Girls
+    url: "https://twitter.com/BelfastITGirls"
+    region: Belfast, Northern Ireland
+    date_added: 2017–11–23
+    year_added: 2017
+    month_added: 11
+    day_added: 01
+    status: NA
