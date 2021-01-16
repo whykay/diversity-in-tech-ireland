@@ -19,7 +19,7 @@ data: diversityGroups
         <ul>
         {% if diversityGroups.groups %}
 
-            {% for item in diversityGroups.groups %}
+            {% for item in diversityGroups.groups | sort(attribute='name') %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> - {{ item.region }} {% if item.status == "New" %} - New{% endif %} 
                 </li>
