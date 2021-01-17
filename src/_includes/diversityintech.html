@@ -30,9 +30,10 @@ data: diversityGroups
         {% if diversityGroups.groups %}
             <h3>Updates</h3>
             <div class="-mb-5">
-            {% for date_added, groups in diversityGroups.groups | groupby("date_added") %}
+            {% for date_added, groups in diversityGroups.groups | groupby("date_added")  %}
                 <div class="text-sm">
-                    <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups | join(", ", "name") }}
+                    <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
+
                 </div>
             {% endfor %}
             </div>
@@ -45,7 +46,7 @@ data: diversityGroups
             {% for region, groups in diversityGroups.groups | groupby("region") %}
                 <dl>
                     <dt class="text-large font-semibold">{{ region }}</dt>
-                    <dd class="text-base">{{ groups | join(", ", "name") }}</dd>
+                    <dd class="text-base">{{ groups | sort(attribute='name') | join(", ", "name") }}</dd>
                 </dl>
             {% endfor %}
             </div>
