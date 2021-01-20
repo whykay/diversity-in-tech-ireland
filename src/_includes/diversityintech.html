@@ -16,10 +16,9 @@ data: diversityGroups
         {{ content | safe }}</article>
 
     <article class="prose lg:prose-xl my-4 mx-auto">
-
+        {% if diversityGroups.groups %}
         <h2>Community Groups</h2>
         <ul>
-        {% if diversityGroups.groups %}
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.type == "all" %}
                 <li>
@@ -27,21 +26,43 @@ data: diversityGroups
                 </li>
                 {% endif %}
             {% endfor %}
-        {% endif %}
         </ul>
 
         <h2>Student Groups, Clubs & Socs</h2>
         <ul>
-            {% if diversityGroups.groups %}
-                {% for item in diversityGroups.groups | sort(attribute='name') %}
-                    {% if item.type == "student" %}
-                    <li>
-                        <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
-                    </li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-            </ul>
+            {% for item in diversityGroups.groups | sort(attribute='name') %}
+                {% if item.type == "student" %}
+                <li>
+                    <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+
+        
+        <h3>Updates</h3>
+        <div class="-mb-5">
+        {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
+            <div class="text-sm">
+                <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
+
+            </div>
+        {% endfor %}
+        </div>
+
+        <h3>Region</h3>
+        <div class="mb-3">
+            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again).
+        </div>
+        <div>
+            {% for region, groups in diversityGroups.groups | groupby("region") %}
+                <dl>
+                    <dt class="text-large font-semibold">{{ region }}</dt>
+                    <dd class="text-base">{{ groups | sort(attribute='name') | join(", ", "name") }}</dd>
+                </dl>
+            {% endfor %}
+        </div>
+        {% endif %}
 
         <hr>
 
@@ -58,29 +79,6 @@ data: diversityGroups
             </ul>
         {% endif %}
 
-        {% if diversityGroups.groups %}
-            <h3>Updates</h3>
-            <div class="-mb-5">
-            {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
-                <div class="text-sm">
-                    <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
-
-                </div>
-            {% endfor %}
-            </div>
-
-            <h3>Region</h3>
-            <div class="mb-3">
-            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again).
-            </div>
-            <div>
-            {% for region, groups in diversityGroups.groups | groupby("region") %}
-                <dl>
-                    <dt class="text-large font-semibold">{{ region }}</dt>
-                    <dd class="text-base">{{ groups | sort(attribute='name') | join(", ", "name") }}</dd>
-                </dl>
-            {% endfor %}
-            </div>
-        {% endif %}
+        
     </article>
 </div>

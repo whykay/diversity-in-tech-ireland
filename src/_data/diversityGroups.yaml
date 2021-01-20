@@ -87,6 +87,33 @@ groups:
     status: NA
     credit: Lauren from GalStem (DCU) 
     type: student
+  - name: DCU / GalSTEM
+    url: "https://dcuclubsandsocs.ie/society/galstem"
+    instagram: galstem.dcu
+    twitter: 
+    facebook: 
+    region: Dublin
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: NA
+    credit: Lauren from GalStem (DCU) 
+    type: student
+  - name: Maynooth University / Women in STEM society
+    url: "https://dcuclubsandsocs.ie/society/galstem"
+    instagram: mu_womeninstem 
+    twitter: mu_womeninstem
+    facebook: "https://www.facebook.com/NUIMwomeninstem"
+    region: Maynooth
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: NA
+    credit: Lauren from GalStem (DCU) 
+    type: student
+
 studentgroups:
   - name: CIT / WiSTEM
     url: "https://socsportal.cit.ie/profile.php?id=MTAyOQ=="
