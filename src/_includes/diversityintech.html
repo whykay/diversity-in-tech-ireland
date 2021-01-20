@@ -16,21 +16,52 @@ data: diversityGroups
         {{ content | safe }}</article>
 
     <article class="prose lg:prose-xl my-4 mx-auto">
+
+        <h2>Community Groups</h2>
         <ul>
         {% if diversityGroups.groups %}
-
             {% for item in diversityGroups.groups | sort(attribute='name') %}
+                {% if item.type == "all" %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
+                {% endif %}
             {% endfor %}
         {% endif %}
         </ul>
 
+        <h2>Student Groups, Clubs & Socs</h2>
+        <ul>
+            {% if diversityGroups.groups %}
+                {% for item in diversityGroups.groups | sort(attribute='name') %}
+                    {% if item.type == "student" %}
+                    <li>
+                        <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            </ul>
+
+        <hr>
+
+        The following is a separate groupings in yaml file. Early test, will be removed.
+
+        {% if diversityGroups.studentgroups %}
+            <h2>Student Groups, Clubs & Socs</h2>
+            <ul>
+                {% for item in diversityGroups.studentgroups | sort(attribute='name') %}
+                <li>
+                    <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200 text-sm">New</span>{% endif %} {% if item.twitter %}| <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>{% endif %} {% if item.facebook %}| <a href="{{ item.facebook }}">Facebook</a>{% endif %} {% if item.instagram %}| <a href="https://instagram.com/{{ item.instagram }}">Instagram</a>{% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+
         {% if diversityGroups.groups %}
             <h3>Updates</h3>
             <div class="-mb-5">
-            {% for date_added, groups in diversityGroups.groups | groupby("date_added")  %}
+            {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
                 <div class="text-sm">
                     <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
 
