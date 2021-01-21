@@ -68,6 +68,18 @@ data: diversityGroups
         </div>
         {% endif %}
 
+        <h2>Archives</h2>
+        <h3>Organisations not around anymore</h3>
+        <ul>
+            {% for item in diversityGroups.groups | sort(attribute='name') %}
+                {% if item.status == "retired" %}
+                <li>
+                    <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+
         <hr>
 
         The following is a separate groupings in yaml file. Early test, will be removed.
