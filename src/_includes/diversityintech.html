@@ -20,7 +20,7 @@ data: diversityGroups
         <h2>Community Groups</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
-                {% if item.type == "all" %}
+                {% if item.type == "all" and item.status == "active" %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
@@ -31,7 +31,7 @@ data: diversityGroups
         <h2>Student Groups, Clubs & Socs</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
-                {% if item.type == "student" %}
+                {% if item.type == "student" and item.status == "active" %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
@@ -40,7 +40,7 @@ data: diversityGroups
         </ul>
 
         
-        <h3>Updates</h3>
+        <h3>🆙 Updates</h3>
         <div class="-mb-5">
         {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
             <div class="text-sm">
@@ -50,15 +50,19 @@ data: diversityGroups
         {% endfor %}
         </div>
 
-        <h3>Region</h3>
+        <h3>🏙 Locations</h3>
         <div class="mb-3">
-            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again).
+            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again). 
         </div>
+        <div class="text-sm mb-4">
+            ℹ️ Number of groups in Ireland and Northern Ireland is {{ diversityGroups.groups.length }}
+        </div>
+
         <div>
             {% for region, groups in diversityGroups.groups | groupby("region") %}
                 <dl>
-                    <dt class="text-large font-semibold">{{ region }}</dt>
-                    <dd class="text-base">{{ groups | sort(attribute='name') | join(", ", "name") }}</dd>
+                    <dt class="text-large font-semibold">{{ region }} (x{{groups.length }})</dt>
+                    <dd class="text-base mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>
                 </dl>
             {% endfor %}
         </div>
