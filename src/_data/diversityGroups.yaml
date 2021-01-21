@@ -13,29 +13,29 @@ groups:
     url: "https://codinggrace.com"
     desc: Organises diversity in tech events
     region: Ireland
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: PyLadies Dublin
     url: "https://dublin.pyladies.com"
     desc: Monthly Python-related talks and activities, open to all levels and backgrounds.
     region: Dublin
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Women Who Code Dublin
     url: "https://twitter.com/wwcodeDublin"
     region: Dublin
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Belfast IT Girls
@@ -59,28 +59,28 @@ groups:
   - name: codebarBelfast
     url: "https://twitter.com/codebarBelfast"
     region: Belfast, Northern Ireland
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Codess Dublin (Microsoft’s women in tech meetup group)
     url: "https://codessdublin.splashthat.com/"
     region: Dublin
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: CodeFirstGirls
     url: "https://twitter.com/CodeFirstGirls"
     region: Dublin/Belfast, Northern Ireland
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Coding Girls Dublin
@@ -131,19 +131,19 @@ groups:
   - name: Django Girls Belfast
     url: "https://twitter.com/djangogirlsbel"
     region: Belfast, Northern Ireland
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Django Girls Dublin
     url: "https://djangogirlsdublin.tumblr.com/"
     region: Dublin
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: Girl Develop It
@@ -158,10 +158,10 @@ groups:
   - name: Girls in Tech Dublin
     url: "https://twitter.com/gitdublin"
     region: Dublin
-    date_added: 2017-09-01
+    date_added: 2017-02-26
     year_added: 2017
-    month_added: 09
-    day_added: 01
+    month_added: 02
+    day_added: 26
     status: active
     type: all
   - name: GirlScript Ireland
@@ -207,13 +207,363 @@ groups:
     year_added: 2018
     month_added: 04
     day_added: 11
+    date_removed: 2018-11-15
     status: retired
+    type: all 
+  - name: Her+Data
+    url: "https://twitter.com/herplusdata"
+    region: Dublin
+    date_added: 2017-11-27
+    year_added: 2017
+    month_added: 11
+    day_added: 27
+    status: active
+    type: all 
+  - name: Intertech Ireland 
+    url: "http://www.intertech.ie/"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all 
+  - name: Ireland Girl Geek Dinners 
+    url: "https://www.meetup.com/Ireland-Girl-Geek-Dinners/"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all  
+  - name: itag Digital Women’s Forum 
+    url: "https://twitter.com/itag_DigitalWF"
+    region: Galway
+    date_added: 2020-11-25
+    year_added: 2020
+    month_added: 11
+    day_added: 25
+    status: active
+    type: all  
+  - name: Ladies Tech Meetup
+    url: "https://www.meetup.com/Limerick-Software-Development-Meetup-Group"
+    region: Limerick
+    date_added: 2020-02-05
+    year_added: 2020
+    month_added: 02
+    day_added: 05
+    status: active
+    type: all 
+  - name: Ladies that UX Belfast
+    url: "https://www.meetup.com/Ladies-that-UX-Belfast/"
+    region: Belfast, Northern Ireland
+    date_added: 2019-08-07
+    year_added: 2019
+    month_added: 08
+    day_added: 07
+    status: active
+    type: all 
+  - name: Ladies that UX Dublin
+    url: "https://twitter.com/ladiesthatuxdub"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all 
+  - name: Lesbians Who Tech Dublin
+    url: "https://www.facebook.com/lesbianswhotech/"
+    region: Dublin
+    date_added: 2018-05-15
+    year_added: 2018
+    month_added: 05
+    day_added: 15
+    status: active
+    type: all   
+  - name: LoveLace Space
+    url: "http://www.lovelacespace.com/"
+    region: Dublin
+    date_added: 2017-04-24
+    year_added: 2017
+    month_added: 04
+    day_added: 24
+    status: active
+    type: all  
+  - name: Mentor HER
+    url: "https://www.meetup.com/Mentor-HER/"
+    region: Dublin
+    date_added: 2020-06-10
+    year_added: 2020
+    month_added: 06
+    day_added: 10
+    status: active
+    type: all     
+  - name: ngGirls Dublin
+    url: "http://ng-girls.org/dublin-2019/"
+    region: Dublin
+    date_added: 2019-09-03
+    year_added: 2019
+    month_added: 09
+    day_added: 03
+    status: active
+    type: all 
+  - name: Rails Girls Dublin
+    url: "https://twitter.com/railsgirls_dub"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all 
+  - name: Rails Girls Galway
+    url: "https://twitter.com/railsgirls_galw"
+    region: Galway
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all  
+  - name: R-Ladies Dublin
+    url: "https://www.meetup.com/R-Ladies-Dublin/"
+    region: Galway
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all 
+  - name: SheUps
+    url: "https://sheups.com/"
+    region: Ireland
+    date_added: 2020-09-10
+    year_added: 2020
+    month_added: 09
+    day_added: 10
+    status: active
+    type: all  
+  - name: TechFoundHer
+    url: "http://techfoundher.com/"
+    region: Ireland
+    date_added: 2020-01-16
+    year_added: 2020
+    month_added: 01
+    day_added: 16
+    status: active
+    type: all 
+  - name: TechFugees Ireland
+    url: "https://www.meetup.com/Techfugees-Ireland/"
+    region: Dublin
+    date_added: 2019-10-23
+    year_added: 2019
+    month_added: 10
+    day_added: 23
+    status: active
+    type: all 
+  - name: Tech Léi 
+    url: "https://www.meetup.com/Tech-Lei"
+    region: Dublin
+    date_added: 2020-01-16
+    year_added: 2020
+    month_added: 01
+    day_added: 16
+    status: active
+    type: all 
+  - name: Tech Women for Africa
+    url: "https://www.meetup.com/TechWomenforAfrica/"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    status: active
+    type: all 
+  - name: Tech Women Dublin
+    url: "https://www.meetup.com/Tech-Women-Dublin"
+    region: Dublin
+    date_added: 2020-06-30
+    year_added: 2020
+    month_added: 06
+    day_added: 30
+    status: active
+    type: all 
+  - name: Women CyberSecurity Society
+    url: "https://www.meetup.com/Women-CyberSecurity-Society-Dublin-Ireland/"
+    region: Dublin
+    date_added: 2019-03-29
+    year_added: 2019
+    month_added: 03
+    day_added: 29
+    date_removed: 2020-01-09
+    status: retired
+    type: all
+  - name: Women in 3D Printing Dublin
+    url: "https://womenin3dprinting.com/events/"
+    region: Dublin
+    date_added: 2019-08-10
+    year_added: 2019
+    month_added: 08
+    day_added: 10
+    date_removed:
+    status: active
+    type: all
+  - name: Women in AI Ireland
+    url: "https://www.linkedin.com/showcase/women-in-ai-ireland/"
+    region: Ireland
+    date_added: 2020-02-05
+    year_added: 2020
+    month_added: 02
+    day_added: 05
+    date_removed:
+    status: active
+    type: all 
+  - name: Women in Games Dublin
+    url: "https://www.facebook.com/groups/375003083342726/"
+    region: Dublin
+    date_added: 2019-03-28
+    year_added: 2019
+    month_added: 03
+    day_added: 28
+    date_removed:
+    status: active
+    type: all  
+  - name: WITS Ireland 
+    url: "http://witsireland.com/"
+    region: Ireland
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all  
+  - name: Women in DevOps 
+    url: "http://witsireland.com/"
+    region: Dublin/Global
+    date_added: 2019-11-06
+    year_added: 2019
+    month_added: 11
+    day_added: 06
+    date_removed:
+    status: active
+    type: all  
+  - name: Women in Tech Belfast
+    url: "https://www.meetup.com/Women-In-Tech-Belfast-Lean-In/"
+    region: Belfast, Northern Ireland
+    date_added: 2018-05-15
+    year_added: 2018
+    month_added: 05
+    day_added: 15
+    date_removed:
+    status: active
+    type: all  
+  - name: Women in Technology Galway
+    url: "https://www.meetup.com/Women-In-Technology-Galway/"
+    region: Galway
+    date_added: 2019-08-15
+    year_added: 2019
+    month_added: 08
+    day_added: 15
+    date_removed:
+    status: active
+    type: all 
+  - name: Women of Wearables Dublin
+    url: "https://www.womenofwearables.com/new-blog/wow-woman-in-ar-and-wow-ambassador-in-dublin-darya-yegorina-serial-entrepreneur-and-ceo-of-cleverbooks"
+    region: Dublin
+    date_added: 2018-04-06
+    year_added: 2018
+    month_added: 04
+    day_added: 06
+    date_removed:
+    status: active
+    type: all   
+  - name: Women Techmakers Belfast
+    url: "https://twitter.com/WTMBelfast"
+    region: Belfast, Northern Ireland
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all   
+  - name: Women Techmakers Dublin
+    url: "https://www.meetup.com/GDG-Dublin/"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all 
+  - name: Women Techmakers Galway
+    url: "https://twitter.com/wtmgalway"
+    region: Galway
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all 
+  - name: Women Tech Space 
+    url: "https://twitter.com/womentechspace"
+    region: Belfast, Northern Ireland
+    date_added: 2017-11-23
+    year_added: 2017
+    month_added: 11
+    day_added: 23
+    date_removed:
+    status: active
+    type: all  
+  - name: Women Who Code Belfast
+    url: "https://twitter.com/WWCBelfast"
+    region: Belfast, Northern Ireland
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all   
+  - name: Women Who Code Dublin
+    url: "https://www.meetup.com/Women-Who-Code-Dublin/"
+    region: Dublin
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed:
+    status: active
+    type: all  
+  - name: Women Who Co-Work Dublin
+    url: "https://www.meetup.com/Women-Who-Co-work-Dublin-Jelly"
+    region: Dublin
+    date_added: 2018-08-07
+    year_added: 2018
+    month_added: 08
+    day_added: 07
+    date_removed:
+    status: active
+    type: all 
+  - name: WhyDesign 
+    url: "http://whydesign.ie/"
+    region: Ireland
+    date_added: 2020-09-11
+    year_added: 2020
+    month_added: 09
+    day_added: 11
+    date_removed:
+    status: active
     type: all 
 
 
 
-
-
+    
   - name: CIT / WiSTEM
     url: "https://socsportal.cit.ie/profile.php?id=MTAyOQ=="
     instagram: MTUCorkWiSTEM
