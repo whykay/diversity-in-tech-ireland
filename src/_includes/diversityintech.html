@@ -34,6 +34,7 @@ data: diversityGroups
                 {% if item.type == "student" and (item.status == "active" or item.status == "new") %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
+                    {% if item.twitter %}| <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>{% endif %} {% if item.facebook %}| <a href="{{ item.facebook }}">Facebook</a>{% endif %} {% if item.instagram %}| <a href="https://instagram.com/{{ item.instagram }}">Instagram</a>{% endif %}
                 </li>
                 {% endif %}
             {% endfor %}
