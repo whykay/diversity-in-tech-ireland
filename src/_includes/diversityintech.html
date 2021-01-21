@@ -20,7 +20,7 @@ data: diversityGroups
         <h2>Community Groups</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
-                {% if item.type == "all" and item.status == "active" %}
+                {% if item.type == "all" and (item.status == "active" or item.status == "new") %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
@@ -31,7 +31,7 @@ data: diversityGroups
         <h2>Student Groups, Clubs & Socs</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
-                {% if item.type == "student" and item.status == "active" %}
+                {% if item.type == "student" and (item.status == "active" or item.status == "new") %}
                 <li>
                     <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200	text-sm">New</span>{% endif %} 
                 </li>
@@ -59,7 +59,15 @@ data: diversityGroups
         </div>
 
         <div>
-            {% for region, groups in diversityGroups.groups | groupby("region") %}
+            {# This created a list of only active groups #}
+            {% set up_groups = [] %}
+            {% for group in diversityGroups.groups %}
+                {% if group.status == "active" or group.status == "new" %}
+                    {% set up_groups = (up_groups.push(group), up_groups) %}
+                {% endif %}
+            {% endfor %}
+
+            {% for region, groups in up_groups | groupby("region") %}
                 <dl>
                     <dt class="text-large font-semibold">{{ region }} (x{{groups.length }})</dt>
                     <dd class="text-base mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>

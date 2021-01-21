@@ -7,7 +7,7 @@ groups:
     year_added: 2020
     month_added: 09
     day_added: 11
-    status: New
+    status: new
     type: all
   - name: Coding Grace
     url: "https://codinggrace.com"
@@ -17,7 +17,7 @@ groups:
     year_added: 2017
     month_added: 09
     day_added: 01
-    status: NA
+    status: active
     type: all
   - name: PyLadies Dublin
     url: "https://dublin.pyladies.com"
@@ -27,7 +27,7 @@ groups:
     year_added: 2017
     month_added: 09
     day_added: 01
-    status: NA
+    status: active
     type: all
   - name: Women Who Code Dublin
     url: "https://twitter.com/wwcodeDublin"
