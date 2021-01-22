@@ -2,10 +2,9 @@
 items:
   - text: Diversity in Tech Groups
     url: "/pages/diversity"
-  - text: Blog
-    url: "/blog"
-  - text: Irish Tech Events
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  #- text: Blog
+  #  url: "/blog"
+  #- text: Irish Tech Events
+  #  url: "#"
+
  
