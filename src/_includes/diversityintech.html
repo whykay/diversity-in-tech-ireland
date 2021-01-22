@@ -115,22 +115,5 @@ data: diversityGroups
                 {% endif %}
             {% endfor %}
         </ul>
-
-        <hr>
-
-        The following is a separate groupings in yaml file. Early test, will be removed.
-
-        {% if diversityGroups.studentgroups %}
-            <h2>Student Groups, Clubs & Socs</h2>
-            <ul>
-                {% for item in diversityGroups.studentgroups | sort(attribute='name') %}
-                <li>
-                    <a href="{{ item.url }}">{{ item.name }}</a> ({{ item.region }}) {% if item.status == "New" %} <span class="bg-yellow-200 text-sm">New</span>{% endif %} {% if item.twitter %}| <a href="https://twitter.com/{{ item.twitter }}">Twitter</a>{% endif %} {% if item.facebook %}| <a href="{{ item.facebook }}">Facebook</a>{% endif %} {% if item.instagram %}| <a href="https://instagram.com/{{ item.instagram }}">Instagram</a>{% endif %}
-                </li>
-            {% endfor %}
-            </ul>
-        {% endif %}
-
-        
     </article>
 </div>
