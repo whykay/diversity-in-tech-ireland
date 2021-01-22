@@ -1,6 +1,9 @@
 # Diversity in Tech in Ireland
 I've been maintaining a list of Diversity in Tech groups around the island of Ireland since 2017, and I think it's about the right time to get more of the community involved (and a chance for me to try a new framework out).
 
+This means I can crowdsource any updates to the list of diversity in tech groups in Ireland and Northern Ireland. Folks can send in PRs, to do that, they will need to update the "diversityGroups.yaml" in src/_data. If you don't want to do that, you can create an issue or drop me an email at contact@codinggrace.com
+
+# Irish hosted events (not started yet in this project)
 Also on my TODO list is write something to pull Irish hosted events
 
 * where I can curate them
