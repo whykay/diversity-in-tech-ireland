@@ -4,7 +4,7 @@ items:
     url: "/pages/diversity"
   #- text: Blog
   #  url: "/blog"
-  #- text: Irish Tech Events
-  #  url: "#"
+  - text: Irish Geeks Table Quiz
+    url: "https://irishgeeks.github.io/"
 
  
