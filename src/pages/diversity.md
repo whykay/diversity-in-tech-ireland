@@ -13,7 +13,7 @@ I'll keep the reason why I started this. So here we go!
 ---
 
 <div class="flex flex-wrap justify-center font-serif text-sm">
-    <div class="md:w-1/2 sm:w-full pt-5 pl-5 pr-5">
+    <div class="md:w-1/2 sm:w-full pl-5 pr-5">
         <div>
         The year 2017 has been interesting, at least three new Women in Tech groups that I know of popped up in Dublin. It’s amazing as back in 2008, I wished there was at least one group, and I thought my wishes were answered when Ireland Girl Geek Dinner started… but I wished there were more programming groups that have more people than just your atypical coder that attend techie events.
         </div>
@@ -21,7 +21,7 @@ I'll keep the reason why I started this. So here we go!
         I co-founded Coding Grace (diversity-friendly coding workshops) which started in May 2013, and founded PyLadies Dublin (Python coding evenings) which had its first meetup in October 2013. It was certainly different to run and mentor workshops, and great to have technical events that’s not just about talks, and have some hands-on coding evenings or interactive workshops that are inclusive and friendly to everyone.
         </div>
     </div>
-    <div class="md:w-1/2 sm:w-full pt-5 pl-5 pr-5">
+    <div class="md:w-1/2 sm:w-full sm:pt-5 md:pt-0 pl-5 pr-5">
         <div>
         Another group that I want to mention is WITS (Women in Technology and Science) Ireland, who have been around since 1990, with amazing patrons like our first female Irish president, Mary Robinson, Mary McAleese and the current president, Michael D. Higgins. What makes this group different is that WITS Ireland is involved with gender equality policies on the government level in the areas of STEM and have members in public and private sectors.
         </div>
