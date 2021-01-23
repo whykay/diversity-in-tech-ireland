@@ -100,19 +100,18 @@ data: diversityGroups
 
                 {# This created a list of only active groups #}
                 {% set up_groups = [] %}
-                {% for group in diversityGroups.groups %}
+                {% for group in diversityGroups.groups | sort(attribute='region') %}
                     {% if group.status == "active" or group.status == "new" %}
                         {% set up_groups = (up_groups.push(group), up_groups) %}
                     {% endif %}
                 {% endfor %}
-        
 
                 <div class="text-sm mb-4">
                     ℹ️ Number of active and new groups in Ireland and Northern Ireland is {{ up_groups.length }}
                 </div>
 
                 <div>
-                    {% for region, groups in up_groups | groupby("region") %}
+                    {% for region, groups in up_groups  | groupby("region")   %}
                         <dl>
                             <dt class="text-base font-semibold">{{ region }} (x{{groups.length }})</dt>
                             <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>
