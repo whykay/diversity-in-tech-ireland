@@ -63,45 +63,52 @@ data: diversityGroups
             {% endfor %}
         </ul>
 
-        <h3>🆙 When groups are added</h3>
-        <div class="-mb-5">
-        {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
-            <div class="text-sm">
-                <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
+        <div class="grid grid-cols-2">
+            <div class="p-2">
+                <h3>🆙 When groups are added</h3>
+                <div class="-mb-5">
+                {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
+                    <div class="text-sm">
+                        <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
 
+                    </div>
+                {% endfor %}
+                </div>
             </div>
-        {% endfor %}
-        </div>
+            
+            <div class="p-2">
+                <h3>🏙 Locations</h3>
+                <div class="mb-3 text-base">
+                    This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again). 
+                </div>
 
-        <h3>🏙 Locations</h3>
-        <div class="mb-3">
-            This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again). 
-        </div>
+                {# This created a list of only active groups #}
+                {% set up_groups = [] %}
+                {% for group in diversityGroups.groups %}
+                    {% if group.status == "active" or group.status == "new" %}
+                        {% set up_groups = (up_groups.push(group), up_groups) %}
+                    {% endif %}
+                {% endfor %}
+        
 
-        {# This created a list of only active groups #}
-        {% set up_groups = [] %}
-        {% for group in diversityGroups.groups %}
-            {% if group.status == "active" or group.status == "new" %}
-                {% set up_groups = (up_groups.push(group), up_groups) %}
-            {% endif %}
-        {% endfor %}
+                <div class="text-sm mb-4">
+                    ℹ️ Number of active and new groups in Ireland and Northern Ireland is {{ up_groups.length }}
+                </div>
 
-        <div class="text-sm mb-4">
-            ℹ️ Number of active and new groups in Ireland and Northern Ireland is {{ up_groups.length }}
-        </div>
-
-        <div>
-            {% for region, groups in up_groups | groupby("region") %}
-                <dl>
-                    <dt class="text-large font-semibold">{{ region }} (x{{groups.length }})</dt>
-                    <dd class="text-base mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>
-                </dl>
-            {% endfor %}
+                <div>
+                    {% for region, groups in up_groups | groupby("region") %}
+                        <dl>
+                            <dt class="text-base font-semibold">{{ region }} (x{{groups.length }})</dt>
+                            <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>
+                        </dl>
+                    {% endfor %}
+                </div>
+            </div>
         </div>
         {% endif %}
 
-        <h2>🗄 Archives</h2>
-        <h3>Organisations not active or around anymore</h3>
+        <h2>🗄 Archived</h2>
+        <h3>Organisations not active in Ireland, or around anymore</h3>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.status == "retired" %}
