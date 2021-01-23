@@ -30,7 +30,7 @@ I'll keep the reason why I started this. So here we go!
         </div>
     </div>
 </div>
-<div class="pl-5 pr--5 text-sm">
+<div class="pl-5 pr--5 font-serif text-sm">
     I hope that all organisers will collectively be in touch with one another and co-ordinate (if possible), or even just let folks know in advance when their event(s) are on. Plus it’s a great way to give heads up and we can shout out about each other’s events. Maybe some folks don’t want to, that’s ok, I just want to be friends with everyone! 😊
 </div>
 
