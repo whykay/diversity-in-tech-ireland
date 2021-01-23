@@ -114,7 +114,7 @@ data: diversityGroups
                     {% for region, groups in up_groups  | groupby("region")   %}
                         <dl>
                             <dt class="text-base font-semibold">{{ region }} (x{{groups.length }})</dt>
-                            <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ✧ ", "name") }}</dd>
+                            <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ❖ ", "name") }}</dd>
                         </dl>
                     {% endfor %}
                 </div>
