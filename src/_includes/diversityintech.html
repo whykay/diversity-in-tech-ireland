@@ -1,7 +1,7 @@
 ---
 layout: default
 prism: true
-data: diversityGroups
+data: contibutors, diversityGroups
 ---
 
 <div class="container max-w-4xl mt-6  px-6">
@@ -13,11 +13,12 @@ data: diversityGroups
 
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto">
-        {{ content | safe }}</article>
+        {{ content | safe }}
+    </article>
 
     <article class="prose lg:prose-xl my-4 mx-auto">
         {% if diversityGroups.groups %}
-        <h2>Community Groups</h2>
+        <h2>💁‍♀️ Community Groups</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.type == "all" and (item.status == "active" or item.status == "new") %}
@@ -28,7 +29,7 @@ data: diversityGroups
             {% endfor %}
         </ul>
 
-        <h2>Student Groups, Clubs & Socs</h2>
+        <h2>🎓 Student Groups, Clubs & Socs</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.type == "student" and (item.status == "active" or item.status == "new") %}
@@ -40,7 +41,7 @@ data: diversityGroups
             {% endfor %}
         </ul>
 
-        <h2>Diversity in tech groups for under 18 years old</h2>
+        <h2>😎 Diversity in tech groups for &lt;18 years old</h2>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.type == "youth" and (item.status == "active" or item.status == "new") %}
@@ -51,7 +52,7 @@ data: diversityGroups
             {% endfor %}
         </ul>
         
-        <h2>Opportunities</h2>
+        <h2>🤗 Opportunities</h2>
         The following is not a group, but initiatives of interest for women in tech:
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
@@ -79,6 +80,20 @@ data: diversityGroups
             {% endfor %}
         </ul>
         
+        {% if contributorsList.names %}
+        <div>
+            <h2>🌈 Contributors</h2>
+            <div class="text-base">
+                Thanks to the following for their help contributing to the list:
+                <div>
+                {% for names in contributorsList.names | sort(attribute='name') %}
+                    <span class="mr-1 bg-yellow-100"><a href="names.url">{{ names.name }}</a></span>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
         <div class="grid grid-cols-2">
             <div class="p-2">
                 <h3>🆙 When groups are added</h3>
