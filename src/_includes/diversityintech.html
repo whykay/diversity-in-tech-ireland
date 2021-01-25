@@ -84,57 +84,77 @@ data: contibutors, diversityGroups
         <div>
             <h2>🌈 Contributors</h2>
             <div class="text-base">
-                Thanks to the following for their help contributing to the list:
-                <div>
-                {% for names in contributorsList.names | sort(attribute='name') %}
-                    <span class="mr-1 bg-yellow-100"><a href="names.url">{{ names.name }}</a></span>
+                <p>
+                    Thanks to the following for their help contributing to the list. If your name is not here, and you did ping me about adding your/a group to the list, let me know.
+                </p>
+                <p>
+                    ℹ️ If you want to submit PR to add your name, modify "contributorsList.yaml"
+                </p>
+
+                <div class="flex flex-row flex-wrap">
+                    {% for names in contributorsList.names | sort(attribute='name') %}
+                    <div class="border-solid border-1 bg-green-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-green-100">
+                        <a href="names.url">{{ names.name }}</a>
+                    </div>
                 {% endfor %}
                 </div>
             </div>
         </div>
         {% endif %}
-
-        <div class="grid grid-cols-2">
-            <div class="p-2">
-                <h3>🆙 When groups are added</h3>
-                <div class="-mb-5">
-                {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
-                    <div class="text-sm">
-                        <span class="font-bold">{{ date_added | truncate(15, true, "") }}:</span> {{ groups  | sort(attribute='name') | join(", ", "name") }}
-
-                    </div>
-                {% endfor %}
-                </div>
+        
+        <div class="p-2">
+            <h3>🏙 Locations</h3>
+            <div class="mb-3 text-base">
+                This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again). 
             </div>
-            
-            <div class="p-2">
-                <h3>🏙 Locations</h3>
-                <div class="mb-3 text-base">
-                    This section groups the various user groups in the area they are based in as well as where they would host events (when in-person starts up again). 
-                </div>
 
-                {# This created a list of only active groups #}
-                {% set up_groups = [] %}
-                {% for group in diversityGroups.groups | sort(attribute='region') %}
-                    {% if group.status == "active" or group.status == "new" %}
-                        {% set up_groups = (up_groups.push(group), up_groups) %}
-                    {% endif %}
+            {# This created a list of only active groups #}
+            {% set up_groups = [] %}
+            {% for group in diversityGroups.groups | sort(attribute='region') %}
+                {% if group.status == "active" or group.status == "new" %}
+                    {% set up_groups = (up_groups.push(group), up_groups) %}
+                {% endif %}
+            {% endfor %}
+
+            <div class="text-base mb-4">
+                ℹ️ Number of active and new groups in Ireland and Northern Ireland: <span class="bg-green-200 ml-2 pl-2 pr-2 rounded-lg font-bold ring-4 ring-green-100">{{ up_groups.length }}</span>
+            </div>
+            <div>
+                {% for region, groups in up_groups  | groupby("region")   %}
+                <div class="border-solid border-1 bg-blue-100 rounded-lg p-5 mt-2">
+                    <dl>
+                        <dt class="text-base font-semibold">{{ region }} (x{{groups.length }})</dt>
+                        <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ❖ ", "name") }}</dd>
+                    </dl>
+                </div>
                 {% endfor %}
-
-                <div class="text-sm mb-4">
-                    ℹ️ Number of active and new groups in Ireland and Northern Ireland is {{ up_groups.length }}
-                </div>
-
-                <div>
-                    {% for region, groups in up_groups  | groupby("region")   %}
-                        <dl>
-                            <dt class="text-base font-semibold">{{ region }} (x{{groups.length }})</dt>
-                            <dd class="text-sm mb-2">{{ groups | sort(attribute='name') | join(" ❖ ", "name") }}</dd>
-                        </dl>
-                    {% endfor %}
-                </div>
             </div>
         </div>
+
+        <div class="p-2">
+            <h3>🆙 When groups are added</h3>
+            <table class="table-auto">
+                <thead>
+                    <tr class="text-base">
+                        <td class="w-1/4">Added</td>
+                        <td class="">Orgs</td>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for date_added, groups in diversityGroups.groups | sort(reverse=true, attribute='date_added') | groupby("date_added") %}
+                    <tr class="text-sm">
+                        <td class="font-bold">{{ date_added | truncate(15, true, "") }}</td>
+                        <td>
+                            {{ groups  | sort(attribute='name') | join(", ", "name") }}
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+            
+        </div>
+
+
         {% endif %}
 
         
