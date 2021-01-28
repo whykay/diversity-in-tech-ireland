@@ -1,0 +1,39 @@
+---
+events:
+  - name: Irish Computer Society - Women4IT Free Digital
+    url: "https://www.eventbrite.ie/e/women4it-free-digital-courses-tickets-136590721525"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-01-27T19:00:00Z
+    end_datetime: 2021-01-27T21:00:00Z
+    new: false
+    recurring: false
+    desc: aaaaaFieldTrips are meetups to interact, learn and collaborate in an effort to level-up your creative life. Built on top of our 20,000 monthly attendees at CreativeMornings talks, FieldTrips are designed and organized by amazing individuals and organizations from within our community
+  - name: MEOW
+    url: "https://www.eventbrite.ie/e/women4it-free-digital-courses-tickets-136590721525"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-01-27T19:00:00Z
+    end_datetime: 2021-01-27T21:00:00Z
+    new: false
+    recurring: false
+    desc:
+  - name: MEOW 2
+    url: "https://www.eventbrite.ie/e/women4it-free-digital-courses-tickets-136590721525"
+    region:
+    date_added: 2021-01-28
+    start_datetime: Various Dates
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: FieldTrips are meetups to interact, learn and collaborate in an effort to level-up your creative life. Built on top of our 20,000 monthly attendees at CreativeMornings talks, FieldTrips are designed and organized by amazing individuals and organizations from within our community
+  - name: MEOW 3
+    url: "https://www.eventbrite.ie/e/women4it-free-digital-courses-tickets-136590721525"
+    region: 🇮🇪
+    date_added: 2021-01-28
+    start_datetime: Every 2nd Tuesday
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: sssFieldTrips are meetups to interact, learn and collaborate in an effort to level-up your creative life. Built on top of our 20,000 monthly attendees at CreativeMornings talks, FieldTrips are designed and organized by amazing individuals and organizations from within our community
+    

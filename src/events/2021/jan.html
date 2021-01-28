@@ -1,0 +1,16 @@
+---
+layout: eventlisting
+data: y21.janEvents
+title: 🗄 ARCHIVED - January Events
+---
+
+<section class="mt-15">
+{% if y21.janEvents.events %}
+    {% for event in y21.janEvents.events %}
+        {{ event.name }}
+    {% endfor %}
+{% else %}
+    no
+{% endif %}
+
+</section>
