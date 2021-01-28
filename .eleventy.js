@@ -16,6 +16,23 @@ module.exports = function (eleventyConfig) {
       "dd LLL yyyy"
     );
   });
+  eleventyConfig.addFilter("readableDateTime", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL yyyy, HH:mm"
+    );
+  });
+
+  eleventyConfig.addFilter("dateOnly", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL yyyy"
+    );
+  });
+
+  eleventyConfig.addFilter("timeOnly", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "HH:mm"
+    );
+  });
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
