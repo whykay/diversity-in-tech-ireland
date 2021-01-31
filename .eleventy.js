@@ -46,6 +46,14 @@ module.exports = function (eleventyConfig) {
     );
   });
   
+    //eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+    eleventyConfig.addShortcode("currentMonth", function() { 
+      return DateTime.local().toFormat(
+        "MMM"
+      );
+    });
+
+    
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
