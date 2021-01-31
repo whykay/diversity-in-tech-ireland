@@ -1,0 +1,62 @@
+---
+events:
+
+  - name: "AnitaB.org's Community Events"
+    url: "https://community.anitab.org/events/"
+    region: 
+    date_added: 2021-01-28
+    start_datetime: Various dates
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: Members of the global AnitaB.org Local community organize events and provide one another with resources to navigate careers in tech. They organize valuable meetups, codeathons, and our one-day HopperX1 events modeled after the Grace Hopper Celebration.
+  
+  - name: "Creative Mornings Field Trips"
+    url: "https://creativemornings.com/talks/upcoming?kind=fieldtrip"
+    region: 
+    date_added: 2021-01-28
+    start_datetime: Various dates
+    end_datetime: 
+    new: false
+    recurring: true
+    desc: '<p>Mostly via Zoom.</p> FieldTrips are meetups to interact, learn and collaborate in an effort to level-up your creative life. Built on top of our 20,000 monthly attendees at CreativeMornings talks, FieldTrips are designed and organized by amazing individuals and organizations from within our community.'
+
+  - name: "Hackaday Classes and Virtual Events"
+    url: "https://calendar.google.com/calendar/embed?src=superconference%40hackaday.io"
+    region: 
+    date_added: 2021-01-28
+    start_datetime: Various dates
+    end_datetime: 
+    new: false
+    recurring: true
+    desc: 'See <a href="https://hackaday.com/">https://hackaday.com/</a> for more info'
+
+  - name: "Women Who Code Remote Events"
+    url: "https://www.womenwhocode.com/digital"
+    region: 
+    date_added: 2021-01-28
+    start_datetime: Various dates
+    end_datetime: 
+    new: false
+    recurring: true
+    desc: 
+
+  - name: "Women Who Cowork Dublin - Virtual Coworking Coffee"
+    url: "http://womenwhocowork.ie/"
+    region: 🇮🇪
+    date_added: 2021-01-28
+    start_datetime: Every Mon Morning
+    end_datetime: 
+    new: false
+    recurring: true
+    desc: 
+
+  - name: "Women Who Cowork Dublin - Cocktail o'clock with WomenCo"
+    url: "http://womenwhocowork.ie/"
+    region: 🇮🇪
+    date_added: 2021-01-28
+    start_datetime: Every Fri evening @ 17:00
+    end_datetime: 
+    new: false
+    recurring: true
+    desc: 

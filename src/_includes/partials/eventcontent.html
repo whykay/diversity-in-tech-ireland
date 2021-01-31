@@ -1,0 +1,40 @@
+
+    
+        <div class="prose lg:prose-xl">
+            I've been keeping track of virtual tech events hosted by folks in Ireland and Northern Ireland since the Covid-19 restrictions came into form in March 2020.
+
+            {% if events.y2021.janEvents.events %}   
+            <table class="table-fixed">
+                <tbody>
+                {% for start_datetime, events in events.y2021.janEvents.events | sort(attribute='start_datetime') | groupby("start_datetime") %}
+                
+                    {% for event in events %}
+                        {% if not event.recurring %}
+                        <tr>
+                            <td class="text-xs w-1/4">
+                                <div>
+                                    {{ event.start_datetime | readableDateTime() }}
+                                </div>
+                                {% if event.end_datetime %}
+                                <div>
+                                    till {{ event.end_datetime | readableDateTime() }}
+                                </div>
+                                {% endif %}
+                            </td>
+                            <td class="text-base {% if not event.desc %}w-1/2{% endif %} %}">
+                                <a href="{{ event.url}}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
+                            </td>
+                            {% if event.desc %}
+                            <td class="text-xs w-1/4 ">
+                                {{ event.desc }}
+                            </td>
+                            {% endif %}
+                        </tr>
+                        {% endif %}
+                    {% endfor %}
+                    
+                {% endfor %}
+                </tbody>
+            </table>
+            {% endif %}
+        </div>

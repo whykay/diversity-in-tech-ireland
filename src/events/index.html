@@ -1,65 +1,105 @@
 ---
 layout: eventlisting
-data: y21.janEvents
+data: events.y2021.janEvents, events.other, events.recurring
 ---
 
 <div class="container max-w-4xl mt-6  px-6">
+    {% set yearname = "y2021" %}
+    {% set currentevents = events.y2021.janEvents %}
 
-    <div class="prose lg:prose-xl">
-    {% if y21.janEvents.events %}
-        {% for start_datetime, events in y21.janEvents.events | sort(attribute='start_datetime') | groupby("start_datetime") %}
-        <table class="table-auto">
-            <tbody>
-            {% for event in events %}
-                {% if not event.recurring %}
-                <tr>
-                    <td class="text-base w-1/4 ">{{ event.start_datetime | readableDateTime() }} - {{ event.end_datetime | readableDateTime() }}</td>
-                    <td class="text-base w-1/3 ">
-                        <a href="{{ event.url}}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
-                    </td>
-                    <td class="text-base w-1/3 ">
-                        {% if event.desc %}{{ event.desc }}{% endif %}
-                    </td>
-                </tr>
-                {% endif %}
-            {% endfor %}
-            </tbody>
-        </table>
-        {% endfor %}
+    {% include "../_includes/partials/eventcontent.html" %}
 
-        {% for start_datetime, events in y21.janEvents.events | sort(attribute='start_datetime') | groupby("start_datetime") %}
-        
-        {# <h4>{{ start_datetime | truncate(21, true, "") }}</h4> #}
-        <ul>
-            {% for event in events %}
-                {% if not event.recurring %}
-                <li>
-                    ({{ event.start_datetime | readableDateTime() }}) <a href="{{ event.url}}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
-                </li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-        {% endfor %}
-
-        
-    {% endif %}
-    </div>
-
-    <div class="prose">
-        <h3>Recurring Events</h3>
-        {% for event in y21.janEvents.events %}
+    <div class="prose mt-6">
+        <h3>🔁 Recurring Virtual Events</h3>
+        {% for event in events.recurring.events %}
             {% if event.recurring %}
-            <div class="border-solid border-1 bg-blue-100 rounded-lg p-5 mt-2">
+            <div class="border-solid border-1 bg-indigo-100 rounded-lg p-5 mt-2">
                 <div>
                     <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
                 </div>
                 {% if event.desc %}
-                <div>{{ event.desc }}</div>
+                <div class="text-sm">{{ event.desc | safe }}</div>
                 {% endif %}
                 <div class="font-semibold">When: {{ event.start_datetime }}</div>
             </div>
             {% endif %}
         {% endfor %}
         
+    </div>
+
+    <div class="prose lg:prose-xl mt-6">
+        <h2>💪 Events/Orgs that need your help:</h2>
+        {% for info in events.other.information %}
+        <div class="border-solid border-1 bg-yellow-200 rounded-lg p-5 text-base mb-2">
+            <div>
+                <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-white text-xs pl-2 pr-2">New</span>{% endif %}
+            </div>
+            <div class="text-sm">
+                {{ info.desc | safe }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="prose lg:prose-xl mt-6">
+        <h2>😓 Cancelled/Postponed events</h2>
+        <div>If there's any cancelled or postponed events, please let us know in the comments below. Thanks in advance.
+
+        </div>
+        {% for event in events.other.cancelled | sort(attribute='name') %}
+        <div class="border-solid border-1 bg-red-100 rounded-lg p-5 text-base mb-2">
+            <div>
+                <a href="{{ event.url }}">{{ event.name }}</a> {% if event.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            </div>
+            <div class="text-sm">
+                {{ event.desc | safe }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="prose lg:prose-xl mt-6">
+        <h2>🆒 Opportunities</h2>
+        
+        {% for opportunity in events.other.opportunities | sort(attribute='name') %}
+        <div class="border-solid border-1 bg-green-100 rounded-lg p-5 text-base mb-2">
+            <div>
+                <a href="{{ event.url }}">{{ opportunity.name }}</a> {% if opportunity.region %}{{ opportunity.region }}{% endif %} {% if opportunity.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            </div>
+            <div class="text-sm">
+                {{ opportunity.desc | safe }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="prose lg:prose-xl mt-6">
+        <h2>🤖 AOB Events</h2>
+        
+        {% for info in events.other.aob | sort(attribute='name') %}
+        <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
+            <div>
+                <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            </div>
+            <div class="text-sm">
+                {{ info.desc | safe }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="prose lg:prose-xl mt-6">
+        <h2>🤓 Resources for Organisers on organising virtual events</h2>
+        
+        {% for resource in events.other.resources | sort(attribute='name') %}
+        <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
+            <div>
+                <a href="{{ resource.url }}">{{ resource.name }}</a> {% if resource.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            </div>
+            <div class="text-sm">
+                {{ resource.desc | safe }}
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </div>

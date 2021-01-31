@@ -1,0 +1,44 @@
+---
+layout: eventlisting
+---
+
+<div class="prose">
+    <h2>TESTING PAGE ONLY</h2>
+    {% if events.year %}
+        {# Let's get the current year and month, e.g. 2021 Jan #}
+        helpers.currentYear(): {{ helpers.currentYear() }}<br>
+        helpers.currentMonth(): {{ helpers.currentMonth()}}
+        <h3>Listings for this month - </h3>
+        <p>page.fileSlug: {{ page.fileSlug }}</p>
+        <p>page.filePathStem: {{page.filePathStem}}</p>
+
+        {% set thisMonthListings = null %}
+        {% set searching = true %}
+        {% for key, val in events.year %}
+            <p>{{ key }}</p> 
+            <p>{{ val }}</p>
+
+            {% set key_list = key.split('_') %}
+            key_list: {{key_list}}
+            {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear()) and searching%}
+                <h2>Found {{ helpers.currentMonth() }} {{ helpers.currentYear() }}</h2>
+                {% set thisMonthListings = val %}
+                {% set searching = false %}
+            {% endif %}
+        {% endfor %}
+
+        {% else %}
+        NO
+    {% endif %}
+
+    {% if thisMonthListings %}
+        {% for event in thisMonthListings.eventlistings %}
+        <div class="border-solid border-1 bg-indigo-100 rounded-lg p-5 mt-2">
+            {{ event.name }}
+        </div>
+        {% endfor %}
+    {% else %}
+        Listings not found
+    {% endif %}
+
+</div>

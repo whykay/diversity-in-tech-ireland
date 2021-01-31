@@ -1,0 +1,113 @@
+---
+information:
+  - name: "Tech help - Volunteering to assist the elderly"
+    desc: "<p>This page gathers details, for the sole purpose of setting up volunteers who wish to assist the elderly, over the telephone, with technical support, during the current Covid-19 crisis.</p>
+  <p>Should a volunteer request it, their details will immediately be removed from this dataset. The data gathered here will not be forwarded for any other purposes other than that stated above.</p>"
+    url: "https://www.surveymonkey.com/r/PYGYTCW"
+    status:
+  - name: "Open Source Ventilator Project"
+    desc: "This group is being formed to evaluate, design, validate, and source the fabrication of open source emergency medical supplies around the world, given a variety of local supply conditions."
+    url: "https://www.facebook.com/groups/670932227050506/about"
+    status:
+  - name: "Startup Weekend COVID-19 Remote Edition"
+    desc: "Register your interest"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLScOlo1O_DzWl2xb01k6FEQOmbeosAppOTBy1bQkruB0IF2s7A/viewform"
+    status: new
+
+cancelled:
+  - name: "UX Belfast"
+    desc: Cancelled indefinitely
+    url: "https://twitter.com/uxbelfast"
+    status:
+  - name: "Security BSides Dublin 2020"
+    desc: Postponed to SAT MAR 27 2021
+    url: "https://www.bsidesdub.ie"
+    status:
+  - name: "RebelCon"
+    desc: Postponed to FRI JUN 18 - SAT JUN 19
+    url: "https://rebelcon.io/2020/03/13/rebelcon-postponed-due-coronavirus-covid-19/"
+    status:
+  - name: "EuroPython Dublin 2021"
+    desc: Physcial EuroPython in Dublin moved to MON JUL 11 - SUN JUL 17 (2022)
+    url: "https://europython.eu/"
+    status:
+  - name: "Dublin Maker 2020"
+    desc: 'Postponed to Summer 2021. See <a href="https://twitter.com/dublinmaker">@DublinMaker</a> on Twitter for latest updates.'
+    url: "http://www.dublinmaker.ie"
+    status:
+  - name: "ShipItCon"
+    desc: 'Postponed to 2021, check website for updates'
+    url: "https://shipitcon.com/covid-19-update/"
+    status: new
+
+opportunities:
+  - name: "TWi And Tech Writers Without Borders And You"
+    desc: 'Professional writers are ready to volunteer. TWi and Tech Writers Without Borders are partnering to bring technical writers to your not for profit COVID-19 related projects.'
+    url: "https://www.technicallywriteit.com/volunteer-writing-support/"
+    region: 🇮🇪
+    status: new
+  - name: "Bank of Ireland provides €1m in emergency funding for communities impacted by Covid-19"
+    desc: '<p>Funds fast-tracked for projects supporting vulnerable groups with immediate needs.</p>
+    <p>In partnership with The Community Foundation for Ireland, the Bank is fast tracking €500,000 of the funds to 13 organisations that are working to support the immediate needs of vulnerable groups across the island of Ireland, north and south.</p>
+    <p>The remaining €500,000 is being donated to The Community Foundation for Ireland and the Community Foundation for Northern Ireland’s Covid-19 Funds to help local charities and community organisations assisting vulnerable individuals and groups through this difficult period. The Community Foundations will launch these funds next week.</p>'
+    url: "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2020/bank-of-ireland-provides-e1m-in-emergency-funding-for-communities-impacted-by-covid-19/"
+    region: 🇮🇪
+    status: 
+  - name: "Bank of Ireland: Begin Together – helping our communities to thrive"
+    desc: 'The Begin Together Fund provides valuable investment for community initiatives that will make a real difference in towns and villages. We want to get behind those trying to make the lives of others in their communities better by improving their financial, physical and mental wellbeing.'
+    url: "https://personalbanking.bankofireland.com/campaigns/begin-together/"
+    region: 🇮🇪
+    status: 
+  - name: "RestartBizMap"
+    desc: 'TSupported by Technology Ireland, InterTradeIreland and Skillnet Ireland, TechIreland has launched a new initiative called the RestartBizMap. [...] interactive map featuring innovative technology solutions to enable businesses to operate in these disruptive Covid times. The project aims to encourage technology adoption by the industry, promote homegrown tech innovation and connect technology providers to industry sectors: retail, manufacturing and services.'
+    url: "https://www.techireland.org/"
+    region: 🇮🇪
+    status: 
+
+aob:
+  - name: "BelfastFP moving away from Meetup"
+    desc:
+    url: "https://belfastfp.github.io/"
+    status: new
+  - name: "Mobilize on Hiatus until end of year"
+    desc:
+    url: "https://www.meetup.com/mobilizemeetup/"
+    status: 
+  - name: "New MongoDB User Group Events site for Dublin"
+    desc: 'On April 28th, 2020, they will no longer run any user groups or events on Meetup. To continue interacting with your user group after that date, you need to create an account on <a href="https://live.mongodb.com/dublin">their new platform</a>.'
+    url: "https://live.mongodb.com/dublin/"
+    status: 
+  - name: "Women Who Co-work Dublin moving away from Meetup to Eventbrite"
+    desc: 'Updates via: <a href="https://www.eventbrite.ie/o/women-co-17855424135">https://www.eventbrite.ie/o/women-co-17855424135</a>'
+    url: "http://womenwhocowork.ie/"
+    status: 
+
+resources:
+  - name: "Best practices for accessibility for virtual events"
+    desc: 'As everyone knows, most of our open source events have transformed from in-person to digital this year. However, due to the sudden change, not everything is accessible. We took this issue seriously and decided to work with one of our accessibility experts, Neighborhood Access, to share best practices for our community. We hope this will help you organize your digital events!'
+    url: "https://opensource.googleblog.com/2020/12/best-practices-for-accessibility-for.html"
+    status: 
+  - name: "EuroPython: Resources for Virtual Events"
+    desc: 'Info for organisers who can use to host virtual conferences, user group meetings, and sprints! They are offering to share their Zoom Webinar and Pro license to Python events.'
+    url: "https://www.europython-society.org/resources"
+    status: 
+  - name: "Python Software Foundation: Resources for Virtual Events"
+    desc: 'Info for organisers who can use to host virtual conferences, user group meetings, and sprints!'
+    url: "https://www.python.org/psf/grants/free-resources/"
+    status:
+  - name: "Eventbrite - Managing Eventbrite virtual events"
+    desc: 'Info for organisers using Eventbrite (due to covid-19)'
+    url: "https://www.eventbrite.ie/support/articles/en_US/Troubleshooting/for-event-creators-information-on-the-coronavirus"
+    status:
+  - name: "Meetup - Hosting an online event on Meetup"
+    desc: 'Because of COVID-19, they temporarily updated their in-person event policy to permit groups to host events online. They have high level pointers to various tools and some tips.'
+    url: "https://help.meetup.com/hc/en-us/articles/360040609112"
+    status:
+  - name: "Zoom - Guide to safely use Zoon (via Silicon Repubic)"
+    desc: 'Because of COVID-19, they temporarily updated their in-person event policy to permit groups to host events online. They have high level pointers to various tools and some tips.'
+    url: "https://www.siliconrepublic.com/enterprise/zoom-meetings-security-how-to-guide"
+    status:
+  - name: "Zoom - Thread about using Zoom safely"
+    desc: 'Many heard of zoombombings and random people joining zoom sessions. This twitter thread has some good tips on running a zoom session (as safely as you can).'
+    url: "https://twitter.com/autistichoya/status/1247291410799300614"
+    status:

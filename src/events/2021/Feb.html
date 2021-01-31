@@ -35,13 +35,15 @@ if events.year: yes
             {% endif %}
             </p>
         {% endif %}
+
+       
     {% endfor %}
     2 monthListings:  {{monthListings}}
     <p>{% if monthListings %}</p>
     <hr>
         <h2>{{key_list[0] | capitalize }}  {{key_list[1]}} Event Listings</h2>
             {% for event in monthListings.eventlistings %}
-                <div>{{ event.start_datetime }} {{ event.name }}</div>
+                <div>{{event.start_datetime}} {{ event.name }}</div>
             {% endfor %}
         {% else %}
             NO EVENTS FOUND
