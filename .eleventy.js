@@ -13,12 +13,12 @@ module.exports = function (eleventyConfig) {
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+      "DDDD"
     );
   });
   eleventyConfig.addFilter("readableDateTime", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy, HH:mm"
+      "EEE DD (T)"
     );
   });
 
@@ -34,6 +34,18 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter("monthOnly", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "M"
+    );
+  });
+
+  eleventyConfig.addFilter("yearOnly", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "yyyy"
+    );
+  });
+  
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
