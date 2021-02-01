@@ -3,54 +3,75 @@ layout: eventlisting
 ---
 
 <div class="prose">
-    <h2>TESTING PAGE ONLY</h2>
+    <h1 class="bg-pink-200">TESTING PAGE ONLY</h1>
     {% if events.year %}
         {# Let's get the current year and month, e.g. 2021 Jan #}
-        helpers.currentYear(): {{ helpers.currentYear() }}<br>
-        helpers.currentMonth(): {{ helpers.currentMonth()}}
-        <h3>Listings for this month - </h3>
-        <p>page.fileSlug: {{ page.fileSlug }}</p>
-        <p>page.filePathStem: {{page.filePathStem}}</p>
-
         {% set thisMonthListings = null %}
         {% set searching = true %}
-        {% for key, val in events.year %}
-            <p>{{ key }}</p> 
-            <p>{{ val }}</p>
 
+        {% for key, val in events.year %}
+            {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
-            key_list: {{key_list}}
+
             {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear()) and searching%}
-                <h2>Found {{ helpers.currentMonth() }} {{ helpers.currentYear() }}</h2>
-                {% set thisMonthListings = val %}
+                {% set thisMonthListings = val   %}
                 {% set searching = false %}
             {% endif %}
         {% endfor %}
 
-        {% else %}
-        NO
-    {% endif %}
-
-    {% if thisMonthListings %}
-        {% for event in thisMonthListings.eventlistings %}
-        <div class="border-solid border-1 bg-indigo-100 rounded-lg p-5 mt-2">
-            {{ event.name }}
-        </div>
+        {#
+        {% set newList = [] %}
+        {% for event in  thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
+            <p>{{event.name}} --- {{event.type}}</p>
         {% endfor %}
-    {% else %}
-        Listings not found
+        #}
+
+        {% if thisMonthListings %}
+            <h2>Latest Events this Month ({{ helpers.currentMonth() }})</h2>
+            {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
+            
+            
+            {% for event in listings.slice(0,5)  %}
+
+
+                <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
+                    <div>
+                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                    </div>
+                    <div>
+                        When: {{ event.start_datetime | readableDateTime() }}
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="mt-3 text-2xl font-bold">
+                <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">More Events >>></a>
+            </div>
+
+            <h2>Diversity in Tech Events</h2>
+            {% for event in thisMonthListings.eventlistings  %}
+                {% if event.type == "diversity" %}
+                <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
+                    <div>
+                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                    </div>
+                    <div>
+                        When: {{ event.start_datetime | readableDateTime() }}
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            Listings not found
+        {% endif %}
     {% endif %}
 
     {# Trying out collections #}
-    <h2>ARCHIVES</h2>
-    <ul>
+    <h2>🗄 ARCHIVES</h2>
+    <div class="flex flex-row flex-wrap">
         {% for post in collections.event %}
-          <li>
-              <p><a href="{{post.url}}">{{ post.data.title }}</a></p>
-              
-              {#<p>page.url: {{page.url}}</p>#}
-              {#<p>post.url: {{post.url}}</p>#}
-            </li>
+        <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
+            <a href="{{post.url}}">{{ post.data.title }}</a>
+        </div>
         {% endfor %}
-    </ul>
+    </div>
 </div>

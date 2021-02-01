@@ -9,7 +9,7 @@ eventlistings:
     new: false
     recurring: false
     desc: 
-
+    type: tech
   - name: "1GAM (Game a Month) Galway"
     url: "https://www.meetup.com/1GAM-Galway/events/zjvcvryccdbdb/"
     region: 🇮🇪
@@ -19,17 +19,17 @@ eventlistings:
     new: false
     recurring: false
     desc: 
-
+    type: game
   - name: "Irish Tech Society & GAA International Hackathon powered by Microsoft"
     url: "https://www.eventbrite.ie/e/irish-tech-society-gaa-international-hackathon-powered-by-microsoft-tickets-136923970281"
     region: 🇮🇪
     date_added: 2021-01-11
-    start_datetime: 2021-02-03
+    start_datetime: 2021-02-03T09:00:00Z
     end_datetime: 2021-02-07
     new: false
     recurring: false
     desc: 
-
+    type: tech
   - name: "Clojure Ireland: Real-world systems in Clojure"
     url: "https://www.meetup.com/Clojure-Ireland/events/268805932/"
     region: 🇮🇪
@@ -39,3 +39,94 @@ eventlistings:
     new: false
     recurring: false
     desc: 
+    type: tech
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/cmddtryccdbfb/"
+    region: 🇮🇪
+    date_added: 2021-02-01
+    start_datetime: 2021-02-03T19:00:00Z
+    end_datetime: 2021-02-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccdbgb/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-02-04T08:00:00Z
+    end_datetime: 2021-02-04T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Women in Tech Belfast (Lean In): WiT Wellbeing in the Workplace"
+    url: "https://www.meetup.com/Women-In-Tech-Belfast-Lean-In/events/276014237/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-02-09T18:30:00Z
+    end_datetime: 2021-02-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Ireland Strategy Information Session"
+    url: "https://witsireland.com/news/wits-strategy-information-session-10-february-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-01
+    start_datetime: 2021-02-10T19:00:00Z
+    end_datetime: 2021-02-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Tech Women Dublin: Ask Me How I Failed"
+    url: "https://www.meetup.com/Tech-Women-Dublin/events/275909113/"
+    region: 🇮🇪
+    date_added: 2021-02-01
+    start_datetime: 2021-02-11T18:00:00Z
+    end_datetime: 2021-02-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "PyLadies Dublin Feb'21: Automatic multiclass news classification w/ DL and NLP"
+    url: "https://www.meetup.com/PyLadiesDublin/events/275124258/"
+    region: 🇮🇪
+    date_added: 2021-02-01
+    start_datetime: 2021-02-16T18:30:00Z
+    end_datetime: 2021-02-16T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "BlockW & ICS Spotlight Series-How Technology Will Transform How We Bank"
+    url: "https://www.meetup.com/BlockW-Ireland/events/275725352/"
+    region: 🇮🇪
+    date_added: 2021-02-01
+    start_datetime: 2021-02-17T12:00:00Z
+    end_datetime: 2021-02-17T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccdbxb/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-02-18T08:00:00Z
+    end_datetime: 2021-02-18T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Iconic Offices Virtual Events: Perfect your Elevator Pitch with Vibe Training"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276047583/"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-02T11:00:00Z
+    end_datetime: 2021-02-02T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup

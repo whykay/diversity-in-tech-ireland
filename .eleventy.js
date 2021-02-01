@@ -45,15 +45,12 @@ module.exports = function (eleventyConfig) {
       "yyyy"
     );
   });
-  
-    //eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
-    eleventyConfig.addShortcode("currentMonth", function() { 
-      return DateTime.local().toFormat(
-        "MMM"
-      );
-    });
 
-    
+  // Filtered events excluding a given type
+  eleventyConfig.addFilter("newItemList", (items, item_type) => {
+  return items.filter(item => item.type != item_type);
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
