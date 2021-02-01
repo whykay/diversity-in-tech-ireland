@@ -1,0 +1,32 @@
+---
+eventlistings:
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccdbxb/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-04T08:00:00Z
+    end_datetime: 2021-03-04T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Reads - Discover Together (Book Club)"
+    url: "https://witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-09T20:00:00Z
+    end_datetime: 2021-03-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Women in Privacy Kickoff Zoom with Emerald de Leeuw"
+    url: "https://www.meetup.com/women-in-privacy/events/274429654/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-09T18:00:00Z
+    end_datetime: 2021-03-09T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
