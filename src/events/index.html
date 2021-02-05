@@ -8,15 +8,13 @@ data:  events.other, events.recurring
     {% if events.year %}
         {# Let's get the current year and month, e.g. 2021 Jan #}
         {% set thisMonthListings = null %}
-        {% set searching = true %}
 
         {% for key, val in events.year %}
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
-            {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear()) and searching%}
+            {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear())%}
                 {% set thisMonthListings = val   %}
-                {% set searching = false %}
             {% endif %}
         {% endfor %}
 
