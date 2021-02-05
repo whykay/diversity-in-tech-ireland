@@ -28,9 +28,10 @@ layout: eventlisting
 
 
         {% if thisMonthListings %}
-            <h2>Latest Events this Month ({{ helpers.currentMonth() }})</h2>
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | laterItemList | sort(attribute='start_datetime') %}
-            
+
+            <h2>{{ listings | length }} Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
+
             {% for event in listings  %}
                 <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
                     <div>
@@ -46,8 +47,7 @@ layout: eventlisting
             </div>
 
             <h2>Diversity in Tech Events</h2>
-            {% for event in thisMonthListings.eventlistings  %}
-                {% if event.type == "diversity" %}
+            {% for event in thisMonthListings.eventlistings | inclItemTypeList("diversity") | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
@@ -56,7 +56,6 @@ layout: eventlisting
                         When: {{ event.start_datetime | readableDateTime() }}
                     </div>
                 </div>
-                {% endif %}
             {% endfor %}
         {% else %}
             Listings not found

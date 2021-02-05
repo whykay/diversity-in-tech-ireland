@@ -52,6 +52,12 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+    // Filtered events including a given type
+    eleventyConfig.addFilter("inclItemTypeList", (items, item_type) => {
+      return items.filter(item => item.type == item_type 
+      );
+    });
+
   // Was returning list of items excluding the current day
   // Fix 1 day off, minus the day of local datetime before it gets compared
   eleventyConfig.addFilter("laterItemList", (items) => {
