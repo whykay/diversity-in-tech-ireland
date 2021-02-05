@@ -19,7 +19,7 @@ eventlistings:
     new: false
     recurring: false
     desc: 
-    type: game
+    type: games
   - name: "Irish Tech Society & GAA International Hackathon powered by Microsoft"
     url: "https://www.eventbrite.ie/e/irish-tech-society-gaa-international-hackathon-powered-by-microsoft-tickets-136923970281"
     region: 🇮🇪
@@ -46,7 +46,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-03T19:00:00Z
     end_datetime: 2021-02-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -56,7 +56,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-04T08:00:00Z
     end_datetime: 2021-02-04T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -66,7 +66,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-09T18:30:00Z
     end_datetime: 2021-02-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -76,7 +76,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-10T19:00:00Z
     end_datetime: 2021-02-10T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -86,7 +86,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-11T18:00:00Z
     end_datetime: 2021-02-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -96,7 +96,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-16T18:30:00Z
     end_datetime: 2021-02-16T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -106,7 +106,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-17T12:00:00Z
     end_datetime: 2021-02-17T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -116,7 +116,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-02-18T08:00:00Z
     end_datetime: 2021-02-18T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -126,7 +126,7 @@ eventlistings:
     date_added: 2021-01-11
     start_datetime: 2021-02-02T11:00:00Z
     end_datetime: 2021-02-02T11:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -136,7 +136,147 @@ eventlistings:
     date_added: 2021-01-11
     start_datetime: 2021-02-02T18:30:00Z
     end_datetime: 2021-02-02T20:30:00Z
-    new: true
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Bright Club Online: Women in Tech"
+    url: "https://www.eventbrite.ie/e/bright-club-online-february-17th-2021-tickets-139460469017"
+    region:
+    date_added: 2021-02-03
+    start_datetime: 2021-02-18T20:00:00Z
+    end_datetime: 2021-02-18T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "JCI Galway: Women in Leadership #3 with Mairead Farrell "
+    url: "https://www.eventbrite.ie/e/women-in-leadership-3-with-mairead-farrell-tickets-138851886731?aff=erelexpmlt"
+    region:
+    date_added: 2021-02-03
+    start_datetime: 2021-02-08T18:30:00Z
+    end_datetime: 2021-02-08T19:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Clojure Ireland: Real-world systems in Clojure"
+    url: "https://www.meetup.com/Clojure-Ireland/events/268805932/"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-03T18:30:00Z
+    end_datetime: 2021-02-03T21:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Iconic Offices Virtual Events: The Ultimate Online Marketing Strategy Blueprint with Green Umbrella Marketing"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276047842/"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-03T11:00:00Z
+    end_datetime: 2021-02-03T11:40:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Silicon Drinkabout Belfast: Startup Community drinks - ONLINE NOW!"
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/npgxrryccdbgb/"
+    region: 
+    date_added: 2021-01-11
+    start_datetime: 2021-02-04T18:00:00Z
+    end_datetime: 2021-02-04T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Ministry of Test Belfast: Quality Engineering - Anne-Marie Charrett"
+    url: "https://www.meetup.com/Ministry-of-Testing-Cork/events/275066941/"
+    region: 
+    date_added: 2021-01-11
+    start_datetime: 2021-02-03T20:00:00Z
+    end_datetime: 2021-02-03T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/spjwsryccdbfb/"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-03T20:00:00Z
+    end_datetime: 2021-02-03T22:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Irish Tech Society & GAA International Hackathon"
+    url: "https://www.eventbrite.ie/e/irish-tech-society-gaa-international-hackathon-powered-by-microsoft-registration-136923970281"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-05T17:00:00Z
+    end_datetime: 2021-02-07T21:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: hackathon
+  - name: "Limerick DotNet-Azure User Group (LDNA): Azure Sentinel Presentation & Demo"
+    url: "https://www.meetup.com/Limerick-DotNet/events/275883982/"
+    region: 🇮🇪
+    date_added: 2021-01-11
+    start_datetime: 2021-02-06T13:00:00Z
+    end_datetime: 2021-02-06T14:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A (online)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccdbjb/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-06T15:00:00Z
+    end_datetime: 2021-02-06T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Cork|Sec 92"
+    url: "https://www.meetup.com/CorkSec/events/274940553/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-08T19:00:00Z
+    end_datetime: 2021-02-08T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Iconic Offices Virtual Events: Set 2021 Goals to Create Your Version of Success with Nicky Raby"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276047992/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-09T12:30:00Z
+    end_datetime: 2021-02-09T13:10:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Iconic Offices Virtual Events: How to Sell Mindfully with Anis Qizilbash"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276048383/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-10T11:00:00Z
+    end_datetime: 2021-02-10T11:40:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Python Ireland Month Meetup"
+    url: "https://www.meetup.com/pythonireland/events/kqwjvryccdbnb/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-10T18:30:00Z
+    end_datetime: 2021-02-10T20:30:00Z
+    new: false
     recurring: false
     desc: 
     type: tech

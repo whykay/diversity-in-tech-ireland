@@ -27,6 +27,8 @@ data: events.y2021.janEvents, events.other, events.recurring
         {% endfor %}
         #}
 
+
+        {{thisMonthListings.eventlistings }}
         {% if thisMonthListings %}
             <h2 class="text-center">Latest Events this Month ({{ helpers.currentMonth() }})</h2>
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
@@ -36,7 +38,7 @@ data: events.y2021.janEvents, events.other, events.recurring
                     <div>
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
-                    <div>
+                    <div class='text-base'>
                         When: {{ event.start_datetime | readableDateTime() }}
                     </div>
                 </div>
@@ -46,17 +48,15 @@ data: events.y2021.janEvents, events.other, events.recurring
             </div>
 
             <h2 class="text-center">Diversity in Tech Events</h2>
-            {% for event in thisMonthListings.eventlistings  %}
-                {% if event.type == "diversity" %}
+            {% for event in thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime')  %}
                 <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
-                    <div>
+                    <div class="text-base">
                         When: {{ event.start_datetime | readableDateTime() }}
                     </div>
                 </div>
-                {% endif %}
             {% endfor %}
         {% else %}
             Listings not found
@@ -75,7 +75,7 @@ data: events.y2021.janEvents, events.other, events.recurring
                 {% if event.desc %}
                 <div class="text-sm">{{ event.desc | safe }}</div>
                 {% endif %}
-                <div class="font-semibold">When: {{ event.start_datetime }}</div>
+                <div class="font-semibold text-base">When: {{ event.start_datetime }}</div>
             </div>
             {% endif %}
         {% endfor %}

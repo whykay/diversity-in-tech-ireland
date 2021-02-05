@@ -47,10 +47,17 @@ module.exports = function (eleventyConfig) {
   });
 
   // Filtered events excluding a given type
-  eleventyConfig.addFilter("newItemList", (items, item_type) => {
-  return items.filter(item => item.type != item_type);
+   eleventyConfig.addFilter("newItemList", (items, item_type) => {
+    return items.filter(item => item.type != item_type 
+    );
   });
 
+  // Was returning list of items excluding the current day
+  // Fix 1 day off, minus the day of local datetime before it gets compared
+  eleventyConfig.addFilter("laterItemList", (items) => {
+    return items.filter(item => DateTime.local().minus({days: 1}) <= DateTime.fromJSDate(item.start_datetime)
+    );
+  });
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 

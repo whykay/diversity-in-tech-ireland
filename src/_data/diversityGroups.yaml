@@ -370,7 +370,8 @@ groups:
     year_added: 2020
     month_added: 01
     day_added: 16
-    status: active
+    date_removed: 2020-02-04
+    status: retired
     type: all 
   - name: Tech Women for Africa
     url: "https://www.meetup.com/TechWomenforAfrica/"
