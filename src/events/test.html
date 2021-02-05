@@ -7,15 +7,18 @@ layout: eventlisting
     {% if events.year %}
         {# Let's get the current year and month, e.g. 2021 Jan #}
         {% set thisMonthListings = null %}
-        {% set searching = true %}
+        {% set thisYearsConfListings = null %}
 
         {% for key, val in events.year %}
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
-            {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear()) and searching%}
+            {# Get the monthly and conf listings #}
+            {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear())%}
                 {% set thisMonthListings = val   %}
-                {% set searching = false %}
+            {% elif (key_list[0] == "conferences") and (key_list[1] == helpers.currentYear()) %}     
+                {% set thisYearsConfListings = val %}   
+                thisYearsConfListings: {{thisYearsConfListings}}      
             {% endif %}
         {% endfor %}
 
@@ -25,7 +28,6 @@ layout: eventlisting
             <p>{{event.name}} --- {{event.type}}</p>
         {% endfor %}
         #}
-
 
         {% if thisMonthListings %}
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | laterItemList | sort(attribute='start_datetime') %}
@@ -57,18 +59,33 @@ layout: eventlisting
                     </div>
                 </div>
             {% endfor %}
+
+
+            <h2>🎫 Conferences</h2>
+            <div class="prose">
+            {% for conf in thisYearsConfListings.conferences %}
+                <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
+                    {{ conf.name }}
+                </div>
+            {% endfor %}
+            </div>
+
         {% else %}
             Listings not found
         {% endif %}
     {% endif %}
 
     {# Trying out collections #}
-    <h2>🗄 ARCHIVES</h2>
-    <div class="flex flex-row flex-wrap">
-        {% for post in collections.event %}
-        <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
-            <a href="{{post.url}}">{{ post.data.title }}</a>
+    <div>
+        <h2>🗄 ARCHIVES</h2>
+        <div class="flex flex-row flex-wrap">
+            {% for post in collections.event %}
+            <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
+                <a href="{{post.url}}">{{ post.data.title }}</a>
+            </div>
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
+
+
 </div>

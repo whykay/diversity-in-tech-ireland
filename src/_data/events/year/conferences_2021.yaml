@@ -1,0 +1,12 @@
+---
+conferences:
+  - name: "SISTEM 2021 "
+    url: "https://sistem.intersocs.ie/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_date: 2021-02-20
+    end_date: 2021-02-20
+    new: false
+    recurring: false
+    desc: "A tech conference by students, for students in Ireland."
+    type: tech
