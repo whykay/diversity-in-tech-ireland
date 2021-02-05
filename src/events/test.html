@@ -30,9 +30,9 @@ layout: eventlisting
         {% if thisMonthListings %}
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | laterItemList | sort(attribute='start_datetime') %}
 
-            <h2>{{ listings | length }} Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
+            <h2>Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
 
-            {% for event in listings  %}
+            {% for event in listings.slice(0,5)  %}
                 <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
@@ -43,7 +43,7 @@ layout: eventlisting
                 </div>
             {% endfor %}
             <div class="mt-3 text-2xl font-bold">
-                <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">More Events >>></a>
+                👉 <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">Check out all {{ listings | length }} Feb Events</a>
             </div>
 
             <h2>Diversity in Tech Events</h2>
