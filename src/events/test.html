@@ -49,7 +49,7 @@ layout: eventlisting
             </div>
 
             <h2>Diversity in Tech Events</h2>
-            {% for event in thisMonthListings.eventlistings | inclItemTypeList("diversity") | sort(attribute='start_datetime') %}
+            {% for event in thisMonthListings.eventlistings | inclItemTypeList("diversity") | laterItemList | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
@@ -63,9 +63,17 @@ layout: eventlisting
 
             <h2>🎫 Conferences</h2>
             <div class="prose">
-            {% for conf in thisYearsConfListings.conferences %}
-                <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
-                    {{ conf.name }}
+            {% for conf in thisYearsConfListings.conferences | laterItemList | sort(attribute='start_datetime') %}
+                <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
+                    <div>
+                        <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                    </div>
+                    <div>
+                        {{ conf.desc }}
+                    </div>
+                    <div>
+                        When: {{ conf.start_datetime | readableDate() }}
+                    </div>
                 </div>
             {% endfor %}
             </div>

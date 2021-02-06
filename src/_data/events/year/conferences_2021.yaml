@@ -4,9 +4,49 @@ conferences:
     url: "https://sistem.intersocs.ie/"
     region: 🇮🇪
     date_added: 2021-02-05
-    start_date: 2021-02-20
-    end_date: 2021-02-20
+    start_datetime: 2021-02-20T00:00:00Z
+    end_datetime: 2021-02-20T00:00:00Z
     new: false
     recurring: false
-    desc: "A tech conference by students, for students in Ireland."
+    desc: "Online event. A tech conference by students, for students in Ireland."
+    type: tech
+  - name: "Security BSides Dublin 2020"
+    url: "https://www.bsidesdub.ie"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-27T00:00:00Z
+    end_datetime: 2021-03-27T00:00:00Z
+    new: false
+    recurring: false
+    desc: Online Event
+    type: tech
+  - name: "Dublin Tech Summit Virtual 2021"
+    url: "https://dublintechsummit.tech/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-06-17T00:00:00Z
+    end_datetime: 2021-06-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: Online
+    type: tech
+  - name: "SatRDays West of Ireland"
+    url: "https://www.meetup.com/DataScientistsIreland/events/264819765/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-04-10T00:00:00Z
+    end_datetime: 2021-04-10T00:00:00Z
+    new: false
+    recurring: false
+    desc: TBA
+    type: tech
+  - name: "Outlier Conference - Hosted by the Data Visualization Society (Global) "
+    url: "https://www.outlierconf.com/"
+    region:
+    date_added: 2021-02-05
+    start_datetime: 2021-02-04T00:00:00Z
+    end_datetime: 2021-02-05T00:00:00Z
+    new: false
+    recurring: false
+    desc: TBA
     type: tech
