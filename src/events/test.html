@@ -62,7 +62,6 @@ layout: eventlisting
 
 
             <h2>🎫 Conferences</h2>
-            <div class="prose">
             {% for conf in thisYearsConfListings.conferences | laterItemList | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
                     <div>
@@ -72,11 +71,20 @@ layout: eventlisting
                         {{ conf.desc }}
                     </div>
                     <div>
-                        When: {{ conf.start_datetime | readableDate() }}
+                        When: {{ conf.start_datetime | readableDate() }} {% if conf.end_datetime %} - {{ conf.end_datetime | readableDate() }}{% endif %}
                     </div>
                 </div>
             {% endfor %}
-            </div>
+            
+            <h3>Cancelled/Postponed Conferences</h3>
+            {% for conf in thisYearsConfListings.conferences %}
+                {% if (conf.status == "cancelled") or (conf.status == "postponed") %}
+                <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
+                    <div><a href="{{ conf.url }}">{{conf.name}}</a></div>
+                    {% if conf.desc %}<div>{{ conf.desc }}</div>{% endif %}
+                </div>
+                {% endif %}
+            {% endfor %}
 
         {% else %}
             Listings not found
@@ -84,15 +92,13 @@ layout: eventlisting
     {% endif %}
 
     {# Trying out collections #}
-    <div>
-        <h2>🗄 ARCHIVES</h2>
-        <div class="flex flex-row flex-wrap">
-            {% for post in collections.event %}
-            <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
-                <a href="{{post.url}}">{{ post.data.title }}</a>
-            </div>
-            {% endfor %}
+    <h2>🗄 ARCHIVES</h2>
+    <div class="flex flex-row flex-wrap">
+        {% for post in collections.event %}
+        <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
+            <a href="{{post.url}}">{{ post.data.title }}</a>
         </div>
+        {% endfor %}
     </div>
 
 

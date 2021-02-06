@@ -10,6 +10,7 @@ conferences:
     recurring: false
     desc: "Online event. A tech conference by students, for students in Ireland."
     type: tech
+    status: active
   - name: "Security BSides Dublin 2020"
     url: "https://www.bsidesdub.ie"
     region: 🇮🇪
@@ -20,6 +21,7 @@ conferences:
     recurring: false
     desc: Online Event
     type: tech
+    status: active
   - name: "Dublin Tech Summit Virtual 2021"
     url: "https://dublintechsummit.tech/"
     region: 🇮🇪
@@ -30,6 +32,7 @@ conferences:
     recurring: false
     desc: Online
     type: tech
+    status: active
   - name: "SatRDays West of Ireland"
     url: "https://www.meetup.com/DataScientistsIreland/events/264819765/"
     region: 🇮🇪
@@ -40,7 +43,8 @@ conferences:
     recurring: false
     desc: TBA
     type: tech
-  - name: "Outlier Conference - Hosted by the Data Visualization Society (Global) "
+    status: active
+  - name: "Outlier Conference - Hosted by the Data Visualization Society (Global)"
     url: "https://www.outlierconf.com/"
     region:
     date_added: 2021-02-05
@@ -50,3 +54,48 @@ conferences:
     recurring: false
     desc: TBA
     type: tech
+    status: active
+  - name: "RebelCon"
+    url: "https://rebelcon.io/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-06-18T00:00:00Z
+    end_datetime: 2021-06-19T00:00:00Z
+    new: false
+    recurring: false
+    desc: "Venue: Páirc Uí Chaoimh, Cork"
+    type: tech
+    status: active
+  - name: "EuroPython 2021 Online"
+    url: "https://ep2021.europython.eu/"
+    region:
+    date_added: 2021-02-05
+    start_datetime: 2021-07-26T00:00:00Z
+    end_datetime: 2021-08-01T00:00:00Z
+    new: false
+    recurring: false
+    desc: "Online"
+    type: tech
+    status: active
+  - name: "EuroPython 2022 - Dublin"
+    url: "https://blog.europython.eu/post/632055258029473792/europython-2021-will-be-run-online"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2022-07-11T00:00:00Z
+    end_datetime: 2022-08-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: "First time this week long traveliing Python conference will be in Dublin."
+    type: tech
+    status: active
+  - name: "OFFSET DUBLIN 2021"
+    url: "https://www.iloveoffset.com"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 
+    end_datetime: 
+    new: false
+    recurring: false
+    desc: "See website for full statement regarding cancellation."
+    type: tech
+    status: cancelled
