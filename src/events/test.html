@@ -76,8 +76,8 @@ layout: eventlisting
                 </div>
             {% endfor %}
             
-            <h3>Cancelled/Postponed Conferences</h3>
-            {% for conf in thisYearsConfListings.conferences %}
+            <h3>🛑 Cancelled/Postponed Conferences</h3>
+            {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
                 {% if (conf.status == "cancelled") or (conf.status == "postponed") %}
                 <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
                     <div><a href="{{ conf.url }}">{{conf.name}}</a></div>

@@ -99,3 +99,47 @@ conferences:
     desc: "See website for full statement regarding cancellation."
     type: tech
     status: cancelled
+  - name: "Global AppSec Dublin"
+    url: "https://dublin.globalappsec.org/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 
+    end_datetime: 
+    new: false
+    recurring: false
+    desc: "See website for full statement regarding cancellation."
+    type: tech
+    status: postponed
+  - name: "ShipItCon 2021"
+    url: "https://shipitcon.com/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 
+    end_datetime: 
+    new: false
+    recurring: false
+    desc: "See website for full statement regarding cancellation."
+    type: tech
+    status: postponed
+  - name: "FutureScope"
+    url: "https://www.futurescope.ie/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 
+    end_datetime: 
+    new: false
+    recurring: false
+    desc: "See website for full statement regarding cancellation."
+    type: tech
+    status: postponed
+  - name: "Dublin Maker Festival2021"
+    url: "https://dublinmaker.ie/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 
+    end_datetime: 
+    new: false
+    recurring: false
+    desc: "Postponed to Summer 2021"
+    type: tech
+    status: postponed
