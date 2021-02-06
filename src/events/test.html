@@ -18,7 +18,6 @@ layout: eventlisting
                 {% set thisMonthListings = val   %}
             {% elif (key_list[0] == "conferences") and (key_list[1] == helpers.currentYear()) %}     
                 {% set thisYearsConfListings = val %}   
-                thisYearsConfListings: {{thisYearsConfListings}}      
             {% endif %}
         {% endfor %}
 
@@ -80,7 +79,12 @@ layout: eventlisting
             {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
                 {% if (conf.status == "cancelled") or (conf.status == "postponed") %}
                 <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
-                    <div><a href="{{ conf.url }}">{{conf.name}}</a></div>
+                    <div>
+                        <a href="{{ conf.url }}">{{conf.name}}</a>
+                        {% if conf.status == "cancelled" %}<span class="text-xs bg-black text-white pl-1 pr-1">cancelled</span>
+                        {% elif conf.status == "postponed" %}<span class="text-xs bg-black text-white pl-1 pr-1">postponed</span>{% endif %}
+                        
+                    </div>
                     {% if conf.desc %}<div>{{ conf.desc }}</div>{% endif %}
                 </div>
                 {% endif %}
