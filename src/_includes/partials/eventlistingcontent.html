@@ -38,7 +38,7 @@
             {% for event in thisMonthListings.eventlistings  | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
                     <div>
-                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.type %}<span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span>{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
                     <div>
                         When: {{ event.start_datetime | readableDateTime() }}
