@@ -80,7 +80,7 @@ data:  events.other, events.recurring
                     <div>
                         <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
-                    <div>
+                    <div class="text-base">
                         {{ conf.desc }}
                     </div>
                     <div>
@@ -140,14 +140,16 @@ data:  events.other, events.recurring
         <h2>🆒 Opportunities</h2>
         
         {% for opportunity in events.other.opportunities | sort(attribute='name') %}
-        <div class="border-solid border-1 bg-green-100 rounded-lg p-5 text-base mb-2">
-            <div>
-                <a href="{{ event.url }}">{{ opportunity.name }}</a> {% if opportunity.region %}{{ opportunity.region }}{% endif %} {% if opportunity.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
-            </div>
-            <div class="text-sm">
-                {{ opportunity.desc | safe }}
-            </div>
-        </div>
+            {% if opportunity.status != "archive" %}
+                <div class="border-solid border-1 bg-green-100 rounded-lg p-5 text-base mb-2">
+                    <div>
+                        <a href="{{ event.url }}">{{ opportunity.name }}</a> {% if opportunity.region %}{{ opportunity.region }}{% endif %} {% if opportunity.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                    </div>
+                    <div class="text-sm">
+                        {{ opportunity.desc | safe }}
+                    </div>
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 
