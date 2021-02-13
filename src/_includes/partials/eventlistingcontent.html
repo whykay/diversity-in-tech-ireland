@@ -8,19 +8,23 @@
     {% if events.year %}
         {# Let's get the current year and month, e.g. 2021 Jan #}
         {% set thisMonthListings = null %}
+        {% set searching = false %}
 
         {% for key, val in events.year %}
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
             <hr>
+            month: {{month}} <br>
             key_list: {{ key_list }} <br>
             key_list[0]: {{key_list[0]}}<br>
             key_list[1]: {{key_list[1]}}<br>
             helpers.currentYear(): {{helpers.currentYear()}}<br>
 
-            {% if (key_list[0] == month) and (key_list[1] == helpers.currentYear())%}
+            {% if (key_list[0] == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
+                =====SETTING {{month}}
                 {% set thisMonthListings = val   %}
+                {% set searching = true %}
             {% endif %}
         {% endfor %}
 
