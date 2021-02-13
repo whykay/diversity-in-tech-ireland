@@ -61,7 +61,7 @@ module.exports = function (eleventyConfig) {
   // Was returning list of items excluding the current day
   // Fix 1 day off, minus the day of local datetime before it gets compared
   eleventyConfig.addFilter("laterItemList", (items) => {
-    return items.filter(item => DateTime.local().minus({days: 1}) <= DateTime.fromJSDate(item.start_datetime)
+    return items.filter(item => DateTime.local().minus({days: 0.5}) <= DateTime.fromJSDate(item.start_datetime)
     );
   });
   // Syntax Highlighting for Code blocks
