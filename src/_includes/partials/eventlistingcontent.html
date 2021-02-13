@@ -14,15 +14,8 @@
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
-            <hr>
-            month: {{month}} <br>
-            key_list: {{ key_list }} <br>
-            key_list[0]: {{key_list[0]}}<br>
-            key_list[1]: {{key_list[1]}}<br>
-            helpers.currentYear(): {{helpers.currentYear()}}<br>
 
             {% if (key_list[0] | lower | trim == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
-                =====SETTING {{month}}
                 {% set thisMonthListings = val   %}
                 {% set searching = true %}
             {% endif %}
@@ -35,13 +28,11 @@
         {% endfor %}
         #}
 
-        thisMonthListings: {{thisMonthListings}}
-
         {% if thisMonthListings %}
             {% if page.fileSlug == "events" %}
                 <h2>Latest Events this Month ({{ month }})</h2>
             {% else %}
-                <h2>{{ month }} Event Listings</h2>
+                <h2>{{ month | capitalize }} Event Listings</h2>
             {% endif %}
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
             
@@ -55,8 +46,6 @@
                     </div>
                 </div>
             {% endfor %}
-
-
             
         {% else %}
             Listings not found
