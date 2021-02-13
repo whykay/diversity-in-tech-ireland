@@ -1,7 +1,9 @@
 ---
 items:
   - text: Diversity in Tech Groups
-    url: "/diversity"
+    url: "/diversity/"
+  - text: Tech Events around Ireland
+    url: "/events/"
   #- text: Blog
   #  url: "/blog"
   - text: Irish Geeks Table Quiz
