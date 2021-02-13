@@ -12,7 +12,7 @@ information:
   - name: "Startup Weekend COVID-19 Remote Edition"
     desc: "Register your interest"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScOlo1O_DzWl2xb01k6FEQOmbeosAppOTBy1bQkruB0IF2s7A/viewform"
-    status: new
+    status: 
 
 cancelled:
   - name: "UX Belfast"
@@ -45,24 +45,29 @@ opportunities:
     desc: 'Professional writers are ready to volunteer. TWi and Tech Writers Without Borders are partnering to bring technical writers to your not for profit COVID-19 related projects.'
     url: "https://www.technicallywriteit.com/volunteer-writing-support/"
     region: 🇮🇪
-    status: new
+    status: 
   - name: "Bank of Ireland provides €1m in emergency funding for communities impacted by Covid-19"
     desc: '<p>Funds fast-tracked for projects supporting vulnerable groups with immediate needs.</p>
     <p>In partnership with The Community Foundation for Ireland, the Bank is fast tracking €500,000 of the funds to 13 organisations that are working to support the immediate needs of vulnerable groups across the island of Ireland, north and south.</p>
     <p>The remaining €500,000 is being donated to The Community Foundation for Ireland and the Community Foundation for Northern Ireland’s Covid-19 Funds to help local charities and community organisations assisting vulnerable individuals and groups through this difficult period. The Community Foundations will launch these funds next week.</p>'
     url: "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2020/bank-of-ireland-provides-e1m-in-emergency-funding-for-communities-impacted-by-covid-19/"
     region: 🇮🇪
-    status: 
+    status: archive
   - name: "Bank of Ireland: Begin Together – helping our communities to thrive"
     desc: 'The Begin Together Fund provides valuable investment for community initiatives that will make a real difference in towns and villages. We want to get behind those trying to make the lives of others in their communities better by improving their financial, physical and mental wellbeing.'
     url: "https://personalbanking.bankofireland.com/campaigns/begin-together/"
     region: 🇮🇪
-    status: 
+    status: archive
   - name: "RestartBizMap"
     desc: 'TSupported by Technology Ireland, InterTradeIreland and Skillnet Ireland, TechIreland has launched a new initiative called the RestartBizMap. [...] interactive map featuring innovative technology solutions to enable businesses to operate in these disruptive Covid times. The project aims to encourage technology adoption by the industry, promote homegrown tech innovation and connect technology providers to industry sectors: retail, manufacturing and services.'
     url: "https://www.techireland.org/"
     region: 🇮🇪
     status: 
+  - name: "NDRC Early Stage supports for founders across Ireland"
+    desc: 'Take your first step to building a globally scalable startup by joining a community, sharing your ideas with top mentors, and preparing your startup for investment or an accelerator with our dedicated regional teams at NDRC.'
+    url: "https://www.ndrc.ie/programmes#early"
+    region: 🇮🇪
+    status: new
 
 aob:
   - name: "BelfastFP moving away from Meetup"

@@ -580,5 +580,25 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "Bash!: The Rust BASH!"
+    url: "https://www.meetup.com/devbash/events/276246193/"
+    region: Belfast
+    date_added: 2021-02-08
+    start_datetime: 2021-02-26T12:00:00Z
+    end_datetime: 2021-02-26T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Women in AI Ireland: Deep Learning for detecting COVID-19 using Chest X-ray Images"
+    url: "https://www.linkedin.com/events/deeplearningfordetectingcovid-16764850110238134272"
+    region: 🇮🇪
+    date_added: 2021-02-09
+    start_datetime: 2021-02-26T12:30:00Z
+    end_datetime: 2021-02-26T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
 
     
