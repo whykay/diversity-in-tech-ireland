@@ -600,5 +600,15 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "Thinking Differently about Neurodiversity at Work"
+    url: "https://www.eventbrite.ie/e/thinking-differently-about-neurodiversity-at-work-tickets-140422588743"
+    region: 🇮🇪
+    date_added: 2021-02-12
+    start_datetime: 2021-02-24T12:00:00Z
+    end_datetime: 2021-02-24T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
 
     
