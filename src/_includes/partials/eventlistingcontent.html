@@ -1,8 +1,8 @@
 <section class="prose">
     {% if page.fileSlug != "events" %}
-        {% set month = page.fileSlug %}
+        {% set month = page.fileSlug | lower | trim %}
     {% else %}
-        {% set month = helpers.currentMonth() %}
+        {% set month = helpers.currentMonth() | lower | trim %}
     {% endif %}
 
     {% if events.year %}
@@ -21,7 +21,7 @@
             key_list[1]: {{key_list[1]}}<br>
             helpers.currentYear(): {{helpers.currentYear()}}<br>
 
-            {% if (key_list[0] == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
+            {% if (key_list[0] | lower | trim == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
                 =====SETTING {{month}}
                 {% set thisMonthListings = val   %}
                 {% set searching = true %}
