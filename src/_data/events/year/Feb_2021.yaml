@@ -610,5 +610,15 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "Tech for Good: The Remote Revolution"
+    url: "https://www.meetup.com/TechForGood-Dublin/events/276379654/"
+    region: 🇮🇪
+    date_added: 2021-02-16
+    start_datetime: 2021-02-25T18:30:00Z
+    end_datetime: 2021-02-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
 
     
