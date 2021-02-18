@@ -253,7 +253,8 @@ groups:
     year_added: 2020
     month_added: 02
     day_added: 05
-    status: active
+    date_removed: 2021-02-18
+    status: retired
     type: all 
   - name: Ladies that UX Belfast
     url: "https://www.meetup.com/Ladies-that-UX-Belfast/"
