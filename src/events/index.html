@@ -74,7 +74,7 @@ data:  events.other, events.recurring
                 👉 <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">Check out all {{ listings | length }} Feb General Tech Events</a>
             </div>
 
-            <h2 class="text-center">Latest Upcoming Diversity in Tech Events</h2>
+            <h2 class="text-center">Latest Upcoming Diversity in Tech Events this month</h2>
             {% for event in thisMonthListings.eventlistings | inclItemTypeList("diversity") | laterItemList | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
                     <div>
