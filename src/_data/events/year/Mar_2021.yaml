@@ -30,3 +30,23 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "NDRC: Founder Weekend"
+    url: "https://www.ndrc.ie/founder-weekend"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-13T09:00:00Z
+    end_datetime: 2021-03-14T18:00:00Z
+    new: true
+    recurring: false
+    desc: Founder Weekend takes place every quarter and is hosted by leading Irish tech hubs. This quarter (Q1) it's hosted by Dogpatch Labs. 
+    type: startup
+  - name: "I am remarkableworkshop #IamRemarkable InternationalWomens Day 2021 IWD2021"
+    url: "https://www.eventbrite.ie/e/i-am-remarkableworkshop-iamremarkable-internationalwomens-day-2021-iwd2021-tickets-141351771955"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-07T16:00:00Z
+    end_datetime: 2021-03-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
