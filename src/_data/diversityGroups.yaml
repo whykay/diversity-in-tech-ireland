@@ -809,3 +809,25 @@ groups:
     date_removed: 2018-12-15
     status: retired
     type: all 
+  - name: GirlCrew
+    url: https://evoke.ie/2020/10/25/extra/girl-crew-shuts-down-after-struggling-to-monetise-the-company
+    desc: 
+    region: Global
+    date_added: 2017-02-26
+    year_added: 2017
+    month_added: 02
+    day_added: 26
+    date_removed: 2020-11-19
+    status: retired
+    type: all 
+
+  - name: Women in Privacy
+    url: "https://www.meetup.com/women-in-privacy"
+    region: Dublin
+    date_added: 2021-02-19
+    year_added: 2021
+    month_added: 02
+    day_added: 19
+    date_removed:
+    status: new
+    type: all 
