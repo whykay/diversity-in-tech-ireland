@@ -1,7 +1,7 @@
 ---
 eventlistings:
   - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
-    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccdbxb/"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccfbgb/"
     region:
     date_added: 2021-02-01
     start_datetime: 2021-03-04T08:00:00Z
@@ -12,7 +12,7 @@ eventlistings:
     type: diversity
   - name: "WITS Reads - Discover Together (Book Club)"
     url: "https://witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
-    region:
+    region: 🇮🇪
     date_added: 2021-02-01
     start_datetime: 2021-03-09T20:00:00Z
     end_datetime: 2021-03-09T21:00:00Z
@@ -22,7 +22,7 @@ eventlistings:
     type: diversity
   - name: "Women in Privacy Kickoff Zoom with Emerald de Leeuw"
     url: "https://www.meetup.com/women-in-privacy/events/274429654/"
-    region:
+    region: 🇮🇪
     date_added: 2021-02-01
     start_datetime: 2021-03-09T18:00:00Z
     end_datetime: 2021-03-09T19:30:00Z
@@ -32,7 +32,7 @@ eventlistings:
     type: diversity
   - name: "NDRC: Founder Weekend"
     url: "https://www.ndrc.ie/founder-weekend"
-    region:
+    region: 🇮🇪
     date_added: 2021-02-01
     start_datetime: 2021-03-13T09:00:00Z
     end_datetime: 2021-03-14T18:00:00Z
@@ -42,7 +42,7 @@ eventlistings:
     type: startup
   - name: "I am remarkableworkshop #IamRemarkable InternationalWomens Day 2021 IWD2021"
     url: "https://www.eventbrite.ie/e/i-am-remarkableworkshop-iamremarkable-internationalwomens-day-2021-iwd2021-tickets-141351771955"
-    region:
+    region: 🇮🇪
     date_added: 2021-02-01
     start_datetime: 2021-03-07T16:00:00Z
     end_datetime: 2021-03-07T18:00:00Z
@@ -50,3 +50,399 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+  - name: "NDRC Lunch and Learn"
+    url: "https://www.eventbrite.ie/e/ndrc-lunch-and-learn-tickets-141418479479"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-05T12:00:00Z
+    end_datetime: 2021-03-05T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "FulBright Club Online"
+    url: "https://www.eventbrite.ie/e/fulbright-club-online-march-24th-2021-tickets-142226393973"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-24T20:00:00Z
+    end_datetime: 2021-03-24T21:30:00Z
+    new: true
+    recurring: false
+    desc: "Bright Club and the Irish Fulbright Alumni Association are teaming up to present a FulBright Club Online!"
+    type: science
+
+  - name: "Iconic Offices Virtual Events: Introduction to SEO with Kim Does Marketing with Kim Does Marketing"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276379818/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-02T11:00:00Z
+    end_datetime: 2021-03-02T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Rust Dublin March Remote Meetup - Luca Palmieri"
+    url: "https://www.meetup.com/Rust-Dublin/events/276334977/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-02T18:30:00Z
+    end_datetime: 2021-03-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/zjvcvryccfbdb/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-02T19:00:00Z
+    end_datetime: 2021-03-02T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+
+  - name: "Iconic Offices Virtual Events: Is the Price Right?Change your Worth & Get Paid More for your Product or Service"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276380018/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-03T11:00:00Z
+    end_datetime: 2021-03-03T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/cmddtryccfbfb/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-03T19:00:00Z
+    end_datetime: 2021-03-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "Iconic Offices Virtual Events: International Women’s Day Balancing Work & Self-Care a Year into Lockdown"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276380116/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-04T11:00:00Z
+    end_datetime: 2021-03-04T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Ladies that UX Belfast: A Very Social Gathering"
+    url: "https://www.meetup.com/Ladies-that-UX-Belfast/events/276395851/"
+    region:
+    date_added: 2021-02-19
+    start_datetime: 2021-03-04T18:00:00Z
+    end_datetime: 2021-03-04T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Why R? Webinars: Towards automating Time Series Forecasting Using R"
+    url: "https://www.meetup.com/DublinR/events/jtbhcsyccfbgb/"
+    region:
+    date_added: 2021-02-19
+    start_datetime: 2021-03-04T19:00:00Z
+    end_datetime: 2021-03-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "TOG: Engineers Week – March Live Stream"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/276274647/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-04T19:00:00Z
+    end_datetime: 2021-03-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Dublin Code Mentoring: Q&A Online" 
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccfbjb/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-06T15:00:00Z
+    end_datetime: 2021-03-06T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Women in Privacy Kickoff Zoom with Emerald de Leeuw"
+    url: "https://www.meetup.com/women-in-privacy/events/274429654/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-09T18:00:00Z
+    end_datetime: 2021-03-09T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Iconic Offices Virtual Events: Leadership: Developing Resilient & Adaptable Teams for the Brave New World"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276380373/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-10T11:00:00Z
+    end_datetime: 2021-03-10T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/kqwjvryccfbnb/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-10T18:30:00Z
+    end_datetime: 2021-03-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Iconic Offices Virtual Events: Social Media Mistakes You Might Be Making (& how to correct them!)"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276380411/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-11T11:00:00Z
+    end_datetime: 2021-03-11T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Analytics at Speed Dublin: Improving your kdb+/q skills!"
+    url: "https://www.meetup.com/kx-dublin/events/276380266/"
+    region: 
+    date_added: 2021-02-19
+    start_datetime: 2021-03-11T18:30:00Z
+    end_datetime: 2021-03-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Why R? Webinars: Tabular reporting with the flextable package with David Gohel"
+    url: "https://www.meetup.com/DublinR/events/jtbhcsyccfbpb/"
+    region:
+    date_added: 2021-02-19
+    start_datetime: 2021-03-11T19:00:00Z
+    end_datetime: 2021-03-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/mfccbsyccfbpb/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-11T19:00:00Z
+    end_datetime: 2021-03-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Dublin Code Mentoring: Q&A Online" 
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccfbrb/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-13T15:00:00Z
+    end_datetime: 2021-03-13T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/cmddtryccfbwb/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-17T19:00:00Z
+    end_datetime: 2021-03-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccfbxb/"
+    region:
+    date_added: 2021-02-01
+    start_datetime: 2021-03-18T08:00:00Z
+    end_datetime: 2021-03-18T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Why R? Webinars: officeverse : creating Word and PowerPoint documents with R"
+    url: "https://www.meetup.com/DublinR/events/jtbhcsyccfbxb/"
+    region:
+    date_added: 2021-02-19
+    start_datetime: 2021-03-18T19:00:00Z
+    end_datetime: 2021-03-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "SQL Ireland User Group: Design non-relational cloud data stores - Session 3" 
+    url: "https://www.meetup.com/SQLIreland/events/274729112/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-19T12:00:00Z
+    end_datetime: 2021-03-19T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Dublin Code Mentoring: Q&A Online" 
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccfbbc/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-20T15:00:00Z
+    end_datetime: 2021-03-20T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "📖 The UX Book Club 📖 Save The Date!" 
+    url: "https://www.meetup.com/theuxbookclub/events/276390546/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-23T20:00:00Z
+    end_datetime: 2021-03-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Dublin Power BI User Group: Double Session: What Is Inclusive Report Design and Why Should You Care?" 
+    url: "https://www.meetup.com/DublinPUG/events/273905459/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-23T15:00:00Z
+    end_datetime: 2021-03-23T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Online only Wikipedia Editing evening" 
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/vgmpzryccfbgc/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-24T19:00:00Z
+    end_datetime: 2021-03-24T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/mfccbsyccfbhc/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-25T19:00:00Z
+    end_datetime: 2021-03-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "SQL Ireland User Group: Design security for source data access- Session 7" 
+    url: "https://www.meetup.com/SQLIreland/events/274729129/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-26T12:00:00Z
+    end_datetime: 2021-03-26T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Dublin Code Mentoring: Q&A Online" 
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccfbkc/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-27T15:00:00Z
+    end_datetime: 2021-03-27T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "TOG Hackerspace: Holiday Hack Challenge redo :-)"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/nszndsyccfbkc/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-27T17:00:00Z
+    end_datetime: 2021-03-27T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/cmddtryccfbpc/"
+    region: 🇮🇪
+    date_added: 2021-02-19
+    start_datetime: 2021-03-31T19:00:00Z
+    end_datetime: 2021-03-31T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "Limerick DotNet-Azure User Group (LDNA): How GitHub Actions can help in building and deploying a Static Website and more" 
+    url: "https://www.meetup.com/Limerick-DotNet/events/275864448/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-06T13:00:00Z
+    end_datetime: 2021-03-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Cork|Sec 93" 
+    url: "https://www.meetup.com/CorkSec/events/274940555/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-09T19:00:00Z
+    end_datetime: 2021-03-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "UX Cork" 
+    url: "https://www.meetup.com/UX-Cork-Group/events/mvswcsyccfbwb/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-03-24T18:30:00Z
+    end_datetime: 2021-03-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
