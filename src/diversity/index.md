@@ -33,3 +33,5 @@ I'll keep the reason why I started this. So here we go!
         I hope that all organisers will collectively be in touch with one another and co-ordinate (if possible), or even just let folks know in advance when their event(s) are on. Plus it’s a great way to give heads up and we can shout out about each other’s events. Maybe some folks don’t want to, that’s ok, I just want to be friends with everyone! 😊
     </div>
 </article>
+
+🌈 You can contribute by PR to event lists, I've a [CONTRIBUTING doc on github](https://github.com/whykay/diversity-in-tech-ireland/blob/master/CONTRIBUTING.md) that you can have a read through on how you can share info about events, conferences and even opportunities.
