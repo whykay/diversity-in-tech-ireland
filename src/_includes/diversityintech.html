@@ -53,7 +53,9 @@ data: contibutors, diversityGroups
         </ul>
         
         <h2>🤗 Opportunities</h2>
-        The following is not a group, but initiatives of interest for women in tech:
+        <div class="text-base">
+            The following is not a group, but initiatives of interest for women in tech:
+        </div>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.type == "opportunity" and (item.status == "active" or item.status == "new") %}
@@ -66,6 +68,9 @@ data: contibutors, diversityGroups
 
         <h2>🗄 Archived</h2>
         <h3>Organisations not active in Ireland, or around anymore</h3>
+        <div class="text-base">
+            Some of the following groups are not active anymore, or the group might be a global group and don't have an Irish chapter anymore. If you want to revive them or if you have, let me know and we can update the list. 
+        </div>
         <ul>
             {% for item in diversityGroups.groups | sort(attribute='name') %}
                 {% if item.status == "retired" %}
