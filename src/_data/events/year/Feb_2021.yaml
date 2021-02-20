@@ -461,7 +461,7 @@ eventlistings:
     desc: 
     type: startup
   - name: "Online only Wikipedia Editing evening" 
-    url: "hhttps://www.meetup.com/Tog-Dublin-Hackerspace/events/vgmpzryccdbgc/"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/vgmpzryccdbgc/"
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-02-24T19:00:00Z
@@ -501,7 +501,7 @@ eventlistings:
     desc: 
     type: tech
   - name: "Dublin Code Mentoring: Q&A Online" 
-    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccdbkc//"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/wvmgdsyccdbkc/"
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-02-27T15:00:00Z
@@ -620,5 +620,48 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
-
     
+  - name: "Why are we still talking about the STEM gap in the workforce?"
+    url: "https://www.eventbrite.com/e/why-are-we-still-talking-about-the-stem-gap-in-the-workforce-tickets-140036459821"
+    region: 
+    date_added: 2021-02-19
+    start_datetime: 2021-02-24T15:00:00Z
+    end_datetime: 2021-02-24T14:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Dublin Data Science: Workshop: Data Science, Soup to Nuts"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/276129056/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-22T19:00:00Z
+    end_datetime: 2021-02-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "X-Europe Webinars Presents: Data Science for (gender) equality"
+    url: "https://www.meetup.com/DataScientistsIreland/events/276295014/"
+    region: 🇪🇺
+    date_added: 2021-02-19
+    start_datetime: 2021-02-24T16:00:00Z
+    end_datetime: 2021-02-24T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+
+  - name: "Cork .NET and Azure Meetup: 12th Cork.Net Meetup - Writing client web applications in C# using Blazor" 
+    url: "https://www.meetup.com/CorkDotNetAzure/events/276196697/"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2021-02-23T18:00:00Z
+    end_datetime: 2021-02-23T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
