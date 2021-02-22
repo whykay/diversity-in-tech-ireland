@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-04T08:00:00Z
     end_datetime: 2021-03-04T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-09T20:00:00Z
     end_datetime: 2021-03-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-09T18:00:00Z
     end_datetime: 2021-03-09T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -36,7 +36,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-13T09:00:00Z
     end_datetime: 2021-03-14T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: Founder Weekend takes place every quarter and is hosted by leading Irish tech hubs. This quarter (Q1) it's hosted by Dogpatch Labs. 
     type: startup
@@ -46,7 +46,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-07T16:00:00Z
     end_datetime: 2021-03-07T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -57,7 +57,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-05T12:00:00Z
     end_datetime: 2021-03-05T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-24T20:00:00Z
     end_datetime: 2021-03-24T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Bright Club and the Irish Fulbright Alumni Association are teaming up to present a FulBright Club Online!"
     type: science
@@ -79,7 +79,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-02T11:00:00Z
     end_datetime: 2021-03-02T11:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -90,7 +90,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-02T18:30:00Z
     end_datetime: 2021-03-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -100,7 +100,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-02T19:00:00Z
     end_datetime: 2021-03-02T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-03T11:00:00Z
     end_datetime: 2021-03-03T11:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -122,7 +122,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-03T19:00:00Z
     end_datetime: 2021-03-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -133,7 +133,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-04T11:00:00Z
     end_datetime: 2021-03-04T11:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -144,7 +144,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-04T18:00:00Z
     end_datetime: 2021-03-04T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -155,7 +155,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-04T19:00:00Z
     end_datetime: 2021-03-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -166,7 +166,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-04T19:00:00Z
     end_datetime: 2021-03-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -188,7 +188,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-09T18:00:00Z
     end_datetime: 2021-03-09T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -199,7 +199,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-10T11:00:00Z
     end_datetime: 2021-03-10T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-10T18:30:00Z
     end_datetime: 2021-03-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-11T11:00:00Z
     end_datetime: 2021-03-11T11:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -232,7 +232,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-11T18:30:00Z
     end_datetime: 2021-03-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -243,7 +243,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-11T19:00:00Z
     end_datetime: 2021-03-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-11T19:00:00Z
     end_datetime: 2021-03-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -276,7 +276,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-17T19:00:00Z
     end_datetime: 2021-03-17T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -287,7 +287,7 @@ eventlistings:
     date_added: 2021-02-01
     start_datetime: 2021-03-18T08:00:00Z
     end_datetime: 2021-03-18T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -298,7 +298,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-18T19:00:00Z
     end_datetime: 2021-03-18T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -309,7 +309,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-19T12:00:00Z
     end_datetime: 2021-03-19T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -320,7 +320,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-20T15:00:00Z
     end_datetime: 2021-03-20T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -331,7 +331,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-23T20:00:00Z
     end_datetime: 2021-03-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-23T15:00:00Z
     end_datetime: 2021-03-23T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -364,7 +364,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-25T19:00:00Z
     end_datetime: 2021-03-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -375,7 +375,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-26T12:00:00Z
     end_datetime: 2021-03-26T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -386,7 +386,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-27T15:00:00Z
     end_datetime: 2021-03-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -397,7 +397,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-27T17:00:00Z
     end_datetime: 2021-03-27T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -408,7 +408,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-03-31T19:00:00Z
     end_datetime: 2021-03-31T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -419,7 +419,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-06T13:00:00Z
     end_datetime: 2021-03-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -430,7 +430,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-09T19:00:00Z
     end_datetime: 2021-03-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -441,8 +441,20 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-03-24T18:30:00Z
     end_datetime: 2021-03-24T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "3DCamp Dublin: 3DcampVR - Walk and Talk" 
+    url: "https://www.meetup.com/3DcampDublin/events/276437433/"
+    region: 🇮🇪
+    date_added: 2021-02-22
+    start_datetime: 2021-03-04T19:00:00Z
+    end_datetime: 2021-03-04T20:30:00Z
     new: true
     recurring: false
     desc: 
     type: tech
+
 

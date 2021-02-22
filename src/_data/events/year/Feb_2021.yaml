@@ -526,7 +526,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-19T11:00:00Z
     end_datetime: 2021-02-19T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -536,7 +536,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-15T17:15:00Z
     end_datetime: 2021-02-15T19:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -546,7 +546,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-23T19:00:00Z
     end_datetime: 2021-02-23T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -556,7 +556,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-16T19:00:00Z
     end_datetime: 2021-02-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -566,7 +566,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-12T18:30:00Z
     end_datetime: 2021-02-12T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -576,7 +576,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-25T19:00:00Z
     end_datetime: 2021-02-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -586,7 +586,7 @@ eventlistings:
     date_added: 2021-02-08
     start_datetime: 2021-02-26T12:00:00Z
     end_datetime: 2021-02-26T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -596,7 +596,7 @@ eventlistings:
     date_added: 2021-02-09
     start_datetime: 2021-02-26T12:30:00Z
     end_datetime: 2021-02-26T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -606,7 +606,7 @@ eventlistings:
     date_added: 2021-02-12
     start_datetime: 2021-02-24T12:00:00Z
     end_datetime: 2021-02-24T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -616,7 +616,7 @@ eventlistings:
     date_added: 2021-02-16
     start_datetime: 2021-02-25T18:30:00Z
     end_datetime: 2021-02-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -627,7 +627,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-02-24T15:00:00Z
     end_datetime: 2021-02-24T14:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -638,7 +638,7 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-02-22T19:00:00Z
     end_datetime: 2021-02-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -649,7 +649,7 @@ eventlistings:
     date_added: 2021-02-19
     start_datetime: 2021-02-24T16:00:00Z
     end_datetime: 2021-02-24T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -660,8 +660,20 @@ eventlistings:
     date_added: 2021-02-05
     start_datetime: 2021-02-23T18:00:00Z
     end_datetime: 2021-02-23T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+
+  - name: "WITS Female Leadership Series - Fireside Discussion with Dr. Norah Patten"
+    url: "https://www.eventbrite.com/e/wits-female-leadership-series-fireside-discussion-with-dr-norah-patten-tickets-140246319517"
+    region: 🇮🇪
+    date_added: 2021-02-22
+    start_datetime: 2021-02-24T12:00:00Z
+    end_datetime: 2021-02-24T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
 
