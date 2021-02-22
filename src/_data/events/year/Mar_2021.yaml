@@ -182,17 +182,6 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "Women in Privacy Kickoff Zoom with Emerald de Leeuw"
-    url: "https://www.meetup.com/women-in-privacy/events/274429654/"
-    region: 🇮🇪
-    date_added: 2021-02-19
-    start_datetime: 2021-03-09T18:00:00Z
-    end_datetime: 2021-03-09T19:30:00Z
-    new: false
-    recurring: false
-    desc: 
-    type: diversity
-
   - name: "Iconic Offices Virtual Events: Leadership: Developing Resilient & Adaptable Teams for the Brave New World"
     url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276380373/"
     region: 🇮🇪
