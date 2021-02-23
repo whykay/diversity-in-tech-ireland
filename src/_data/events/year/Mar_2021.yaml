@@ -18,8 +18,9 @@ eventlistings:
     end_datetime: 2021-03-09T21:00:00Z
     new: false
     recurring: false
-    desc: 
+    desc: "The next WITS Reads takes place on 9 March 2021. The book is 'Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber' by Susan Fowler. It is an 'unbelievable true story of the young woman who faced down one of the most valuable startups in Silicon Valley history–and what came after.' This is a WITS event for members. Members please email WITS to take part and to join the WITS Reads group on Goodreads."
     type: diversity
+  
   - name: "Women in Privacy Kickoff Zoom with Emerald de Leeuw"
     url: "https://www.meetup.com/women-in-privacy/events/274429654/"
     region: 🇮🇪
@@ -40,6 +41,7 @@ eventlistings:
     recurring: false
     desc: Founder Weekend takes place every quarter and is hosted by leading Irish tech hubs. This quarter (Q1) it's hosted by Dogpatch Labs. 
     type: startup
+
   - name: "I am remarkableworkshop #IamRemarkable InternationalWomens Day 2021 IWD2021"
     url: "https://www.eventbrite.ie/e/i-am-remarkableworkshop-iamremarkable-internationalwomens-day-2021-iwd2021-tickets-141351771955"
     region: 🇮🇪
@@ -48,7 +50,7 @@ eventlistings:
     end_datetime: 2021-03-07T18:00:00Z
     new: false
     recurring: false
-    desc: 
+    desc: "I am Remarkable Workshop International Womens Day week 2021 IWD2021 #ChooseToChallenge we would like to invite you to join our workshop"
     type: diversity
 
   - name: "NDRC Lunch and Learn"
@@ -446,4 +448,104 @@ eventlistings:
     desc: 
     type: tech
 
+  - name: "Tech For Good Dublin: Tech 4 Good App Challenge 2021: Workshop 1 – App Design and Inspiration" 
+    url: "https://www.eventbrite.ie/e/tech-4-good-app-challenge-2021-tickets-141951848801"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-16T19:00:00Z
+    end_datetime: 2021-03-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Tech For Good Dublin: Tech 4 Good App Challenge 2021: Workshop 2 – App Development and Launching" 
+    url: "https://www.eventbrite.ie/e/tech-4-good-app-challenge-2021-tickets-141951848801"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-30T19:00:00Z
+    end_datetime: 2021-03-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "YourY Network: Impact Investors – Celebrating Social Entrepreneurs"
+    url: "https://www.eventbrite.ie/e/impact-investors-celebrating-social-entrepreneurs-tickets-142220434147"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-23T19:00:00Z
+    end_datetime: 2021-03-23T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Welcome to Ireland’s Startup Ecosystem"
+    url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-05T09:00:00Z
+    end_datetime: 2021-03-05T10:00:00Z
+    new: true
+    recurring: false
+    desc: "Join Miriam and Emily as they give an overview of Ireland’s ecosystem to help you get plugged in and straight to the info you need to know. You’ll get the chance to ask questions and connect with peers through our virtual networking too. Special guest appearance: Sheelagh Daly"
+    type: diversity
+
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Mentoring - Registration required"
+    url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-05T10:00:00Z
+    end_datetime: 2021-03-05T12:00:00Z
+    new: true
+    recurring: false
+    desc: "Get advice or feedback from a variety of curated mentors from investors at Frontline, from founders at Change Donations, to top brands incl. Google, Draper Esprit, Boundless, Endeavour Ireland, and Enterprise Ireland. Apply for 25-minute slots on topics like Building your MVP, Startup Tax Breaks, Grant Applications, Early Stage Founder Insights, Partnership Management, VC funding and more. Applications close Tue 2nd March at 11:59pm!"
+    type: diversity
+
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): NDRC Lunch & Learn"
+    url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-05T12:00:00Z
+    end_datetime: 2021-03-05T12:30:00Z
+    new: true
+    recurring: false
+    desc: "Join NDRC’s programme team for a quick lunchtime session with Sarah Barker and Suzanne Mills, who’ll give you an overview of the programmes, deadline and the chance to ask questions."
+    type: diversity
+
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Changing the Face of AgTech
+Fireside Chat with Bethany Deshpande"
+    url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-05T13:00:00Z
+    end_datetime: 2021-03-05T14:00:00Z
+    new: true
+    recurring: false
+    desc: "Tune in to this fireside chat to learn how Patricia built groundbreaking, research-led AI leveraging Irish universities and the Irish R&D ecosystem. She’ll also be sharing insights from her journey commercialising and fundraising for SoapBox Labs."
+    type: diversity
+
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Bootstrapping vs Funding Your Startup
+Educate with Amanda Greenberg"
+    url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-05T14:00:00Z
+    end_datetime: 2021-03-05T15:00:00Z
+    new: true
+    recurring: false
+    desc: "The SaaS funding environment has changed. Investors want to see significant traction before signing a term sheet. Join this session with Balloon founder Amanda to learn how she bootstrapped, landed big named customers like Microsoft, Google, and BMW, and built up ARR to help her secure investment later."
+    type: diversity
+
+  - name: "Indeed: International Women's Day x Women@Indeed"
+    url: "https://www.indeedevents.com/en-ie/iwdxwomenatindeed-dublin-030821/"
+    region: 🇮🇪
+    date_added: 2021-02-23
+    start_datetime: 2021-03-08T13:00:00Z
+    end_datetime: 2021-03-08T14:30:00Z
+    new: true
+    recurring: false
+    desc: "Indeed is a proud supporter of International Women’s Day 2021. Taking place on March 8th, this year’s campaign theme is #ChooseToChallenge"
+    type: diversity
 
