@@ -60,6 +60,11 @@
                         <div>
                             When: {{ event.start_datetime | readableDateTime() }}
                         </div>
+                        {% if event.desc %}
+                        <div class="text-xs">
+                            {{ event.desc }}
+                        </div>
+                        {% endif %}
                     </div>              
                 {% endif %}
             {% endfor %}
