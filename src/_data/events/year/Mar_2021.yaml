@@ -526,8 +526,7 @@ Fireside Chat with Bethany Deshpande"
     desc: "Tune in to this fireside chat to learn how Patricia built groundbreaking, research-led AI leveraging Irish universities and the Irish R&D ecosystem. She’ll also be sharing insights from her journey commercialising and fundraising for SoapBox Labs."
     type: diversity
 
-  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Bootstrapping vs Funding Your Startup
-Educate with Amanda Greenberg"
+  - name: "Dogpatch Labs: First Fridays for Startups (International Women's Day): Bootstrapping vs Funding Your Startup Educate with Amanda Greenberg"
     url: "https://dogpatchlabs.com/first-fridays-for-startups/march-05-2021/"
     region: 🇮🇪
     date_added: 2021-02-23
@@ -648,4 +647,16 @@ Educate with Amanda Greenberg"
     desc: "This is a 2-day event on Mar 15 and Mar 16. Please register by Sunday March 7th, 2021 at 11:59 p.m. CET "
     type: diversity
 
-    
+  - name: "GTech Starter #ChoosetoChallenge Panel Discussion"
+    url: "https://www.eventbrite.com/e/tech-starter-choosetochallenge-panel-discussion-tickets-141000832285"
+    region: 
+    date_added: 2021-02-24
+    start_datetime: 2021-03-11T18:00:00Z
+    end_datetime: 2021-03-11T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<div>Please join us for the next Tech Starter panel discussion, celebrating International Women's Day together with Dell Technologies!</div><div>Panelists: Mary O’Brien / General Manager of IBM Security / Maeve Culloty, Managing Director of HPE Ireland / Jess Majekodunmi, Director of the Human Insights Lab at Accenture / Denis Lucey, VP EMEA Infrastructure Support Services & Cherrywood Site Leader at Dell Technologies and will be MC'd by Annie Chow from Dell Technologies.</div>"
+    type: diversity
+
+
+  

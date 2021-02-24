@@ -698,7 +698,6 @@ eventlistings:
     desc: "Join a host of employers, educators and service providers for the first in a series of events designed to help you access education opportunities, understand your right to work, and plan your career in tech."
     type: diversity
 
-
   - name: "UCD Women@STEM: Career Development Webinar Series : 'Science and Technology"
     url: "https://www.eventbrite.ie/e/career-development-webinar-series-science-and-technology-tickets-140073173633"
     region: 🇮🇪
@@ -708,6 +707,17 @@ eventlistings:
     new: true
     recurring: false
     desc: "Join Dr. Luana Schito, Co-Chair of UCD Women@STEM, UCD School of Medicine, and Dr. Sonia Negrao, UCD Women@STEM Advisory Board Committee Member, School of Biology and Environmental Science, to gain insights into the career journeys of two outstanding Women in STEM: Dr. Debra Higgins, OncoMark, University College Dublin and Liana Tomescu, Microsoft."
+    type: diversity
+
+  - name: "Tech Starter- Michelle Concannon- Principle Engineering Manager Microsoft"
+    url: "https://www.eventbrite.ie/e/career-development-webinar-series-science-and-technology-tickets-140073173633"
+    region: 🇮🇪
+    date_added: 2021-02-24
+    start_datetime: 2021-02-25T18:00:00Z
+    end_datetime: 2021-02-25T19:00:00Z
+    new: true
+    recurring: false
+    desc: "Michelle Concannon will be joining us for the February 2021 Tech Starter talk! #EngineeringIsLikeABoxOfChocolates"
     type: diversity
 
 
