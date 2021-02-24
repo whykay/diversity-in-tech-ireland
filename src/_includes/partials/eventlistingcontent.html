@@ -62,7 +62,7 @@
                         </div>
                         {% if event.desc %}
                         <div class="text-xs">
-                            {{ event.desc }}
+                            {{ event.desc | safe }}
                         </div>
                         {% endif %}
                     </div>              
