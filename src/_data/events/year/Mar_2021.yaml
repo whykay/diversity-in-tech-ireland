@@ -637,4 +637,15 @@ Educate with Amanda Greenberg"
     desc: 
     type: tech
 
+  - name: "Google celebrates: International Women's Day with Students"
+    url: "https://events.withgoogle.com/student-iwd2021/"
+    region: 
+    date_added: 2021-02-24
+    start_datetime: 2021-03-15T08:00:00Z
+    end_datetime: 2021-03-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: "This is a 2-day event on Mar 15 and Mar 16. Please register by Sunday March 7th, 2021 at 11:59 p.m. CET "
+    type: diversity
+
     
