@@ -51,6 +51,17 @@ events:
     recurring: true
     desc: 
 
+
+  - name: "Women Tech Entrepreneurs Series - #HowSheDidIt"
+    url: "https://www.sheups.com/events/women-tech-entrepreneurs-how-she-did-it-series"
+    region: 🇮🇪
+    date_added: 2021-02-24
+    start_datetime: Every 3rd Tuesday, 19:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: "Join us as we explore in these series, success stories of for Women Entrepreneurs and Founders in Tech startups and businesses."
+
   - name: "Women Who Cowork Dublin - Cocktail o'clock with WomenCo"
     url: "http://womenwhocowork.ie/"
     region: 🇮🇪
