@@ -1,0 +1,34 @@
+---
+eventlistings:
+  - name: "WITS Female Leadership Series 2021- Session 6 Tech"
+    url: "https://www.eventbrite.com/e/wits-female-leadership-series-2021-session-6-tech-tickets-142705322461"
+    region: 🇮🇪
+    date_added: 2021-02-24
+    start_datetime: 2021-04-14T12:00:00Z
+    end_datetime: 2021-04-14T13:00:00Z
+    new: true
+    recurring: false
+    desc: "WITS are delighted to invite you to join Barbara McCarthy ( Ding) , Linda Thackery ( Microsoft) and Claire Chung ( Citi) for a discussion on Tech and developing female leadership. WITS Chair Dr. Andrea Johnson will moderate and explore how the sector is responding to the challenge of equity. Examples will be shared of how female leaders can innovate and advance gender equality in tech."
+    type: diversity
+
+  - name: "WITS Female Leadership Series 2021- Session 7 Future of Work"
+    url: "https://www.eventbrite.com/e/wits-female-leadership-series-2021-session-7-future-of-work-tickets-142707916219"
+    region: 🇮🇪
+    date_added: 2021-02-24
+    start_datetime: 2021-04-21T12:00:00Z
+    end_datetime: 2021-04-21T13:00:00Z
+    new: true
+    recurring: false
+    desc: "What does a day at work look like in a post-Covid world? Will remote working be sustainable long term? What other factors might be at play in determining the future professional landscape? WITS Ireland are delighted to invite you to join Ann O'Dea ( Future Human), Damien Clarke ( Zeminar) and Sandra Healy (DCU) for a discussion on the Future of Work. This panel discussion will be moderated by WITS Exec Members Tammy Strickland and Maxime Deckers."
+    type: diversity
+
+  - name: "WITS Female Leadership Series 2021-Session 8 Closing Event"
+    url: "https://www.eventbrite.com/e/wits-female-leadership-series-2021-session-8-closing-event-tickets-142709856021"
+    region: 🇮🇪
+    date_added: 2021-02-24
+    start_datetime: 2021-04-28T12:00:00Z
+    end_datetime: 2021-04-28T13:00:00Z
+    new: true
+    recurring: false
+    desc: "We invite you to join Gavin Fox ( Dublin Tech Talks) as he hosts a panel discussion on Female Leadership with WITS Chair Dr. Andrea Johnson and Gillian Harford ( 30% Club). This is the closing event in our Female Leadership Series."
+    type: diversity
