@@ -605,7 +605,7 @@ Fireside Chat with Bethany Deshpande"
 
   - name: "The Games Co-Op: Is There Life on March?"
     url: "https://www.meetup.com/The-Games-Co-Op/events/276547754/"
-    region: 
+    region: 🇮🇪
     date_added: 2021-02-24
     start_datetime: 2021-03-16T19:00:00Z
     end_datetime: 2021-03-16T22:30:00Z
@@ -616,7 +616,7 @@ Fireside Chat with Bethany Deshpande"
 
   - name: "International Women's Day 2021: Women Rising - Celebrating Female Founders"
     url: "https://www.awakenhub.com/events-2/international-womens-day-2021-women-rising-celebrating-female-founders"
-    region: 
+    region: 🇮🇪
     date_added: 2021-02-24
     start_datetime: 2021-03-03T11:00:00Z
     end_datetime: 2021-03-03T12:15:00Z
@@ -627,7 +627,7 @@ Fireside Chat with Bethany Deshpande"
 
   - name: "Virtual ReactJS Dublin 13 - GraphQL, Apollo & Typescript"
     url: "https://www.meetup.com/ReactJS-Dublin/events/276538706/"
-    region: 
+    region: 🇮🇪
     date_added: 2021-02-24
     start_datetime: 2021-03-10T19:00:00Z
     end_datetime: 2021-03-10T21:00:00Z
@@ -649,7 +649,7 @@ Fireside Chat with Bethany Deshpande"
 
   - name: "GTech Starter #ChoosetoChallenge Panel Discussion"
     url: "https://www.eventbrite.com/e/tech-starter-choosetochallenge-panel-discussion-tickets-141000832285"
-    region: 
+    region: 🇮🇪
     date_added: 2021-02-24
     start_datetime: 2021-03-11T18:00:00Z
     end_datetime: 2021-03-11T19:00:00Z
@@ -661,7 +661,7 @@ Fireside Chat with Bethany Deshpande"
 
   - name: "First Online Xcake! Let's talk about React Native apps and mobile CI setup :)"
     url: "https://www.meetup.com/Xcake-Mobile-app-development-with-an-Appley-flavour/events/276583381"
-    region: 
+    region: 🇮🇪
     date_added: 2021-02-25
     start_datetime: 2021-03-09T18:30:00Z
     end_datetime: 2021-03-09T20:30:00Z
@@ -669,5 +669,48 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: 
     type: tech
+
+  - name: "Smart Balbriggan Community Webinar"
+    url: "https://www.eventbrite.ie/e/smart-balbriggan-community-webinar-tickets-137627899753"
+    region: 🇮🇪
+    date_added: 2021-02-26
+    start_datetime: 2021-03-09T18:30:00Z
+    end_datetime: 2021-03-09T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: community
     
+  - name: "International Women's Day 2021: Women Rising - Celebrating Female Founders"
+    url: "https://www.eventbrite.com/e/international-womens-day-2021-women-rising-celebrating-female-founders-tickets-141217867443"
+    region: 🇮🇪
+    date_added: 2021-02-26
+    start_datetime: 2021-03-03T11:00:00Z
+    end_datetime: 2021-03-03T12:15:00Z
+    new: true
+    recurring: false
+    desc: "To mark International Women's Day, we are delighted to host Women Rising, celebrating female founders across the island of Ireland. Hear inspiring stories from our panel of guest speakers: Áine Kerr, Co-Founder and COO of Kinzen, Patricia Scanlon, Founder and CEO of SoapBox Labs, Susan Kelly, CEO and Co-founder of Respiratory Analytics, and Lizzy Hayashida Co-founder & CEO of Change Donations, on their journey to success and how they #ChoosetoChallenge and create change. There will also be an opportunity to meet other female founders and share your experience in our curated breakout room"
+    type: diversity
+
+  - name: "Version 1 NI International Women’s day Event (Care, Share and Inspire)"
+    url: "https://www.eventbrite.com/e/version-1-ni-international-womens-day-event-care-share-and-inspire-tickets-142220412081"
+    region: 
+    date_added: 2021-02-26
+    start_datetime: 2021-03-08T12:00:00Z
+    end_datetime: 2021-03-08T13:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us for an online panel event (Care, Share and Inspire) on 8th March 2021 from 12 pm – 1 pm to listen to the stories of inspirational women in the IT industry who have gone through different challenging stages and experiences and we hope to have an incredible and informative take away from the event."
+    type: diversity
+
+  - name: "VWomen in AI: The Future of AI and You"
+    url: "https://www.eventbrite.ca/e/the-future-of-ai-and-you-tickets-141191965971"
+    region: 
+    date_added: 2021-02-27
+    start_datetime: 2021-03-08T12:00:00Z
+    end_datetime: 2021-03-08T13:30:00Z
+    new: true
+    recurring: false
+    desc: "WAI Ireland, Microsoft, and Confirm Centre present this live virtual event Choose to Challenge: The Future of AI and You."
+    type: diversity
   
