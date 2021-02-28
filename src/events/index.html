@@ -56,35 +56,53 @@ data:  events.other, events.recurring
         #}
 
         {% if thisMonthListings %}
-        {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | laterItemList | sort(attribute='start_datetime') %}
+            
+            {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | laterItemList | sort(attribute='start_datetime') %}
+            {% set diversityListings = thisMonthListings.eventlistings | inclItemTypeList("diversity") | laterItemList | sort(attribute='start_datetime') %}
 
+
+            <!-- GENERAL TECH EVENTS -->
             <h2>Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
+            {% if listings | length != 0 %}
 
-            {% for event in listings.slice(0,5)  %}
-                <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
-                    <div>
-                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                
+                {% for event in listings.slice(0,5)  %}
+                    <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
+                        <div>
+                            <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} <span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span> {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                        </div>
+                        <div>
+                            When: {{ event.start_datetime | readableDateTime() }}
+                        </div>
                     </div>
-                    <div>
-                        When: {{ event.start_datetime | readableDateTime() }}
-                    </div>
+                {% endfor %}
+
+                <div class="mt-3 text-2xl font-bold">
+                    👉 <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">Check out all General Tech Events in {{ helpers.currentMonth() }}</a>
                 </div>
-            {% endfor %}
-            <div class="mt-3 text-2xl font-bold">
-                👉 <a href="/events/{{ helpers.currentYear() }}/{{ helpers.currentMonth() }}/">Check out all General Tech Events in {{ helpers.currentMonth() }}</a>
-            </div>
+             
+            {% else %}
 
+                <div class="text-2xl">👉 No more techie events for this month, check <span class="bg-yellow-200 bg-opacity-50"><a href="#event_archives">Archives</a></span> for more upcoming events</div>
+            {% endif %}
+
+            <!-- DIVERSITY IN TECH EVENTS -->
             <h2 class="text-center">Latest Upcoming Diversity in Tech Events this month</h2>
-            {% for event in thisMonthListings.eventlistings | inclItemTypeList("diversity") | laterItemList | sort(attribute='start_datetime') %}
-                <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
-                    <div>
-                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            {% if diversityListings | length != 0 %}
+                {% for event in diversityListings %}
+                    <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
+                        <div>
+                            <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                        </div>
+                        <div class="text-base">
+                            When: {{ event.start_datetime | readableDateTime() }}
+                        </div>
                     </div>
-                    <div class="text-base">
-                        When: {{ event.start_datetime | readableDateTime() }}
-                    </div>
-                </div>
-            {% endfor %}
+                {% endfor %}
+            {% else %}
+
+                <div class=" text-2xl">👉 No more diversity events for this month, check <span class="bg-yellow-200 bg-opacity-50"><a href="#event_archives">Archives</a></span> for more upcoming events</div>
+            {% endif %}
             
             <h3 class="text-center">🔁 Recurring Virtual Events</h3>
             {% for event in events.recurring.events %}
@@ -140,7 +158,7 @@ data:  events.other, events.recurring
        
     </div>
     <div class="prose lg:prose-xl mt-6 bg-gray-50 p-5">
-        <h2 class="text-center">🗄 ARCHIVES</h2>
+        <h2 id="event_archives" class="text-center">🗄 ARCHIVES</h2>
         <div class="flex flex-row flex-wrap">
             {% for post in collections.event | sort(attribute='date') %}
             <div class="border-solid border-1 bg-yellow-200 rounded-lg p-2 mr-4 mt-3 ring-4 ring-yellow-100">
