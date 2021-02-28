@@ -16,12 +16,15 @@ module.exports = function (eleventyConfig) {
       "DD"
     );
   });
+
+  // Wed Aug 6, 2014 (13:07)
   eleventyConfig.addFilter("readableDateTime", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "EEE DD (T)"
     );
   });
 
+  // 06 Aug 2014
   eleventyConfig.addFilter("dateOnly", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
@@ -45,6 +48,14 @@ module.exports = function (eleventyConfig) {
       "yyyy"
     );
   });
+
+    // 06 Aug 
+  eleventyConfig.addFilter("dayMonthOnly", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL"
+    );
+  });
+
 
   // Filtered events excluding a given type
    eleventyConfig.addFilter("newItemList", (items, item_type) => {
