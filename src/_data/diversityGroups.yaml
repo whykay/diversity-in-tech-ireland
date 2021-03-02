@@ -29,15 +29,6 @@ groups:
     day_added: 26
     status: active
     type: all
-  - name: Women Who Code Dublin
-    url: "https://twitter.com/wwcodeDublin"
-    region: Dublin
-    date_added: 2017-02-26
-    year_added: 2017
-    month_added: 02
-    day_added: 26
-    status: active
-    type: all
   - name: Belfast IT Girls
     url: "https://twitter.com/BelfastITGirls"
     region: Belfast, Northern Ireland
