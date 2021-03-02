@@ -681,17 +681,6 @@ Fireside Chat with Bethany Deshpande"
     desc: 
     type: community
     
-  - name: "International Women's Day 2021: Women Rising - Celebrating Female Founders"
-    url: "https://www.eventbrite.com/e/international-womens-day-2021-women-rising-celebrating-female-founders-tickets-141217867443"
-    region: 🇮🇪
-    date_added: 2021-02-26
-    start_datetime: 2021-03-03T11:00:00Z
-    end_datetime: 2021-03-03T12:15:00Z
-    new: true
-    recurring: false
-    desc: "To mark International Women's Day, we are delighted to host Women Rising, celebrating female founders across the island of Ireland. Hear inspiring stories from our panel of guest speakers: Áine Kerr, Co-Founder and COO of Kinzen, Patricia Scanlon, Founder and CEO of SoapBox Labs, Susan Kelly, CEO and Co-founder of Respiratory Analytics, and Lizzy Hayashida Co-founder & CEO of Change Donations, on their journey to success and how they #ChoosetoChallenge and create change. There will also be an opportunity to meet other female founders and share your experience in our curated breakout room"
-    type: diversity
-
   - name: "Version 1 NI International Women’s day Event (Care, Share and Inspire)"
     url: "https://www.eventbrite.com/e/version-1-ni-international-womens-day-event-care-share-and-inspire-tickets-142220412081"
     region: 
@@ -713,4 +702,27 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: "WAI Ireland, Microsoft, and Confirm Centre present this live virtual event Choose to Challenge: The Future of AI and You."
     type: diversity
+
+  - name: "Accenture's Women on Walls at DCU unveiling"
+    url: "https://www.dcu.ie/womenonwalls/registration"
+    region: 
+    date_added: 2021-03-02
+    start_datetime: 2021-03-08T13:00:00Z
+    end_datetime: 2021-03-08T14:00:00Z
+    new: true
+    recurring: false
+    desc: "Celebrating International Women's Day with the Women on Walls unveiling. Accenture’s Women on Walls at DCU will recognise the pioneering achievements of a group of extraordinary women and enhance the visibility of female leaders in STEM."
+    type: diversity
+
+  - name: "Dublin Code Mentoring: Crack The Coding Interview Discussion - Linked lists (Part 1)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/276687373/"
+    region: 🇮🇪
+    date_added: 2021-03-02
+    start_datetime: 2021-03-14T17:00:00Z
+    end_datetime: 2021-03-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  
   
