@@ -62,7 +62,7 @@ data:  events.other, events.recurring
 
 
             <!-- GENERAL TECH EVENTS -->
-            <h2>Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
+            <h2 id="events">Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
             {% if listings | length != 0 %}
 
                 
@@ -87,7 +87,7 @@ data:  events.other, events.recurring
             {% endif %}
 
             <!-- DIVERSITY IN TECH EVENTS -->
-            <h2 class="text-center">Latest Upcoming Diversity in Tech Events this month</h2>
+            <h2 id="diversity" class="text-center">Latest Upcoming Diversity in Tech Events this month</h2>
             {% if diversityListings | length != 0 %}
                 {% for event in diversityListings %}
                     <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
@@ -119,7 +119,7 @@ data:  events.other, events.recurring
                 {% endif %}
             {% endfor %}
 
-            <h2>🎫 Conferences</h2>
+            <h2 id="conferences">🎫 Conferences</h2>
             {% for conf in thisYearsConfListings.conferences | laterItemList | sort(attribute='start_datetime') %}
                 <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
                     <div>
@@ -134,7 +134,7 @@ data:  events.other, events.recurring
                 </div>
             {% endfor %}
             
-            <h3>🛑 Cancelled/Postponed Conferences</h3>
+            <h3 id="cancelled-conferences">🛑 Cancelled/Postponed Conferences</h3>
             {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
                 {% if (conf.status == "cancelled") or (conf.status == "postponed") %}
                 <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
@@ -168,7 +168,7 @@ data:  events.other, events.recurring
         </div>
     </div>
     <div class="prose lg:prose-xl mt-6">
-        <h2>💪 Events/Orgs that need your help:</h2>
+        <h2 id="call-to-action">💪 Events/Orgs that need your help:</h2>
         {% for info in events.other.information %}
         <div class="border-solid border-1 bg-yellow-100 rounded-lg p-5 text-base mb-2">
             <div>
@@ -182,7 +182,7 @@ data:  events.other, events.recurring
     </div>
 
     <div class="prose lg:prose-xl mt-6">
-        <h2>🆒 Opportunities</h2>
+        <h2 id="opportunities">🆒 Opportunities</h2>
         
         {% for opportunity in events.other.opportunities | sort(attribute='name') %}
             {% if opportunity.status != "archive" %}
@@ -199,7 +199,7 @@ data:  events.other, events.recurring
     </div>
 
     <div class="prose lg:prose-xl mt-6">
-        <h2>🤖 AOB Events-related</h2>
+        <h2 id="aob">🤖 AOB Events-related</h2>
         
         {% for info in events.other.aob | sort(attribute='name') %}
         <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
@@ -214,7 +214,7 @@ data:  events.other, events.recurring
     </div>
 
     <div class="prose lg:prose-xl mt-6">
-        <h2>🤓 Resources for Organisers on organising virtual events</h2>
+        <h2 id="org-resources">🤓 Resources for Organisers on organising virtual events</h2>
         
         {% for resource in events.other.resources | sort(attribute='name') %}
         <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
