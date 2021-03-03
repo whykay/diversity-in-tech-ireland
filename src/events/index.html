@@ -95,8 +95,13 @@ data:  events.other, events.recurring
                             <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                         </div>
                         <div class="text-base">
-                            When: {{ event.start_datetime | readableDateTime() }}
+                            When: {{ event.start_datetime | readableDateTime() }} - {{ event.end_datetime | readableDateTime() }}
                         </div>
+                        {% if event.desc %}
+                        <div class="text-xs">
+                            {{ event.desc | safe }}
+                        </div>
+                        {% endif %}
                     </div>
                 {% endfor %}
             {% else %}
