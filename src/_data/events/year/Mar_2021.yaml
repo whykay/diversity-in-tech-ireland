@@ -735,4 +735,17 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: "Introducing WITS 2021 Student Series by Celebrating IWD 2021in collaboration with the WiSTEM TUD Tallaght"
     type: diversity
+
+  - name: "Dublin Maker Town Hall"
+    url: "http://www.dublinmaker.ie/dublin-maker-town-hall/"
+    region: 🇮🇪
+    date_added: 2021-03-03
+    start_datetime: 2021-03-03T19:00:00Z
+    end_datetime: 2021-03-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+    
   
