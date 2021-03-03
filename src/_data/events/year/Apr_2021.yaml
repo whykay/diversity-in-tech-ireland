@@ -32,3 +32,15 @@ eventlistings:
     recurring: false
     desc: "We invite you to join Gavin Fox ( Dublin Tech Talks) as he hosts a panel discussion on Female Leadership with WITS Chair Dr. Andrea Johnson and Gillian Harford ( 30% Club). This is the closing event in our Female Leadership Series."
     type: diversity
+
+  - name: "Cocktails o'clock with Women who (usually) Cowork"
+    url: "https://www.eventbrite.ie/e/cocktails-oclock-with-women-who-usually-cowork-registration-131326040723"
+    region: 🇮🇪
+    date_added: 2021-03-03
+    start_datetime: 2021-04-02T17:00:00Z
+    end_datetime: 2021-04-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+    
