@@ -5,7 +5,7 @@ conferences:
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-02-20T00:00:00Z
-    end_datetime: 2021-02-20T00:00:00Z
+    end_datetime: 
     new: false
     recurring: false
     desc: "Online event. A tech conference by students, for students in Ireland."
@@ -16,7 +16,7 @@ conferences:
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-03-27T00:00:00Z
-    end_datetime: 2021-03-27T00:00:00Z
+    end_datetime: 
     new: false
     recurring: false
     desc: Online Event
@@ -27,7 +27,7 @@ conferences:
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-06-17T00:00:00Z
-    end_datetime: 2021-06-17T00:00:00Z
+    end_datetime: 
     new: false
     recurring: false
     desc: Online
@@ -38,7 +38,7 @@ conferences:
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-04-10T00:00:00Z
-    end_datetime: 2021-04-10T00:00:00Z
+    end_datetime:
     new: false
     recurring: false
     desc: TBA
@@ -153,4 +153,16 @@ conferences:
     recurring: false
     desc: "SCI:COM is a unique online event that welcomes great minds from the arena of science communication for an exciting day of talks, panel discussions, and networking."
     type: scicomm
+    status: active
+
+  - name: "Cork DevCon"
+    url: "https://devcon.ie/"
+    region: 🇮🇪
+    date_added: 2021-03-03
+    start_datetime: 2021-03-27T09:30:00Z
+    end_datetime: 
+    new: true
+    recurring: false
+    desc: "A Cork-based tech conference bringing awareness to the exciting technology developments in the south of Ireland. Cork DevCon is an initiative by UCC Netsoc."
+    type: tech
     status: active
