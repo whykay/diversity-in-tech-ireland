@@ -68,7 +68,11 @@ opportunities:
     url: "https://www.ndrc.ie/programmes#early"
     region: 🇮🇪
     status: new
-
+  - name: "StepIn2Tech"
+    desc: "Unsure how to get a job in the tech industry? Have you been recently made unemployed? Is your job currently at risk or are you just looking for a fresh start? StepIn2Tech can provide you with a mentored pathway to a career in the technology sector."
+    url: "https://fit.ie/stepin2tech/"
+    region: 🇮🇪
+    status: new
 aob:
   - name: "BelfastFP moving away from Meetup"
     desc:
