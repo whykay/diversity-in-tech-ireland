@@ -108,6 +108,10 @@ resources:
     desc: 'Because of COVID-19, they temporarily updated their in-person event policy to permit groups to host events online. They have high level pointers to various tools and some tips.'
     url: "https://help.meetup.com/hc/en-us/articles/360040609112"
     status:
+  - name: "Meetup - Updated tips and resources"
+    desc: "Their new what's happening now on their landing page as well as more references on tips and tricks to make your event more engaging."
+    url: "https://www.meetup.com/blog/2-million-online-events-show-community-is-at-your-fingertips/"
+    status: new
   - name: "Zoom - Guide to safely use Zoon (via Silicon Repubic)"
     desc: 'Because of COVID-19, they temporarily updated their in-person event policy to permit groups to host events online. They have high level pointers to various tools and some tips.'
     url: "https://www.siliconrepublic.com/enterprise/zoom-meetings-security-how-to-guide"
