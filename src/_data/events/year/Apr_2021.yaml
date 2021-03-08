@@ -39,8 +39,40 @@ eventlistings:
     date_added: 2021-03-03
     start_datetime: 2021-04-02T17:00:00Z
     end_datetime: 2021-04-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
     
+  - name: "NCAD & The Digital Hub Co-hosted Digital Cultures Webinar Series 2021: AI and Ethics. Moral Machines - Model Behaviour"
+    url: "https://www.ncad.ie/gallery-event/view/digital-cultures-webinar-series-2021"
+    region: 🇮🇪
+    date_added: 2021-03-08
+    start_datetime: 2021-04-01T19:00:00Z
+    end_datetime: 2021-04-01T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<div>Speakers:Professor Barry O’Sullivan, Nora Al Badri</div><div>Moderator: Artist Elaine Hoey</div>"
+    type: art, tech
+
+  - name: "NCAD & The Digital Hub Co-hosted Digital Cultures Webinar Series 2021: AI and Creativity - Speculative Futures"
+    url: "https://www.ncad.ie/gallery-event/view/digital-cultures-webinar-series-2021"
+    region: 🇮🇪
+    date_added: 2021-03-08
+    start_datetime: 2021-04-15T19:00:00Z
+    end_datetime: 2021-04-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<div>Speakers:Johanna Bruckner, Dr. Arthur Miller</div><div>Moderator: Artist Elaine Hoey</div>"
+    type: art, tech
+
+  - name: "NCAD & The Digital Hub Co-hosted Digital Cultures Webinar Series 2021: Digital Economies | Digital Intimacies"
+    url: "https://www.ncad.ie/gallery-event/view/digital-cultures-webinar-series-2021"
+    region: 🇮🇪
+    date_added: 2021-03-08
+    start_datetime: 2021-04-29T19:00:00Z
+    end_datetime: 2021-04-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<div>Speakers:Antonia Hernández, Dr Kylie Jarrett</div><div>Moderator: Dr.Rachel O’Dwyer, NCAD</div>"
+    type: art, tech
