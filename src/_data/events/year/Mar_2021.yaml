@@ -779,3 +779,24 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: "<div>Panellists:Dr. Patrick Bresnihan, Dr. Julie Freeman, Fiona McDonald</div><div>Moderator: Dr.Rachel O’Dwyer, NCAD Lecturer</div>"
     type: art, tech
+
+  - name: "Dublin Python&Chill 🐍: Attack on leetcode.com: Array manipulations-easy mode #3"
+    url: "https://www.meetup.com/dublin-python-chill/events/276647475/"
+    region: 🇮🇪
+    date_added: 2021-03-09
+    start_datetime: 2021-03-16T18:30:00Z
+    end_datetime: 2021-03-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: ""
+    type: tech
+  - name: "Tech Women Dublin: From Allies to Mentors, How to Build and Nurture a Support Network"
+    url: "https://www.meetup.com/Tech-Women-Dublin/events/276720687/"
+    region: 🇮🇪
+    date_added: 2021-03-09
+    start_datetime: 2021-03-10T18:00:00Z
+    end_datetime: 2021-03-10T19:30:00Z
+    new: true
+    recurring: false
+    desc: "From finding a mentor (or becoming one) to being better allies for our female colleagues, increasing sisterhood in the workplace is the best way to fast-track our way up the corporate ladder and increase diversity in the tech industry."
+    type: diversity
