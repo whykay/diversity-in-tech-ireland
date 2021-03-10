@@ -67,12 +67,24 @@ opportunities:
     desc: 'Take your first step to building a globally scalable startup by joining a community, sharing your ideas with top mentors, and preparing your startup for investment or an accelerator with our dedicated regional teams at NDRC.'
     url: "https://www.ndrc.ie/programmes#early"
     region: 🇮🇪
-    status: new
+    status: 
   - name: "StepIn2Tech"
     desc: "Unsure how to get a job in the tech industry? Have you been recently made unemployed? Is your job currently at risk or are you just looking for a fresh start? StepIn2Tech can provide you with a mentored pathway to a career in the technology sector."
     url: "https://fit.ie/stepin2tech/"
     region: 🇮🇪
     status: new
+  - name: "Lesbians Who Tech: Edie Windsor Scholorship Fund 2021"
+    desc: "The Edie Windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology."
+    url: "https://lesbianswhotech.org/codingscholarship/"
+    region: 
+    status: new
+  - name: "Patch Programme 2021"
+    desc: "Patch is a 6 week long summer accelerator for 16 – 21 year olds. Participating teams spend the summer working on a chosen project, getting to know an energetic group of peers and learning from brilliant mentors and speakers. Patch is open to future entrepreneurs, scientists, engineers, designers and technologists of all stripes."
+    url: "https://joinpatch.org"
+    region: 🇮🇪
+    status: new
+
+
 aob:
   - name: "BelfastFP moving away from Meetup"
     desc:
