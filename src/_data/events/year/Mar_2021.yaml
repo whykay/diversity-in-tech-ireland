@@ -456,7 +456,7 @@ eventlistings:
     end_datetime: 2021-03-16T20:00:00Z
     new: false
     recurring: false
-    desc: 
+    desc: "Have you an idea for a social impact app? Sign-up for FREE workshop series. Powered by Thunkable. Realise your app from scratch - no coding."
     type: diversity
 
   - name: "Tech For Good Dublin: Tech 4 Good App Challenge 2021: Workshop 2 – App Development and Launching" 
@@ -775,7 +775,7 @@ Fireside Chat with Bethany Deshpande"
     date_added: 2021-03-08
     start_datetime: 2021-03-18T19:00:00Z
     end_datetime: 2021-03-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<div>Panellists:Dr. Patrick Bresnihan, Dr. Julie Freeman, Fiona McDonald</div><div>Moderator: Dr.Rachel O’Dwyer, NCAD Lecturer</div>"
     type: art, tech
@@ -786,7 +786,7 @@ Fireside Chat with Bethany Deshpande"
     date_added: 2021-03-09
     start_datetime: 2021-03-16T18:30:00Z
     end_datetime: 2021-03-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: ""
     type: tech
@@ -796,7 +796,7 @@ Fireside Chat with Bethany Deshpande"
     date_added: 2021-03-09
     start_datetime: 2021-03-10T18:00:00Z
     end_datetime: 2021-03-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "From finding a mentor (or becoming one) to being better allies for our female colleagues, increasing sisterhood in the workplace is the best way to fast-track our way up the corporate ladder and increase diversity in the tech industry."
     type: diversity
@@ -807,7 +807,20 @@ Fireside Chat with Bethany Deshpande"
     date_added: 2021-03-10
     start_datetime: 2021-03-25T18:45:00Z
     end_datetime: 2021-03-25T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: ""
     type: tech
+
+  - name: "Online Coworking Day with Women Co"
+    url: "https://www.eventbrite.ie/e/online-coworking-day-with-women-co-tickets-146537039229"
+    region: 🇮🇪
+    date_added: 2021-03-16
+    start_datetime: 2021-03-24T09:30:00Z
+    end_datetime: 2021-03-24T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This month, we continue our focus on community, and on each and everyone of you!</p>
+          <div>In our Lunch & Learn session, Michalina, an award-winning aesthetician will share skincare tips for women working remotely.The afternoon presentation will continue on from our new series of presentations showcasing our community members. Leyla will share her story, introduce YourY Network and KPesa work and the importance of networking and community.</div>"
+    type: diversity
+
