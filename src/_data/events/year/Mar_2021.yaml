@@ -824,7 +824,6 @@ Fireside Chat with Bethany Deshpande"
           <div>In our Lunch & Learn session, Michalina, an award-winning aesthetician will share skincare tips for women working remotely.The afternoon presentation will continue on from our new series of presentations showcasing our community members. Leyla will share her story, introduce YourY Network and KPesa work and the importance of networking and community.</div>"
     type: diversity
 
-
   - name: "WTM UK & Ireland - International Women's Day"
     url: "https://gdg.community.dev/events/details/google-gdg-london-presents-wtm-uk-ireland-international-womens-day/#/"
     region: 🇮🇪🇬🇧
@@ -835,4 +834,13 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: "Women Techmakers is Google's global program & brand for women in technology. Every year, in celebration of International Women's Day, WomenTechmakers chapters across the globe host talks, conferences, & workshops. This year, chapters across the UK & Ireland have come together to host an online UK&I IWD summit on March 20. We have a Sony Headphone (worth £230) to give away plus Google Nest minis!"
     type: diversity
-
+  - name: "Innovating for Cyber Resilience"
+    url: "https://ti.to/cybersecurity-innovation-for-cyber-resilence/innovating-for-cyber-resilence"
+    region: 🇮🇪
+    date_added: 2021-03-18
+    start_datetime: 2021-03-24T13:30:00Z
+    end_datetime: 2021-03-24T15:30:00Z
+    new: true
+    recurring: false
+    desc: "We are delighted to invite you to an international event hosted by Dublin BIC in collaboration with the US Embassy in Ireland and Boston College. Panel of international cybersecurity experts examine the threats, technologies and innovations shaping the cybersecurity landscape of 2021 and beyond."
+    type: tech
