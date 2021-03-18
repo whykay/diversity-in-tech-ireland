@@ -864,3 +864,13 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: "Drop in FRIDAY 26th March @ 12.45pm for a lunchtime DevOps session (dare we say LunchOps??) featuring Darko Mesaroš, AWS Senior Developer Advocate"
     type: tech
+  - name: "Data Science and Engineering Club: Mastering Data Engineering"
+    url: "https://www.meetup.com/Data-Science-and-Engineering-Club/events/276989693/"
+    region: 🇮🇪
+    date_added: 2021-03-18
+    start_datetime: 2021-03-27T10:00:00Z
+    end_datetime: 2021-03-27T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
