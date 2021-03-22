@@ -818,7 +818,7 @@ Fireside Chat with Bethany Deshpande"
     date_added: 2021-03-16
     start_datetime: 2021-03-24T09:30:00Z
     end_datetime: 2021-03-24T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This month, we continue our focus on community, and on each and everyone of you!</p>
           <div>In our Lunch & Learn session, Michalina, an award-winning aesthetician will share skincare tips for women working remotely.The afternoon presentation will continue on from our new series of presentations showcasing our community members. Leyla will share her story, introduce YourY Network and KPesa work and the importance of networking and community.</div>"
@@ -874,3 +874,75 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: 
     type: tech
+
+  - name: "Horizon Europe - Launch Event for Ireland"
+    url: "https://go.globalambition.ie/Horizon-EU-Launch.html"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-25T09:30:00Z
+    end_datetime: 2021-03-25T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: funding
+  - name: "Iconic Offices Virtual Events Meetup Group: Getting Visible & Growing Your Personal Brand Online with Nicky Raby"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276668586/"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-23T11:00:00Z
+    end_datetime: 2021-03-23T11:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Bash!: Modern JVM Development Bash!"
+    url: "https://www.meetup.com/devbash/events/276733036/"
+    region: 
+    date_added: 2021-03-22
+    start_datetime: 2021-03-26T12:00:00Z
+    end_datetime: 2021-03-26T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "IGGD Lunch with Phorest Salon Software"
+    url: "https://www.meetup.com/Ireland-Girl-Geek-Dinners/events/276964031/"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-29T13:00:00Z
+    end_datetime: 2021-03-29T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Iconic Offices Virtual Events Meetup Group: What Is Blockchain & Why Does It Matter with Lory Kehoe"
+    url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/276668889/"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-30T12:00:00Z
+    end_datetime: 2021-03-30T13:40:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Startup Founder 101: Online Startup Idea Fest: Build and Share Ideas with Potential Customers"
+    url: "https://www.meetup.com/Dublin-Startup-Founders-101/events/276753519/"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-30T19:00:00Z
+    end_datetime: 2021-03-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Ruby Ireland: Not Lost In Translation"
+    url: "https://www.meetup.com/rubyireland/events/276877365/"
+    region: 🇮🇪
+    date_added: 2021-03-22
+    start_datetime: 2021-03-31T18:30:00Z
+    end_datetime: 2021-03-31T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech   
+     
