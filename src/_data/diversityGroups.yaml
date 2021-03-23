@@ -833,3 +833,13 @@ groups:
     date_removed:
     status: new
     type: all 
+  - name: "Women in Tech Entrepreneurs & aspiring"
+    url: "https://www.meetup.com/wetech/"
+    region: Dublin
+    date_added: 2021-03-23
+    year_added: 2021
+    month_added: 03
+    day_added: 23
+    date_removed:
+    status: new
+    type: all 
