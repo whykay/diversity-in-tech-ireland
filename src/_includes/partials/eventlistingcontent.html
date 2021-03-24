@@ -36,6 +36,8 @@
             {% endif %}
             {% set listings = thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
             
+            <p> ℹ️ Number of events (excluding conferences): {{ thisMonthListings.eventlistings | length }}</p>
+
             {% for event in thisMonthListings.eventlistings  | sort(attribute='start_datetime') %}
                 {% if event.type != "diversity" %}
                 <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
