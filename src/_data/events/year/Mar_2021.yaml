@@ -945,4 +945,15 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: 
     type: tech   
-     
+  
+  - name: "TOG - Arduino Day"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/277128390/"
+    region: 🇮🇪
+    date_added: 2021-03-24
+    start_datetime: 2021-03-27T11:00:00Z
+    end_datetime: 2021-03-27T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech  
+    
