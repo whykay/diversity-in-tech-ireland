@@ -956,3 +956,13 @@ Fireside Chat with Bethany Deshpande"
     recurring: false
     desc: 
     type: tech  
+  - name: "Flutter Engage Extended UK & Ireland"
+    url: "https://gdg.community.dev/events/details/google-gdg-london-presents-flutter-engage-extended-uk-ireland/"
+    region: 🇮🇪🇬🇧
+    date_added: 2021-03-24
+    start_datetime: 2021-03-25T18:00:00Z
+    end_datetime: 2021-03-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
