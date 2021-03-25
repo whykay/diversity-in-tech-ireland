@@ -72,18 +72,22 @@ opportunities:
     desc: "Unsure how to get a job in the tech industry? Have you been recently made unemployed? Is your job currently at risk or are you just looking for a fresh start? StepIn2Tech can provide you with a mentored pathway to a career in the technology sector."
     url: "https://fit.ie/stepin2tech/"
     region: 🇮🇪
-    status: new
+    status: 
   - name: "Lesbians Who Tech: Edie Windsor Scholorship Fund 2021"
     desc: "The Edie Windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology."
     url: "https://lesbianswhotech.org/codingscholarship/"
     region: 
-    status: new
+    status: 
   - name: "Patch Programme 2021"
     desc: "Patch is a 6 week long summer accelerator for 16 – 21 year olds. Participating teams spend the summer working on a chosen project, getting to know an energetic group of peers and learning from brilliant mentors and speakers. Patch is open to future entrepreneurs, scientists, engineers, designers and technologists of all stripes."
     url: "https://joinpatch.org"
     region: 🇮🇪
+    status: 
+  - name: "Future in Tech Programmes"
+    desc: "8 tech skills programmes to help non-tech jobseekers rapidly and easily develop new digital skills and access new job opportunities. Candidates must be at least 18 years old and be unemployed."
+    url: "http://www.futureintech.ie/"
+    region: 🇮🇪
     status: new
-
 
 aob:
   - name: "BelfastFP moving away from Meetup"
