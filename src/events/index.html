@@ -193,7 +193,7 @@ data:  events.other, events.recurring
             {% if opportunity.status != "archive" %}
                 <div class="border-solid border-1 bg-green-100 rounded-lg p-5 text-base mb-2">
                     <div>
-                        <a href="{{ event.url }}">{{ opportunity.name }}</a> {% if opportunity.region %}{{ opportunity.region }}{% endif %} {% if opportunity.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                        <a href="{{ opportunity.url }}">{{ opportunity.name }}</a> {% if opportunity.region %}{{ opportunity.region }}{% endif %} {% if opportunity.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
                     <div class="text-sm">
                         {{ opportunity.desc | safe }}
