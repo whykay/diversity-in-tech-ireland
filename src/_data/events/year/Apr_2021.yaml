@@ -110,4 +110,36 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-    
+
+  - name: "Dogpatch Labs: Inspire | Acquisitions and AI-Assisted Artistry: Fireside Chat with Eric Risser"
+    url: "https://www.crowdcast.io/e/fireside-chat-with-eric/register"
+    region: 🇮🇪
+    date_added: 2021-03-26
+    start_datetime: 2021-04-02T13:00:00Z
+    end_datetime: 2021-04-02T14:00:00Z
+    new: yes
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Dogpatch Labs: Educate | Fundraising for Scale: from Seed to Series C with David Andreasson"
+    url: "https://www.crowdcast.io/e/gndgzj02/register"
+    region: 🇮🇪
+    date_added: 2021-03-26
+    start_datetime: 2021-04-02T14:00:00Z
+    end_datetime: 2021-04-02T15:00:00Z
+    new: yes
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "UCD Women+ in STEM: Women in Industry Panel Discussion with UCD Women+ in STEM"
+    url: "https://www.eventbrite.ie/e/women-in-industry-panel-discussion-with-ucd-women-in-stem-tickets-148453346957"
+    region: 🇮🇪
+    date_added: 2021-03-29
+    start_datetime: 2021-04-01T18:00:00Z
+    end_datetime: 2021-04-01T20:00:00Z
+    new: yes
+    recurring: false
+    desc: 
+    type: diversity
