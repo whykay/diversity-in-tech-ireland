@@ -164,4 +164,14 @@ eventlistings:
     new: true
     recurring: false
     desc: 
-    type: startup
+    type: tech
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/zjvcvryccgbjb/"
+    region: 🇮🇪
+    date_added: 2021-04-01
+    start_datetime: 2021-04-06T19:00:00Z
+    end_datetime: 2021-04-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
