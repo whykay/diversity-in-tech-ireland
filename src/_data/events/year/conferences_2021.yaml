@@ -178,3 +178,16 @@ conferences:
     desc: "The Irish Startup Conference 2021 is our second annual conference for Irish Startups, gathering founders, VCs, executives, seed fund partners, general partners, journalists and bloggers from diverse backgrounds and industries."
     type: startup
     status: active
+
+  - name: "Juliacon 2021"
+    url: "https://www.eventbrite.ie/e/the-irish-startup-conference-2021-tickets-143836913079"
+    region: Global
+    date_added: 2021-04-01
+    start_datetime: 2021-07-28T00:00:00Z
+    end_datetime: 2021-07-30T00:00:00Z
+    new: true
+    recurring: false
+    desc: "JuliaCon is back online in 2021. Tickets are free, but registration is required. The main conference talks will be held between the 28th and 30th of July. Workshops will be held in the previous week."
+    type: tech
+    status: active
+    
