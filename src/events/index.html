@@ -131,7 +131,7 @@ data:  events.other, events.recurring
                         <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
                     <div class="text-base">
-                        {{ conf.desc }}
+                        {{ conf.desc | safe }}
                     </div>
                     <div>
                         When: {{ conf.start_datetime | readableDate() }} {% if conf.end_datetime %} - {{ conf.end_datetime | readableDate() }}{% endif %}
