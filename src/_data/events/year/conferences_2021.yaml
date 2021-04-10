@@ -201,7 +201,7 @@ conferences:
     end_datetime: 2021-06-20T00:00:00Z
     new: true
     recurring: false
-    desc: "<div>Dublin Maker is back this year on Sat Jun 19 - Sun Jun 20 on Gather Town</div><div>📢 Open Call now live for project submisstions. Deadline: Tue May 4, 6PM (Irish Time).</div>"
+    desc: "<div>Dublin Maker is back this year on Sat Jun 19 - Sun Jun 20 on Gather Town</div><div>📢 Open Call now live for project submissions. Deadline: Tue May 4, 6PM (Irish Time).</div>"
     type: maker
     status: active
 
