@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2021-04-01
     start_datetime: 2021-04-22T19:30:00Z
     end_datetime: 2021-04-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2021-04-01
     start_datetime: 2021-04-06T18:30:00Z
     end_datetime: 2021-04-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -171,7 +171,258 @@ eventlistings:
     date_added: 2021-04-01
     start_datetime: 2021-04-06T19:00:00Z
     end_datetime: 2021-04-06T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: games
+
+  - name: "Dublin Coding School Events: Free Online Lesson in Full-Stack Web Development"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/277464676"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-15T18:00:00Z
+    end_datetime: 2021-04-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Crack The Coding Interview Discussion - Stacks and Queues (Part 1)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/277249847/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-11T17:00:00Z
+    end_datetime: 2021-04-11T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech   
+  - name: "Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/dbtpgsyccfbpc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-11T18:00:00Z
+    end_datetime: 2021-04-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker   
+  - name: "Dublin Coding School Events: Panel discussion: Tech-Jobs in the Property Sector"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/277465265/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-15T18:00:00Z
+    end_datetime: 2021-04-15T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "BlockW Ireland: Anyone for a Blockchain Beer ? Blockchain: Creating trust through transparency"
+    url: "https://www.meetup.com/BlockW-Ireland/events/275850306/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T12:00:00Z
+    end_datetime: 2021-04-14T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Dublin Coding School Events: Free Online Lesson in Full-Stack Web Development"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/277464676/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T18:00:00Z
+    end_datetime: 2021-04-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/kqwjvryccgbsb/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T18:30:00Z
+    end_datetime: 2021-04-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "The Games Co-Op: Planet of the April"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/277073400/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T19:00:00Z
+    end_datetime: 2021-04-14T23:30:00Z
     new: true
     recurring: false
     desc: 
     type: games
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/BlockW-Ireland/events/275850306/"
+    region:
+    date_added: 2021-04-09
+    start_datetime: 2021-04-15T08:00:00Z
+    end_datetime: 2021-04-15T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Write the Docs Ireland: How to build a strong techwriters community - lessons from Poland"
+    url: "https://www.meetup.com/pythonireland/events/kqwjvryccgbsb/"
+    region: 🇪🇺
+    date_added: 2021-04-09
+    start_datetime: 2021-04-15T18:00:00Z
+    end_datetime: 2021-04-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A (online)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/zgjvgsyccgbwb/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-17T15:00:00Z
+    end_datetime: 2021-04-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "PyLadies Dublin: Bias in NLP by Alina Zhiltsova || Automating social media content w/ Python & Mako by Lais Carvalho"
+    url: "https://www.meetup.com/PyLadiesDublin/events/276397145/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-20T18:30:00Z
+    end_datetime: 2021-04-20T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "How She Did It - Women Tech Entrepreneurs Series"
+    url: "https://www.meetup.com/wetech/events/ccldcsyccgbbc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-20T19:00:00Z
+    end_datetime: 2021-04-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/mfccbsyccgbdc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-22T19:00:00Z
+    end_datetime: 2021-04-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace: Holiday Hack Challenge redo :-)"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/fqzkfsyccgbgc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-24T17:00:00Z
+    end_datetime: 2021-04-24T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/dbtpgsyccgbhc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-25T18:00:00Z
+    end_datetime: 2021-04-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker  
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccgbmc/"
+    region:
+    date_added: 2021-04-09
+    start_datetime: 2021-04-29T08:00:00Z
+    end_datetime: 2021-04-29T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity  
+  - name: "DevOps Belfast"
+    url: "https://www.meetup.com/DevOps-Belfast/events/qffxhryccgbbc/"
+    region: 
+    date_added: 2021-04-09
+    start_datetime: 2021-04-22T18:30:00Z
+    end_datetime: 2021-04-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "WWCode Belfast: Technology CV Clinic with Hayward Hawk"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/277467470/"
+    region:
+    date_added: 2021-04-09
+    start_datetime: 2021-04-22T13:00:00Z
+    end_datetime: 2021-04-22T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity 
+  - name: "April Online DevOps Galway (Insights)"
+    url: "https://www.meetup.com/DevOps-Galway/events/277254899/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T10:00:00Z
+    end_datetime: 2021-04-14T10:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "April Online DevOps Galway Meetup"
+    url: "https://www.meetup.com/DevOps-Galway/events/277254803/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-26T18:30:00Z
+    end_datetime: 2021-04-26T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "CorkJS: Sunday’s productive JS and coffee meetings."
+    url: "https://www.meetup.com/Cork-JavaScript-Meetup/events/qkppxryccgbpb/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-11T14:00:00Z
+    end_datetime: 2021-04-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Cork|Sec 94"
+    url: "https://www.meetup.com/CorkSec/events/277039573/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-13T19:00:00Z
+    end_datetime: 2021-04-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Cork - April"
+    url: "https://www.meetup.com/UX-Cork-Group/events/mvswcsyccgbcc/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-14T18:30:00Z
+    end_datetime: 2021-04-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "14th Cork.Net Meetup - #WomenInTech: Head in the Cloud, Heart in the Community"
+    url: "https://www.meetup.com/CorkDotNetAzure/events/276686963/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-04-27T18:00:00Z
+    end_datetime: 2021-04-27T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity

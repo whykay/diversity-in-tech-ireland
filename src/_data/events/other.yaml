@@ -31,10 +31,6 @@ cancelled:
     desc: Physcial EuroPython in Dublin moved to MON JUL 11 - SUN JUL 17 (2022)
     url: "https://europython.eu/"
     status:
-  - name: "Dublin Maker 2020"
-    desc: 'Postponed to Summer 2021. See <a href="https://twitter.com/dublinmaker">@DublinMaker</a> on Twitter for latest updates.'
-    url: "http://www.dublinmaker.ie"
-    status:
   - name: "ShipItCon"
     desc: 'Postponed to 2021, check website for updates'
     url: "https://shipitcon.com/covid-19-update/"
