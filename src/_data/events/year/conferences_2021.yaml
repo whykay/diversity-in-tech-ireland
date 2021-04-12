@@ -192,7 +192,6 @@ conferences:
     type: tech
     status: active
 
-
   - name: "Dublin Maker Festival 2021 (Virtual)"
     url: "http://www.dublinmaker.ie"
     region: 🇮🇪
@@ -204,6 +203,8 @@ conferences:
     desc: "<div>Dublin Maker is back this year on Sat Jun 19 - Sun Jun 20 on Gather Town</div><div>📢 Open Call now live for project submissions. Deadline: Tue May 4, 6PM (Irish Time).</div>"
     type: maker
     status: active
+
+
 
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
