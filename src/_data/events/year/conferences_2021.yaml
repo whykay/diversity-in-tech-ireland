@@ -38,7 +38,7 @@ conferences:
     region: 🇮🇪
     date_added: 2021-02-05
     start_datetime: 2021-10-16T09:00:00Z
-    end_datetime: 2021-10-16T11:00:00Z
+    end_datetime: 
     new: false
     recurring: false
     desc: "SatRDays are community-led, regional conferences to support collaboration, networking and innovation within the R community."
@@ -205,4 +205,18 @@ conferences:
     type: maker
     status: active
 
-  
+  - name: "PyCon Limerick 2022"
+    url: "https://www.linkedin.com/events/6786971879539306498/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2022-03-26T09:00:00Z
+    end_datetime: 
+    new: true
+    recurring: false
+    desc: "<div>PyCon Limerick will return in Spring 2022. Please RSVP to stay up to date with further announcements.
+    <ul>
+      <li>The proposed venue is in Limerick City Centre</li>
+      <li>The proposed date is the first Saturday after the 6 Nations rugby championship.</li>
+    </ul></div>"
+    type: maker
+    status: active
