@@ -83,6 +83,11 @@ opportunities:
     desc: "8 tech skills programmes to help non-tech jobseekers rapidly and easily develop new digital skills and access new job opportunities. Candidates must be at least 18 years old and be unemployed."
     url: "http://www.futureintech.ie/"
     region: 🇮🇪
+    status:
+  - name: "The Linux Foundation Summer Mentorship Program"
+    desc: "The application period for the summer term is April 15-May 14. The summer term is June 1 - August 30 (longer for people who would like to do it part time). See website for more info."
+    url: "https://lfx.linuxfoundation.org/tools/mentorship"
+    region:
     status: new
 
 aob:

@@ -77,17 +77,6 @@ conferences:
     desc: "Online"
     type: tech
     status: active
-  - name: "EuroPython 2022 - Dublin"
-    url: "https://blog.europython.eu/post/632055258029473792/europython-2021-will-be-run-online"
-    region: 🇮🇪
-    date_added: 2021-02-05
-    start_datetime: 2022-07-11T00:00:00Z
-    end_datetime: 2022-08-17T00:00:00Z
-    new: false
-    recurring: false
-    desc: "First time this week long traveliing Python conference will be in Dublin."
-    type: tech
-    status: active
   - name: "OFFSET DUBLIN 2021"
     url: "https://www.iloveoffset.com"
     region: 🇮🇪
@@ -162,7 +151,7 @@ conferences:
     date_added: 2021-03-09
     start_datetime: 2021-04-27T16:00:00Z
     end_datetime: 
-    new: true
+    new: false
     recurring: false
     desc: "The Irish Startup Conference 2021 is our second annual conference for Irish Startups, gathering founders, VCs, executives, seed fund partners, general partners, journalists and bloggers from diverse backgrounds and industries."
     type: startup
@@ -174,7 +163,7 @@ conferences:
     date_added: 2021-04-01
     start_datetime: 2021-07-28T00:00:00Z
     end_datetime: 2021-07-30T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "JuliaCon is back online in 2021. Tickets are free, but registration is required. The main conference talks will be held between the 28th and 30th of July. Workshops will be held in the previous week."
     type: tech
@@ -185,7 +174,7 @@ conferences:
     date_added: 2021-04-01
     start_datetime: 2021-05-25T00:00:00Z
     end_datetime: 2021-05-27T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<div>Innovate | Transform | Inspire</div>
            <div>Prepare to join for our annual Tech Conference to hear from legends, luminaries and thought leaders on everything tech and future forward. Stay tuned for more details!</div>"
@@ -198,7 +187,7 @@ conferences:
     date_added: 2021-04-09
     start_datetime: 2021-06-19T00:00:00Z
     end_datetime: 2021-06-20T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<div>Dublin Maker is back this year on Sat Jun 19 - Sun Jun 20 on Gather Town</div><div>📢 Open Call now live for project submissions. Deadline: Tue May 4, 6PM (Irish Time).</div>"
     type: maker
@@ -206,13 +195,27 @@ conferences:
 
 
 
+  - name: "ShortStack Conference"
+    url: "https://shortstackcon.com/"
+    region:
+    date_added: 2021-04-20
+    start_datetime: 2021-07-03T00:00:00Z
+    end_datetime: 
+    new: true
+    recurring: false
+    desc: "A Lightning talk conference. 'The goal is to give people who don’t normally have the opportunity, or the confidence to speak, a slot to talk about something they’re interested in.'"
+    type: tech
+    status: active
+
+
+# 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
     region: 🇮🇪
     date_added: 2021-04-09
     start_datetime: 2022-03-26T09:00:00Z
     end_datetime: 
-    new: true
+    new: false
     recurring: false
     desc: "<div>PyCon Limerick will return in Spring 2022. Please RSVP to stay up to date with further announcements.
     <ul>
@@ -220,4 +223,15 @@ conferences:
       <li>The proposed date is the first Saturday after the 6 Nations rugby championship.</li>
     </ul></div>"
     type: maker
+    status: active
+  - name: "EuroPython 2022 - Dublin"
+    url: "https://blog.europython.eu/post/632055258029473792/europython-2021-will-be-run-online"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2022-07-11T00:00:00Z
+    end_datetime: 2022-08-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: "First time this week long traveliing Python conference will be in Dublin."
+    type: tech
     status: active

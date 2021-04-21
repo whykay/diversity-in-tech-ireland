@@ -529,4 +529,15 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
-  
+
+  - name: "TOG Hackerspace - April Live Stream"
+    url: "https://www.tog.ie/2021/04/april-live-stream/"
+    region:
+    date_added: 2021-04-21
+    start_datetime: 2021-04-28T19:00:00Z
+    end_datetime: 
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+    
