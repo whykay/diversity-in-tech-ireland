@@ -21,3 +21,23 @@ eventlistings:
     desc: "This month we welcome back the ever so awesome community Pythonista, Lais Carvalho!She will be talking about 'Newbie is not nobody! How you can contribute to communities even if you are new.'"
     type: diversity
 
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/zjvcvryccjbcb/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-06-01T19:00:00Z
+    end_datetime: 2021-06-01T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: games
+  - name: "Cork|Sec 96"
+    url: "https://www.meetup.com/CorkSec/events/277039581/"
+    region: 🇮🇪
+    date_added: 2021-04-09
+    start_datetime: 2021-06-08T19:00:00Z
+    end_datetime: 2021-06-08T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: games
