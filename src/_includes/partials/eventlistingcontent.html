@@ -45,7 +45,7 @@
                         <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}<span class="text-xs">{{ event.region }}</span>{% endif %} {% if event.type %}<span class="text-xs bg-green-200 pr-2 pl-2">{{ event.type }}</span>{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
                     </div>
                     <div>
-                        When: {{ event.start_datetime | readableDateTime() }} - {{ event.end_datetime | readableDateTime() }}
+                        When: {{ event.start_datetime | readableDateTime() }} {% if event.end_datetime %}- {{ event.end_datetime | readableDateTime() }}{% endif %}
                     </div>
                 </div>                
                 {% endif %}
