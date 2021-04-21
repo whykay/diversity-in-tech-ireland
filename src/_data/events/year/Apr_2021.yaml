@@ -550,3 +550,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "Dublin Coding School Events: Free Online Lesson in Data Analytics and Tableau"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/277710923/"
+    region:
+    date_added: 2021-04-21
+    start_datetime: 2021-04-28T18:00:00Z
+    end_datetime: 2021-04-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
