@@ -566,7 +566,18 @@ eventlistings:
     date_added: 2021-04-21
     start_datetime: 2021-04-29T19:00:00Z
     end_datetime: 2021-04-29T20:30:00Z
-    new: false
+    new: 
     recurring: false
     desc: 
     type: tech
+  - name: "Women in AI meets Formula Trinity"
+    url: "https://www.eventbrite.ca/e/women-in-ai-meets-formula-trinity-tickets-150971552979"
+    region: 🇮🇪
+    date_added: 2021-04-27
+    start_datetime: 2021-04-28T19:00:00Z
+    end_datetime: 2021-04-28T20:30:00Z
+    new: true
+    recurring: false
+    desc: "Join Formula Trinity and WAI Ireland for a panel talk with women working in and researching all things AI, data science and robotics."
+    type: diversity
+
