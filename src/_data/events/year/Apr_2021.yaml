@@ -22,7 +22,7 @@ eventlistings:
     desc: "What does a day at work look like in a post-Covid world? Will remote working be sustainable long term? What other factors might be at play in determining the future professional landscape? WITS Ireland are delighted to invite you to join Ann O'Dea ( Future Human), Damien Clarke ( Zeminar) and Sandra Healy (DCU) for a discussion on the Future of Work. This panel discussion will be moderated by WITS Exec Members Tammy Strickland and Maxime Deckers."
     type: diversity
 
-  - name: "WITS Female Leadership Series 2021-Session 8 Closing Event"
+  - name: "[Postponed]WITS Female Leadership Series 2021-Session 8 Closing Event"
     url: "https://www.eventbrite.com/e/wits-female-leadership-series-2021-session-8-closing-event-tickets-142709856021"
     region: 🇮🇪
     date_added: 2021-02-24
@@ -515,7 +515,7 @@ eventlistings:
     date_added: 2021-04-18
     start_datetime: 2021-04-24T10:00:00Z
     end_datetime: 2021-04-24T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -525,7 +525,7 @@ eventlistings:
     date_added: 2021-04-18
     start_datetime: 2021-04-21T09:30:00Z
     end_datetime: 2021-04-21T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -536,7 +536,7 @@ eventlistings:
     date_added: 2021-04-21
     start_datetime: 2021-04-28T19:00:00Z
     end_datetime: 
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -546,7 +546,7 @@ eventlistings:
     date_added: 2021-04-21
     start_datetime: 2021-04-29T19:00:00Z
     end_datetime: 2021-04-29T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -556,7 +556,7 @@ eventlistings:
     date_added: 2021-04-21
     start_datetime: 2021-04-28T18:00:00Z
     end_datetime: 2021-04-28T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -566,7 +566,7 @@ eventlistings:
     date_added: 2021-04-21
     start_datetime: 2021-04-29T19:00:00Z
     end_datetime: 2021-04-29T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
