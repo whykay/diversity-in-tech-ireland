@@ -282,6 +282,65 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "Scale Ireland's 'Go-to-Market for Start-ups' with Mark Barry of Stripe"
+    url: "https://www.eventbrite.ie/e/scale-irelands-go-to-market-for-start-ups-with-mark-barry-of-stripe-tickets-150901928731"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-11T11:00:00Z
+    end_datetime: 2021-05-11T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Dublin Code Mentoring:Crack The Coding Interview Discussion - Trees and Graphs (Part 1)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/277831795/"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-09T20:30:00Z
+    end_datetime: 2021-05-09T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dogpatch Labs First Fridays: Welcome to Ireland’s Startup Ecosystem"
+    url: "https://www.eventbrite.ie/e/welcome-to-the-irish-ecosystem-tickets-152506766845"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-07T09:00:00Z
+    end_datetime: 2021-05-07T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Dogpatch Labs First Fridays: Educate - 10 reasons why you should join an accelerator"
+    url: "https://www.crowdcast.io/e/5q1bs9yw"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-07T14:00:00Z
+    end_datetime: 2021-05-07T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Dogpatch Labs First Fridays: Inspire - Closing $56m Investment in
+3 months"
+    url: "https://www.crowdcast.io/e/rq24a98n"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-07T13:00:00Z
+    end_datetime: 2021-05-07T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+    
+
+
+
+
+    
+
       
 
 

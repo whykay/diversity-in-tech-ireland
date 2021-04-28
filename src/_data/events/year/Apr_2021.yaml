@@ -580,4 +580,34 @@ eventlistings:
     recurring: false
     desc: "Join Formula Trinity and WAI Ireland for a panel talk with women working in and researching all things AI, data science and robotics."
     type: diversity
-
+  - name: "Frontend @ Zalando"
+    url: "https://www.meetup.com/Zalando-Tech-Events-Dublin/events/277682615/"
+    region: 🇮🇪
+    date_added: 2021-04-27
+    start_datetime: 2021-04-28T17:00:00Z
+    end_datetime: 2021-04-28T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Coding School Events: Free Interactive Workshop in Web Development"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/277805544/"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-04-30T18:00:00Z
+    end_datetime: 2021-04-30T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech   
+  - name: "RebelCon: RebelWomen Brenda Romero"
+    url: "https://ti.to/rebelcon/rebelwomenbrendaromero"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-04-29T19:00:00Z
+    end_datetime: 2021-04-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us on the 29th April from 19:00 - 20:00 BST as we join forces with it@Cork Skillnet and Poppulo to host the second of a series of events devoted to our female leaders in the software industry."
+    type: diversity   
+    
