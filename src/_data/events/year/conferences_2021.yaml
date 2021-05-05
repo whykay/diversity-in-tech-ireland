@@ -244,7 +244,7 @@ conferences:
     date_added: 2021-04-28
     start_datetime: 2021-05-13T10:00:00Z
     end_datetime: 2021-05-14T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The 8th International ARVR Innovate Conference. Where Augmented & Virtual Reality Get Down to Business. ARVR INNOVATE 2021 is packed with new speakers from top international companies deploying AR and VR in their businesses today."
     type: tech
@@ -255,11 +255,24 @@ conferences:
     date_added: 2021-04-28
     start_datetime: 2021-05-17T10:30:00Z
     end_datetime: 2021-05-21T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "AtlanTec 2021 brings together local, national and international speakers to explore some of the key challenges and opportunities this presents. The 2021 Festival will host 30+ virtual events and includes sessions focusing on Digital Transformation, Future of Work, Emerging Tech, Cloud, Cyber Security, Insider Voices and Wellness. An international line-up of expert leaders will present sessions and enable participants to take part in and engage through Q&A’s at the end of each session."
     type: tech
     status: active
+
+  - name: "GDG DevFest Live"
+    url: "https://devfest.live/"
+    region: 🇮🇪
+    date_added: 2021-04-28
+    start_datetime: 2021-05-22T00:00:00Z
+    end_datetime: 
+    new: true
+    recurring: false
+    desc: "international.developer.conference Europe Asia Africa America Australia Antarctica"
+    type: tech
+    status: active
+
 
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
