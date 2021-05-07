@@ -418,7 +418,7 @@ eventlistings:
     type: tech       
   - name: "PyData Dublin Virtual Meetup #2"
     url: "https://www.meetup.com/PyDataDublin/events/277999273/"
-    region:
+    region: 🇮🇪
     date_added: 2021-05-05
     start_datetime: 2021-05-13T18:45:00Z
     end_datetime: 2021-05-13T20:45:00Z
@@ -436,6 +436,28 @@ eventlistings:
     recurring: false
     desc: 
     type: tech 
+
+  - name: "GDG Dublin: Jetpack Compose"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-jetpack-compose/"
+    region: 🇮🇪
+    date_added: 2021-05-05
+    start_datetime: 2021-05-12T18:00:00Z
+    end_datetime: 2021-05-12T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Write the Docs Ireland: Content designers and technical writers – differences and similarities!"
+    url: "https://www.meetup.com/Write-The-Docs-Ireland/events/278024690"
+    region: 🇮🇪
+    date_added: 2021-05-06
+    start_datetime: 2021-05-13T18:00:00Z
+    end_datetime: 2021-05-13T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
     
 
 
