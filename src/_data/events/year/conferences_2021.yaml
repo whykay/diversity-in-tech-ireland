@@ -68,7 +68,7 @@ conferences:
     status: active
   - name: "EuroPython 2021 Online"
     url: "https://ep2021.europython.eu/"
-    region:
+    region: 🇪🇺
     date_added: 2021-02-05
     start_datetime: 2021-07-26T00:00:00Z
     end_datetime: 2021-08-01T00:00:00Z
@@ -263,13 +263,25 @@ conferences:
 
   - name: "GDG DevFest Live"
     url: "https://devfest.live/"
-    region: 🇮🇪
+    region: 🇪🇺
     date_added: 2021-04-28
     start_datetime: 2021-05-22T00:00:00Z
     end_datetime: 
-    new: true
+    new: false
     recurring: false
     desc: "international.developer.conference Europe Asia Africa America Australia Antarctica"
+    type: tech
+    status: active
+
+  - name: "Open Source Community Day #OSSDayEurope"
+    url: "https://www.meetup.com/TIBCO-London-User-Group/events/274920485/"
+    region: 🇪🇺
+    date_added: 2021-05-10
+    start_datetime: 2021-05-18T08:00:00Z
+    end_datetime: 2021-05-18T13:00:00Z
+    new: true
+    recurring: false
+    desc: "Open Source Community Day is a FREE virtual one-day conference for any developer working with the latest technologies on open-source projects."
     type: tech
     status: active
 
