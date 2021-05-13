@@ -285,6 +285,17 @@ conferences:
     type: tech
     status: active
 
+  - name: "Blockchain Ireland Week"
+    url: "https://www.blockchainireland.ie/blockchain-ireland-week/"
+    region: 🇮🇪
+    date_added: 2021-05-11
+    start_datetime: 2021-05-24T00:00:00Z
+    end_datetime: 2021-05-27T00:00:00Z
+    new: true
+    recurring: false
+    desc: "A week of events bringing entrepreneurs, developers and corporate leaders together to build momentum and create opportunities in blockchain technology and crypto across the island of Ireland."
+    type: tech
+    status: active
 
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"

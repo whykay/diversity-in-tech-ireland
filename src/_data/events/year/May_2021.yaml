@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-11T17:00:00Z
     end_datetime: 2021-05-11T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -352,7 +352,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-19T18:00:00Z
     end_datetime: 2021-05-19T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -362,7 +362,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-27T18:30:00Z
     end_datetime: 2021-05-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -372,7 +372,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-19T10:00:00Z
     end_datetime: 2021-05-19T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -382,7 +382,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-09T14:00:00Z
     end_datetime: 2021-05-09T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech    
@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-25T19:00:00Z
     end_datetime: 2021-05-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech   
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-05T20:00:00Z
     end_datetime: 2021-05-05T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech   
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-05T19:00:00Z
     end_datetime: 2021-05-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech       
@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2021-05-05
     start_datetime: 2021-05-13T18:45:00Z
     end_datetime: 2021-05-13T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2021-05-04
     start_datetime: 2021-05-21T12:00:00Z
     end_datetime: 2021-05-21T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech 
@@ -443,7 +443,7 @@ eventlistings:
     date_added: 2021-05-05
     start_datetime: 2021-05-12T18:0:00Z
     end_datetime: 2021-05-12T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -454,12 +454,10 @@ eventlistings:
     date_added: 2021-05-07
     start_datetime: 2021-05-11T18:30:00Z
     end_datetime: 2021-05-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
-
-
 
   - name: "Write the Docs Ireland: Content designers and technical writers – differences and similarities!"
     url: "https://www.meetup.com/Write-The-Docs-Ireland/events/278024690"
@@ -472,6 +470,16 @@ eventlistings:
     desc: 
     type: tech
 
+  - name: "BlockW Ireland: Transitioning into a Career in Blockchain"
+    url: "https://www.meetup.com/BlockW-Ireland/events/278126191"
+    region: 🇮🇪
+    date_added: 2021-05-12
+    start_datetime: 2021-05-26T17:00:00Z
+    end_datetime: 2021-05-26T18:30:00Z
+    new: true
+    recurring: false
+    desc: "This collaborative event is a partnership between BlockW, National College of Ireland and Galway Mayo IT featuring insights from a panel of experienced blockchain professionals, recruiters and academics."
+    type: diversity
 
 
 

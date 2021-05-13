@@ -46,8 +46,19 @@ eventlistings:
     url: "https://www.meetup.com/iconic-offices-virtual-events-meetup-group/events/278044000/"
     region: 🇮🇪
     date_added: 2021-05-07
-    start_datetime: 2021-05-17T11:00:00Z
-    end_datetime: 2021-05-17T11:40:00Z
+    start_datetime: 2021-06-17T11:00:00Z
+    end_datetime: 2021-06-17T11:40:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "Blockchain Ireland Monthly Meetup: June"
+    url: "https://www.blockchainireland.ie/events/blockchain-ireland-monthly-meeting-june-2021/"
+    region: 🇮🇪
+    date_added: 2021-05-11
+    start_datetime: 2021-06-22T08:30:00Z
+    end_datetime: 2021-06-22T09:30:00Z
     new: true
     recurring: false
     desc: 
