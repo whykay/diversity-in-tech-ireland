@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2021-05-06
     start_datetime: 2021-05-13T18:00:00Z
     end_datetime: 2021-05-13T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -481,6 +481,16 @@ eventlistings:
     desc: "This collaborative event is a partnership between BlockW, National College of Ireland and Galway Mayo IT featuring insights from a panel of experienced blockchain professionals, recruiters and academics."
     type: diversity
 
+  - name: "Dublin Java User Group: Spring Boot Tutorial & Q&A"
+    url: "https://www.meetup.com/DublinJavaUserGroup/events/278180989/"
+    region: 🇮🇪
+    date_added: 2021-05-14
+    start_datetime: 2021-05-25T19:00:00Z
+    end_datetime: 2021-05-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
 
 
     
