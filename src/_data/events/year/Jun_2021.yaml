@@ -74,4 +74,44 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "Scale Ireland Presents 'Communications' with Christopher Abboud of Stripe"
+    url: "https://www.eventbrite.ie/e/scale-ireland-presents-communications-with-christopher-abboud-of-stripe-tickets-154686073209"
+    region: 🇮🇪
+    date_added: 2021-05-19
+    start_datetime: 2021-06-01T11:00:00Z
+    end_datetime: 2021-06-01T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "TechIreland and Code Institute: The South East Tech Skills Workshop - Skills Needs in the South East"
+    url: "https://codeinstitute.net/the-south-east-tech-skills-workshop/"
+    region: 🇮🇪
+    date_added: 2021-05-19
+    start_datetime: 2021-06-09T10:30:00Z
+    end_datetime: 2021-06-09T11:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TechIreland and Code Institute: The South East Tech Skills Workshop - Delivering Tech Skills in the South East"
+    url: "https://codeinstitute.net/the-south-east-tech-skills-workshop/"
+    region: 🇮🇪
+    date_added: 2021-05-19
+    start_datetime: 2021-06-09T11:15:00Z
+    end_datetime: 2021-06-09T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TechIreland and Code Institute: The South East Tech Skills Workshop - Diversity in Technology: Coding Careers for Women"
+    url: "https://codeinstitute.net/the-south-east-tech-skills-workshop/"
+    region: 🇮🇪
+    date_added: 2021-05-19
+    start_datetime: 2021-06-09T12:00:00Z
+    end_datetime: 2021-06-09T12:45:00Z
+    new: true
+    recurring: false
+    desc: "Diversity in technology is central to unlocking true social and economic mobility in our community. Hear how Limerick and Clare Education and Training Board, the South West Regional Skills Forum, local employers and Code Institute collaborated on a unique initiative to break down the barriers and get more women coding and working in technology."
+    type: diversity
     
