@@ -291,9 +291,20 @@ conferences:
     date_added: 2021-05-11
     start_datetime: 2021-05-24T00:00:00Z
     end_datetime: 2021-05-27T00:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "A week of events bringing entrepreneurs, developers and corporate leaders together to build momentum and create opportunities in blockchain technology and crypto across the island of Ireland."
+    type: tech
+    status: active
+  - name: "DockerCon 2021"
+    url: "https://docker.events.cube365.net/dockercon-live/2021/ "
+    region: 🌎
+    date_added: 2021-05-11
+    start_datetime: 2021-05-27T09:00:00Z
+    end_datetime: 2021-05-27T17:00:00Z
+    new: true
+    recurring: false
+    desc: "DockerCon brings together the entire community of Docker developers, contributors and partners to share, teach, and collaborate to grow the understanding and capabilities of modern application developers."
     type: tech
     status: active
 
@@ -322,5 +333,18 @@ conferences:
     new: false
     recurring: false
     desc: "First time this week long traveliing Python conference will be in Dublin."
+    type: tech
+    status: active
+
+    
+  - name: "Northern Ireland Developer Conference 2021"
+    url: "https://ti.to/nidc/nidc2021/en"
+    region: 
+    date_added: 2021-02-05
+    start_datetime: 2022-07-11T00:00:00Z
+    end_datetime: 2022-08-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: "Northern Ireland Developer Conference will be in-person and will be held in Queens University, Belfast."
     type: tech
     status: active

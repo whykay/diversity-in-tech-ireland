@@ -70,7 +70,7 @@ eventlistings:
     date_added: 2021-05-19
     start_datetime: 2021-06-22T19:30:00Z
     end_datetime: 2021-06-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -80,7 +80,7 @@ eventlistings:
     date_added: 2021-05-19
     start_datetime: 2021-06-01T11:00:00Z
     end_datetime: 2021-06-01T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -90,7 +90,7 @@ eventlistings:
     date_added: 2021-05-19
     start_datetime: 2021-06-09T10:30:00Z
     end_datetime: 2021-06-09T11:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -100,7 +100,7 @@ eventlistings:
     date_added: 2021-05-19
     start_datetime: 2021-06-09T11:15:00Z
     end_datetime: 2021-06-09T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -110,8 +110,18 @@ eventlistings:
     date_added: 2021-05-19
     start_datetime: 2021-06-09T12:00:00Z
     end_datetime: 2021-06-09T12:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Diversity in technology is central to unlocking true social and economic mobility in our community. Hear how Limerick and Clare Education and Training Board, the South West Regional Skills Forum, local employers and Code Institute collaborated on a unique initiative to break down the barriers and get more women coding and working in technology."
     type: diversity
     
+  - name: "GoingFar Roundtable - Challenges faced by female migrant professionals"
+    url: "https://www.eventbrite.ie/e/goingfar-roundtable-challenges-faced-by-female-migrant-professionals-tickets-154402386695"
+    region: 🇮🇪
+    date_added: 2021-05-24
+    start_datetime: 2021-06-10T18:00:00Z
+    end_datetime: 2021-06-10T19:00:00Z
+    new: true
+    recurring: false
+    desc: "A roundtable discussion to share challenges faced by migrant women in Ireland looking to progress their careers."
+    type: diversity
