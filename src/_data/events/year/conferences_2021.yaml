@@ -308,6 +308,18 @@ conferences:
     type: tech
     status: active
 
+  - name: "Northern Ireland Developer Conference 2021"
+    url: "https://ti.to/nidc/nidc2021/en"
+    region: 
+    date_added: 2021-02-05
+    start_datetime: 2021-07-11T00:00:00Z
+    end_datetime: 2021-08-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: "Northern Ireland Developer Conference will be in-person and will be held in Queens University, Belfast."
+    type: tech
+    status: active
+
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
@@ -337,14 +349,4 @@ conferences:
     status: active
 
     
-  - name: "Northern Ireland Developer Conference 2021"
-    url: "https://ti.to/nidc/nidc2021/en"
-    region: 
-    date_added: 2021-02-05
-    start_datetime: 2022-07-11T00:00:00Z
-    end_datetime: 2022-08-17T00:00:00Z
-    new: false
-    recurring: false
-    desc: "Northern Ireland Developer Conference will be in-person and will be held in Queens University, Belfast."
-    type: tech
-    status: active
+
