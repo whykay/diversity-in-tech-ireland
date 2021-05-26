@@ -125,3 +125,35 @@ eventlistings:
     recurring: false
     desc: "A roundtable discussion to share challenges faced by migrant women in Ireland looking to progress their careers."
     type: diversity
+
+  - name: "Dogpatch Labs First Fridays: Welcome to Ireland’s Startup Ecosystem"
+    url: "https://www.eventbrite.ie/e/welcome-to-the-irish-ecosystem-tickets-156467816451"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-04T09:00:00Z
+    end_datetime: 2021-06-10T10:00:00Z
+    new: true
+    recurring: false
+    desc: "First Fridays for Startups (powered by Google for Startups) is a monthly event to accelerate Ireland's early and seed stage tech startups"
+    type: startups
+  - name: "Dogpatch Labs First Fridays: Educate: VC isn’t the only game in town: Alternative Funding Paths"
+    url: "https://www.crowdcast.io/e/d20jlrjj"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-04T10:00:00Z
+    end_datetime: 2021-06-10T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "Dogpatch Labs First Fridays: Inspire: The Hardware Hustle: From Presale Hype to Partnerships at Scale"
+    url: "https://www.crowdcast.io/e/zq0bcgwf"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-04T13:00:00Z
+    end_datetime: 2021-06-10T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+    
