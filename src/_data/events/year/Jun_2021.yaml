@@ -156,4 +156,24 @@ eventlistings:
     recurring: false
     desc: 
     type: startups
+  - name: "Dublin Coding School Events: Panel discussion: Exploring the role of the Full-Stack Web Developer"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/278420772/"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-02T13:00:00Z
+    end_datetime: 2021-06-02T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Rust Dublin June Remote Meetup"
+    url: "https://www.meetup.com/Rust-Dublin/events/278409501"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-01T18:30:00Z
+    end_datetime: 2021-06-01T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
     
