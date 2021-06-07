@@ -1,6 +1,6 @@
 ---
 eventlistings:
-  - name: "Smart Balbriggan's The Changing Face Of Balbriggan HACKATHON!"
+  - name: "[POSTPONED]Smart Balbriggan's The Changing Face Of Balbriggan HACKATHON!"
     url: "https://www.eventbrite.com/e/the-changing-face-of-balbriggan-hackathon-tickets-144269739675"
     region: 🇮🇪
     date_added: 2021-03-11
@@ -10,15 +10,16 @@ eventlistings:
     recurring: false
     desc: "This two day event brings teams from the Balbriggan area to analyse issues and create solutions that impact their everyday lives."
     type: hackathon
-  - name: "PyLadies Dublin: Newbie is not nobody! How you can contribute to communities even if you are new."
+  - name: "PyLadies Dublin June Meetup: 3 x Lightning Talks"
     url: "https://www.meetup.com/PyLadiesDublin/events/276754731/"
     region: 🇮🇪
     date_added: 2021-03-11
     start_datetime: 2021-06-15T18:30:00Z
     end_datetime: 2021-06-15T19:30:00Z
-    new: false
+    new: true
     recurring: false
-    desc: "This month we welcome back the ever so awesome community Pythonista, Lais Carvalho!She will be talking about 'Newbie is not nobody! How you can contribute to communities even if you are new.'"
+    desc: "<ul><li>Collaborative documentation as code with Git, Mkdocs and Pandoc by Mihai Criveti</li><li>Shipping Python Apps using Podman by Elif Mosessohn-Samedin
+</li><li>Check meetup page for 3rd talk details - coming soon<li></ul>"
     type: diversity
 
   - name: "1GAM Galway Meetup!"
@@ -72,7 +73,7 @@ eventlistings:
     end_datetime: 2021-06-22T20:30:00Z
     new: false
     recurring: false
-    desc: 
+    desc: "We are excited to be hosting another one of our social entrepreneurship networking events series in partnership with the Irish Social Enterprise Network and Tech For Good Dublin. Supported by our friends at Changemakers Lab, Great Zambezi Initiative and Social Entrepreneurship Incubation Ireland. An evening of networking and an interactive Q&A Panel Discussion from inspirational speakers."
     type: diversity
   - name: "Scale Ireland Presents 'Communications' with Christopher Abboud of Stripe"
     url: "https://www.eventbrite.ie/e/scale-ireland-presents-communications-with-christopher-abboud-of-stripe-tickets-154686073209"
@@ -121,7 +122,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-06-10T18:00:00Z
     end_datetime: 2021-06-10T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "A roundtable discussion to share challenges faced by migrant women in Ireland looking to progress their careers."
     type: diversity
@@ -132,7 +133,7 @@ eventlistings:
     date_added: 2021-05-26
     start_datetime: 2021-06-04T09:00:00Z
     end_datetime: 2021-06-10T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "First Fridays for Startups (powered by Google for Startups) is a monthly event to accelerate Ireland's early and seed stage tech startups"
     type: startups
@@ -142,7 +143,7 @@ eventlistings:
     date_added: 2021-05-26
     start_datetime: 2021-06-04T10:00:00Z
     end_datetime: 2021-06-10T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -152,7 +153,7 @@ eventlistings:
     date_added: 2021-05-26
     start_datetime: 2021-06-04T13:00:00Z
     end_datetime: 2021-06-10T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -162,7 +163,7 @@ eventlistings:
     date_added: 2021-05-26
     start_datetime: 2021-06-02T13:00:00Z
     end_datetime: 2021-06-02T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -172,8 +173,329 @@ eventlistings:
     date_added: 2021-05-26
     start_datetime: 2021-06-01T18:30:00Z
     end_datetime: 2021-06-01T18:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "The Games Co-Op: Juno Dos Tres"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/278454449/"
+    region: 🇮🇪
+    date_added: 2021-05-26
+    start_datetime: 2021-06-16T19:00:00Z
+    end_datetime: 2021-06-16T22:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: games
+
+
+  - name: "WITS Reads: 'Kindred' by Octavia E Butler"
+    url: "https://www.witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-22T20:00:00Z
+    end_datetime: 2021-06-22T21:30:00Z
+    new: true
+    recurring: false
+    desc: "We are reading 'Kindred' by Octavia E Butler. The first science fiction written by a black woman, Kindred has become a cornerstone of black American literature. This combination of slave memoir, fantasy, and historical fiction is a novel of rich literary complexity. Having just celebrated her 26th birthday in 1976 California, Dana, an African-American woman, is suddenly and inexplicably wrenched through time into antebellum Maryland. After saving a drowning white boy there, she finds herself staring into the barrel of a shotgun and is transported back to the present just in time to save her life. During numerous such time-defying episodes with the same young man, she realizes the challenge she’s been given..."
+    type: diversity
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccjbnb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-10T08:00:00Z
+    end_datetime: 2021-06-10T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Times are GMT+1 for this event."
+    type: diversity
+  - name: "WWCode Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccjbgc"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T08:00:00Z
+    end_datetime: 2021-06-24T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Times are GMT+1 for this event."
+    type: diversity
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/kqwjvryccjbmb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-09T18:30:00Z
+    end_datetime: 2021-06-09T20:30:00Z
     new: true
     recurring: false
     desc: 
     type: tech
-    
+  - name: "Dublin Coding School Events: Successful Career Change: FREE Online Event"
+    url: "https://www.meetup.com/code-coffee-events-by-dublin-coding-school/events/278596378/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-10T12:30:00Z
+    end_datetime: 2021-06-10T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Write the Docs Ireland: EMEA Write the Docs Proposals Workshop and Discussion"
+    url: "https://www.meetup.com/Write-The-Docs-Ireland/events/277976360/"
+    region: 🇪🇺
+    date_added: 2021-06-07
+    start_datetime: 2021-06-10T18:00:00Z
+    end_datetime: 2021-06-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels - Online"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/whzchsyccjbqb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-12T17:00:00Z
+    end_datetime: 2021-06-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "How She Did It - Women Tech Entrepreneurs Series"
+    url: "https://www.meetup.com/wetech/events/ccldcsyccjbtb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-15T19:00:00Z
+    end_datetime: 2021-06-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Women Tech Entrepreneurs Webinar Series - Exploring Role-models success stories and how they manage to thrive."
+    type: diversity
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/bxxhhsyccjbwb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-17T19:00:00Z
+    end_datetime: 2021-06-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All..."
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/lxxhhsyccjbbc/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-20T19:00:00Z
+    end_datetime: 2021-06-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Analytics at Speed Dublin: Improving your kdb+/q skills!"
+    url: "https://www.meetup.com/kx-dublin/events/278322416/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T17:30:00Z
+    end_datetime: 2021-06-24T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Write the Docs Ireland: Open source tools for API Documentation"
+    url: "https://www.meetup.com/Write-The-Docs-Ireland/events/277976380/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T17:30:00Z
+    end_datetime: 2021-06-24T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Pride in DevOps: The Power of Allyship"
+    url: "https://www.meetup.com/Women-in-DevOps/events/277978113/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T18:00:00Z
+    end_datetime: 2021-06-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels - Online"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/whzchsyccjbjc/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-26T15:00:00Z
+    end_datetime: 2021-06-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace - Holiday Hack Challenge redo :-)"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/fqzkfsyccjbjc/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-26T17:00:00Z
+    end_datetime: 2021-06-26T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "TOG Hackerspace - Online only Wikipedia Editing evening"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/fqzkfsyccjbjc/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-30T19:00:00Z
+    end_datetime: 2021-06-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Ministry of Testing Belfast: Consumer Driven Contract Testing with Raquel Bautista-Garrido"
+    url: "https://www.meetup.com/Ministry-of-Testing-Belfast/events/278375159/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-09T19:00:00Z
+    end_datetime: 2021-06-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "🎉 FUN & FREE Public Speaking Workshop: Play Games & Speed-learn Techniques"
+    url: "https://www.meetup.com/meetup-group-pslgywsi/events/lqghhsyccjbrb/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-13T14:30:00Z
+    end_datetime: 2021-06-13T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: softskills
+  - name: "Belfast Gophers: Hands-On Workshop: DevOps for Go Developers - JFrog"
+    url: "https://www.meetup.com/Belfast-Gophers/events/278620943/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-23T18:00:00Z
+    end_datetime: 2021-06-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Silicon Drinkabout Belfast: Raise Ventures Tech for Non-Tech - ONLINE NOW!"
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/fzhkgsyccjbgc/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T18:30:00Z
+    end_datetime: 2021-06-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "Belfast Apache Kafka® Meetup by Confluent: Let's Build a Streaming Data Pipeline"
+    url: "https://www.meetup.com/belfast-kafka/events/278384375/"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T19:00:00Z
+    end_datetime: 2021-06-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Limerick DotNet-Azure User Group (LDNA): Azure VMware Solution Overview"
+    url: "https://www.meetup.com/Limerick-DotNet/events/277827183/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-10T20:00:00Z
+    end_datetime: 2021-06-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "corkdev.io: Lunchtime Talks: Become an Application SUPER-HERO With FusionReactor"
+    url: "https://www.meetup.com/corkdev-io/events/278125572/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-10T13:00:00Z
+    end_datetime: 2021-06-10T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "SQL Server & Microsoft Data Platform User Group - Cork: Data Engineer Session 12 - Manage and Develop Data Processing part 1 (ADF)"
+    url: "https://www.meetup.com/SQL-Server-User-Group-Cork/events/277996970/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-11T12:00:00Z
+    end_datetime: 2021-06-11T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Cork"
+    url: "https://www.meetup.com/UX-Cork-Group/events/mvswcsyccjbvb/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-16T18:30:00Z
+    end_datetime: 2021-06-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "16th Cork.Net and Azure Meetup - Overcoming Imposter Syndrome using the 5 Rs"
+    url: "https://www.meetup.com/CorkDotNetAzure/events/278096619/"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-29T18:00:00Z
+    end_datetime: 2021-06-29T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Wild Code School: Online Tech Workshop - Coding for beginners with HTML/CSS"
+    url: "https://www.eventbrite.ie/e/online-tech-workshop-coding-for-beginners-with-htmlcss-tickets-156937090061"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-09T16:00:00Z
+    end_datetime: 2021-06-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Northern Ireland Raspberry Jam LIVE - June 2021"
+    url: "https://www.eventbrite.ie/e/northern-ireland-raspberry-jam-live-june-2021-tickets-154060684655"
+    region: UK
+    date_added: 2021-06-07
+    start_datetime: 2021-06-12T15:00:00Z
+    end_datetime: 2021-06-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "National Women's Council: No Woman Left Behind"
+    url: "https://www.eventbrite.ie/e/no-woman-left-behind-tickets-157034748159"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-15T11:00:00Z
+    end_datetime: 2021-06-15T12:30:00Z
+    new: true
+    recurring: false
+    desc: "Join us for the launch of ‘No Woman Left Behind’, the National Women’s Council’s new and ambitious Strategic Plan 2021-2024, on Tuesday, 15th June."
+    type: diversity
+  - name: "Wild Code School: Online Tech Workshop - Let's make Pixel Art with Javascript!"
+    url: "https://www.eventbrite.ie/e/online-tech-workshop-lets-make-pixel-art-with-javascript-tickets-156939625645"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-23T16:00:00Z
+    end_datetime: 2021-06-23T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "National Women's Council: Increasing Gender Balance on Boards: The Case for Legislative Quotas"
+    url: "https://www.eventbrite.ie/e/increasing-gender-balance-on-boards-the-case-for-legislative-quotas-tickets-157617306607"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-06-24T14:00:00Z
+    end_datetime: 2021-06-24T15:30:00Z
+    new: true
+    recurring: false
+    desc: "Join us for the launch of ‘Increasing Gender Balance on Boards: The case for legislative Gender Quotas in Ireland', on Thursday, 24th June. Speakers will include: Orla O'Connor, Director, NWC / Dr Pauline Cullen / Anne O'Leary, CEO, Vodafone Ireland / MEP Frances Fitzgerald / Senator Fiona O'Loughlin, Chairperson of the Women's Parliamentary caucus / Mark Fenton, CEO & Founder, MASF Consulting Ltd."
+    type: diversity
