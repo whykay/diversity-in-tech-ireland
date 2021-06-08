@@ -499,3 +499,15 @@ eventlistings:
     recurring: false
     desc: "Join us for the launch of ‘Increasing Gender Balance on Boards: The case for legislative Gender Quotas in Ireland', on Thursday, 24th June. Speakers will include: Orla O'Connor, Director, NWC / Dr Pauline Cullen / Anne O'Leary, CEO, Vodafone Ireland / MEP Frances Fitzgerald / Senator Fiona O'Loughlin, Chairperson of the Women's Parliamentary caucus / Mark Fenton, CEO & Founder, MASF Consulting Ltd."
     type: diversity
+
+  - name: "WITS Ireland Virtual Coffee"
+    url: "https://www.eventbrite.com/e/wits-virtual-coffee-tickets-158637532129"
+    region: 🇮🇪
+    date_added: 2021-06-08
+    start_datetime: 2021-06-10T08:30:00Z
+    end_datetime: 2021-06-10T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Kick your morning off with a virtual coffee with WITS members. This is an informal chat about all things WITS."
+    type: diversity
+    
