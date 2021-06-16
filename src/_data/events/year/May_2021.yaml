@@ -510,7 +510,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-25T10:00:00Z
     end_datetime: 2021-05-25T11:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "Blockchain or the decentralized technologies are key tools for boosting innovation that transforms industries, societies, and daily living. Within the Alastria Ecosystem, the use cases are created thanks to the innovation methodology that connects very diverse views to explore the innovative uses of these technologies and the value generated thanks to the lessons learned while performing Proof of Concept and Prototypes."
     type: diversity
@@ -520,7 +520,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-25T11:00:00Z
     end_datetime: 2021-05-25T12:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "How can we ensure that innovative technologies are here for the benefit of all and that no one is left behind? Blockchain and fintech have the potential to transform the way companies collaborate with individuals to accelerate solutions for financial and social inclusion."
     type: diversity
@@ -530,7 +530,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-25T14:00:00Z
     end_datetime: 2021-05-25T15:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "How can we ensure that innovative technologies are here for the benefit of all and that no one is left behind? Blockchain and fintech have the potential to transform the way companies collaborate with individuals to accelerate solutions for financial and social inclusion."
     type: diversity
@@ -540,7 +540,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-26T13:00:00Z
     end_datetime: 2021-05-26T14:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "A short and humorous look at how women are often written out of history and society with disastrous consequences and how we can change that and make the world a better place. Also, a call to collaboration – together we can be better. Above all how to make technology work for good in society.  And finally, how to wear the Irish Jersey abroad."
     type: diversity      
@@ -550,7 +550,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-26T10:30:00Z
     end_datetime: 2021-05-26T11:30:00Z
-    new: true
+    new: false
     recurring: true
     desc: "The global healthcare system & systems of systems globally have been put to the ultimate test since Covid19 entered our lives. How has blockchain & impact innovators within the blockchain community stepped up to the challenge to design & build a more inclusive, data responsible & future proof system for our people locally & globally? Hear from our speakers who have stepped up to the challenge for Africa, India & around the world."
     type: diversity  
@@ -560,7 +560,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-27T12:00:00Z
     end_datetime: 2021-05-27T13:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "Join us Thursday 27th May for a BlockW and ICS event as part of Blockchain Ireland Week- “Blockchain : Domestic Violence and Abuse” with HeHop Founder Sandy Beky. The HeHop app enables victims to record, timestamp and certify proofs of violence on blockchain. The recorded data is invisible on the victim’s mobile phone and is secured on an encrypted server. It can then be retrieved and presented as inalterable evidence in court."
     type: diversity  
@@ -570,7 +570,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-28T10:00:00Z
     end_datetime: 2021-05-28T11:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "The European Commission defines Sustainable Finance as 'the process of taking environmental, social & governance (ESG) considerations into account when making investment decisions in the financial sector, leading to more long-term investments in sustainable economic activities & projects'."
     type: diversity 
@@ -580,7 +580,7 @@ eventlistings:
     date_added: 2021-05-24
     start_datetime: 2021-05-26T13:00:00Z
     end_datetime: 2021-05-26T14:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech 

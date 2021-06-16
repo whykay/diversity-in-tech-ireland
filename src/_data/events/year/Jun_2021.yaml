@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2021-03-11
     start_datetime: 2021-06-15T18:30:00Z
     end_datetime: 2021-06-15T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<ul><li>Collaborative documentation as code with Git, Mkdocs and Pandoc by Mihai Criveti</li><li>Shipping Python Apps using Podman by Elif Mosessohn-Samedin
 </li><li>Check meetup page for 3rd talk details - coming soon<li></ul>"
@@ -195,7 +195,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-22T20:00:00Z
     end_datetime: 2021-06-22T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We are reading 'Kindred' by Octavia E Butler. The first science fiction written by a black woman, Kindred has become a cornerstone of black American literature. This combination of slave memoir, fantasy, and historical fiction is a novel of rich literary complexity. Having just celebrated her 26th birthday in 1976 California, Dana, an African-American woman, is suddenly and inexplicably wrenched through time into antebellum Maryland. After saving a drowning white boy there, she finds herself staring into the barrel of a shotgun and is transported back to the present just in time to save her life. During numerous such time-defying episodes with the same young man, she realizes the challenge she’s been given..."
     type: diversity
@@ -205,7 +205,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T08:00:00Z
     end_datetime: 2021-06-10T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Times are GMT+1 for this event."
     type: diversity
@@ -215,7 +215,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T08:00:00Z
     end_datetime: 2021-06-24T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Times are GMT+1 for this event."
     type: diversity
@@ -225,7 +225,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-09T18:30:00Z
     end_datetime: 2021-06-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -235,7 +235,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T12:30:00Z
     end_datetime: 2021-06-10T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -245,7 +245,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T18:00:00Z
     end_datetime: 2021-06-10T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -255,7 +255,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-12T17:00:00Z
     end_datetime: 2021-06-12T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -265,7 +265,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-15T19:00:00Z
     end_datetime: 2021-06-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women Tech Entrepreneurs Webinar Series - Exploring Role-models success stories and how they manage to thrive."
     type: diversity
@@ -275,7 +275,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-17T19:00:00Z
     end_datetime: 2021-06-17T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -285,7 +285,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-20T19:00:00Z
     end_datetime: 2021-06-20T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -295,7 +295,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T17:30:00Z
     end_datetime: 2021-06-24T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -305,7 +305,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T17:30:00Z
     end_datetime: 2021-06-24T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -315,7 +315,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T18:00:00Z
     end_datetime: 2021-06-24T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -325,7 +325,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-26T15:00:00Z
     end_datetime: 2021-06-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -335,7 +335,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-26T17:00:00Z
     end_datetime: 2021-06-26T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -345,7 +345,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-30T19:00:00Z
     end_datetime: 2021-06-30T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -355,7 +355,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-09T19:00:00Z
     end_datetime: 2021-06-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -365,7 +365,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-13T14:30:00Z
     end_datetime: 2021-06-13T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: softskills
@@ -375,7 +375,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-23T18:00:00Z
     end_datetime: 2021-06-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -385,7 +385,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T18:30:00Z
     end_datetime: 2021-06-24T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -395,7 +395,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T19:00:00Z
     end_datetime: 2021-06-24T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -405,7 +405,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T20:00:00Z
     end_datetime: 2021-06-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -415,7 +415,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T13:00:00Z
     end_datetime: 2021-06-10T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -425,7 +425,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-11T12:00:00Z
     end_datetime: 2021-06-11T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -435,7 +435,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-16T18:30:00Z
     end_datetime: 2021-06-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -445,7 +445,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-29T18:00:00Z
     end_datetime: 2021-06-29T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -455,7 +455,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-09T16:00:00Z
     end_datetime: 2021-06-09T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-12T15:00:00Z
     end_datetime: 2021-06-12T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -475,7 +475,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-15T11:00:00Z
     end_datetime: 2021-06-15T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us for the launch of ‘No Woman Left Behind’, the National Women’s Council’s new and ambitious Strategic Plan 2021-2024, on Tuesday, 15th June."
     type: diversity
@@ -485,7 +485,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-23T16:00:00Z
     end_datetime: 2021-06-23T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -495,7 +495,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-06-24T14:00:00Z
     end_datetime: 2021-06-24T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us for the launch of ‘Increasing Gender Balance on Boards: The case for legislative Gender Quotas in Ireland', on Thursday, 24th June. Speakers will include: Orla O'Connor, Director, NWC / Dr Pauline Cullen / Anne O'Leary, CEO, Vodafone Ireland / MEP Frances Fitzgerald / Senator Fiona O'Loughlin, Chairperson of the Women's Parliamentary caucus / Mark Fenton, CEO & Founder, MASF Consulting Ltd."
     type: diversity
@@ -506,8 +506,59 @@ eventlistings:
     date_added: 2021-06-08
     start_datetime: 2021-06-10T08:30:00Z
     end_datetime: 2021-06-10T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Kick your morning off with a virtual coffee with WITS members. This is an informal chat about all things WITS."
+    type: diversity
+    
+  - name: "Belfast JS is BACK!"
+    url: "https://www.meetup.com/Belfast-JS/events/278744285"
+    region: UK
+    date_added: 2021-06-16
+    start_datetime: 2021-06-24T18:30:00Z
+    end_datetime: 2021-06-24T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Python Ireland AGM"
+    url: "https://www.meetup.com/pythonireland/events/278751015/"
+    region: 🇮🇪
+    date_added: 2021-06-16
+    start_datetime: 2021-06-17T18:30:00Z
+    end_datetime: 2021-06-17T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Code Mentoring: Crack The Coding Interview Discussion - Trees and Graphs (Part 4)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/278792630/"
+    region: 🇮🇪
+    date_added: 2021-06-16
+    start_datetime: 2021-06-20T20:30:00Z
+    end_datetime: 2021-06-20T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Java User Group: Why Java Still Rocks the Financial Industry - 25 Years On"
+    url: "https://www.meetup.com/DublinJavaUserGroup/events/278834760/"
+    region: 🇮🇪
+    date_added: 2021-06-16
+    start_datetime: 2021-06-24T19:00:00Z
+    end_datetime: 2021-06-24T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Celebrating Social Entrepreneurs - Tech4Good"
+    url: "https://www.meetup.com/TechForGood-Dublin/events/278846257/"
+    region: 🇮🇪
+    date_added: 2021-06-16
+    start_datetime: 2021-06-22T19:00:00Z
+    end_datetime: 2021-06-22T21:00:00Z
+    new: true
+    recurring: false
+    desc:
     type: diversity
     

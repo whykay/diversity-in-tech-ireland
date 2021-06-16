@@ -291,7 +291,7 @@ conferences:
     date_added: 2021-05-11
     start_datetime: 2021-05-24T00:00:00Z
     end_datetime: 2021-05-27T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "A week of events bringing entrepreneurs, developers and corporate leaders together to build momentum and create opportunities in blockchain technology and crypto across the island of Ireland."
     type: tech
@@ -302,7 +302,7 @@ conferences:
     date_added: 2021-05-11
     start_datetime: 2021-05-27T09:00:00Z
     end_datetime: 2021-05-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "DockerCon brings together the entire community of Docker developers, contributors and partners to share, teach, and collaborate to grow the understanding and capabilities of modern application developers."
     type: tech
@@ -326,7 +326,7 @@ conferences:
     date_added: 2021-06-07
     start_datetime: 2021-06-10T00:00:00Z
     end_datetime: 
-    new: true
+    new: false
     recurring: false
     desc: "TechTree and Silicon Roundabout welcomes you to join Show The Code | Connect Ventures Edition on Thursday 10th June at 12pm."
     type: tech
@@ -337,7 +337,7 @@ conferences:
     date_added: 2021-06-07
     start_datetime: 2021-06-22T00:00:00Z
     end_datetime: 2021-06-23T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "After the covid-related break, the React Advanced team is coming back with something special! Our 2nd edition happening on October 22-23, 2021, will offer a hybrid format, and you're invited to attend either in-person or remotely."
     type: tech
