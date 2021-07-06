@@ -94,6 +94,14 @@ aob:
   - name: "BelfastFP moving away from Meetup"
     desc:
     url: "https://belfastfp.github.io/"
+    status:
+  - name: "GDG Dublin moving from Meetup to GDG Platform"
+    desc: "As of October 1st 2021 our GDG Dublin will be moving away from Meetup and any future hosted events will only be available through the GDG Event platform."
+    url: "https://gdg.community.dev/gdg-dublin/"
+    status: new
+  - name: "GDG Galway moving from Meetup to GDG Platform"
+    desc: "We are moving home, we are leaving Meetup.com to move to our dedicated platform, we would love to see you over there."
+    url: "https://gdg.community.dev/gdg-galway"
     status: new
   - name: "Mobilize on Hiatus until end of year"
     desc:
