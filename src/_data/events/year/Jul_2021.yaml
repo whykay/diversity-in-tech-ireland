@@ -38,7 +38,68 @@ eventlistings:
     date_added: 2021-07-01
     start_datetime: 2021-07-19T19:00:00Z
     end_datetime: 2021-07-19T21:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+  - name: "GDG Galway: New to Programming? We got you covered. Learn the basics of Android Kotlin Apps"
+    url: "https://www.meetup.com/GDGGalway/events/279194244/"
+    region: 🇮🇪
+    date_added: 2021-07-01
+    start_datetime: 2021-07-08T18:00:00Z
+    end_datetime: 2021-07-08T20:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Holiday Hack Challenge redo :-)"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/ltnslsycckbgc/"
+    region: 🇮🇪
+    date_added: 2021-07-01
+    start_datetime: 2021-07-24T17:00:00Z
+    end_datetime: 2021-07-24T19:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Show The Code | Tech Nation Upscale Edition #2"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/ltnslsycckbgc/"
+    region: 🇪🇺
+    date_added: 2021-07-06
+    start_datetime: 2021-07-13T12:00:00Z
+    end_datetime: 2021-07-13T14:00:00Z
+    new: true
+    recurring: false
+    desc: "What's it like inside the repository of a growing startup? What technical challenges are other engineers working on? Want to meet the team before applying? We’re helping you pick the brains of developers, CTO’s and lead engineers from some of Europe’s most exciting tech companies!"
+    type: startup
+  - name: "GDG Dublin: New to Programming? We got you covered. Learn the basics of Android Kotlin Apps"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-new-to-programming-we-got-you-covered-learn-the-basics-of-android-kotlin-apps/"
+    region: 🇮🇪🇬🇧
+    date_added: 2021-07-06
+    start_datetime: 2021-07-08T18:00:00Z
+    end_datetime: 2021-07-08T20:00:00Z
     new: true
     recurring: false
     desc:
     type: tech
+  - name: "GDG Dublin: Flying fast with AMP Event Date"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-flying-fast-with-amp-event-date/"
+    region: 🇮🇪🇬🇧
+    date_added: 2021-07-06
+    start_datetime: 2021-07-15T18:00:00Z
+    end_datetime: 2021-07-15T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "GoingFar Webinar - An Introduction to Embodied Leadership"
+    url: "https://www.eventbrite.ie/e/goingfar-webinar-an-introduction-to-embodied-leadership-tickets-162389642793"
+    region: 🇮🇪
+    date_added: 2021-07-06
+    start_datetime: 2021-07-15T18:00:00Z
+    end_datetime: 2021-07-15T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<div>Are you a female entrepreneur? Do you want to develop a confident and positive leadership style? Then this workshop is for you!</div><div>This webinar aims to help you to develop your entrepreneurial leadership skills from an embodied perspective.</div>"
+    type: diversity
