@@ -103,3 +103,134 @@ eventlistings:
     recurring: false
     desc: "<div>Are you a female entrepreneur? Do you want to develop a confident and positive leadership style? Then this workshop is for you!</div><div>This webinar aims to help you to develop your entrepreneurial leadership skills from an embodied perspective.</div>"
     type: diversity
+
+  - name: "TOG Hackserspace Bumper clear out and give away"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/279294801/"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-10T11:00:00Z
+    end_datetime: 2021-07-10T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: makers
+  - name: "Rust Dublin July Remote Meetup"
+    url: "https://www.meetup.com/Rust-Dublin/events/278698763"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-14T13:30:00Z
+    end_datetime: 2021-07-14T15:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Crunch That Data... With Ruby!"
+    url: "https://www.meetup.com/rubyireland/events/278881455"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-14T13:30:00Z
+    end_datetime: 2021-07-14T14:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Workshop: Starting off on the right foot with Crypto"
+    url: "https://www.meetup.com/Cryoto-Ireland/events/276830287"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-10T10:00:00Z
+    end_datetime: 2021-07-10T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: July-ons and Tiger and Bears, Oh My!"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/278962199"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-14T19:00:00Z
+    end_datetime: 2021-07-14T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/274972999"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-14T18:30:00Z
+    end_datetime: 2021-07-14T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "PyLadies Dublin July Meetup: FastAPI, Lambdas, PyTest and other cool things"
+    url: "https://www.meetup.com/PyLadiesDublin/events/277651743"
+    region: 🇮🇪
+    date_added: 2021-07-07
+    start_datetime: 2021-07-20T18:30:00Z
+    end_datetime: 2021-07-20T19:30:00Z
+    new: true
+    recurring: false
+    desc: "This month we have Bojan Miletic talking about 'FastAPI, Lambdas, PyTest and other cool things' Join us in live chat, chill with your tea/coffee and biccie. We still have room for 1 lightning talk"
+    type: diversity
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A (online)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/279114194"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-07-10T15:00:00Z
+    end_datetime: 2021-07-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/279256539"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-07-10T15:00:00Z
+    end_datetime: 2021-07-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Learn to Code Dublin: Mapping Your Learning Path"
+    url: "https://www.meetup.com/learn-to-code-dublin/events/279252187"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-07-11T15:00:00Z
+    end_datetime: 2021-07-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Data Scientist Ireland: Some Like It Hot: Choosing a System for Large-Scale Data Analysis"
+    url: "https://www.meetup.com/DataScientistsIreland/events/278553246"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-07-15T12:00:00Z
+    end_datetime: 2021-07-15T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Newry Digital: Informal Lunch and Learn session"
+    url: "https://www.meetup.com/newry-digital/events/279076017"
+    region: 
+    date_added: 2021-06-07
+    start_datetime: 2021-07-15T12:00:00Z
+    end_datetime: 2021-07-15T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Data Science: Workshop: Data Science, Soup to Nuts"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/278973549"
+    region: 🇮🇪
+    date_added: 2021-06-07
+    start_datetime: 2021-07-19T19:00:00Z
+    end_datetime: 2021-07-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
