@@ -355,6 +355,19 @@ conferences:
     type: tech
     status: active
 
+
+  - name: "IoT Week"
+    url: "https://jamstackconf.com/"
+    region: 🌎
+    date_added: 2021-07-08
+    start_datetime: 2021-08-30T00:00:00Z
+    end_datetime: 2021-09-03T00:00:00Z
+    new: true
+    recurring: false
+    desc: "The main focus of IoT Week 2021 will be on defining the Next Generation of IoT for a Sustainable Future. The 10th International IoT Week conference will be held from the 31st of August to the 3rd of September at the Convention Centre Dublin, Ireland."
+    type: tech
+    status: active
+
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
