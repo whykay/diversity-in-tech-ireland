@@ -20,4 +20,93 @@ eventlistings:
     recurring: false
     desc: "This month we have Olga Minguett talking about 'Text Classification using HuggingFace Transformers' and Sahana Hegde talking about 'PySpark 101: Tips and Tricks'. Big thanks to Optum for partnering with us and having Olga and Sahana giving their talks."
     type: diversity
-    
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All..."
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/lxxhhsycclbcb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-01T18:00:00Z
+    end_datetime: 2021-08-01T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Dublin Code Mentoring: Crack The Coding Interview Discussion"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/nxjjmsycclbcb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-01T20:30:00Z
+    end_datetime: 2021-08-01T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "SQL Ireland User Group: Azure Arc Data Services Fundamentals"
+    url: "https://www.meetup.com/SQLIreland/events/277717497/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-03T19:00:00Z
+    end_datetime: 2021-08-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/zjvcvrycclbfb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-03T19:00:00Z
+    end_datetime: 2021-08-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels - Online"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/whzchsycclbkb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-07T15:00:00Z
+    end_datetime: 2021-08-07T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/whzchsycclbkb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-11T18:30:00Z
+    end_datetime: 2021-08-11T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night!"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/bxxhhsycclbqb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-07-12T19:00:00Z
+    end_datetime: 2021-07-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All..."
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/lxxhhsycclbtb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-15T18:00:00Z
+    end_datetime: 2021-08-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A (online)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/nxjjmsycclbtb/"
+    region: 🇮🇪
+    date_added: 2021-07-10
+    start_datetime: 2021-08-15T20:30:00Z
+    end_datetime: 2021-08-15T33:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

@@ -13,6 +13,10 @@ information:
     desc: "Register your interest"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScOlo1O_DzWl2xb01k6FEQOmbeosAppOTBy1bQkruB0IF2s7A/viewform"
     status: 
+  - name: "Rural Ireland Tech Advocates"
+    desc: "The purpose of Rural Ireland Tech Advocates is to create a community of advocates and a central resource for folks interested in living and working in rural Ireland."
+    url: "https://rita.ie"
+    status: new
 
 cancelled:
   - name: "UX Belfast"
