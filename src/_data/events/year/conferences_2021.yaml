@@ -349,7 +349,7 @@ conferences:
     date_added: 2021-07-01
     start_datetime: 2021-10-06T00:00:00Z
     end_datetime: 2021-10-07T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Jamstack Conf is a two day celebration of the next generation of web apps, where the Jamstack community and ecosystem comes together to learn, connect and create. Join engineers, web architects, technology leaders and digital agencies who are embracing the next evolution of modern web development architecture."
     type: tech
@@ -362,7 +362,7 @@ conferences:
     date_added: 2021-07-08
     start_datetime: 2021-08-30T00:00:00Z
     end_datetime: 2021-09-03T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The main focus of IoT Week 2021 will be on defining the Next Generation of IoT for a Sustainable Future. The 10th International IoT Week conference will be held from the 31st of August to the 3rd of September at the Convention Centre Dublin, Ireland."
     type: tech
@@ -374,7 +374,7 @@ conferences:
     date_added: 2021-07-09
     start_datetime: 2021-10-28T00:00:00Z
     end_datetime: 2021-10-30T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The PyData Global Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. This three-day event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting edge use cases."
     type: tech

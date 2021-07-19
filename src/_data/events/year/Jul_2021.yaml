@@ -69,7 +69,7 @@ eventlistings:
     date_added: 2021-07-06
     start_datetime: 2021-07-13T12:00:00Z
     end_datetime: 2021-07-13T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "What's it like inside the repository of a growing startup? What technical challenges are other engineers working on? Want to meet the team before applying? We’re helping you pick the brains of developers, CTO’s and lead engineers from some of Europe’s most exciting tech companies!"
     type: startup
@@ -79,7 +79,7 @@ eventlistings:
     date_added: 2021-07-06
     start_datetime: 2021-07-08T18:00:00Z
     end_datetime: 2021-07-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2021-07-06
     start_datetime: 2021-07-15T18:00:00Z
     end_datetime: 2021-07-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2021-07-06
     start_datetime: 2021-07-15T18:00:00Z
     end_datetime: 2021-07-15T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<div>Are you a female entrepreneur? Do you want to develop a confident and positive leadership style? Then this workshop is for you!</div><div>This webinar aims to help you to develop your entrepreneurial leadership skills from an embodied perspective.</div>"
     type: diversity
@@ -110,7 +110,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-10T11:00:00Z
     end_datetime: 2021-07-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: makers
@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-14T13:30:00Z
     end_datetime: 2021-07-14T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-14T13:30:00Z
     end_datetime: 2021-07-14T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-10T10:00:00Z
     end_datetime: 2021-07-10T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-14T19:00:00Z
     end_datetime: 2021-07-14T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-14T18:30:00Z
     end_datetime: 2021-07-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2021-07-07
     start_datetime: 2021-07-20T18:30:00Z
     end_datetime: 2021-07-20T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "This month we have Bojan Miletic talking about 'FastAPI, Lambdas, PyTest and other cool things' Join us in live chat, chill with your tea/coffee and biccie. We still have room for 1 lightning talk"
     type: diversity
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-10T15:00:00Z
     end_datetime: 2021-07-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-10T15:00:00Z
     end_datetime: 2021-07-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-11T15:00:00Z
     end_datetime: 2021-07-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-15T12:00:00Z
     end_datetime: 2021-07-15T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-15T12:00:00Z
     end_datetime: 2021-07-15T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -230,7 +230,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-19T19:00:00Z
     end_datetime: 2021-07-19T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -240,7 +240,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-09T13:00:00Z
     end_datetime: 2021-07-09T13:40:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -250,7 +250,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-29T15:30:00Z
     end_datetime: 2021-07-29T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -260,7 +260,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-29T19:00:00Z
     end_datetime: 2021-07-29T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech    
@@ -270,7 +270,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-13T19:00:00Z
     end_datetime: 2021-07-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech  
@@ -280,7 +280,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-21T18:30:00Z
     end_datetime: 2021-07-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech  
@@ -290,7 +290,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-27T18:00:00Z
     end_datetime: 2021-07-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech  
@@ -300,7 +300,7 @@ eventlistings:
     date_added: 2021-06-07
     start_datetime: 2021-07-29T20:00:00Z
     end_datetime: 2021-07-29T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech  
