@@ -75,6 +75,11 @@ module.exports = function (eleventyConfig) {
     return items.filter(item => DateTime.local().minus({days: 0.5}) <= DateTime.fromJSDate(item.start_datetime)
     );
   });
+  eleventyConfig.addFilter("laterItemListConf", (items) => {
+    return items.filter(item => DateTime.local().minus({days: 0.5}) <= DateTime.fromJSDate(item.end_datetime)
+    );
+  });
+  
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
