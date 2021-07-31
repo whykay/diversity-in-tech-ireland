@@ -130,3 +130,15 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+  - name: "Let's work on your NIDC 2021 talk submission"
+    url: "https://www.eventbrite.co.uk/e/lets-work-on-your-nidc-2021-talk-submission-tickets-165446497929"
+    region: 🇬🇧
+    date_added: 2021-07-31
+    start_datetime: 2021-08-03T20:00:00Z
+    end_datetime: 2021-08-03T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+    
