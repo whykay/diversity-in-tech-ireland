@@ -400,6 +400,17 @@ conferences:
     new: true
     recurring: false
     desc: "Stemettes and Avantor Foundation have collaborated to bring young women and young nonbinary folks aged 15 to 21 personalised, free, support for their futures."
+    type: diversity
+    status: active
+  - name: "Cyber Security Summit"
+    url: "https://www.eventbrite.ie/e/cyber-security-summit-tickets-166664113851"
+    region: 🇮🇪
+    date_added: 2021-08-19
+    start_datetime: 2021-10-04T09:30:00Z
+    end_datetime: 2021-10-04T13:00:00Z
+    new: true
+    recurring: false
+    desc: "itag are bringing together Cyber Security experts, Technologists, Enthusiasts and Business leaders across industry, academia, and government. Join our Tech Community as we bring you a line up of cyber security experts for an exciting series of virtual sessions covering Digital Forensics, Threat Analysis, Social Engineering, Cyberpsychology and more. Our speakers are leading experts who are ready to share what challenges Cyber Security experts face in their work."
     type: tech
     status: active
 
