@@ -380,13 +380,37 @@ conferences:
     type: tech
     status: active
 
+  - name: "SaaStock EMEA Online"
+    url: "https://hopin.com/events/saastock-emea-online-2021?ref=1da0181fb8a7"
+    region: 🇪🇺
+    date_added: 2021-08-19
+    start_datetime: 2021-10-12T13:30:00Z
+    end_datetime: 2021-10-14T17:30:00Z
+    new: true
+    recurring: false
+    desc: "We’ve built a curated agenda of actionable content and networking opportunities, to help you hear the growth stories, learn the proven strategies and meet the right people to scale your SaaS. At SaaStock EMEA, 3000+ SaaS Founders and their teams will come together and leave equipped to scale."
+    type: tech
+    status: active
+  - name: "Stemettes’ Avantor Foundation Summit"
+    url: "https://stemettes.org/dublin/"
+    region: 🇮🇪
+    date_added: 2021-08-19
+    start_datetime: 2021-09-25T00:00:00Z
+    end_datetime: 2021-09-25T00:00:00Z
+    new: true
+    recurring: false
+    desc: "Stemettes and Avantor Foundation have collaborated to bring young women and young nonbinary folks aged 15 to 21 personalised, free, support for their futures."
+    type: tech
+    status: active
+
+
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
     region: 🇮🇪
     date_added: 2021-04-09
     start_datetime: 2022-03-26T09:00:00Z
-    end_datetime: 
+    end_datetime: 2022-03-26T09:00:00Z
     new: false
     recurring: false
     desc: "<div>PyCon Limerick will return in Spring 2022. Please RSVP to stay up to date with further announcements.
@@ -407,6 +431,5 @@ conferences:
     desc: "First time this week long traveliing Python conference will be in Dublin."
     type: tech
     status: active
-
     
 
