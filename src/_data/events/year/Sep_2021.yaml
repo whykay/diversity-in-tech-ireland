@@ -41,3 +41,44 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+  - name: "Rebuild Local Leader Sessions: Best practices for hybrid developer events"
+    url: "https://rebuild-local.yard.live/"
+    region: 🇮🇪 
+    date_added: 2021-08-10
+    start_datetime: 2021-09-02T13:00:00Z
+    end_datetime: 2021-09-02T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Rebuild Local Dublin: Workshop"
+    url: "https://rebuild-local.yard.live/"
+    region: 🇮🇪 
+    date_added: 2021-08-19
+    start_datetime: 2021-09-02T18:30:00Z
+    end_datetime: 2021-09-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Rebuild Local Belfast: Workshop"
+    url: "https://rebuild-local.yard.live/"
+    region: 🇮🇪
+    date_added: 2021-08-19
+    start_datetime: 2021-09-09T18:30:00Z
+    end_datetime: 2021-09-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Rebuild Local South & West Ireland: Workshop"
+    url: "https://rebuild-local.yard.live/"
+    region: 🇮🇪
+    date_added: 2021-08-19
+    start_datetime: 2021-09-16T18:30:00Z
+    end_datetime: 2021-09-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
