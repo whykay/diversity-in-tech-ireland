@@ -2,7 +2,7 @@
 eventlistings:
   - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
     url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccmbdb/"
-    region: 🇮🇪
+    region: 🇬🇧
     date_added: 2021-08-01
     start_datetime: 2021-09-02T08:00:00Z
     end_datetime: 2021-09-02T09:00:00Z
@@ -82,3 +82,64 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "Women Who Code Dublin: Data Science and Behavioural Science – the great collaboration!"
+    url: "https://www.meetup.com/Women-Who-Code-Dublin/events/280315279/"
+    region: 🇮🇪
+    date_added: 2021-08-27
+    start_datetime: 2021-09-27T17:30:00Z
+    end_datetime: 2021-09-27T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "PyLadies Dublin September Meetup"
+    url: "https://www.meetup.com/PyLadiesDublin/events/280237470"
+    region: 🇮🇪
+    date_added: 2021-08-27
+    start_datetime: 2021-09-21T18:30:00Z
+    end_datetime: 2021-09-21T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "GDG Dublin: Android Architecture Components"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-android-architecture-components/"
+    region: 🇮🇪🇬🇧
+    date_added: 2021-08-27
+    start_datetime: 2021-09-02T18:00:00Z
+    end_datetime: 2021-09-02T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Lady Nerd of Dublin: Introductions and Coffee/Tea/Mimosas"
+    url: "https://www.meetup.com/lady-nerds-of-dublin/events/280129205/"
+    region: 🇮🇪
+    date_added: 2021-08-27
+    start_datetime: 2021-09-04T13:00:00Z
+    end_datetime: 2021-09-04T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccmbvb/"
+    region: 🇬🇧
+    date_added: 2021-08-01
+    start_datetime: 2021-09-16T08:00:00Z
+    end_datetime: 2021-09-16T09:00:00Z
+    new: false
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online before work or class to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/lhkkvryccmbnc/"
+    region: 🇬🇧
+    date_added: 2021-08-01
+    start_datetime: 2021-09-30T08:00:00Z
+    end_datetime: 2021-09-30T09:00:00Z
+    new: false
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online before work or class to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
