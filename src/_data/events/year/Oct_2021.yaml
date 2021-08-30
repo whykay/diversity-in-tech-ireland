@@ -11,3 +11,33 @@ eventlistings:
     desc: "Bytes n' Brew is a fortnightly social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online before work or class to make new friends in the community, ask others for career advice, coding help or mentoring."
     type: diversity
     
+  - name: "ADAPT Citizens' Think-In: What is My Health Information?"
+    url: "https://www.eventbrite.ie/e/adapt-citizens-think-in-what-is-my-health-information-tickets-166637889413"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-10-07T17:30:00Z
+    end_datetime: 2021-10-07T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "WORKSHOP: Debunked - How to Tell Fact From Fiction"
+    url: "https://www.eventbrite.ie/e/workshop-debunked-how-to-tell-fact-from-fiction-tickets-168112144951"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-10-13T11:00:00Z
+    end_datetime: 2021-10-13T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "ONLINE WORKSHOP: Debunked - How to Tell Fact From Fiction"
+    url: "https://www.eventbrite.ie/e/online-workshop-debunked-how-to-tell-fact-from-fiction-tickets-168113976429"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-10-19T18:30:00Z
+    end_datetime: 2021-10-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

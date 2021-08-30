@@ -1,0 +1,32 @@
+---
+eventlistings:
+  - name: "WORKSHOP: Debunked - How to Tell Fact From Fiction"
+    url: "https://www.eventbrite.ie/e/workshop-debunked-how-to-tell-fact-from-fiction-tickets-168115476917"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-11-19T18:30:00Z
+    end_datetime: 2021-11-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "ADAPT will host a Nationwide Citizens' Think-In"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdSQr6GiOpM_nWTaJtER5bF2KeMa2YWlgs5A2GTaxdxdjnVow/viewform"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-11-19T18:30:00Z
+    end_datetime: 2021-11-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "ADAPT Citizens' Think-In: 'What impact has AI on society & our lives'"
+    url: "https://www.eventbrite.ie/e/adapt-citizens-think-in-what-impact-has-ai-on-society-our-lives-tickets-168242934145"
+    region: 🇮🇪 
+    date_added: 2021-08-30
+    start_datetime: 2021-11-30T17:30:00Z
+    end_datetime: 2021-11-30T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
