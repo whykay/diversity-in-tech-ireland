@@ -6,6 +6,6 @@ module.exports = {
 
     currentMonth() {
         const today = new Date();
-        return today.toLocaleString("default", { month: "short" });
+        return today.toLocaleString("en-us", { month: "short" });
     }
 };
