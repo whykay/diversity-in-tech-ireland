@@ -414,6 +414,17 @@ conferences:
     type: tech
     status: active
 
+  - name: "Digital DNA"
+    url: "https://www.digitaldna.org.uk/digital-dna-2021/#/"
+    region: 🇬🇧
+    date_added: 2021-09-02
+    start_datetime: 2021-09-28T00:00:00Z
+    end_datetime: 2021-09-29T00:00:00Z
+    new: true
+    recurring: false
+    desc: "Join 1,500+ attendees in-person at St Georges Market, Belfast to hear from the brightest minds in the tech industry and discover the impact technology is having on our world."
+    type: tech
+    status: active  
 
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
