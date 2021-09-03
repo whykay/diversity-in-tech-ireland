@@ -125,7 +125,10 @@ data:  events.other, events.recurring
             {% endfor %}
 
             <h2 id="conferences">🎫 Conferences</h2>
-            {% for conf in thisYearsConfListings.conferences | laterItemListConf | sort(attribute='start_datetime') %}
+            {% set upcomingConferences =  thisYearsConfListings.conferences | laterItemListConf | sort(attribute='start_datetime') %}
+            <h3>📌 {{upcomingConferences | length}} Upcoming Conferences</h3>
+
+            {% for conf in upcomingConferences %}
                 <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
