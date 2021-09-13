@@ -386,7 +386,7 @@ conferences:
     date_added: 2021-08-19
     start_datetime: 2021-10-12T13:30:00Z
     end_datetime: 2021-10-14T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We’ve built a curated agenda of actionable content and networking opportunities, to help you hear the growth stories, learn the proven strategies and meet the right people to scale your SaaS. At SaaStock EMEA, 3000+ SaaS Founders and their teams will come together and leave equipped to scale."
     type: tech
@@ -397,7 +397,7 @@ conferences:
     date_added: 2021-08-19
     start_datetime: 2021-09-25T00:00:00Z
     end_datetime: 2021-09-25T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Stemettes and Avantor Foundation have collaborated to bring young women and young nonbinary folks aged 15 to 21 personalised, free, support for their futures."
     type: diversity
@@ -408,7 +408,7 @@ conferences:
     date_added: 2021-08-19
     start_datetime: 2021-10-14T09:30:00Z
     end_datetime: 2021-10-14T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "itag are bringing together Cyber Security experts, Technologists, Enthusiasts and Business leaders across industry, academia, and government. Join our Tech Community as we bring you a line up of cyber security experts for an exciting series of virtual sessions covering Digital Forensics, Threat Analysis, Social Engineering, Cyberpsychology and more. Our speakers are leading experts who are ready to share what challenges Cyber Security experts face in their work."
     type: tech
@@ -420,7 +420,7 @@ conferences:
     date_added: 2021-09-02
     start_datetime: 2021-09-28T00:00:00Z
     end_datetime: 2021-09-29T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join 1,500+ attendees in-person at St Georges Market, Belfast to hear from the brightest minds in the tech industry and discover the impact technology is having on our world."
     type: tech
@@ -432,7 +432,7 @@ conferences:
     date_added: 2021-09-03
     start_datetime: 2021-10-14T09:00:00Z
     end_datetime: 2021-10-14T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Digital health technologies are here to stay… As a result of the Covid pandemic, the use of virtual care and telemedicine has been established as a major component of delivering care. But now that we are beyond the crisis, are we seeing a fundamental shift in healthcare delivery. The Business Post’s 2nd annual virtual Smart Health Summit"
     type: tech
@@ -443,7 +443,7 @@ conferences:
     date_added: 2021-09-03
     start_datetime: 2021-10-06T00:00:00Z
     end_datetime: 2021-10-08T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Shift from Projects to Product Teams. Bridging the gap between Product, UX, Design and Dev to build better products, faster together."
     type: tech
@@ -454,18 +454,18 @@ conferences:
     date_added: 2021-09-03
     start_datetime: 2021-10-05T09:00:00Z
     end_datetime: 2021-10-05T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "With a number of major cyber attacks hitting Ireland, including the devastating HSE ransomware attack earlier this year, organisations are pushing cybersecurity high up on the agenda to ensure they are doing all that they can to prevent any major disruptions to operations as a result of a cyber incident. This summit is organised by iQuest & Business Post LIVE."
     type: tech
     status: active
-  - name: "Electic Vehicle Summit"
+  - name: "Electric Vehicle Summit"
     url: "https://evsummit.ie/"
     region: 🇮🇪
     date_added: 2021-09-03
     start_datetime: 2021-10-14T09:00:00Z
     end_datetime: 2021-10-14T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The Electric Vehicles Summit 2021, is the annual premier industry forum to discuss and learn about the latest in policy, innovation and technology that will drive market adoption and eMobility."
     type: tech
@@ -476,11 +476,33 @@ conferences:
     date_added: 2021-09-03
     start_datetime: 2021-10-19T00:00:00Z
     end_datetime: 2021-10-22T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "This conference is a unique meeting point for leaders from various sectors to share knowledge and build a community. Let’s put Responsible Innovation into action together to generate positive change!"
     type: tech
     status: active
+  - name: "Web Data Extraction Summit 2021"
+    url: "https://www.extractsummit.io/"
+    region: 🇮🇪
+    date_added: 2021-09-03
+    start_datetime: 2021-09-30T00:00:00Z
+    end_datetime: 2021-09-30T10:00:00Z
+    new: false
+    recurring: false
+    desc: "A single platform for all data lovers to come together to educate, inspire, and innovate. Powered by Zyte"
+    type: tech
+    status: active
+  - name: "#DataWeekender v4.2"
+    url: "https://www.dataweekender.com"
+    region: 🇮🇪
+    date_added: 2021-09-03
+    start_datetime: 2021-11-06T08:00:00Z
+    end_datetime: 2021-11-06T18:00:00Z
+    new: false
+    recurring: false
+    desc: "Expect to see at least 42 sessions on a variety of Microsoft Data and related topics. "
+    type: tech
+    status: active  
 
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
