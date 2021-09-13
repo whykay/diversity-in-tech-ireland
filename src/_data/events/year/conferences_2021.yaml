@@ -481,13 +481,14 @@ conferences:
     desc: "This conference is a unique meeting point for leaders from various sectors to share knowledge and build a community. Let’s put Responsible Innovation into action together to generate positive change!"
     type: tech
     status: active
+
   - name: "Web Data Extraction Summit 2021"
     url: "https://www.extractsummit.io/"
     region: 🇮🇪
-    date_added: 2021-09-03
+    date_added: 2021-09-13
     start_datetime: 2021-09-30T00:00:00Z
     end_datetime: 2021-09-30T10:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "A single platform for all data lovers to come together to educate, inspire, and innovate. Powered by Zyte"
     type: tech
@@ -495,12 +496,23 @@ conferences:
   - name: "#DataWeekender v4.2"
     url: "https://www.dataweekender.com"
     region: 🇮🇪
-    date_added: 2021-09-03
+    date_added: 2021-09-13
     start_datetime: 2021-11-06T08:00:00Z
     end_datetime: 2021-11-06T18:00:00Z
-    new: false
+    new: true
     recurring: false
-    desc: "Expect to see at least 42 sessions on a variety of Microsoft Data and related topics. "
+    desc: "Expect to see at least 42 sessions on a variety of Microsoft Data and related topics."
+    type: tech
+    status: active  
+  - name: "Pyjamas 2021"
+    url: "https://pyjamas.live/blog/conference-launch"
+    region: 🇮🇪
+    date_added: 2021-09-13
+    start_datetime: 2021-12-04T00:00:00Z
+    end_datetime: 2021-12-04T00:00:00Z
+    new: true
+    recurring: false
+    desc: "Being tired of all the conferences that happened online? Don’t worry, we are different from the other online tech conference. We are totally community-run and very chill. **CfP is now open**"
     type: tech
     status: active  
 
