@@ -48,7 +48,19 @@ eventlistings:
     date_added: 2021-09-13
     start_datetime: 2021-10-13T18:00:00Z
     end_datetime: 2021-10-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+
+  - name: "Diversity in Tech Awards Online"
+    url: "https://diversityintechawards.online/4"
+    region: 🇮🇪 
+    date_added: 2021-09-20
+    start_datetime: 2021-10-07T17:00:00Z
+    end_datetime: 2021-10-07T19:00:00Z
+    new: true
+    recurring: false
+    desc: "Previously known as the Women in Tech awards, the Diversity in Tech Awards, taking place virtually on October 7th 2021, will shine the spotlight on the achievements of organisations creating a more diverse workplace while striving to narrow the gender gap in the technology sector. The event, which celebrates the best in tech, has been expanded to recognise diversity in all of its forms. It includes 17 categories for both diversity and women in tech."
+    type: diversity
