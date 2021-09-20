@@ -516,6 +516,20 @@ conferences:
     type: tech
     status: active  
 
+  - name: "Sustainability Summit and Content Series | 2021"
+    url: "https://thebusinessshowireland.com/sustainability-summit/"
+    region: 🇮🇪
+    date_added: 2021-09-20
+    start_datetime: 2021-09-22T00:00:00Z
+    end_datetime: 2021-09-22T00:00:00Z
+    new: true
+    recurring: false
+    desc: "Sustainability is at the heart of building and protecting the future for us, our friends and families, and for generations to come. The growing clarion call for businesses to be on the path to zero carbon means sustained pro-action is needed by all stakeholders in the business community. The Business Show’s Sustainability 2021 programme is a comprehensive offering comprising virtual events, online editorial and live C-Suite engagement, all of which will deliver viable solutions for the coming decade. We will convene thought leaders, policy makers and sustainability experts for an engaging exchange of insights and strategies. Sustainability 2021 is designed to provide attendees with the tools needed to achieve sustainability goals while offering a unique opportunity to network with peers and industry leaders."
+    type: tech
+    status: active  
+
+
+
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
     url: "https://www.linkedin.com/events/6786971879539306498/"
