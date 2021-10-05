@@ -123,7 +123,7 @@ eventlistings:
     end_datetime: 2021-10-19T19:30:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "<p>PyLadies Paris speaker will be Maria Camila Remolina-Gutiérrez talking about 'Unraveling the mysteries of the universe with Python' and Qishan Yang talking about 'Research Survivor' and he is a Data Scientist at Wrky (Dublin City University)"
     type: diversity
   - name: "Newry Digital: Online Demos and Social"
     url: "https://www.meetup.com/newry-digital/events/281019763"
@@ -254,7 +254,7 @@ eventlistings:
     end_datetime: 2021-10-19T20:00:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "Join WITS on 19 October for a science career talk with panellists from companies including Henkel, Anabio Technologies and TCD. Hosted by Susan Tracey from Tracey Health Consulting, the speakers will discuss their personal experiences of moving from college to their first science role, what they learned and how they were able to navigate through the science world."
     type: diversity
   - name: "WITS Student Career Series - Engineering Panel"
     url: "https://www.eventbrite.com/e/wits-student-career-series-engineering-panel-tickets-177497749547"
@@ -264,7 +264,7 @@ eventlistings:
     end_datetime: 2021-10-26T20:00:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "Join WITS on 26 October for an engineering career talk with panellists from companies including ESB, Emerson and Stryker. Hosted by Katie Daffy from Engineers Ireland, the speakers will discuss their personal experiences of moving from college to their first science role, what they learned and how they were able to navigate through the engineering world."
     type: diversity
   - name: "WITS Virtual Coffee"
     url: "https://www.eventbrite.com/e/wits-ireland-virtual-coffee-october-tickets-178985690017?"
@@ -274,7 +274,7 @@ eventlistings:
     end_datetime: 2021-10-07T09:00:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "Coffee and a chat?? Come join us for half hour Virtual coffee chatting about all things WITS."
     type: diversity
   - name: "WITS Reads - Discover Together"
     url: "https://witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
@@ -284,7 +284,7 @@ eventlistings:
     end_datetime: 2021-10-12T21:30:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "We meet on Tuesday 12 October 2021 @ 8 pm. We're reading Life on the Edge: The Coming of Age of Quantum Biology by Johnjoe McFadden, Jim Al-Khalili. We hope you enjoy the book."
     type: diversity
   - name: "CYBER.EU.VET : Cybersecurity Game Jam"
     url: "https://www.gamecraft.it/news/2021/09/25/cyber-eu-vet-cybersecurity-game-jam/"
@@ -296,3 +296,14 @@ eventlistings:
     recurring: false
     desc: 
     type: games
+  - name: "AwakenHub 'Show Me The Money'"
+    url: "https://www.awakenhub.com/events-2/awakenhub-show-me-the-money"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-26T17:00:00Z
+    end_datetime: 2021-10-26T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>We have all seen that famous movie with the line ‘show me the money’.  Well here at AwakenHub we like to make dreams come true (well at least point you in the right direction as to how you can make your own dreams come true).  Hard work, common sense and understanding the lay of the land are all part and parcel of that.</p>
+    <p>So join us in October with our hostess extraordinaire (and AwakenHub co-founder) Mary McKenna who will be talking all things money, moula, dosh, spondoolies, cash, coin with some women who know all about it.</p>"
+    type: diversity
