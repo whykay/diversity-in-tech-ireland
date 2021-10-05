@@ -40,3 +40,24 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+  - name: "WITS Student Career Series - Academia Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-academic-panel-tickets-177501661247"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-11-09T19:00:00Z
+    end_datetime: 2021-11-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Student Career Series - Academia Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-ux-design-tickets-177510999177"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-11-16T19:00:00Z
+    end_datetime: 2021-11-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity

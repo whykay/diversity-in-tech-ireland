@@ -55,12 +55,234 @@ eventlistings:
 
 
   - name: "Diversity in Tech Awards Online"
-    url: "https://diversityintechawards.online/4"
+    url: "https://diversityintechawards.online"
     region: 🇮🇪 
     date_added: 2021-09-20
     start_datetime: 2021-10-07T17:00:00Z
     end_datetime: 2021-10-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Previously known as the Women in Tech awards, the Diversity in Tech Awards, taking place virtually on October 7th 2021, will shine the spotlight on the achievements of organisations creating a more diverse workplace while striving to narrow the gender gap in the technology sector. The event, which celebrates the best in tech, has been expanded to recognise diversity in all of its forms. It includes 17 categories for both diversity and women in tech."
+    type: diversity
+
+  - name: "The Changing Face Of Balbriggan: HACKATHON!"
+    url: "https://www.eventbrite.com/e/the-changing-face-of-balbriggan-hackathon-tickets-144269739675"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-16T09:00:00Z
+    end_datetime: 2021-10-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin UX LIVE@HOME - Laws of UX"
+    url: "https://www.meetup.com/Dublin-UX/events/280953050"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-07T17:00:00Z
+    end_datetime: 2021-10-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin DigiX Lab & HUAWEI Student Developer"
+    url: "https://www.meetup.com/ireland-hsd/events/281067179"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-22T19:00:00Z
+    end_datetime: 2021-10-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Kildare Database Development - The tools of the trade!"
+    url: "https://www.meetup.com/kildare-database-development/events/280812140"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-12T20:00:00Z
+    end_datetime: 2021-10-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "The Games Co-Op: I Am The One Who Knockstober"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/281101970"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-13T19:00:00Z
+    end_datetime: 2021-10-13T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "PyLadies Dublin x PyLadies Paris October Meetup"
+    url: "https://www.meetup.com/PyLadiesDublin/events/280900898"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-19T18:30:00Z
+    end_datetime: 2021-10-19T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "Newry Digital: Online Demos and Social"
+    url: "https://www.meetup.com/newry-digital/events/281019763"
+    region: 🇬🇧
+    date_added: 2021-10-04
+    start_datetime: 2021-10-20T19:00:00Z
+    end_datetime: 2021-10-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Belfast: How to design for everyone."
+    url: "https://www.meetup.com/UXBelfast/events/280987546"
+    region: 🇬🇧
+    date_added: 2021-10-04
+    start_datetime: 2021-10-18T18:00:00Z
+    end_datetime: 2021-10-18T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace: Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436120"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-07T19:00:00Z
+    end_datetime: 2021-10-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/281184694"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-09T15:00:00Z
+    end_datetime: 2021-10-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Open Source Project Discussion"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/281072433"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-12T18:00:00Z
+    end_datetime: 2021-10-12T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/281126936"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-06T20:00:00Z
+    end_datetime: 2021-10-06T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Limerick DotNet-Azure User Group (LDNA):The new generation of device protection with Microsoft Defender for Endpoint"
+    url: "https://www.meetup.com/Limerick-DotNet/events/280790874"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-21T20:00:00Z
+    end_datetime: 2021-10-21T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Cork|Sec 100"
+    url: "https://www.meetup.com/CorkSec/events/280418334"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-12T19:00:00Z
+    end_datetime: 2021-10-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Cork"
+    url: "https://www.meetup.com/UX-Cork-Group/events/281033642"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-20T18:30:00Z
+    end_datetime: 2021-10-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Ministry of Testing Cork:Melissa Eaden - Practical Application of The Modern Testing Principles"
+    url: "https://www.meetup.com/Ministry-of-Testing-Cork/events/281019360"
+    region: 🇮🇪 
+    date_added: 2021-10-04
+    start_datetime: 2021-10-21T20:00:00Z
+    end_datetime: 2021-10-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "WITS Student Career Series - Technology Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-technology-panel-tickets-173653039917?"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-05T19:00:00Z
+    end_datetime: 2021-10-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Student Career Series - Product Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-product-panel-tickets-177484921177"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-12T19:00:00Z
+    end_datetime: 2021-10-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Student Career Series - Science Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-science-panel-tickets-177496255077"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-19T19:00:00Z
+    end_datetime: 2021-10-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Student Career Series - Engineering Panel"
+    url: "https://www.eventbrite.com/e/wits-student-career-series-engineering-panel-tickets-177497749547"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-26T19:00:00Z
+    end_datetime: 2021-10-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Virtual Coffee"
+    url: "https://www.eventbrite.com/e/wits-ireland-virtual-coffee-october-tickets-178985690017?"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-07T08:30:00Z
+    end_datetime: 2021-10-07T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "WITS Reads - Discover Together"
+    url: "https://witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-12T20:00:00Z
+    end_datetime: 2021-10-12T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
     type: diversity
