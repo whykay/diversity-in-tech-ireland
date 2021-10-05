@@ -286,3 +286,13 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+  - name: "CYBER.EU.VET : Cybersecurity Game Jam"
+    url: "https://www.gamecraft.it/news/2021/09/25/cyber-eu-vet-cybersecurity-game-jam/"
+    region: 🇮🇪 
+    date_added: 2021-10-05
+    start_datetime: 2021-10-08T20:00:00Z
+    end_datetime: 2021-10-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
