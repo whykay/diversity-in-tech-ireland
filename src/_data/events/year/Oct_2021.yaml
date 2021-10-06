@@ -307,3 +307,14 @@ eventlistings:
     desc: "<p>We have all seen that famous movie with the line ‘show me the money’.  Well here at AwakenHub we like to make dreams come true (well at least point you in the right direction as to how you can make your own dreams come true).  Hard work, common sense and understanding the lay of the land are all part and parcel of that.</p>
     <p>So join us in October with our hostess extraordinaire (and AwakenHub co-founder) Mary McKenna who will be talking all things money, moula, dosh, spondoolies, cash, coin with some women who know all about it.</p>"
     type: diversity
+
+  - name: "National Women's Enterprise Day 2021"
+    url: "https://www.awakenhub.com/events-2/awakenhub-show-me-the-money"
+    region: 🇮🇪 
+    date_added: 2021-10-06
+    start_datetime: 2021-10-07T09:00:00Z
+    end_datetime: 2021-10-07T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ireland’s largest female enterprise event, National Women’s Enterprise Day, is back, bigger and better than ever. Join host Aine Kerr and some of Ireland’s most inspiring, and successful, female entrepreneurs as we look to “Build The Future”. </p>"
+    type: diversity
