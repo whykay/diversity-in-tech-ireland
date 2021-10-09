@@ -349,6 +349,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-    
 
+  - name: "WITS Ireland Virtual Coffee"
+    url: "https://www.eventbrite.com/e/wits-ireland-virtual-coffee-october-tickets-187515954267"
+    region: 🇮🇪 
+    date_added: 2021-10-08
+    start_datetime: 2021-10-21T08:00:00Z
+    end_datetime: 2021-10-21T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Virtual Coffee Event for all WITS Members. Were having a quick half hour Virtual coffee chatting about all things WITS."
+    type: diversity
+  - name: "Creative Spark: Computerised Woodworking for CNC Beginners"
+    url: "https://www.eventbrite.com/e/computerised-woodworking-for-cnc-beginners-tickets-177918146967"
+    region: 🇮🇪 
+    date_added: 2021-10-08
+    start_datetime: 2021-10-30T09:30:00Z
+    end_datetime: 2021-10-30T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
 

@@ -15,4 +15,26 @@ conferences:
     </ul></div>"
     type: maker
     status: active
-    
+  - name: "EuroPython 2022 - Dublin"
+    url: "https://blog.europython.eu/post/632055258029473792/europython-2021-will-be-run-online"
+    region: 🇮🇪
+    date_added: 2021-02-05
+    start_datetime: 2022-07-11T00:00:00Z
+    end_datetime: 2022-08-17T00:00:00Z
+    new: false
+    recurring: false
+    desc: "First time this week long traveliing Python conference will be in Dublin."
+    type: tech
+    status: active
+
+  - name: "Zero Day Con - Supercharge Your Security"
+    url: "hhttps://www.eventbrite.com/e/zero-day-con-supercharge-your-security-tickets-95349180967"
+    region: 🇮🇪
+    date_added: 2021-10-08
+    start_datetime: 2022-03-10T00:00:00Z
+    end_datetime: 2022-03-10T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>These unprecedented times are a turning point for the cybersecurity industry. New technologies, new attack vectors, geopolitical tensions and regulations are reshaping cyber and business risks. With these many evolving challenges, now is the time to supercharge your security. Zero Day Con will host a full day of expert level discussion on cutting edge security approaches to implementing the right security measures to protect your systems, data, and information. Join Zero Day Con in Dublin on March 10th 2022, to examine industry insights, top security technologies, and key priorities for your infosec program.</p>"
+    type: tech
+    status: active

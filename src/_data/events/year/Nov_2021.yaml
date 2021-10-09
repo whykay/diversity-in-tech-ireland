@@ -71,3 +71,14 @@ eventlistings:
     recurring: false
     desc: "<p>Join us in November where our hostess Denise McQuaid CEO of GoBeyond will be talking to us about how to move your business to the next level amid ‘growing pains’. It’s all part of the start-up to grow-up process- how to onboard, pick good people, in-house or out-house, changing roles, proper processes.</p>"
     type: diversity
+
+  - name: "Creative Spark: Electronics and Soldering for Beginners"
+    url: "https://www.eventbrite.com/e/electronics-and-soldering-for-beginners-tickets-178078366187"
+    region: 🇮🇪 
+    date_added: 2021-10-08
+    start_datetime: 2021-11-20T09:30:00Z
+    end_datetime: 2021-11-20T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker

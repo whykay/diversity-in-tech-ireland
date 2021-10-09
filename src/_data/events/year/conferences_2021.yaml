@@ -540,6 +540,17 @@ conferences:
     type: tech
     status: active  
 
+  - name: "Engineers Ireland's 2021 National Conference"
+    url: "https://www.engineersireland.ie/Professionals/Events/Featured-events/National-Conference"
+    region: 🇮🇪
+    date_added: 2021-10-09
+    start_datetime: 2021-10-13T00:00:00Z
+    end_datetime: 2021-10-13T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Based on the theme Engineering in a new world: digital and sustainable solutions for society, our National Conference will be free for Engineers Ireland's members to attend. Our motivational and solutions-focused online event will showcase best practice deployed by ambitious engineering companies/firms and individuals in progressing their businesses at this time of global challenge. The deployment of sustainable approaches in those businesses and how digitalisation in supporting the work of today’s engineers will be a key emphasis. The role of engineers in progressing our island’s national recovery post Covid-19 & Brexit will also feature. </p>"
+    type: tech
+    status: active
 
 # 2022 CONFERENCES
   - name: "PyCon Limerick 2022"
@@ -568,5 +579,15 @@ conferences:
     desc: "First time this week long traveliing Python conference will be in Dublin."
     type: tech
     status: active
-    
+  - name: "Zero Day Con - Supercharge Your Security"
+    url: "https://www.eventbrite.com/e/zero-day-con-supercharge-your-security-tickets-95349180967"
+    region: 🇮🇪
+    date_added: 2021-10-08
+    start_datetime: 2022-03-10T00:00:00Z
+    end_datetime: 2022-03-10T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>These unprecedented times are a turning point for the cybersecurity industry. New technologies, new attack vectors, geopolitical tensions and regulations are reshaping cyber and business risks. With these many evolving challenges, now is the time to supercharge your security. Zero Day Con will host a full day of expert level discussion on cutting edge security approaches to implementing the right security measures to protect your systems, data, and information. Join Zero Day Con in Dublin on March 10th 2022, to examine industry insights, top security technologies, and key priorities for your infosec program.</p>"
+    type: tech
+    status: active
 
