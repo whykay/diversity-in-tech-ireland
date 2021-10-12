@@ -45,7 +45,7 @@ opportunities:
     desc: "Professional writers are ready to volunteer. TWi and Tech Writers Without Borders are partnering to bring technical writers to your not for profit COVID-19 related projects."
     url: "https://www.technicallywriteit.com/volunteer-writing-support/"
     region: 🇮🇪
-    status: 
+    status: archive
   - name: "Bank of Ireland provides €1m in emergency funding for communities impacted by Covid-19"
     desc: '<p>Funds fast-tracked for projects supporting vulnerable groups with immediate needs.</p>
     <p>In partnership with The Community Foundation for Ireland, the Bank is fast tracking €500,000 of the funds to 13 organisations that are working to support the immediate needs of vulnerable groups across the island of Ireland, north and south.</p>
@@ -67,7 +67,7 @@ opportunities:
     desc: 'Take your first step to building a globally scalable startup by joining a community, sharing your ideas with top mentors, and preparing your startup for investment or an accelerator with our dedicated regional teams at NDRC.'
     url: "https://www.ndrc.ie/programmes#early"
     region: 🇮🇪
-    status: 
+    status: archive
   - name: "StepIn2Tech"
     desc: "Unsure how to get a job in the tech industry? Have you been recently made unemployed? Is your job currently at risk or are you just looking for a fresh start? StepIn2Tech can provide you with a mentored pathway to a career in the technology sector."
     url: "https://fit.ie/stepin2tech/"
@@ -77,12 +77,12 @@ opportunities:
     desc: "The Edie Windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology."
     url: "https://lesbianswhotech.org/codingscholarship/"
     region: 
-    status: 
+    status: archive
   - name: "Patch Programme 2021"
     desc: "Patch is a 6 week long summer accelerator for 16 – 21 year olds. Participating teams spend the summer working on a chosen project, getting to know an energetic group of peers and learning from brilliant mentors and speakers. Patch is open to future entrepreneurs, scientists, engineers, designers and technologists of all stripes."
     url: "https://joinpatch.org"
     region: 🇮🇪
-    status: 
+    status: archive
   - name: "Future in Tech Programmes"
     desc: "8 tech skills programmes to help non-tech jobseekers rapidly and easily develop new digital skills and access new job opportunities. Candidates must be at least 18 years old and be unemployed."
     url: "http://www.futureintech.ie/"
@@ -92,25 +92,25 @@ opportunities:
     desc: "The application period for the summer term is April 15-May 14. The summer term is June 1 - August 30 (longer for people who would like to do it part time). See website for more info."
     url: "https://lfx.linuxfoundation.org/tools/mentorship"
     region:
-    status: new
+    status: archive
 
 aob:
-  - name: "BelfastFP moving away from Meetup"
-    desc:
+  - name: "BelfastFP moved away from Meetup"
+    desc: "Meetups and Events will be run by directly communicating with their members via our Mailing List."
     url: "https://belfastfp.github.io/"
     status:
-  - name: "GDG Dublin moving from Meetup to GDG Platform"
+  - name: "GDG Dublin moved from Meetup to GDG Platform"
     desc: "As of October 1st 2021 our GDG Dublin will be moving away from Meetup and any future hosted events will only be available through the GDG Event platform."
     url: "https://gdg.community.dev/gdg-dublin/"
-    status: new
-  - name: "GDG Galway moving from Meetup to GDG Platform"
+    status: 
+  - name: "GDG Galway moved from Meetup to GDG Platform"
     desc: "We are moving home, we are leaving Meetup.com to move to our dedicated platform, we would love to see you over there."
     url: "https://gdg.community.dev/gdg-galway"
-    status: new
+    status: 
   - name: "Mobilize on Hiatus until end of year"
     desc:
     url: "https://www.meetup.com/mobilizemeetup/"
-    status: 
+    status: archive
   - name: "New MongoDB User Group Events site for Dublin"
     desc: 'On April 28th, 2020, they will no longer run any user groups or events on Meetup. To continue interacting with your user group after that date, you need to create an account on <a href="https://live.mongodb.com/dublin">their new platform</a>.'
     url: "https://live.mongodb.com/dublin/"
@@ -119,9 +119,13 @@ aob:
     desc: 'Updates via: <a href="https://www.eventbrite.ie/o/women-co-17855424135">https://www.eventbrite.ie/o/women-co-17855424135</a>'
     url: "http://womenwhocowork.ie/"
     status: 
+  - name: "Platform Engineering Slack channel"
+    desc: "This is a space to bring together our community of platform engineers, product managers and platform nerds to share best practices, events and opportunities in the space. We will have dedicated #meet, #jobs and #intros channels, so everyone can make the most of this awesome bunch we are building."
+    url: "https://join.slack.com/t/platformengin-b0m7058/shared_invite/zt-viqjsv9g-JrJJa8jo8jSi0GrtDqk_2A"
+    status: new
 
 resources:
-  - name: "Best practices for accessibility for virtual events"
+  - name: "Best practices for accessibility for virtual events (via Platform Engineers Dublin)"
     desc: 'As everyone knows, most of our open source events have transformed from in-person to digital this year. However, due to the sudden change, not everything is accessible. We took this issue seriously and decided to work with one of our accessibility experts, Neighborhood Access, to share best practices for our community. We hope this will help you organize your digital events!'
     url: "https://opensource.googleblog.com/2020/12/best-practices-for-accessibility-for.html"
     status: 
