@@ -393,22 +393,22 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "it@cork Leaders Awards"
-    url: "https://www.itcork.ie/leaders-awards-2021"
-    region: 🇮🇪 
-    date_added: 2021-10-12
-    start_datetime: 2021-12-04T09:00:00Z
-    end_datetime: 2021-12-04T17:00:00Z
-    new: true
-    recurring: false
-    desc: "Start and end times needs to be updated"
-    type: tech
   - name: "it@cork: Tech Talk: Routes to Creating Games"
     url: "https://www.itcork.ie/event/tech-talk-routes-creating-games"
     region: 🇮🇪 
     date_added: 2021-10-12
-    start_datetime: 2021-12-14T08:00:00Z
-    end_datetime: 2021-12-14T09:00:00Z
+    start_datetime: 2021-10-14T08:00:00Z
+    end_datetime: 2021-10-14T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "Talent Garden: Why is UX everyone's responsibility?"
+    url: "https://www.eventbrite.com/e/why-is-ux-everyones-responsibility-tickets-182582267477"
+    region: 🇮🇪 
+    date_added: 2021-10-12
+    start_datetime: 2021-10-20T08:00:00Z
+    end_datetime: 2021-10-20T09:00:00Z
     new: true
     recurring: false
     desc: 
