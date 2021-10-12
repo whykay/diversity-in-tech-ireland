@@ -210,14 +210,16 @@ data:  events.other, events.recurring
         <h2 id="aob">🤖 AOB Events-related</h2>
         
         {% for info in events.other.aob | sort(attribute='name') %}
-        <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
-            <div>
-                <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+            {% if info.status != "archive" %}
+            <div class="border-solid border-1 bg-blue-50 rounded-lg p-5 text-base mb-2">
+                <div>
+                    <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                </div>
+                <div class="text-sm">
+                    {{ info.desc | safe }}
+                </div>
             </div>
-            <div class="text-sm">
-                {{ info.desc | safe }}
-            </div>
-        </div>
+            {% endif %}
         {% endfor %}
     </div>
 
