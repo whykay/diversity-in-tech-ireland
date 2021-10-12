@@ -591,3 +591,16 @@ conferences:
     type: tech
     status: active
 
+  - name: "DevFest 2021: UK & Ireland"
+    url: "https://www.devfest-uki.com/"
+    region: 🇮🇪🇬🇧
+    date_added: 2021-10-12
+    start_datetime: 2022-11-20T00:00:00Z
+    end_datetime: 2022-11-20T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>DevFest is one of the larger scale community-driven tech conferences in the UK & Ireland, carefully crafted for you by the Google Developer Group (GDG) community!  GDG is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking.</p>
+    <p>This year's DevFest UK & Ireland will be a hybrid one (in-person and virtual), with the in-person part being held and hosted by King's College London.</p>
+    <p>Learn about Mobile, Web, Cloud, AI, Machine Learning, Hot Tech and more from world experts.  We also have a track dedicated solely on Diversity, Equity & Inclusion.</p>"
+    type: tech
+    status: active
