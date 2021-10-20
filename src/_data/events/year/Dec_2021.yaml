@@ -18,7 +18,7 @@ eventlistings:
     date_added: 2021-10-12
     start_datetime: 2021-12-04T09:00:00Z
     end_datetime: 2021-12-04T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Start and end times needs to be updated"
     type: tech

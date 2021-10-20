@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2021-10-05
     start_datetime: 2021-11-09T19:00:00Z
     end_datetime: 2021-11-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join WITS on 9 November for an academic career talk with panellists from UL, TCD, UCD and the Tyndall Institute. Hosted by Maxime Deckers from TCD, the speakers will discuss their personal experiences of deciding to pursue a research qualification, what they learned, how they approached their topic, found out about funding and how they were able to navigate through the academic world."
     type: diversity
@@ -57,7 +57,7 @@ eventlistings:
     date_added: 2021-10-05
     start_datetime: 2021-11-16T19:00:00Z
     end_datetime: 2021-11-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join WITS on 16 November for a UX based career talk with the Workhuman Product Design team. The team will discuss their career insights and what “a day in the life” looks like."
     type: diversity
@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2021-10-05
     start_datetime: 2021-11-23T17:00:00Z
     end_datetime: 2021-11-23T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us in November where our hostess Denise McQuaid CEO of GoBeyond will be talking to us about how to move your business to the next level amid ‘growing pains’. It’s all part of the start-up to grow-up process- how to onboard, pick good people, in-house or out-house, changing roles, proper processes.</p>"
     type: diversity
@@ -78,7 +78,29 @@ eventlistings:
     date_added: 2021-10-08
     start_datetime: 2021-11-20T09:30:00Z
     end_datetime: 2021-11-20T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
+
+  - name: "Leadership Retreat: Leading Diversity and Inclusion"
+    url: "https://www.diversein.com/post/you-are-invited-to-leadership-retreat"
+    region: 🇮🇪 
+    date_added: 2021-10-20
+    start_datetime: 2021-11-09T09:00:00Z
+    end_datetime: 2021-11-10T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>oin us to experience this unique and one of its kind leadership retreat in Ireland!</p>
+    <p>This 2-day intensively focused training course equips leaders and managers with extensive tools and resources to communicate diversity and inclusion effectively and build inclusive and safe spaces for all at work.</p>"
+    type: diversity
+  - name: "PyLadies Dublin Nov (End of 2021) Meetup"
+    url: "https://www.meetup.com/PyLadiesDublin/events/281523439/"
+    region: 🇮🇪 
+    date_added: 2021-10-20
+    start_datetime: 2021-11-16T18:30:00Z
+    end_datetime: 2021-11-16T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Our last meetup of 2021, and we have Jeffrey Roe (of the awesome TOG Hackerspace and Dublin Maker) speaking about using Python to play a physical game via the internet and check our page for details of our 2nd speaker.</p>"
+    type: diversity

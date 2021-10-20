@@ -522,7 +522,7 @@ conferences:
     date_added: 2021-09-20
     start_datetime: 2021-09-22T00:00:00Z
     end_datetime: 2021-09-22T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Sustainability is at the heart of building and protecting the future for us, our friends and families, and for generations to come. The growing clarion call for businesses to be on the path to zero carbon means sustained pro-action is needed by all stakeholders in the business community. The Business Show’s Sustainability 2021 programme is a comprehensive offering comprising virtual events, online editorial and live C-Suite engagement, all of which will deliver viable solutions for the coming decade. We will convene thought leaders, policy makers and sustainability experts for an engaging exchange of insights and strategies. Sustainability 2021 is designed to provide attendees with the tools needed to achieve sustainability goals while offering a unique opportunity to network with peers and industry leaders."
     type: tech
@@ -534,7 +534,7 @@ conferences:
     date_added: 2021-10-06
     start_datetime: 2021-11-22T10:00:00Z
     end_datetime: 2021-11-22T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The event brings together all AWS communities on the island of Ireland together with special guests from around the world, under one virtual roof for a day in November."
     type: tech
@@ -546,7 +546,7 @@ conferences:
     date_added: 2021-10-09
     start_datetime: 2021-10-13T00:00:00Z
     end_datetime: 2021-10-13T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Based on the theme Engineering in a new world: digital and sustainable solutions for society, our National Conference will be free for Engineers Ireland's members to attend. Our motivational and solutions-focused online event will showcase best practice deployed by ambitious engineering companies/firms and individuals in progressing their businesses at this time of global challenge. The deployment of sustainable approaches in those businesses and how digitalisation in supporting the work of today’s engineers will be a key emphasis. The role of engineers in progressing our island’s national recovery post Covid-19 & Brexit will also feature. </p>"
     type: tech
@@ -557,7 +557,7 @@ conferences:
     date_added: 2021-10-12
     start_datetime: 2021-11-20T00:00:00Z
     end_datetime: 2021-11-20T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>DevFest is one of the larger scale community-driven tech conferences in the UK & Ireland, carefully crafted for you by the Google Developer Group (GDG) community!  GDG is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking.</p>
     <p>This year's DevFest UK & Ireland will be a hybrid one (in-person and virtual), with the in-person part being held and hosted by King's College London.</p>

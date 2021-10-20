@@ -93,6 +93,19 @@ opportunities:
     url: "https://lfx.linuxfoundation.org/tools/mentorship"
     region:
     status: archive
+  - name: "NDRC Accelerator"
+    desc: "<p>Applications for our second NDRC Accelerator are now open!</p>
+          <p>We’re looking for entrepreneurs building ‘global solutions to global problems’ from a diverse set of backgrounds, sectors and skill sets to join our startup community.</p>
+          <p> Join our 6 month programme and get access to:-
+            <ul>
+              <li>€100k SAFE investment with founder friendly terms</li>
+              <li>Firesides & mentoring from a founder network worth over €5B</li>
+              <li>Weekly coaching from EIRs</li>
+            </ul>
+          </p>"
+    url: "https://www.ndrc.ie/accelerator?utm_content=183942258"
+    region: 🇮🇪
+    status: new
 
 aob:
   - name: "BelfastFP moved away from Meetup"
