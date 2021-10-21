@@ -87,8 +87,8 @@ eventlistings:
     url: "https://www.diversein.com/post/you-are-invited-to-leadership-retreat"
     region: 🇮🇪 
     date_added: 2021-10-20
-    start_datetime: 2021-11-09T09:00:00Z
-    end_datetime: 2021-11-10T18:00:00Z
+    start_datetime: 2021-11-09T09:30:00Z
+    end_datetime: 2021-11-10T17:00:00Z
     new: true
     recurring: false
     desc: "<p>oin us to experience this unique and one of its kind leadership retreat in Ireland!</p>
@@ -104,3 +104,14 @@ eventlistings:
     recurring: false
     desc: "<p>Our last meetup of 2021, and we have Jeffrey Roe (of the awesome TOG Hackerspace and Dublin Maker) speaking about using Python to play a physical game via the internet and check our page for details of our 2nd speaker.</p>"
     type: diversity
+
+  - name: "No-Code Automation First Dublin Meetup (in-person)"
+    url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/281398632/"
+    region: 🇮🇪 
+    date_added: 2021-10-21
+    start_datetime: 2021-11-17T18:30:00Z
+    end_datetime: 2021-11-17T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
