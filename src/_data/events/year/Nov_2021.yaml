@@ -89,9 +89,9 @@ eventlistings:
     date_added: 2021-10-20
     start_datetime: 2021-11-09T09:30:00Z
     end_datetime: 2021-11-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
-    desc: "<p>oin us to experience this unique and one of its kind leadership retreat in Ireland!</p>
+    desc: "<p>Join us to experience this unique and one of its kind leadership retreat in Ireland!</p>
     <p>This 2-day intensively focused training course equips leaders and managers with extensive tools and resources to communicate diversity and inclusion effectively and build inclusive and safe spaces for all at work.</p>"
     type: diversity
   - name: "PyLadies Dublin Nov (End of 2021) Meetup"
@@ -100,7 +100,7 @@ eventlistings:
     date_added: 2021-10-20
     start_datetime: 2021-11-16T18:30:00Z
     end_datetime: 2021-11-16T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our last meetup of 2021, and we have Jeffrey Roe (of the awesome TOG Hackerspace and Dublin Maker) speaking about using Python to play a physical game via the internet and check our page for details of our 2nd speaker.</p>"
     type: diversity
@@ -111,7 +111,341 @@ eventlistings:
     date_added: 2021-10-21
     start_datetime: 2021-11-17T18:30:00Z
     end_datetime: 2021-11-17T20:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech, in-person
+
+  - name: "Remote Work in Ireland Hackathon"
+    url: "https://www.meetup.com/remote-work-in-ireland-hackathon/events/281678006/"
+    region: 🇮🇪 
+    date_added: 2021-10-27
+    start_datetime: 2021-11-20T10:00:00Z
+    end_datetime: 2021-11-21T19:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Cybersecurity Awareness Morning"
+    url: "https://www.eventbrite.ie/e/cybersecurity-awareness-morning-tickets-196450347277?aff=ebdsoporgprofile"
+    region: 🇮🇪 
+    date_added: 2021-11-01
+    start_datetime: 2021-11-10T10:00:00Z
+    end_datetime: 2021-11-10T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "5th Mary Mulvihill virtual Memorial Lecture"
+    url: "https://www.eventbrite.com/e/5th-mary-mulvihill-virtual-memorial-lecture-tickets-187004273817"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-08T18:00:00Z
+    end_datetime: 2021-11-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: "Women in Technology and Science (WITS) invites you to celebrate the 5th Mary Mulvihill Memorial Lecture and the unveiling plaque in her memory."
+    type: diversity
+  - name: "WITS Ireland AGM 2021"
+    url: "https://www.eventbrite.com/e/wits-agm-2021-tickets-194432050497"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-27T11:00:00Z
+    end_datetime: 2021-11-27T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 31st WITS Annual General Meeting (AGM) 2021 will be held on Saturday, 27 November 2021 from 11:00 am - 1:30 pm via Zoom.</p>
+    <p>All members invited to attend. Student affiliate members are very welcome at the AGM but do not have a vote. Booking is now open. We look forward to meeting you.</p>"
+    type: diversity
+  - name: "Data streaming at scale with Benthos"
+    url: "https://www.eventbrite.com/e/data-streaming-at-scale-with-benthos-tickets-202749468117"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-08T10:00:00Z
+    end_datetime: 2021-11-08T11:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin UX LIVE@HOME - Creative Empathy for Meaningful UX"
+    url: "https://www.meetup.com/Dublin-UX/events/281365179"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-04T17:00:00Z
+    end_datetime: 2021-11-04T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436140"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-04T19:00:00Z
+    end_datetime: 2021-11-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech    
+  - name: "Lady of Nerds Dublin: JackBox Games Anyone?"
+    url: "https://www.meetup.com/lady-nerds-of-dublin/events/281830102"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-07T15:00:00Z
+    end_datetime: 2021-11-07T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Let’s play some JackBox games! I’ll host them on our group discord server. The server invite link will be available once you RSVP!"
+    type: diversity
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All... Online"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/281801771"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-07T18:00:00Z
+    end_datetime: 2021-11-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Dublin Code Mentoring: Crack The Coding Interview Discussion"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/281791340"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-07T20:30:00Z
+    end_datetime: 2021-11-07T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Code Mentoring: Open Source Project Discussion"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/281819609"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-09T18:00:00Z
+    end_datetime: 2021-11-09T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Python Ireland Monthly Meetup: Quantum Computation with Python"
+    url: "https://www.meetup.com/pythonireland/events/274973008"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-10T18:30:00Z
+    end_datetime: 2021-11-10T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Ruby Ireland: &Open Presents: Using Blazer as a BI tool (in-person)"
+    url: "https://www.meetup.com/rubyireland/events/281716087"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-10T18:30:00Z
+    end_datetime: 2021-11-10T20:30:00Z
     new: true
     recurring: false
     desc:
     type: tech, in-person
+  - name: "Dublin Applied Mathematics Meetup"
+    url: "https://www.meetup.com/Dublin-Applied-Mathematics-Meetup/events/281570376"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-11T19:00:00Z
+    end_datetime: 2021-11-11T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "The Games Co-Op: The Games Co-Op: Ah Yeahvember!!!!!"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/281830023"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-17T19:00:00Z
+    end_datetime: 2021-11-17T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games 
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436144"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-18T19:00:00Z
+    end_datetime: 2021-11-18T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels (in-person)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/281373652"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-27T15:00:00Z
+    end_datetime: 2021-11-27T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "PHP Dublin: Nov 2021 - Working with 3rd party services in Laravel"
+    url: "https://www.meetup.com/PHP-Dublin/events/281576685"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-03T18:00:00Z
+    end_datetime: 2021-11-03T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "UX Design Dublin meeting (in-person)"
+    url: "https://www.meetup.com/ux-design-ireland/events/281625935"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-07T13:30:00Z
+    end_datetime: 2021-11-07T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/281828885"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-09T19:00:00Z
+    end_datetime: 2021-11-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Data Engineering and Data Architecture Group (DEDAG): Data Warehouse Implementations. Reference Data Architecture for the Cloud"
+    url: "https://www.meetup.com/data-engineering-and-data-architecture-group/events/281818861"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-11T11:00:00Z
+    end_datetime: 2021-11-11T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/281566914"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-13T15:00:00Z
+    end_datetime: 2021-11-13T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "SRE Group @ Dublin: Migrating ETL and AIOps of future"
+    url: "https://www.meetup.com/dublinsre/events/281626376"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-17T18:00:00Z
+    end_datetime: 2021-11-17T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Dublin Data Science: Analysing Politeness: Can NLP Tools Help?"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/281499104"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-17T19:00:00Z
+    end_datetime: 2021-11-17T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "CorkJS: Sunday’s productive JS and coffee meetings (in-person)"
+    url: "https://www.meetup.com/Cork-JavaScript-Meetup/events/281794495"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-07T14:00:00Z
+    end_datetime: 2021-11-07T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "Cork|Sec 101"
+    url: "https://www.meetup.com/CorkSec/events/280418335"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-09T19:00:00Z
+    end_datetime: 2021-11-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "corkdev.io: Turbocharging Cloud Networking with Calico's eBPF Data Plane"
+    url: "https://www.meetup.com/corkdev-io/events/281690379"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-11T13:00:00Z
+    end_datetime: 2021-11-11T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork Software Crafters: Coderetreat Day 2021"
+    url: "https://www.meetup.com/Cork-Software-Craftsmanship-Meetup/events/281815385"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-15T09:00:00Z
+    end_datetime: 2021-11-15T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/281804902"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-03T20:00:00Z
+    end_datetime: 2021-11-03T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cloudpaging User Group Meetup"
+    url: "https://www.meetup.com/cloudpaging-user-group/events/281575030"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-11-05T14:30:00Z
+    end_datetime: 2021-11-05T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DevOps Belfast - Back in-person Double Header"
+    url: "https://www.meetup.com/DevOps-Belfast/events/281678892"
+    region: 🇬🇧
+    date_added: 2021-11-03
+    start_datetime: 2021-11-09T17:00:00Z
+    end_datetime: 2021-11-09T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Newry Digital: Online Coding Kata"
+    url: "https://www.meetup.com/newry-digital/events/281667869"
+    region: 🇬🇧
+    date_added: 2021-11-03
+    start_datetime: 2021-11-17T19:30:00Z
+    end_datetime: 2021-11-17T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "it@Cork: “Cyber Security - What are we doing?”"
+    url: "https://itcork-ie.zoom.us/webinar/register/WN_ThHX1nFNTTqkNvMJqtu2Aw"
+    region: 🇮🇪
+    date_added: 2021-11-03
+    start_datetime: 2021-11-04T08:00:00Z
+    end_datetime: 2021-11-04T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

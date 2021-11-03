@@ -22,3 +22,74 @@ eventlistings:
     recurring: false
     desc: "Start and end times needs to be updated"
     type: tech
+
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436154"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-02T19:00:00Z
+    end_datetime: 2021-12-02T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Data Science: Workshop: Data Science, Soup to Nuts"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/281667736"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-06T19:00:00Z
+    end_datetime: 2021-12-06T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Python Ireland Christmas Party"
+    url: "https://www.meetup.com/pythonireland/events/279483147"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-08T18:30:00Z
+    end_datetime: 2021-12-08T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436150"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-16T19:00:00Z
+    end_datetime: 2021-12-16T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/281381787"
+    region: 🇬🇧
+    date_added: 2021-11-03
+    start_datetime: 2021-12-23T08:00:00Z
+    end_datetime: 2021-12-23T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity 
+  - name: "Bring Your Laptop, Work on Code, it's TOG's Open Coding Night! - Online Only"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/280436160"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-30T19:00:00Z
+    end_datetime: 2021-12-30T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "SQL Ireland – Annual Christmas Event 2021"
+    url: "https://www.meetup.com/SQLIreland/events/281547206"
+    region: 🇮🇪 
+    date_added: 2021-11-03
+    start_datetime: 2021-12-14T18:30:00Z
+    end_datetime: 2021-12-14T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
