@@ -571,12 +571,35 @@ conferences:
     date_added: 2021-11-03
     start_datetime: 2021-11-18T00:00:00Z
     end_datetime: 2021-11-19T00:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>Join the largest and most active community of technical women for two days of career advancement, connection, and more!</p>"
     type: diversity
     status: active
 
+  - name: "AI Summit 2021"
+    url: "https://www.eventbrite.ie/e/ai-summit-2021-tickets-207939822607"
+    region: 🌍
+    date_added: 2021-11-10
+    start_datetime: 2021-11-25T10:00:00Z
+    end_datetime: 2021-11-25T13:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>AI from Innovation to Implementation</p>"
+    type: tech
+    status: active
+
+  - name: "Red Hat Summit Connect"
+    url: "https://www.redhat.com/en/red-hat-summit-connect-2021-dublin"
+    region: 🇮🇪
+    date_added: 2021-11-04
+    start_datetime: 2021-11-11T00:00:00Z
+    end_datetime: 2021-11-11T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>JThis one day event is part of a new series of small-scale events that brings the discussion of open source technonlogy to you. The day will provide updates and insights into the latest technologies and will also offer the opportunity to get hands on with Red Hat technologies.  There will be different streams of session topics that will host tech talks led by Red Hat experts and also business focused sessions delivered from industry leaders including some fantastic partner and customer stories. </p>"
+    type: diversity
+    status: active
 
 
 ####################
@@ -626,7 +649,7 @@ conferences:
     date_added: 2021-10-12
     start_datetime: 2022-04-14T00:00:00Z
     end_datetime: 2022-04-14T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This gathering of 2,000+ key decision makers from the UK and Ireland tech sector will provide a unique online forum for leading technology companies, tech buyers, start-ups, investors to meet and discuss the key tech trends facing the sector.</p>"
     type: tech
