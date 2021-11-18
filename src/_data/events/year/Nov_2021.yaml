@@ -105,7 +105,7 @@ eventlistings:
     desc: "<p>Our last meetup of 2021, and we have Jeffrey Roe (of the awesome TOG Hackerspace and Dublin Maker) speaking about using Python to play a physical game via the internet and check our page for details of our 2nd speaker.</p>"
     type: diversity
 
-  - name: "No-Code Automation First Dublin Meetup (in-person)"
+  - name: "No-Code Automation First Dublin Meetup"
     url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/281398632/"
     region: 🇮🇪 
     date_added: 2021-10-21
@@ -133,7 +133,7 @@ eventlistings:
     date_added: 2021-11-01
     start_datetime: 2021-11-10T10:00:00Z
     end_datetime: 2021-11-10T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -144,7 +144,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-08T18:00:00Z
     end_datetime: 2021-11-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women in Technology and Science (WITS) invites you to celebrate the 5th Mary Mulvihill Memorial Lecture and the unveiling plaque in her memory."
     type: diversity
@@ -154,7 +154,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-27T11:00:00Z
     end_datetime: 2021-11-27T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 31st WITS Annual General Meeting (AGM) 2021 will be held on Saturday, 27 November 2021 from 11:00 am - 1:30 pm via Zoom.</p>
     <p>All members invited to attend. Student affiliate members are very welcome at the AGM but do not have a vote. Booking is now open. We look forward to meeting you.</p>"
@@ -165,7 +165,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-08T10:00:00Z
     end_datetime: 2021-11-08T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -175,7 +175,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-04T17:00:00Z
     end_datetime: 2021-11-04T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -185,7 +185,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-04T19:00:00Z
     end_datetime: 2021-11-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech    
@@ -195,7 +195,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-07T15:00:00Z
     end_datetime: 2021-11-07T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let’s play some JackBox games! I’ll host them on our group discord server. The server invite link will be available once you RSVP!"
     type: diversity
@@ -205,7 +205,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-07T18:00:00Z
     end_datetime: 2021-11-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -215,7 +215,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-07T20:30:00Z
     end_datetime: 2021-11-07T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -225,7 +225,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-09T18:00:00Z
     end_datetime: 2021-11-09T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -235,7 +235,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-10T18:30:00Z
     end_datetime: 2021-11-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -245,7 +245,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-10T18:30:00Z
     end_datetime: 2021-11-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -255,7 +255,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-11T19:00:00Z
     end_datetime: 2021-11-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -265,7 +265,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-17T19:00:00Z
     end_datetime: 2021-11-17T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games 
@@ -275,7 +275,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-18T19:00:00Z
     end_datetime: 2021-11-18T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -285,7 +285,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-27T15:00:00Z
     end_datetime: 2021-11-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -295,7 +295,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-03T18:00:00Z
     end_datetime: 2021-11-03T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -305,7 +305,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-07T13:30:00Z
     end_datetime: 2021-11-07T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -315,7 +315,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-09T19:00:00Z
     end_datetime: 2021-11-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -325,7 +325,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-11T11:00:00Z
     end_datetime: 2021-11-11T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -335,7 +335,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-13T15:00:00Z
     end_datetime: 2021-11-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -345,7 +345,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-17T18:00:00Z
     end_datetime: 2021-11-17T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -355,7 +355,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-17T19:00:00Z
     end_datetime: 2021-11-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -365,7 +365,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-07T14:00:00Z
     end_datetime: 2021-11-07T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -375,7 +375,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-09T19:00:00Z
     end_datetime: 2021-11-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -385,7 +385,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-11T13:00:00Z
     end_datetime: 2021-11-11T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -395,7 +395,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-15T09:00:00Z
     end_datetime: 2021-11-15T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -405,7 +405,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-03T20:00:00Z
     end_datetime: 2021-11-03T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -415,7 +415,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-05T14:30:00Z
     end_datetime: 2021-11-05T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -425,7 +425,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-09T17:00:00Z
     end_datetime: 2021-11-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -435,7 +435,7 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-17T19:30:00Z
     end_datetime: 2021-11-17T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -445,7 +445,28 @@ eventlistings:
     date_added: 2021-11-03
     start_datetime: 2021-11-04T08:00:00Z
     end_datetime: 2021-11-04T09:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "UX Design Ireland: UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/281965591"
+    region: 🇮🇪
+    date_added: 2021-11-17
+    start_datetime: 2021-11-21T13:30:00Z
+    end_datetime: 2021-11-21T15:00:00Z
     new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "SRE Group @ Dublin:Migrating ETL and AIOps of future"
+    url: "https://www.meetup.com/dublinsre/events/281626376"
+    region: 🇮🇪
+    date_added: 2021-11-17
+    start_datetime: 2021-11-17T18:00:00Z
+    end_datetime: 2021-11-17T19:30:00Z
+    new: false
     recurring: false
     desc:
     type: tech

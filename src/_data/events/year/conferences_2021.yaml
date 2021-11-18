@@ -595,12 +595,24 @@ conferences:
     date_added: 2021-11-04
     start_datetime: 2021-11-11T00:00:00Z
     end_datetime: 2021-11-11T00:00:00Z
-    new: true
+    new: false
     recurring: false
-    desc: "<p>JThis one day event is part of a new series of small-scale events that brings the discussion of open source technonlogy to you. The day will provide updates and insights into the latest technologies and will also offer the opportunity to get hands on with Red Hat technologies.  There will be different streams of session topics that will host tech talks led by Red Hat experts and also business focused sessions delivered from industry leaders including some fantastic partner and customer stories. </p>"
+    desc: "<p>This one day event is part of a new series of small-scale events that brings the discussion of open source technonlogy to you. The day will provide updates and insights into the latest technologies and will also offer the opportunity to get hands on with Red Hat technologies.  There will be different streams of session topics that will host tech talks led by Red Hat experts and also business focused sessions delivered from industry leaders including some fantastic partner and customer stories. </p>"
     type: diversity
     status: active
 
+  - name: "National Open Data Conference 2021"
+    url: "https://www.eventbrite.ie/e/national-open-data-conference-2021-tickets-180749525697"
+    region: 🇮🇪
+    date_added: 2021-11-18
+    start_datetime: 2021-11-30T00:00:00Z
+    end_datetime: 2021-11-30T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are delighted to welcome you all back to Ireland's National Open Data Conference, taking place on 30th November 2021 from 09:30 to 12:30. The conference is designed to bring together the Open Data community in order to learn, share, plan and collaborate on the future of Open Data in Ireland.</p>
+    <p>This year's conference is focused on the theme of 'The Importance of Data Quality – How publishing interoperable, harmonised data can directly benefit its use and impact.'</p>"
+    type: tech
+    status: active
 
 ####################
 # 2022 CONFERENCES #
