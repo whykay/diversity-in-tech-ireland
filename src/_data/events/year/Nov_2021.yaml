@@ -456,7 +456,7 @@ eventlistings:
     date_added: 2021-11-17
     start_datetime: 2021-11-21T13:30:00Z
     end_datetime: 2021-11-21T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -466,6 +466,37 @@ eventlistings:
     date_added: 2021-11-17
     start_datetime: 2021-11-17T18:00:00Z
     end_datetime: 2021-11-17T19:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "AI Awards 2021 (Registration closes on Nov 19)"
+    url: "https://www.eventbrite.ie/e/2021-ai-awards-virtual-event-tickets-192306101727"
+    region: 🇮🇪
+    date_added: 2021-11-18
+    start_datetime: 2021-11-20T12:00:00Z
+    end_datetime: 2021-11-20T14:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+  - name: "Haskell Monthly Book Club"
+    url: "https://www.meetup.com/haskell-dublin-meetup/events/281917282"
+    region: 🇮🇪
+    date_added: 2021-11-18
+    start_datetime: 2021-11-25T19:00:00Z
+    end_datetime: 2021-11-25T20:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Tech Social: Chill, Chat & Coffee (in-person)"
+    url: "https://www.meetup.com/dublin-tech-social/events/281853710"
+    region: 🇮🇪
+    date_added: 2021-11-18
+    start_datetime: 2021-11-20T14:30:00Z
+    end_datetime: 2021-11-20T16:00:00Z
     new: false
     recurring: false
     desc:
