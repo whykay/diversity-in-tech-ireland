@@ -666,3 +666,16 @@ conferences:
     desc: "<p>This gathering of 2,000+ key decision makers from the UK and Ireland tech sector will provide a unique online forum for leading technology companies, tech buyers, start-ups, investors to meet and discuss the key tech trends facing the sector.</p>"
     type: tech
     status: active
+  - name: "Security BSides Dublin 2022"
+    url: "https://www.eventbrite.ie/e/security-bsides-dublin-2022-tickets-192813499367"
+    region: 🇮🇪
+    date_added: 2021-12-01
+    start_datetime: 2022-03-19T00:00:00Z
+    end_datetime: 2022-03-19T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organising an independent BSides-Approved event for Ireland, in Dublin.</p>
+    <p>The conference brings together renowned Information Security professionals from all over the world and gives to all participants the opportunity to network, learn and participate among like-minded individuals, while sharing or presenting their work.</p>
+    <p>This years conference builds on the success of the virtual event of 2021, by returning to The Convention Centre Dublin for an in-person event on 19th of March 2022.</p>"
+    type: tech
+    status: active

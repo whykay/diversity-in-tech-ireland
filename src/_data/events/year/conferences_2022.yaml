@@ -28,7 +28,7 @@ conferences:
     status: active
 
   - name: "Zero Day Con - Supercharge Your Security"
-    url: "hhttps://www.eventbrite.com/e/zero-day-con-supercharge-your-security-tickets-95349180967"
+    url: "https://www.eventbrite.com/e/zero-day-con-supercharge-your-security-tickets-95349180967"
     region: 🇮🇪
     date_added: 2021-10-08
     start_datetime: 2022-03-10T00:00:00Z
@@ -36,5 +36,30 @@ conferences:
     new: false
     recurring: false
     desc: "<p>These unprecedented times are a turning point for the cybersecurity industry. New technologies, new attack vectors, geopolitical tensions and regulations are reshaping cyber and business risks. With these many evolving challenges, now is the time to supercharge your security. Zero Day Con will host a full day of expert level discussion on cutting edge security approaches to implementing the right security measures to protect your systems, data, and information. Join Zero Day Con in Dublin on March 10th 2022, to examine industry insights, top security technologies, and key priorities for your infosec program.</p>"
+    type: tech
+    status: active
+
+  - name: "Tech Connect Conference & Exhibition"
+    url: "https://www.eventbrite.ie/e/tech-connect-conference-exhibition-tickets-108662823430"
+    region: 🇮🇪
+    date_added: 2021-12-01
+    start_datetime: 2022-04-14T00:00:00Z
+    end_datetime: 2022-04-14T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>The UK and Ireland’s largest technology event offers you a unique opportunity to interact with start-ups, active investors, as well as senior executives such as Founders, MD’s, CIOs, CTO’s, Finance Directors, IT Directors, Operation Directors, Marketing Directors etc from the largest, most innovative and disruptive companies in the world.</p>"
+    type: tech
+    status: active
+  - name: "Security BSides Dublin 2022"
+    url: "https://www.eventbrite.ie/e/security-bsides-dublin-2022-tickets-192813499367"
+    region: 🇮🇪
+    date_added: 2021-12-01
+    start_datetime: 2022-03-19T00:00:00Z
+    end_datetime: 2022-03-19T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organising an independent BSides-Approved event for Ireland, in Dublin.</p>
+    <p>The conference brings together renowned Information Security professionals from all over the world and gives to all participants the opportunity to network, learn and participate among like-minded individuals, while sharing or presenting their work.</p>
+    <p>This years conference builds on the success of the virtual event of 2021, by returning to The Convention Centre Dublin for an in-person event on 19th of March 2022.</p>"
     type: tech
     status: active

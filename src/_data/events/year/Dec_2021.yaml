@@ -156,3 +156,43 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "corkdev.io: AWS re:Invent 2021 Recap: The Definitive Overview"
+    url: "https://www.meetup.com/corkdev-io/events/282262553"
+    region: 🇮🇪 
+    date_added: 2021-12-01
+    start_datetime: 2021-12-09T13:00:00Z
+    end_datetime: 2021-12-09T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 102"
+    url: "https://www.meetup.com/CorkSec/events/280418336"
+    region: 🇮🇪 
+    date_added: 2021-12-01
+    start_datetime: 2021-12-14T19:00:00Z
+    end_datetime: 2021-12-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Bash!: The Jingle Bells BASH"
+    url: "https://www.meetup.com/devbash/events/282252750"
+    region: 🇬🇧
+    date_added: 2021-12-01
+    start_datetime: 2021-12-17T12:30:00Z
+    end_datetime: 2021-12-17T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DevOps Belfast"
+    url: "https://www.meetup.com/DevOps-Belfast/events/282137965"
+    region: 🇬🇧
+    date_added: 2021-12-01
+    start_datetime: 2021-12-21T18:30:00Z
+    end_datetime: 2021-12-21T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
