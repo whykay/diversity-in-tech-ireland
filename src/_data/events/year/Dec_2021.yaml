@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2021-11-25
     start_datetime: 2021-12-02T18:30:00Z
     end_datetime: 2021-12-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games 
@@ -121,7 +121,7 @@ eventlistings:
     date_added: 2021-11-25
     start_datetime: 2021-12-16T18:30:00Z
     end_datetime: 2021-12-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games 
@@ -131,7 +131,28 @@ eventlistings:
     date_added: 2021-11-25
     start_datetime: 2021-12-03T19:00:00Z
     end_datetime: 2021-12-03T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games 
+
+  - name: "UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/282226353"
+    region: 🇮🇪 
+    date_added: 2021-12-01
+    start_datetime: 2021-12-05T13:30:00Z
+    end_datetime: 2021-12-05T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech 
+  - name: "Personio's Platform & Pizzas (Online Event) #2"
+    url: "https://www.meetup.com/personios-platform-pizzas/events/282011614"
+    region: 🇮🇪 
+    date_added: 2021-12-01
+    start_datetime: 2021-12-07T17:30:00Z
+    end_datetime: 2021-12-07T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
