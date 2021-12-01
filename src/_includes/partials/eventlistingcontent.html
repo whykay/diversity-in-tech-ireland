@@ -14,19 +14,16 @@
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
-
             {% if (key_list[0] | lower | trim == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
+                {% set thisMonthListings = val   %}
+                {% set searching = true %}
+            {% elif (key_list[0] | lower | trim == month) and  (searching == false) %}
+                {# Year listings other than the current year #}
+                {# {{key_list[1]}} {{key_list[0] | lower}}<br> #}
                 {% set thisMonthListings = val   %}
                 {% set searching = true %}
             {% endif %}
         {% endfor %}
-
-        {#
-        {% set newList = [] %}
-        {% for event in  thisMonthListings.eventlistings | newItemList('diversity') | sort(attribute='start_datetime') %}
-            <p>{{event.name}} --- {{event.type}}</p>
-        {% endfor %}
-        #}
 
         {% if thisMonthListings %}
             {% if page.fileSlug == "events" %}
@@ -38,6 +35,7 @@
             
             <p> ℹ️ Number of events (excluding conferences): {{ thisMonthListings.eventlistings | length }}</p>
 
+            {% set event_cnt = 0 %}
             {% for event in thisMonthListings.eventlistings  | sort(attribute='start_datetime') %}
                 {% if event.type != "diversity" %}
                 <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
@@ -47,12 +45,16 @@
                     <div>
                         When: {{ event.start_datetime | readableDateTime() }} {% if event.end_datetime %}- {{ event.end_datetime | readableDateTime() }}{% endif %}
                     </div>
-                </div>                
+                </div>    
+                {% set event_cnt = event_cnt + 1 %}            
                 {% endif %}
             {% endfor %}
+            {% if event_cnt == 0 %}
+                <h3>🤔 No tech events, if we are missing something, let us know.</h3> 
+            {% endif %}  
 
-
-             <h2 id="diversity-events">Diversity events this month</h2>
+            <h2 id="diversity-events">Diversity events this month</h2>
+            {% set event_cnt = 0 %}
             {% for event in thisMonthListings.eventlistings  | sort(attribute='start_datetime') %}
                 {% if event.type == "diversity" %}
                     <div class="border-solid border-1 bg-purple-200 rounded-lg p-5 mt-2">
@@ -67,14 +69,15 @@
                             {{ event.desc | safe }}
                         </div>
                         {% endif %}
-                    </div>              
+                    </div>    
+                    {% set event_cnt = event_cnt + 1 %}          
                 {% endif %}
             {% endfor %}
-
-
-            
+            {% if event_cnt == 0 %}
+                <h3>🤔 No diversity events, if we are missing something, let us know.</h3> 
+            {% endif %}            
         {% else %}
-            Listings not found
+                <h3>Currently there's no events this month. If we are missing something, let us know.</h3>
         {% endif %}
     {% endif %}
     
