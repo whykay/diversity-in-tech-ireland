@@ -185,3 +185,94 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "Dublin Code Mentoring: Open Source Project Discussion"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/282347391"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-07T18:00:00Z
+    end_datetime: 2021-12-07T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Power BI User Group: Augustin Dokoza Bukvic: Power BI good bad a and the ugly"
+    url: "https://www.meetup.com/DublinPUG/events/282398820"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-07T18:30:00Z
+    end_datetime: 2021-12-07T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/282432869"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-07T19:00:00Z
+    end_datetime: 2021-12-07T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/Dublin-Accelerated-Learning-Technology-Meetup/events/282454479"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-08T18:00:00Z
+    end_datetime: 2021-12-08T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/282019183"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-09T08:00:00Z
+    end_datetime: 2021-12-09T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: "Design Sprint Ireland: Prototyping in a Design Sprint"
+    url: "https://www.meetup.com/Design-Sprint-Ireland/events/282322782"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-09T13:00:00Z
+    end_datetime: 2021-12-09T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "BelfastJS: The Twelve Talks of Christmas - Day 1"
+    url: "https://www.meetup.com/Belfast-JS/events/282411378"
+    region: 🇬🇧
+    date_added: 2021-12-06
+    start_datetime: 2021-12-13T18:00:00Z
+    end_datetime: 2021-12-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "No-Code Automation Dublin Meetup #2"
+    url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/282406650"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-15T18:30:00Z
+    end_datetime: 2021-12-15T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: Herpdederpcember"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/282412404"
+    region: 🇮🇪 
+    date_added: 2021-12-06
+    start_datetime: 2021-12-15T19:00:00Z
+    end_datetime: 2021-12-15T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
