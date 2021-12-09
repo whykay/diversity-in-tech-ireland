@@ -287,3 +287,13 @@ eventlistings:
     desc:
     type: diversity
 
+  - name: "KateCode Lab: Create your own Web Application with HTML, CSS, and JavaScript for Beginners."
+    url: "https://www.meetup.com/tech-cafe/events/282572640/"
+    region: 🇮🇪 
+    date_added: 2021-12-09
+    start_datetime: 2021-12-11T14:30:00Z
+    end_datetime: 2021-12-11T15:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
