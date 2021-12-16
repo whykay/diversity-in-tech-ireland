@@ -63,3 +63,16 @@ conferences:
     <p>This years conference builds on the success of the virtual event of 2021, by returning to The Convention Centre Dublin for an in-person event on 19th of March 2022.</p>"
     type: tech
     status: active
+
+  - name: "DevFest UK & Ireland"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-devfest-uk-ireland/"
+    region: 🇮🇪
+    date_added: 2021-12-16
+    start_datetime: 2022-01-09T00:00:00Z
+    end_datetime: 2022-01-09T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>DevFest is one of the larger scale community-driven tech conferences in the UK & Ireland, carefully crafted for you by the Google Developer Group (GDG) community! GDG is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking.</p>
+    <p>This year's DevFest UK & Ireland will be a hybrid one (in-person and virtual), with the in-person part being held at and hosted by King's College London.</p>"
+    type: tech
+    status: active

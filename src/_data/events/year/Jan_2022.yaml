@@ -7,7 +7,7 @@ eventlistings:
     start_datetime: 2022-01-22T15:00:00Z
     end_datetime: 2022-01-22T17:15:00Z
     new: false
-    recurring: new
+    recurring: false
     desc: 
     type: tech
   - name: "Python Ireland: Speakers Coaching Session"
@@ -17,7 +17,7 @@ eventlistings:
     start_datetime: 2022-01-22T09:00:00Z
     end_datetime: 2022-01-22T17:30:00Z
     new: false
-    recurring: new
+    recurring: false
     desc: "<p>Python Ireland wants to help potential speakers deliver great talks to the monthly meetups.</p>
     <p>We want to remove barrier by providing a friendly environment and lots of support while you prepare for it.</p> <p>Check event page for more info</p>"
     type: diversity
@@ -28,7 +28,7 @@ eventlistings:
     start_datetime: 2022-01-19T18:30:00Z
     end_datetime: 2022-01-19T20:00:00Z
     new: false
-    recurring: new
+    recurring: false
     desc: 
     type: tech
   - name: "CDNA - Cork .NET and Azure: 20th CDNA Meetup - The Importance of Tech Mentorship and Tech Communities"
@@ -38,7 +38,7 @@ eventlistings:
     start_datetime: 2022-01-25T18:00:00Z
     end_datetime: 2022-01-25T19:30:00Z
     new: false
-    recurring: new
+    recurring: false
     desc: 
     type: tech
   - name: "StartUp 2022 Ireland"
@@ -48,6 +48,67 @@ eventlistings:
     start_datetime: 2022-01-15T09:30:00Z
     end_datetime: 2022-01-15T18:00:00Z
     new: false
-    recurring: new
+    recurring: false
     desc: 
     type: tech
+
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/282019566"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-06T08:00:00Z
+    end_datetime: 2022-01-06T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: "Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels - Online"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/282661220"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-08T15:00:00Z
+    end_datetime: 2022-01-08T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/280640377"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-12T18:30:00Z
+    end_datetime: 2022-01-12T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: Jean-Luc Picard-uary"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/282704752"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-18T19:00:00Z
+    end_datetime: 2022-01-18T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/282581001"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-20T08:00:00Z
+    end_datetime: 2022-01-20T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: "(In-Person) Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/282359136"
+    region: 🇮🇪 
+    date_added: 2021-12-16
+    start_datetime: 2022-01-29T15:00:00Z
+    end_datetime: 2022-01-29T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
