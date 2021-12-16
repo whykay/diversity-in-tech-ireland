@@ -131,7 +131,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-05T13:30:00Z
     end_datetime: 2021-12-05T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech 
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-07T17:30:00Z
     end_datetime: 2021-12-07T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-09T13:00:00Z
     end_datetime: 2021-12-09T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-14T19:00:00Z
     end_datetime: 2021-12-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-17T12:30:00Z
     end_datetime: 2021-12-17T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -181,7 +181,7 @@ eventlistings:
     date_added: 2021-12-01
     start_datetime: 2021-12-21T18:30:00Z
     end_datetime: 2021-12-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -192,7 +192,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-07T18:00:00Z
     end_datetime: 2021-12-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -202,7 +202,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-07T18:30:00Z
     end_datetime: 2021-12-07T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -212,7 +212,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-07T19:00:00Z
     end_datetime: 2021-12-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -222,7 +222,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-08T18:00:00Z
     end_datetime: 2021-12-08T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -232,7 +232,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-09T08:00:00Z
     end_datetime: 2021-12-09T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: diversity
@@ -242,7 +242,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-09T13:00:00Z
     end_datetime: 2021-12-09T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -252,7 +252,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-13T18:00:00Z
     end_datetime: 2021-12-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -262,7 +262,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-15T18:30:00Z
     end_datetime: 2021-12-15T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -272,7 +272,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-15T19:00:00Z
     end_datetime: 2021-12-15T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -282,7 +282,7 @@ eventlistings:
     date_added: 2021-12-06
     start_datetime: 2021-12-07T10:00:00Z
     end_datetime: 2021-12-07T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: diversity
@@ -293,7 +293,7 @@ eventlistings:
     date_added: 2021-12-09
     start_datetime: 2021-12-11T14:30:00Z
     end_datetime: 2021-12-11T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech

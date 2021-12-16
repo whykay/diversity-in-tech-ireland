@@ -7,7 +7,7 @@ events:
     date_added: 2021-01-28
     start_datetime: Various dates
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: Members of the global AnitaB.org Local community organize events and provide one another with resources to navigate careers in tech. They organize valuable meetups, codeathons, and our one-day HopperX1 events modeled after the Grace Hopper Celebration.
   
@@ -58,7 +58,7 @@ events:
     date_added: 2021-02-24
     start_datetime: Every 3rd Tuesday, 19:00
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: "Join us as we explore in these series, success stories of for Women Entrepreneurs and Founders in Tech startups and businesses."
 
