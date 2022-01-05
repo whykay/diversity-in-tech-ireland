@@ -16,7 +16,6 @@
         {% for key, val in events.year %}
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
-            
 
             {% if key_list[1] == pageMonthYearList[1] %}
                 {% if key_list[0] | lower | trim == month %}
@@ -27,21 +26,6 @@
             
             {% endif %}
 
-
-
-
-
-
-            {# {% if (key_list[0] | lower | trim == month) and (key_list[1] == helpers.currentYear()) and (searching == false)%}
-                
-                {% set thisMonthListings = val   %}
-                {% set searching = true %}
-            {% elif (key_list[0] | lower | trim == month) and  (searching == false) %}
-                {# Year listings other than the current year #}
-                {# {{key_list[1]}} {{key_list[0] | lower}}<br> #}
-                {#{% set thisMonthListings = val   %}
-                {% set searching = true %}
-            {% endif %} #}
         {% endfor %}
 
         {% if thisMonthListings %}
