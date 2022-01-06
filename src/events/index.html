@@ -41,11 +41,22 @@ data:  events.other, events.recurring
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
+            {% if key_list[1] == helpers.currentYear() %}
+                {% if key_list[0] == helpers.currentMonth() %}
+                    {% set thisMonthListings = val %}
+                {% elif key_list[0] == "conferences" %}
+                    {% set thisYearsConfListings = val %}
+                {% endif %}
+            {% endif %}
+
+            {#
             {% if (key_list[0] == helpers.currentMonth()) and (key_list[1] == helpers.currentYear())%}
-                {% set thisMonthListings = val   %}
+                {% set thisMonthListings = val %}
             {% elif (key_list[0] == "conferences") and (key_list[1] == helpers.currentYear()) %}     
+
                 {% set thisYearsConfListings = val %}   
             {% endif %}
+            #}
         {% endfor %}
 
         {#
@@ -141,10 +152,12 @@ data:  events.other, events.recurring
                     </div>
                 </div>
             {% endfor %}
-            
+
+
             <h3 id="cancelled-conferences">🛑 Cancelled/Postponed Conferences</h3>
             {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
-                {% if (conf.status == "cancelled") or (conf.status == "postponed") %}
+                {% if (conf.status == "cancelled") or (conf.status == "postponed") %} 
+                
                 <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
                     <div>
                         <a href="{{ conf.url }}">{{conf.name}}</a>
