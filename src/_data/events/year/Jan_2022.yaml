@@ -9,7 +9,7 @@ eventlistings:
     new: false
     recurring: false
     desc: 
-    type: tech
+    type: tech, in-person
   - name: "Python Ireland: Speakers Coaching Session"
     url: "https://www.meetup.com/PyLadiesDublin/events/282310092"
     region: 🇮🇪 
@@ -54,10 +54,10 @@ eventlistings:
 
   - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
     url: "https://www.meetup.com/Women-Who-Code-Belfast/events/282019566"
-    region: 🇮🇪 
+    region: 🇬🇧
     date_added: 2021-12-16
-    start_datetime: 2022-01-06T08:00:00Z
-    end_datetime: 2022-01-06T09:00:00Z
+    start_datetime: 2022-01-13T08:00:00Z
+    end_datetime: 2022-01-13T09:00:00Z
     new: false
     recurring: false
     desc:
@@ -93,11 +93,11 @@ eventlistings:
     desc:
     type: games
   - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻"
-    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/282581001"
-    region: 🇮🇪 
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/xjtprsydccbkc/"
+    region: 🇬🇧
     date_added: 2021-12-16
-    start_datetime: 2022-01-20T08:00:00Z
-    end_datetime: 2022-01-20T09:00:00Z
+    start_datetime: 2022-01-27T08:00:00Z
+    end_datetime: 2022-01-27T09:00:00Z
     new: false
     recurring: false
     desc:
@@ -112,17 +112,6 @@ eventlistings:
     recurring: false
     desc:
     type: tech, in-person
-
-  - name: "UX Cork"
-    url: "https://www.meetup.com/UX-Cork-Group/events/281735852"
-    region: 🇮🇪 
-    date_added: 2021-12-19
-    start_datetime: 2022-01-19T18:30:00Z
-    end_datetime: 2022-01-19T20:00:00Z
-    new: false
-    recurring: false
-    desc:
-    type: tech
 
   - name: "Awaken Hub Founders Series 2022: She's Back - Kelly Hoey & How Women Network"
     url: "https://www.eventbrite.co.uk/e/shes-back-kelly-hoey-how-women-network-tickets-220859184767"
@@ -155,3 +144,126 @@ eventlistings:
     recurring: false
     desc: "The twelfth and final day of Christmas, January 6th, was known in Ireland as Nollaig na mBan or Women's Christmas."
     type: diversity
+  - name: "UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/282226345"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-16T13:30:00Z
+    end_datetime: 2022-01-16T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Power Platform Ireland User Group: How to use custom pages and code components (pcf) to enrich model-driven apps"
+    url: "https://www.meetup.com/PowerPlatform-UserGroup-Ireland/events/283052186"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-20T17:00:00Z
+    end_datetime: 2022-01-20T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "📖 The UX Book Club Book 📖 Gamestorming: A Playbook for Innovators..."
+    url: "https://www.meetup.com/theuxbookclub/events/282734990"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-25T08:00:00Z
+    end_datetime: 2022-01-25T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Power BI User Group: Calculation Groups Beyond Time Intelligence"
+    url: "https://www.meetup.com/DublinPUG/events/283047811"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-25T18:30:00Z
+    end_datetime: 2022-01-25T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/282768270"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-08T15:00:00Z
+    end_datetime: 2022-01-08T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "Kildare Database Development: Database Testing"
+    url: "https://www.meetup.com/kildare-database-development/events/282829388"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-12T19:00:00Z
+    end_datetime: 2022-01-12T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Data Engineering and Data Architecture Group (DEDAG): A 360° View on Reference Enterprise Data Architecture."
+    url: "https://www.meetup.com/data-engineering-and-data-architecture-group/events/282808792"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-13T18:00:00Z
+    end_datetime: 2022-01-13T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "WTM Belfast 2022 Launch!"
+    url: "https://www.meetup.com/Google-Developer-Group-Belfast/events/282694729"
+    region: 🇬🇧
+    date_added: 2022-01-06
+    start_datetime: 2022-01-19T16:00:00Z
+    end_datetime: 2022-01-19T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>There's no better way to kick off the new year than to catch up with us at our Women Techmakers Launch event!</p>
+    <p>Join us on 19th January virtually for an evening of catching up, hearing more our the work that we do, some food, drinks 
+    and to start the hype of the very long awaited Women Techmakers Conference.</p>"
+    type: diversity
+  - name: "Dublin Data Science: Workshop: An Introduction to Bayesian Statistics and Buy-Till-You-Die Models"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/283047467"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-24T19:00:00Z
+    end_datetime: 2022-01-24T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Newry Digital: Intro into Performance Testing"
+    url: "https://www.meetup.com/newry-digital/events/282254114"
+    region: 🇬🇧
+    date_added: 2022-01-06
+    start_datetime: 2022-01-26T19:30:00Z
+    end_datetime: 2022-01-26T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Silicon Drinkabout Belfast: Raise Ventures Tech for Non-Tech - ONLINE NOW!"
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/282640928"
+    region: 🇬🇧
+    date_added: 2022-01-06
+    start_datetime: 2022-01-27T18:30:00Z
+    end_datetime: 2022-01-27T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startups
+  - name: "Cork|Sec 103"
+    url: "https://www.meetup.com/CorkSec/events/282819474"
+    region: 🇮🇪 
+    date_added: 2022-01-06
+    start_datetime: 2022-01-11T19:00:00Z
+    end_datetime: 2022-01-11T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+    
