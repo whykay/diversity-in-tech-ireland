@@ -308,3 +308,13 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "Ladies that UX Belfast: Designing for the human experience"
+    url: "https://www.meetup.com/Ladies-that-UX-Belfast/events/283005257/"
+    region: 🇬🇧
+    date_added: 2022-01-12
+    start_datetime: 2022-01-25T18:00:00Z
+    end_datetime: 2022-01-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Ladies that UX Belfast welcomes you to the 1st event of 2022! This virtual event offers fantastic speakers from across the UX industry talking about the things they are most passionate about. We have topics covering Design research, Phenomenology and how mental health should be considered for design. The speakers will give talks ranging from 5-20 minutes and then we will have a Q&A with all the speakers at the end of the presentations."
+    type: diversity
