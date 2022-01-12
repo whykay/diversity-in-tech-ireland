@@ -119,7 +119,7 @@ eventlistings:
     date_added: 2022-01-05
     start_datetime: 2022-01-18T17:00:00Z
     end_datetime: 2022-01-18T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Do you know women network differently to men. It's true and Kelly Hoey has done her homework to prove it. Join us on 18 January to find out. Tickets are £10 plus fees."
     type: diversity
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-31T12:00:00Z
     end_datetime: 2022-01-31T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us on the 31st of January 2022 with Mentor Her founder Katie Doyle to discuss how you can get your career, business or personal development to the next stage on their program beginning in February."
     type: diversity
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-06T14:00:00Z
     end_datetime: 2022-01-06T15:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The twelfth and final day of Christmas, January 6th, was known in Ireland as Nollaig na mBan or Women's Christmas."
     type: diversity
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-16T13:30:00Z
     end_datetime: 2022-01-16T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-20T17:00:00Z
     end_datetime: 2022-01-20T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-25T08:00:00Z
     end_datetime: 2022-01-25T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-25T18:30:00Z
     end_datetime: 2022-01-25T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-08T15:00:00Z
     end_datetime: 2022-01-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-12T19:00:00Z
     end_datetime: 2022-01-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-13T18:00:00Z
     end_datetime: 2022-01-13T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-19T16:00:00Z
     end_datetime: 2022-01-19T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>There's no better way to kick off the new year than to catch up with us at our Women Techmakers Launch event!</p>
     <p>Join us on 19th January virtually for an evening of catching up, hearing more our the work that we do, some food, drinks 
@@ -232,7 +232,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-24T19:00:00Z
     end_datetime: 2022-01-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -242,7 +242,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-26T19:30:00Z
     end_datetime: 2022-01-26T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -252,7 +252,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-27T18:30:00Z
     end_datetime: 2022-01-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startups
@@ -262,7 +262,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-11T19:00:00Z
     end_datetime: 2022-01-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -288,3 +288,13 @@ eventlistings:
     desc:
     type: tech
         
+  - name: "KateCode Lab: Create your own Web Application with UX, CSS, and JavaScript for Beginners."
+    url: "https://www.meetup.com/tech-cafe/events/283218299/"
+    region: 🇮🇪 
+    date_added: 2022-01-12
+    start_datetime: 2022-01-14T18:30:00Z
+    end_datetime: 2022-01-14T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
