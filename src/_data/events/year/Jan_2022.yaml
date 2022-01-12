@@ -298,3 +298,13 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "Data Science Engineering Club"
+    url: "https://www.meetup.com/Data-Science-and-Engineering-Club/events/283199763/"
+    region: 🇮🇪 
+    date_added: 2022-01-12
+    start_datetime: 2022-01-22T10:00:00Z
+    end_datetime: 2022-01-22T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
