@@ -8,15 +8,15 @@ information:
   - name: "Open Source Ventilator Project"
     desc: "This group is being formed to evaluate, design, validate, and source the fabrication of open source emergency medical supplies around the world, given a variety of local supply conditions."
     url: "https://www.facebook.com/groups/670932227050506/about"
-    status:
+    status: "archive"
   - name: "Startup Weekend COVID-19 Remote Edition"
     desc: "Register your interest"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScOlo1O_DzWl2xb01k6FEQOmbeosAppOTBy1bQkruB0IF2s7A/viewform"
-    status: 
+    status: "archive"
   - name: "Rural Ireland Tech Advocates"
     desc: "The purpose of Rural Ireland Tech Advocates is to create a community of advocates and a central resource for folks interested in living and working in rural Ireland."
     url: "https://rita.ie"
-    status: new
+    status:
 
 cancelled:
   - name: "UX Belfast"
@@ -95,7 +95,7 @@ opportunities:
     status: archive
   - name: "NDRC Accelerator"
     desc: "<p>Applications for our second NDRC Accelerator are now open!</p>
-          <p>We’re looking for entrepreneurs building ‘global solutions to global problems’ from a diverse set of backgrounds, sectors and skill sets to join our startup community.</p>
+          <p>We're looking for entrepreneurs building 'global solutions to global problems' from a diverse set of backgrounds, sectors and skill sets to join our startup community.</p>
           <p> Join our 6 month programme and get access to:-
             <ul>
               <li>€100k SAFE investment with founder friendly terms</li>
@@ -105,6 +105,22 @@ opportunities:
           </p>"
     url: "https://www.ndrc.ie/accelerator?utm_content=183942258"
     region: 🇮🇪
+    status: 
+  - name: "Women ReBOOT 2022 Programmes"
+    desc: "<p>Women ReBOOT Programme, an initiative of Technology Ireland Software Skillnet.</p>"
+    url: "https://www.research.net/r/WomenReBOOT_2022"
+    region: 🇮🇪
+    status: new
+  - name: "Outreachy - Mentors and Internships"
+    desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
+    <p>Check website for important dates.</p>"
+    url: "https://www.outreachy.org/"
+    region: 🌎
+    status: new
+  - name: "Women Developer Academy Europe - Application Open"
+    desc: "<p>The Women Developer Academy, powered by Women Techmakers, will equip participants with the skills, resources and support they need to become leaders in the industry through public speaking and other community contributions.</p>""
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfjIHa0M_nJMzmiQWTfvdUiZju3OuJv5nM2YDgV8dTbRiQcVQ/viewform"
+    region: 🌎
     status: new
 
 aob:
@@ -135,7 +151,7 @@ aob:
   - name: "Platform Engineering Slack channel"
     desc: "This is a space to bring together our community of platform engineers, product managers and platform nerds to share best practices, events and opportunities in the space. We will have dedicated #meet, #jobs and #intros channels, so everyone can make the most of this awesome bunch we are building."
     url: "https://join.slack.com/t/platformengin-b0m7058/shared_invite/zt-viqjsv9g-JrJJa8jo8jSi0GrtDqk_2A"
-    status: new
+    status:
 
 resources:
   - name: "Best practices for accessibility for virtual events (via Platform Engineers Dublin)"
@@ -161,7 +177,7 @@ resources:
   - name: "Meetup - Updated tips and resources"
     desc: "Their new what's happening now on their landing page as well as more references on tips and tricks to make your event more engaging."
     url: "https://www.meetup.com/blog/2-million-online-events-show-community-is-at-your-fingertips/"
-    status: new
+    status:
   - name: "Zoom - Guide to safely use Zoon (via Silicon Repubic)"
     desc: 'Because of COVID-19, they temporarily updated their in-person event policy to permit groups to host events online. They have high level pointers to various tools and some tips.'
     url: "https://www.siliconrepublic.com/enterprise/zoom-meetings-security-how-to-guide"
