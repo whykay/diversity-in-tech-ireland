@@ -191,14 +191,16 @@ data:  events.other, events.recurring
     <div class="prose lg:prose-xl mt-6">
         <h2 id="call-to-action">💪 Events/Orgs that need your help:</h2>
         {% for info in events.other.information %}
-        <div class="border-solid border-1 bg-yellow-100 rounded-lg p-5 text-base mb-2">
-            <div>
-                <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-white text-xs pl-2 pr-2">New</span>{% endif %}
-            </div>
-            <div class="text-sm">
-                {{ info.desc | safe }}
-            </div>
-        </div>
+            {% if info.status != "archive" %}
+                <div class="border-solid border-1 bg-yellow-100 rounded-lg p-5 text-base mb-2">
+                    <div>
+                        <a href="{{ info.url }}">{{ info.name }}</a> {% if info.status == "new" %}<span class="bg-white text-xs pl-2 pr-2">New</span>{% endif %}
+                    </div>
+                    <div class="text-sm">
+                        {{ info.desc | safe }}
+                    </div>
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 
