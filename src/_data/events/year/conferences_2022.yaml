@@ -76,3 +76,19 @@ conferences:
     <p>This year's DevFest UK & Ireland will be a hybrid one (in-person and virtual), with the in-person part being held at and hosted by King's College London.</p>"
     type: tech
     status: active
+
+  - name: "FÍS Games Summit 2022"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-devfest-uk-ireland/"
+    region: 🇮🇪
+    date_added: 2022-01-22
+    start_datetime: 2022-02-24T00:00:00Z
+    end_datetime: 2022-02-24T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Galway Film Centre is delighted to announce that the 2nd annual FÍS Games 
+          Summit will take place online on Thursday February 24th. We are excited to be able 
+          to confirm Emil Pagliarulo as our first speaker who will speak with us on about 
+          writing in games, his career path, what it's like working at Bethesda Game Studios, 
+          as well as taking questions from attendees.</p>"
+    type: games
+    status: active
