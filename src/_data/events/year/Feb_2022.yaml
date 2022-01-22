@@ -21,4 +21,63 @@ eventlistings:
     recurring: false
     desc:
     type: tech
-    
+  - name: "(In-Person) DubJUG Watch Party.... jChampions Conference"
+    url: "https://www.meetup.com/DublinJavaUserGroup/events/grvwrsydccbkc/"
+    region: 🇮🇪 
+    date_added: 2022-01-21
+    start_datetime: 2022-02-01T14:00:00Z
+    end_datetime: 2022-02-01T21:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "SQL Ireland User Group: Dedicated SQL Pools : How some stuff 'really' works"
+    url: "https://www.meetup.com/SQLIreland/events/282659581"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-02-01T19:00:00Z
+    end_datetime: 2022-02-01T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 104"
+    url: "https://www.meetup.com/CorkSec/events/282819482"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-02-08T19:00:00Z
+    end_datetime: 2022-02-08T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "UX Cork Meetup - February"
+    url: "https://www.meetup.com/UX-Cork-Group/events/283221742"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-02-16T18:30:00Z
+    end_datetime: 2022-02-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "OWASP Belfast Chapter: Zero Trust for API Risk Management"
+    url: "https://www.meetup.com/OWASP-Belfast/events/283122192"
+    region: 🇬🇧
+    date_added: 2022-01-22
+    start_datetime: 2022-02-10T16:00:00Z
+    end_datetime: 2022-02-10T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DevOps Belfast: The Data Must Flow"
+    url: "https://www.meetup.com/DevOps-Belfast/events/283224098"
+    region: 🇬🇧
+    date_added: 2022-01-22
+    start_datetime: 2022-02-15T18:30:00Z
+    end_datetime: 2022-02-15T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

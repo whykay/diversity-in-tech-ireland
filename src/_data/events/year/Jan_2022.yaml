@@ -168,8 +168,8 @@ eventlistings:
     url: "https://www.meetup.com/theuxbookclub/events/282734990"
     region: 🇮🇪 
     date_added: 2022-01-06
-    start_datetime: 2022-01-25T08:00:00Z
-    end_datetime: 2022-01-25T09:00:00Z
+    start_datetime: 2022-01-27T08:00:00Z
+    end_datetime: 2022-01-27T09:00:00Z
     new: false
     recurring: false
     desc:
@@ -273,7 +273,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-13T19:00:00Z
     end_datetime: 2022-01-13T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -283,7 +283,7 @@ eventlistings:
     date_added: 2022-01-06
     start_datetime: 2022-01-22T18:00:00Z
     end_datetime: 2022-01-22T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -294,7 +294,7 @@ eventlistings:
     date_added: 2022-01-12
     start_datetime: 2022-01-14T18:30:00Z
     end_datetime: 2022-01-14T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2022-01-12
     start_datetime: 2022-01-22T10:00:00Z
     end_datetime: 2022-01-22T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -314,7 +314,119 @@ eventlistings:
     date_added: 2022-01-12
     start_datetime: 2022-01-25T18:00:00Z
     end_datetime: 2022-01-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Ladies that UX Belfast welcomes you to the 1st event of 2022! This virtual event offers fantastic speakers from across the UX industry talking about the things they are most passionate about. We have topics covering Design research, Phenomenology and how mental health should be considered for design. The speakers will give talks ranging from 5-20 minutes and then we will have a Q&A with all the speakers at the end of the presentations."
     type: diversity
+
+  - name: "(In-Person) DubJUG Watch Party.... jChampions Conference"
+    url: "https://www.meetup.com/DublinJavaUserGroup/events/grvwrsydccbkc/"
+    region: 🇮🇪 
+    date_added: 2022-01-21
+    start_datetime: 2022-01-27T14:00:00Z
+    end_datetime: 2022-02-01T21:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech, in-person
+
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/283364654"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-25T19:00:00Z
+    end_datetime: 2022-01-25T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Coding School Meetup: How LiveScore uses Sports Data!"
+    url: "https://www.meetup.com/dublin-coding-school-meetup/events/283338862"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-26T13:00:00Z
+    end_datetime: 2022-01-26T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Design Sprint Ireland: Experience a Remote Design Sprint"
+    url: "https://www.meetup.com/Design-Sprint-Ireland/events/282063973"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-26T17:00:00Z
+    end_datetime: 2022-01-26T18:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Agile-Lean Ireland: An overview of a practical tool to manage conflict"
+    url: "https://www.meetup.com/Agile-Lean-Ireland/events/283341023"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-26T17:00:00Z
+    end_datetime: 2022-01-26T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Haskell Monthly Book Club"
+    url: "https://www.meetup.com/haskell-dublin-meetup/events/283328249"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-27T18:00:00Z
+    end_datetime: 2022-01-27T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Developer Community Online Meetup"
+    url: "https://www.meetup.com/Dublin-Linux-Developers/events/283262403"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-29T18:00:00Z
+    end_datetime: 2022-01-29T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) UX Design Ireland: UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/283070850"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-30T13:30:00Z
+    end_datetime: 2022-01-30T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, in-person
+  - name: "Imirt Workshop: I'm From There with Scott Benson"
+    url: "https://www.eventbrite.ie/e/imirt-workshop-im-from-there-with-scott-benson-tickets-247943003197"
+    region: 🇮🇪 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-24T18:30:00Z
+    end_datetime: 2022-01-24T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "AWS User Group Belfast: AWS REINVENT RECAP 2022 - Part 1"
+    url: "https://www.meetup.com/AWS-Usergroup-Belfast/events/283199260"
+    region: 🇬🇧 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-27T12:45:00Z
+    end_datetime: 2022-01-27T13:45:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech   
+  - name: "ProductTank Belfast: 2021 Recap (and 2022 Strategy)"
+    url: "https://www.meetup.com/ProductTank-Belfast/events/283271355"
+    region: 🇬🇧 
+    date_added: 2022-01-22
+    start_datetime: 2022-01-28T12:30:00Z
+    end_datetime: 2022-01-28T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech   
