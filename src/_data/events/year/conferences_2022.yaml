@@ -70,7 +70,7 @@ conferences:
     date_added: 2021-12-16
     start_datetime: 2022-01-09T00:00:00Z
     end_datetime: 2022-01-09T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>DevFest is one of the larger scale community-driven tech conferences in the UK & Ireland, carefully crafted for you by the Google Developer Group (GDG) community! GDG is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking.</p>
     <p>This year's DevFest UK & Ireland will be a hybrid one (in-person and virtual), with the in-person part being held at and hosted by King's College London.</p>"
@@ -83,7 +83,7 @@ conferences:
     date_added: 2022-01-22
     start_datetime: 2022-02-24T00:00:00Z
     end_datetime: 2022-02-24T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Galway Film Centre is delighted to announce that the 2nd annual FÍS Games 
           Summit will take place online on Thursday February 24th. We are excited to be able 
@@ -91,4 +91,39 @@ conferences:
           writing in games, his career path, what it's like working at Bethesda Game Studios, 
           as well as taking questions from attendees.</p>"
     type: games
+    status: active
+
+  - name: "TechConnect Live 2022"
+    url: "https://www.eventbrite.com/e/techconnect-live-2022-tickets-88809017161"
+    region: 🇮🇪
+    date_added: 2022-01-22
+    start_datetime: 2022-11-10T00:00:00Z
+    end_datetime: 2022-11-10T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>TechConnect Live is Ireland's largest annual business and technology exhibition for Micro, SME and Enterprise level companies. The event, which is supported by Ibec and the Small Firms Association (SFA) creates a marketplace for a wide range of SMEs experiencing rapid growth. It's estimated that SME's account for 99.8 percent of all active businesses here in Ireland.</p>"
+    type: tech
+    status: active
+  - name: "DigiMarCon Ireland 2022 - Digital Marketing, Media & Advertising Conference"
+    url: "https://www.eventbrite.com/e/digimarcon-ireland-2022-digital-marketing-media-advertising-conference-registration-114480542384"
+    region: 🇮🇪
+    date_added: 2022-01-22
+    start_datetime: 2022-09-05T00:00:00Z
+    end_datetime: 2022-09-06T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>DigiMarCon Ireland 2022 - Digital Marketing, Media and Advertising Conference & Exhibition</p>"
+    type: tech
+    status: active
+  - name: "Cyber Expo & Conference Ireland 2022"
+    url: "https://www.eventbrite.com/e/cyber-expo-conference-ireland-2022-tickets-190941570377"
+    region: 🇮🇪
+    date_added: 2022-01-22
+    start_datetime: 2022-04-28T00:00:00Z
+    end_datetime: 2022-04-28T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Renaissance launched Cyber Expo Ireland in 2017 to make it easier for Irish business leaders, by bringing the members of the Cyber Ecosystem together under one roof - Vendors, Value Added Resellers (VARs), Security Experts, and End Users. Five years on and the brand has gone from strength to strength.</p>
+    <p>We believe that CyberConIreland complements the Cyber Expo perfectly, adding practical depth for those who need it. Our expert breakout sessions detail the 'How of Cyber Security' as this industry is changing at such a phenomenal rate!</p>"
+    type: tech
     status: active

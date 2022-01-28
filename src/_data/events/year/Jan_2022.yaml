@@ -336,7 +336,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-25T19:00:00Z
     end_datetime: 2022-01-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -346,7 +346,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-26T13:00:00Z
     end_datetime: 2022-01-26T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -356,7 +356,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-26T17:00:00Z
     end_datetime: 2022-01-26T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -366,7 +366,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-26T17:00:00Z
     end_datetime: 2022-01-26T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -376,7 +376,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-27T18:00:00Z
     end_datetime: 2022-01-27T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -386,7 +386,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-29T18:00:00Z
     end_datetime: 2022-01-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -396,7 +396,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-30T13:30:00Z
     end_datetime: 2022-01-30T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -406,7 +406,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-24T18:30:00Z
     end_datetime: 2022-01-24T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -416,7 +416,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-27T12:45:00Z
     end_datetime: 2022-01-27T13:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech   
@@ -426,7 +426,19 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-01-28T12:30:00Z
     end_datetime: 2022-01-28T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech   
+
+
+  - name: "KateCode Lab: Create a Web Scraper and save data into a local file"
+    url: "https://www.meetup.com/tech-cafe/events/283463370"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-01-31T19:00:00Z
+    end_datetime: 2022-01-31T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

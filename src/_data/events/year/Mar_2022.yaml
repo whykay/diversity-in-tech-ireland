@@ -27,8 +27,40 @@ eventlistings:
     date_added: 2022-01-18
     start_datetime: 2022-03-25T18:00:00Z
     end_datetime: 2022-03-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Learn how to think, work, and build like a startup in 54 thrilling hours. Techstars Startup Weekend is an exciting and immersive foray into the world of startups. Over an action-packed three days, you'll meet the very best mentors, investors, co-founders and sponsors to show you how to get more done faster -- and, maybe even start that business."
     type: diversity
   
+  - name: "WITS Ireland Virtual Coffee - March"
+    url: "https://www.eventbrite.com/e/wits-ireland-virtual-coffee-march-tickets-250695977417"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-03-10T08:30:00Z
+    end_datetime: 2022-03-10T09:00:00Z
+    new: true
+    recurring: false
+    desc: "This free virtual coffee, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
+    type: diversity
+
+  - name: "UCD Women in Leadership Conference 2022"
+    url: "https://www.eventbrite.com/e/ucd-women-in-leadership-conference-2022-tickets-200886856997"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-03-22T07:30:00Z
+    end_datetime: 2022-03-22T16:00:00Z
+    new: true
+    recurring: false
+    desc: "The seventh UCD Women in Leadership Conference will take place on March 22nd, 2022, in O'Reilly Hall at UCD. This conference continues to grow every year. Our 2021 conference in February hosted over 1,200 attendees online, and 2020 saw almost 900 students, professionals and UCD alumni come together, to discuss the obstacles that women face in their careers and how they can overcome them."
+    type: diversity
+  - name: "DNI Dublin Employer Ticket (Developers, Product Managers)"
+    url: "https://www.eventbrite.com/e/dni-dublin-employer-ticket-developers-product-managers-tickets-202637172237"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-03-03T17:00:00Z
+    end_datetime: 2022-03-03T19:00:00Z
+    new: true
+    recurring: false
+    desc: "DNI helps IT companies address diversity and inclusion initiatives and build on existing equitable hiring practices. We organize niche and private recruiting events at which we source candidates according to your hiring needs. We work with software developers, data scientists and product managers, and half of our outreach is targeted at female technologists and underrepresented communities in tech."
+    type: diversity
+    

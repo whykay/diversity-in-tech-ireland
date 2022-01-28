@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-02-01T19:00:00Z
     end_datetime: 2022-02-01T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-02-08T19:00:00Z
     end_datetime: 2022-02-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -57,7 +57,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-02-16T18:30:00Z
     end_datetime: 2022-02-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-02-10T16:00:00Z
     end_datetime: 2022-02-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -77,6 +77,100 @@ eventlistings:
     date_added: 2022-01-22
     start_datetime: 2022-02-15T18:30:00Z
     end_datetime: 2022-02-15T20:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "WITS Ireland Virtual Coffee - February"
+    url: "https://www.eventbrite.com/e/wits-ireland-virtual-coffee-february-tickets-250651935687"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-17T08:30:00Z
+    end_datetime: 2022-02-17T09:00:00Z
+    new: true
+    recurring: false
+    desc: "This free virtual coffee, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
+    type: diversity
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/283510374"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-01T19:00:00Z
+    end_datetime: 2022-02-01T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Robotics@Ireland: Getting Started in Robotics"
+    url: "https://www.meetup.com/robotics-at-ireland/events/283465130"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-02T19:00:00Z
+    end_datetime: 2022-02-02T18:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/283134275"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-12T15:00:00Z
+    end_datetime: 2022-02-12T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "PyLadies DublinxMunich - Valentine's Python Talks"
+    url: "https://www.meetup.com/PyLadiesDublin/events/283422907"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-15T18:30:00Z
+    end_datetime: 2022-02-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are delighted to partner with PyLadies Munich this month for a Valentine's special event & share some love with you.</p>
+    <p>love with Python<br>
+    friendship with Python<br>
+    love of Python itself</p>"
+    type: diversity
+  - name: "The Games Co-Op: Away With The Febru-Fairies"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/283510364"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-16T19:00:00Z
+    end_datetime: 2022-02-16T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "📖 The UX Book Club Book 📖 Weapons of Math Destruction by Cathy O'Neil"
+    url: "https://www.meetup.com/theuxbookclub/events/283180170"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-22T08:00:00Z
+    end_datetime: 2022-02-22T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/283534524"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-02T20:00:00Z
+    end_datetime: 2022-02-02T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Ministry of Testing Cork: Performance Testing Tools - Vegeta and Locust"
+    url: "https://www.meetup.com/Ministry-of-Testing-Cork/events/283468658"
+    region: 🇮🇪 
+    date_added: 2022-01-28
+    start_datetime: 2022-02-17T20:00:00Z
+    end_datetime: 2022-02-17T22:00:00Z
     new: true
     recurring: false
     desc:
