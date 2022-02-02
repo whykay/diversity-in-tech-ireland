@@ -88,7 +88,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-17T08:30:00Z
     end_datetime: 2022-02-17T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "This free virtual coffee, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
     type: diversity
@@ -98,7 +98,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-01T19:00:00Z
     end_datetime: 2022-02-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -108,7 +108,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-02T19:00:00Z
     end_datetime: 2022-02-02T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -118,7 +118,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-12T15:00:00Z
     end_datetime: 2022-02-12T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -128,7 +128,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-15T18:30:00Z
     end_datetime: 2022-02-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are delighted to partner with PyLadies Munich this month for a Valentine's special event & share some love with you.</p>
     <p>love with Python<br>
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-16T19:00:00Z
     end_datetime: 2022-02-16T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-22T08:00:00Z
     end_datetime: 2022-02-22T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-02T20:00:00Z
     end_datetime: 2022-02-02T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2022-01-28
     start_datetime: 2022-02-17T20:00:00Z
     end_datetime: 2022-02-17T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
