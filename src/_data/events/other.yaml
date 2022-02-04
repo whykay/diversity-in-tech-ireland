@@ -110,17 +110,23 @@ opportunities:
     desc: "<p>Women ReBOOT Programme, an initiative of Technology Ireland Software Skillnet.</p>"
     url: "https://www.research.net/r/WomenReBOOT_2022"
     region: 🇮🇪
-    status: new
+    status: active
   - name: "Outreachy - Mentors and Internships"
     desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
     <p>Check website for important dates.</p>"
     url: "https://www.outreachy.org/"
     region: 🌎
-    status: new
+    status: active
   - name: "Women Developer Academy Europe - Application Open"
     desc: "<p>The Women Developer Academy, powered by Women Techmakers, will equip participants with the skills, resources and support they need to become leaders in the industry through public speaking and other community contributions.</p>"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfjIHa0M_nJMzmiQWTfvdUiZju3OuJv5nM2YDgV8dTbRiQcVQ/viewform"
     region: 🌎
+    status: archive
+  - name: "Patch 2022"
+    desc: "<p>Patch is a 6 week long summer accelerator for 16 - 21 year olds that want to push the world forward. </p>
+    <p>Deadline: February 20th, 2022 (11:59 GMT)</p>"
+    url: "https://www.joinpatch.org/"
+    region: 🇮🇪
     status: new
 
 aob:
