@@ -70,7 +70,49 @@ eventlistings:
     date_added: 2022-02-04
     start_datetime: 2022-03-01T19:00:00Z
     end_datetime: 2022-03-01T20:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Monaghan Tech Meetup"
+    url: "https://www.meetup.com/monaghan-techies/events/283822700"
+    region: 🇮🇪 
+    date_added: 2022-02-09
+    start_datetime: 2022-03-02T18:30:00Z
+    end_datetime: 2022-03-02T20:00:00Z
     new: true
     recurring: false
     desc:
     type: tech
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/283594094"
+    region: 🇮🇪 
+    date_added: 2022-02-09
+    start_datetime: 2022-03-01T19:00:00Z
+    end_datetime: 2022-03-01T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "PyLadies Dublin x PyLadies London IWD Special"
+    url: "https://www.meetup.com/PyLadiesDublin/events/283826352"
+    region: 🇮🇪 
+    date_added: 2022-02-09
+    start_datetime: 2022-03-15T18:30:00Z
+    end_datetime: 2022-03-15T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: "Cork|Sec 105"
+    url: "https://www.meetup.com/CorkSec/events/282819486"
+    region: 🇮🇪 
+    date_added: 2022-02-09
+    start_datetime: 2022-03-08T19:00:00Z
+    end_datetime: 2022-03-08T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+    

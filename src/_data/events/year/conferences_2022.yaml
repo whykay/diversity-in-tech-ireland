@@ -139,7 +139,7 @@ conferences:
     desc: "<p>Silicon Republic, Europe's leading tech news service, brings you Future Human, the evolution of their successful Inspirefest event. With over 3,000 attendees expected from over 50 countries, Future Human features the leading thinkers in science, robotics, AI, climate action, security, business, health, workplaces and the arts. Future Human will continue to be the most inclusive and forward-looking event in the world.</p>"
     type: tech
     status: active
-  - name: "Dubllin Tech Summit 2022"
+  - name: "Dublin Tech Summit 2022"
     url: "https://dublintechsummit.tech/"
     region: 🇮🇪
     date_added: 2022-02-04
