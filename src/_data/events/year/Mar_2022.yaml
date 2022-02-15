@@ -81,7 +81,7 @@ eventlistings:
     date_added: 2022-02-09
     start_datetime: 2022-03-02T18:30:00Z
     end_datetime: 2022-03-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -91,7 +91,7 @@ eventlistings:
     date_added: 2022-02-09
     start_datetime: 2022-03-01T19:00:00Z
     end_datetime: 2022-03-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -101,7 +101,7 @@ eventlistings:
     date_added: 2022-02-09
     start_datetime: 2022-03-15T18:30:00Z
     end_datetime: 2022-03-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: diversity
@@ -111,8 +111,28 @@ eventlistings:
     date_added: 2022-02-09
     start_datetime: 2022-03-08T19:00:00Z
     end_datetime: 2022-03-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
-    
+  - name: "Dublin Tech Skills Forum 2022"
+    url: "https://codeinstitute.net/ie/dublin-tech-skills-forum/"
+    region: 🇮🇪 
+    date_added: 2022-02-09
+    start_datetime: 2022-03-09T12:00:00Z
+    end_datetime: 2022-03-09T13:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Beyond the workforce; how education in STEM impacts society"
+    url: "https://www.thedigitalhub.com/news/beyond-the-workforce-how-education-in-stem-impacts-society-a-panel-discussion-on-03-03-22-register-now/"
+    region: 🇮🇪 
+    date_added: 2022-02-15
+    start_datetime: 2022-03-03T11:00:00Z
+    end_datetime: 2022-03-03T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
