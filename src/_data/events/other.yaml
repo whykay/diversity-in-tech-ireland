@@ -127,7 +127,14 @@ opportunities:
     <p>Deadline: February 20th, 2022 (11:59 GMT)</p>"
     url: "https://www.joinpatch.org/"
     region: 🇮🇪
+    status: active
+  - name: "Edie Windsor Coding Scholarship"
+    desc: "<p>The Edie Windsor Coding Scholarship Fund makes it possible for incoming LGBTQ women and non-binary techies to kickstart careers in technology.</p>
+    <p>Deadline: February 28th, 2022</p>"
+    url: "https://lesbianswhotech.org/codingscholarship/"
+    region: 🌎
     status: new
+
 
 aob:
   - name: "BelfastFP moved away from Meetup"

@@ -299,3 +299,14 @@ eventlistings:
     recurring: false
     desc:
     type: games
+  - name: "Nua na Mara, Marine Innovation Development Centre and HATCH : Information session on the Marine Industry"
+    url: "https://gmitihubs.clr.events/event/132059:an-ocean-of-opportunity"
+    region: 🇮🇪 
+    date_added: 2022-02-15
+    start_datetime: 2022-02-24T10:30:00Z
+    end_datetime: 2022-03-24T11:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+    
