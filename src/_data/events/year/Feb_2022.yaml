@@ -232,7 +232,7 @@ eventlistings:
     region: 🇬🇧
     date_added: 2022-02-04
     start_datetime: 2022-02-10T08:00:00Z
-    end_datetime: 2022-02-22T09:00:00Z
+    end_datetime: 2022-02-10T09:00:00Z
     new: false
     recurring: false
     desc: "Bytes n' Brew is a fortnightly social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online before work or class to make new friends in the community, ask others for career advice, coding help or mentoring."
@@ -284,8 +284,8 @@ eventlistings:
     region: 🇮🇪 
     date_added: 2022-02-15
     start_datetime: 2022-02-17T18:30:00Z
-    end_datetime: 2022-03-09T20:30:00Z
-    new: true
+    end_datetime: 2022-03-17T20:30:00Z
+    new: false
     recurring: false
     desc:
     type: games
@@ -294,8 +294,8 @@ eventlistings:
     region: 🇮🇪 
     date_added: 2022-02-15
     start_datetime: 2022-02-24T18:30:00Z
-    end_datetime: 2022-03-24T20:30:00Z
-    new: true
+    end_datetime: 2022-02-24T20:30:00Z
+    new: false
     recurring: false
     desc:
     type: games
@@ -304,9 +304,111 @@ eventlistings:
     region: 🇮🇪 
     date_added: 2022-02-15
     start_datetime: 2022-02-24T10:30:00Z
-    end_datetime: 2022-03-24T11:30:00Z
-    new: true
+    end_datetime: 2022-02-24T11:30:00Z
+    new: false
     recurring: false
     desc:
     type: startup
     
+  - name: "TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/284080281"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-21T19:15:00Z
+    end_datetime: 2022-02-21T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Power BI User Group: Mary Fealty: Getting started with Tabular Editor"
+    url: "https://www.meetup.com/DublinPUG/events/284042558"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-22T18:30:00Z
+    end_datetime: 2022-02-22T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Data Science and Engineering Club: How to speed up ML deployment using data-centric AI practices"
+    url: "https://www.meetup.com/Data-Science-and-Engineering-Club/events/283863205"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-23T18:30:00Z
+    end_datetime: 2022-02-23T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Haskell Meetup:Purely Functional Web Frontends with Reflex/Haskell"
+    url: "https://www.meetup.com/haskell-dublin-meetup/events/283941375"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-23T19:00:00Z
+    end_datetime: 2022-02-23T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Information Security for CISSP practitioners:for Infrastructure as a Service"
+    url: "https://www.meetup.com/Dublin-Information-Security-for-CISSP-practitioners/events/283723129"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-24T19:00:00Z
+    end_datetime: 2022-02-24T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dublin Linux Community:Monthly Meetup in the pub"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/283510482"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-26T15:00:00Z
+    end_datetime: 2022-02-26T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, inperson
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/283793629"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-27T13:30:00Z
+    end_datetime: 2022-02-27T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech, inperson
+  
+
+  - name: "Bytes n' Brew Online ☕️💻 - Breakfast" 
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/283523224"
+    region: 🇬🇧
+    date_added: 2022-02-21
+    start_datetime: 2022-02-24T08:00:00Z
+    end_datetime: 2022-02-24T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online before work or class to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "Silicon Drinkabout Belfast: Raise Ventures Tech for Non-Tech" 
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/284102089"
+    region: 🇬🇧
+    date_added: 2022-02-21
+    start_datetime: 2022-02-24T18:30:00Z
+    end_datetime: 2022-02-24T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "Farset Labs: Maker Night in the Workshop 🛠" 
+    url: "https://www.meetup.com/farsetlabs/events/284114752"
+    region: 🇬🇧
+    date_added: 2022-02-21
+    start_datetime: 2022-02-28T19:00:00Z
+    end_datetime: 2022-02-28T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: Maker

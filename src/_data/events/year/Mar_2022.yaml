@@ -103,8 +103,9 @@ eventlistings:
     end_datetime: 2022-03-15T20:00:00Z
     new: false
     recurring: false
-    desc:
-    type: diversity
+    desc: "<p>Happy International Women's Day (Month)! PyLadies Dublin are delighted to collaborate with PyLadies London this month.</p>
+    <p>There will be talk(s) and an activities for this special IWD meetup based on their theme #BreakTheBias. You can find out more info about IWD at <a href=\"https://www.internationalwomensday.com/\">internationalwomensday.com</a></p>"
+    type: "diversity"
   - name: "Cork|Sec 105"
     url: "https://www.meetup.com/CorkSec/events/282819486"
     region: 🇮🇪 
@@ -132,7 +133,118 @@ eventlistings:
     date_added: 2022-02-15
     start_datetime: 2022-03-03T11:00:00Z
     end_datetime: 2022-03-03T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: diversity
+
+  - name: "Data Scientists Ireland: Graph-based stream processing in Python"
+    url: "https://www.meetup.com/DataScientistsIreland/events/283637434/"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-01T19:00:00Z
+    end_datetime: 2022-03-01T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Azure Dublin Meetup: How to become a Cloud Architect - Part 1"
+    url: "https://www.meetup.com/AzureDublin/events/283819445"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-02T14:30:00Z
+    end_datetime: 2022-03-02T15:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Developers: Dublin Linux Developer meetup with Adafruit"
+    url: "https://www.meetup.com/DataScientistsIreland/events/283637434"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-05T18:00:00Z
+    end_datetime: 2022-03-05T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Personio's Platform & Pizzas (Hybrid Event) #3"
+    url: "https://www.meetup.com/personios-platform-pizzas/events/284020993"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-08T17:20:00Z
+    end_datetime: 2022-03-08T19:20:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/280640384"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-09T18:30:00Z
+    end_datetime: 2022-03-09T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: March of the Penguins"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/284053109"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-16T19:00:00Z
+    end_datetime: 2022-03-16T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "The Black Box Bash" 
+    url: "https://www.meetup.com/devbash/events/281395274"
+    region: 🇬🇧
+    date_added: 2022-02-21
+    start_datetime: 2022-03-02T18:00:00Z
+    end_datetime: 2022-03-02T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Monaghan IT Professionals: Monaghan Tech Meetup"
+    url: "https://www.meetup.com/monaghan-techies/events/283822700"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-02T18:30:00Z
+    end_datetime: 2022-03-02T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Women in Tech Belfast: International Women's Day 2022: Non Tech Into Tech" 
+    url: "https://www.meetup.com/women-in-tech-belfast/events/283897431"
+    region: 🇬🇧
+    date_added: 2022-02-21
+    start_datetime: 2022-03-08T18:00:00Z
+    end_datetime: 2022-03-08T20:30:00Z
+    new: true
+    recurring: false
+    desc: "Women in Tech are back with our first event of 2022! Non-Tech Into Tech: An informative panel event focussing on ways that women, at all stages of life, can transition from non-tech careers into the booming tech sector."
+    type: diversity
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/283859696"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-01T19:00:00Z
+    end_datetime: 2022-03-01T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/283892652"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-02T20:00:00Z
+    end_datetime: 2022-03-02T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

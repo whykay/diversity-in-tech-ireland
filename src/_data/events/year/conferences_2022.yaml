@@ -134,7 +134,7 @@ conferences:
     date_added: 2022-02-03
     start_datetime: 2022-05-12T00:00:00Z
     end_datetime: 2022-05-13T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Silicon Republic, Europe's leading tech news service, brings you Future Human, the evolution of their successful Inspirefest event. With over 3,000 attendees expected from over 50 countries, Future Human features the leading thinkers in science, robotics, AI, climate action, security, business, health, workplaces and the arts. Future Human will continue to be the most inclusive and forward-looking event in the world.</p>"
     type: tech
@@ -145,7 +145,7 @@ conferences:
     date_added: 2022-02-04
     start_datetime: 2022-06-15T00:00:00Z
     end_datetime: 2022-06-16T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Dublin Tech Summit brings together global leaders in innovation, technology and business to shape the future of global trends and technologies. This year it will be held at The RDS, Dublin.</p>"
     type: tech
