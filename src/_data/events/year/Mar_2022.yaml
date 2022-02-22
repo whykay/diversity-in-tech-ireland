@@ -269,4 +269,44 @@ eventlistings:
     recurring: false
     desc:
     type: Maker
-    
+
+  - name: "Dogpatch Labs: First Fridays - Ireland's startup ecosystem"
+    url: "https://us02web.zoom.us/meeting/register/tZEudOyvrTMqH9G1cRlBppsAr2xxf0pIiL8y"
+    region: 🇮🇪 
+    date_added: 2022-02-22
+    start_datetime: 2022-03-04T09:00:00Z
+    end_datetime: 2022-03-04T09:45:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "Dogpatch Labs: First Fridays - Mentoring"
+    url: "https://www.firstfridays.ie/march2022"
+    region: 🇮🇪 
+    date_added: 2022-02-22
+    start_datetime: 2022-03-04T10:00:00Z
+    end_datetime: 2022-03-04T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "Dogpatch Labs: First Fridays - Educate - Scaling Internationally"
+    url: "https://www.crowdcast.io/e/djpwjamv/register"
+    region: 🇮🇪 
+    date_added: 2022-02-22
+    start_datetime: 2022-03-04T12:15:00Z
+    end_datetime: 2022-03-04T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "Dogpatch Labs: First Fridays - Inspire - Insights from a Unicorn founder"
+    url: "https://www.crowdcast.io/e/1pw3eahh/register"
+    region: 🇮🇪 
+    date_added: 2022-02-22
+    start_datetime: 2022-03-04T13:15:00Z
+    end_datetime: 2022-03-04T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup

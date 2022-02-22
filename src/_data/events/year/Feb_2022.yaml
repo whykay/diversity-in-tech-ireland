@@ -380,8 +380,6 @@ eventlistings:
     recurring: false
     desc:
     type: tech, inperson
-  
-
   - name: "Bytes n' Brew Online ☕️💻 - Breakfast" 
     url: "https://www.meetup.com/Women-Who-Code-Belfast/events/283523224"
     region: 🇬🇧
@@ -412,3 +410,13 @@ eventlistings:
     recurring: false
     desc:
     type: Maker
+  - name: "Limerick DotNet-Azure User Group (LDNA): Cloud Adoption Framework - Governance Overview"
+    url: "https://www.meetup.com/Limerick-DotNet/events/283860854"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-02-24T20:00:00Z
+    end_datetime: 2022-02-24T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
