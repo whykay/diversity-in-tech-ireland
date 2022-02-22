@@ -258,3 +258,15 @@ eventlistings:
     recurring: false
     desc: "Women in Tech, in collaboration with ESO are delighted to host this Drink and Draw night - on Thursday 31st March 2022. This will be a fun social and networking event - celebrating being back to In-Person eventing!"
     type: diversity
+
+  - name: "Tog Hackerspace - Soldering Workshop"
+    url: "https://www.eventbrite.ie/e/tog-hackerspace-soldering-workshop-tickets-274454509827"
+    region: 🇮🇪 
+    date_added: 2022-02-21
+    start_datetime: 2022-03-06T12:00:00Z
+    end_datetime: 2022-03-06T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: Maker
+    

@@ -150,3 +150,15 @@ conferences:
     desc: "<p>Dublin Tech Summit brings together global leaders in innovation, technology and business to shape the future of global trends and technologies. This year it will be held at The RDS, Dublin.</p>"
     type: tech
     status: active
+
+  - name: "ShipItCon 2022"
+    url: "https://shipitcon.com/"
+    region: 🇮🇪
+    date_added: 2022-02-22
+    start_datetime: 2022-09-02T00:00:00Z
+    end_datetime: 2022-09-02T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The ShipItCon Team (John, Serena, Ck and Tom) are currently planning ShipItCon 2022 and will be updating the website over the coming months. If you are interested in sponsoring this year’s event please use the link below. We rely heavily on the kindness and support of the local tech community to spread the word about ShipItCon, create fascinating talks and help us in finding great sponsors. Míle buíochas.</p>"
+    type: tech
+    status: active
