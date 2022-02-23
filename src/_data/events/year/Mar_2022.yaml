@@ -135,7 +135,8 @@ eventlistings:
     end_datetime: 2022-03-03T12:00:00Z
     new: false
     recurring: false
-    desc:
+    desc: "<p>To mark International Women's Day (IWD) The Digital Hub will hold an online panel discussion with women speakers who work in the area of STEM and STEM education on Thursday, 3rd of March from 11am to 12pm.</p>
+    <p>The discussion titled — 'Beyond the workforce; how education in STEM impacts society' — will examine the importance of STEM education for females and how it goes beyond improving representation in science and technology career paths and has a positive impact on society and communities.</p>"
     type: diversity
 
   - name: "Data Scientists Ireland: Graph-based stream processing in Python"
@@ -309,4 +310,15 @@ eventlistings:
     new: true
     recurring: false
     desc:
+    type: startup
+
+  - name: "Stripe celebrates Women in Tech"
+    url: "https://stripe.events/stripecelebrateiwd2022"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-09T12:00:00Z
+    end_datetime: 2022-03-09T13:00:00Z
+    new: true
+    recurring: false
+    desc: "In celebration of International Women's Day, Stripe's data science, engineering and product management teams have come together to host a small virtual event to recognise Women in Technology. You will hear stories from this growing female community of Stripe's and a guest panellist from Trainline, Chief Technology Officer Milena Nikolic. Listen as they discuss what it's like to be women in their field and how they #breakthebias. Join in on the conversation during our interactive Q&A and networking session."
     type: startup

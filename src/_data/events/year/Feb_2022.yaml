@@ -420,3 +420,25 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "it@cork TechBrew"
+    url: "https://itcork-ie.zoom.us/meeting/register/tJcocu-trz4oG9Da7DpTpgqlSPFjFg49k7bW"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-02-24T16:00:00Z
+    end_datetime: 2022-02-24T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Consulate General of Ireland - San Francisco: Women in Technology: Leading the way in Disruptive Innovation"
+    url: "https://www.eventbrite.com/e/women-in-technology-leading-the-way-in-disruptive-innovation-tickets-264371571487"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-02-24T17:00:00Z
+    end_datetime: 2022-02-24T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Enterprise Ireland, in association with the Consulate General of Ireland, welcomes you to our discussion celebrating the global success of Irish female founders and senior executives here in the US.</p>
+    <p>As part of the San Francisco Consulate's St Brigid's Day Series, 'Women Disrupters Throughout History', we are honoured to invite you to 'Women in Technology: Leading the way in Disruptive Innovation'.</p>"
+    type: diversity
