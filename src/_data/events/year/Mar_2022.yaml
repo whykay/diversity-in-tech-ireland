@@ -321,4 +321,54 @@ eventlistings:
     new: true
     recurring: false
     desc: "In celebration of International Women's Day, Stripe's data science, engineering and product management teams have come together to host a small virtual event to recognise Women in Technology. You will hear stories from this growing female community of Stripe's and a guest panellist from Trainline, Chief Technology Officer Milena Nikolic. Listen as they discuss what it's like to be women in their field and how they #breakthebias. Join in on the conversation during our interactive Q&A and networking session."
+    type: diversity
+  - name: "BIG IDEAS 2022: Accelerating Ideas & Innovation (Live-stream)"
+    url: "https://www.eventbrite.co.uk/e/big-ideas-2022-accelerating-ideas-innovation-live-stream-tickets-274618981767"
+    region: 🇬🇧
+    date_added: 2022-02-22
+    start_datetime: 2022-03-07T10:00:00Z
+    end_datetime: 2022-03-07T11:45:00Z
+    new: true
+    recurring: false
+    desc:
     type: startup
+  - name: "UL@Work FuturesNow: How Will You Work In 2050?"
+    url: "https://www.eventbrite.ie/e/how-will-you-work-in-2050-tickets-274412163167"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-02T20:00:00Z
+    end_datetime: 2022-03-02T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UL@Work FuturesNow: Bytes & Volts: electricity consumption by big tech, what's the problem?"
+    url: "https://www.eventbrite.ie/e/how-will-you-work-in-2050-tickets-274412163167"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-04T12:00:00Z
+    end_datetime: 2022-03-04T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UL@Work FuturesNow: Digital Future of Bees"
+    url: "https://www.eventbrite.ie/e/digital-future-of-bees-tickets-274884094727"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-04T13:00:00Z
+    end_datetime: 2022-03-04T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UL@Work FuturesNow: Beyond 2032: Living in the Metaverse - FREE LIVE webinar!"
+    url: "https://www.eventbrite.ie/e/beyond-2032-living-in-the-metaverse-free-live-webinar-tickets-272292252457"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-04T14:00:00Z
+    end_datetime: 2022-03-04T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
