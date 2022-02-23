@@ -372,3 +372,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "Scale Ireland: Supporting Women in Start-ups"
+    url: "https://www.eventbrite.ie/e/supporting-women-in-start-ups-registration-269742145017"
+    region: 🇮🇪 
+    date_added: 2022-02-23
+    start_datetime: 2022-03-01T11:00:00Z
+    end_datetime: 2022-03-01T12:10:00Z
+    new: true
+    recurring: false
+    desc: "<p>Scale Ireland, which represents Irish tech start-up and scale-up companies, is hosting an all island online webinar ahead of International Women's Day.</p>
+    <p>It will feature leading female figures in the sector and is supported by Meta, Martinsen Mayer and InterTradeIreland.</p>"
+    type: diversity
+    
