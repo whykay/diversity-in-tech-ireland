@@ -377,8 +377,8 @@ eventlistings:
     url: "https://www.engineersireland.ie/Events/event/8090"
     region: 🇮🇪 
     date_added: 2022-02-24
-    start_datetime: 2022-03-01T18:30:00Z
-    end_datetime: 2022-03-01T19:30:00Z
+    start_datetime: 2022-03-10T18:30:00Z
+    end_datetime: 2022-03-10T19:30:00Z
     new: true
     recurring: false
     desc: 
