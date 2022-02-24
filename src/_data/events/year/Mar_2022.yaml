@@ -145,7 +145,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-01T19:00:00Z
     end_datetime: 2022-03-01T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -155,7 +155,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-02T14:30:00Z
     end_datetime: 2022-03-02T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -165,7 +165,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-05T18:00:00Z
     end_datetime: 2022-03-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -175,7 +175,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-08T17:20:00Z
     end_datetime: 2022-03-08T19:20:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -185,7 +185,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-09T18:30:00Z
     end_datetime: 2022-03-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -195,7 +195,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-16T19:00:00Z
     end_datetime: 2022-03-16T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -205,17 +205,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-02T18:00:00Z
     end_datetime: 2022-03-02T20:00:00Z
-    new: true
-    recurring: false
-    desc:
-    type: tech
-  - name: "Monaghan IT Professionals: Monaghan Tech Meetup"
-    url: "https://www.meetup.com/monaghan-techies/events/283822700"
-    region: 🇮🇪 
-    date_added: 2022-02-21
-    start_datetime: 2022-03-02T18:30:00Z
-    end_datetime: 2022-03-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -225,7 +215,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-08T18:00:00Z
     end_datetime: 2022-03-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women in Tech are back with our first event of 2022! Non-Tech Into Tech: An informative panel event focussing on ways that women, at all stages of life, can transition from non-tech careers into the booming tech sector."
     type: diversity
@@ -235,7 +225,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-01T19:00:00Z
     end_datetime: 2022-03-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -245,7 +235,7 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-02T20:00:00Z
     end_datetime: 2022-03-02T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -255,18 +245,17 @@ eventlistings:
     date_added: 2022-02-21
     start_datetime: 2022-03-29T17:30:00Z
     end_datetime: 2022-03-29T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women in Tech, in collaboration with ESO are delighted to host this Drink and Draw night - on Thursday 31st March 2022. This will be a fun social and networking event - celebrating being back to In-Person eventing!"
     type: diversity
-
   - name: "Tog Hackerspace - Soldering Workshop"
     url: "https://www.eventbrite.ie/e/tog-hackerspace-soldering-workshop-tickets-274454509827"
     region: 🇮🇪 
     date_added: 2022-02-21
     start_datetime: 2022-03-06T12:00:00Z
     end_datetime: 2022-03-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: Maker
@@ -383,4 +372,115 @@ eventlistings:
     desc: "<p>Scale Ireland, which represents Irish tech start-up and scale-up companies, is hosting an all island online webinar ahead of International Women's Day.</p>
     <p>It will feature leading female figures in the sector and is supported by Meta, Martinsen Mayer and InterTradeIreland.</p>"
     type: diversity
-    
+
+  - name: "STEPS Engineers Week: Amateur Radio - A Life Long Technical Hobby"
+    url: "https://www.engineersireland.ie/Events/event/8090"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-01T18:30:00Z
+    end_datetime: 2022-03-01T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Lady Nerds of Dublin: Coffee Zoom and Events Schedule!"
+    url: "https://www.meetup.com/lady-nerds-of-dublin/events/284222671"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-06T15:00:00Z
+    end_datetime: 2022-03-06T16:19:00Z
+    new: true
+    recurring: false
+    desc: "Let's have some tea or coffee, chat, and plan some awesome events for this year!"
+    type: diversity
+  - name: "DCU Arts and Culture:Transcoding - The Living Mountain- Fiona McDonald"
+    url: "https://www.eventbrite.ie/e/transcoding-the-living-mountain-fiona-mcdonald-tickets-264145094087"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-10T18:30:00Z
+    end_datetime: 2022-03-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/Dublin-Accelerated-Learning-Technology-Meetup/events/284077188"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-09T18:00:00Z
+    end_datetime: 2022-03-09T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) No-Code and Automation Meetup #4 (In-Person!)"
+    url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/284200001"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-09T18:30:00Z
+    end_datetime: 2022-03-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech, in-person
+  - name: "Rust Dublin March Meetup"
+    url: "https://www.meetup.com/Rust-Dublin/events/283613905"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-15T19:00:00Z
+    end_datetime: 2022-03-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "📖 The UX Book Club Book 📖 Navigating the Politics of UX by John Scott Bowie"
+    url: "https://www.meetup.com/theuxbookclub/events/283885302"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-03-29T08:00:00Z
+    end_datetime: 2022-03-29T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Lunch"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/283743259"
+    region: 🇬🇧
+    date_added: 2022-02-23
+    start_datetime: 2022-03-10T12:00:00Z
+    end_datetime: 2022-03-10T13:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "ProductTank Belfast: Women in Product - Lightning Talks!"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/283743259"
+    region: 🇬🇧
+    date_added: 2022-02-23
+    start_datetime: 2022-03-11T09:00:00Z
+    end_datetime: 2022-03-11T10:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>To celebrate International Women's Day (albeit on the Friday) we are highlighting a number of local, inspirational women in product.</p>
+    <p>Walk away with a variety of snappy insights and ideas to implement in your own day to day jobs, after listening to great NI talent talk about what has worked for them.</p>"
+    type: diversity
+  - name: "DevOps Belfast"
+    url: "https://www.meetup.com/DevOps-Belfast/events/284206144"
+    region: 🇬🇧
+    date_added: 2022-02-23
+    start_datetime: 2022-03-15T18:30:00Z
+    end_datetime: 2022-03-15T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Girl Develop It, Cork: Code & Coffee"
+    url: "https://www.meetup.com/meetup-group-KtPOQaae/events/284124058"
+    region: 🇮🇪
+    date_added: 2022-02-23
+    start_datetime: 2022-03-23T19:00:00Z
+    end_datetime: 2022-03-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!Bring a laptop and something to work on. It's okay if you don't have a project!</p>"
+    type: diversity

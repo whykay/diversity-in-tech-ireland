@@ -11,3 +11,14 @@ eventlistings:
     desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual WTM, in celebration of International Women's Day.</p>
     <p>In our 5th year, we are looking forward to WTM Belfast 2022 - a full day conference where we will hear from various speakers who will inspire, motivate, enthuse and relate to our audience of everyone, with talks highlighting the achievements of local women in tech.</p>"
     type: diversity
+
+  - name: "Data Engineering and Data Architecture Group (DEDAG): Hands on Chaos Engineering"
+    url: "https://www.meetup.com/data-engineering-and-data-architecture-group/events/284173832"
+    region: 🇮🇪 
+    date_added: 2022-02-24
+    start_datetime: 2022-04-21T18:00:00Z
+    end_datetime: 2022-04-21T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
