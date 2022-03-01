@@ -484,3 +484,13 @@ eventlistings:
     recurring: false
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!Bring a laptop and something to work on. It's okay if you don't have a project!</p>"
     type: diversity
+  - name: "(In-Person) Why Design International Women's Day Event 2022"
+    url: "https://www.eventbrite.ie/e/why-design-international-womens-day-event-2022-tickets-272655107767"
+    region: 🇮🇪
+    date_added: 2022-03-01
+    start_datetime: 2022-03-10T19:30:00Z
+    end_datetime: 2022-03-10T21:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Imagine a gender equal world. A world free of bias, stereotypes and discrimination. A world that's diverse, equitable, and inclusive. Collectively we can all #BreakTheBias.</p>"
+    type: diversity
