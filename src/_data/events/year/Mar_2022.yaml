@@ -655,3 +655,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(Hybrid) Tech for Good: Ireland Supports Ukraine"
+    url: "https://www.eventbrite.ie/e/tech-for-good-ireland-supports-ukraine-tickets-291289002247"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-10T18:00:00Z
+    end_datetime: 2022-03-10T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This is a hybrid event (in-person and virtual). Link will be shared on day of event to attendees attending virtually).</p>
+    <p>In the past week asylum seekers have begun arriving in Ireland from Ukraine. They are fleeing an unjust war. A war they didn't want. A war that is being currently investigated by the International Criminal Court in the Hague for numerous war crimes. This event explores how our tech for good community in Ireland can be mobilised to support Ukraine and the projects underway led by Anton Krasun <a href='https://www.irelandhelpukraine.com'>irelandhelpukraine.com</a></p>"
+    type: diversity
