@@ -666,3 +666,14 @@ eventlistings:
     desc: "<p>This is a hybrid event (in-person and virtual). Link will be shared on day of event to attendees attending virtually).</p>
     <p>In the past week asylum seekers have begun arriving in Ireland from Ukraine. They are fleeing an unjust war. A war they didn't want. A war that is being currently investigated by the International Criminal Court in the Hague for numerous war crimes. This event explores how our tech for good community in Ireland can be mobilised to support Ukraine and the projects underway led by Anton Krasun <a href='https://www.irelandhelpukraine.com'>irelandhelpukraine.com</a></p>"
     type: diversity
+  - name: "(In-Person) AllBright MEETS Dublin - International Women's Day Special"
+    url: "https://www.allbrightcollective.com/events/03ae30fe-109d-018b-1844-3c866d6e53f3"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-08T18:00:00Z
+    end_datetime: 2022-03-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AllBright's founding principle is when women join forces, amazing things happen. And that's exactly our mission behind AllBright MEETS - to connect women all over the UK and Ireland, in real life, and this year it's in partnership with BMW i.</p>
+    <p>On International Women's Day we're popping up in FIVE cities, connecting 500 women, all in one night, with very special guest speakers.</p>"
+    type: diversity
