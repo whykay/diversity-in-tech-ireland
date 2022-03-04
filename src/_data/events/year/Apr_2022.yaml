@@ -18,6 +18,27 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-04-21T18:00:00Z
     end_datetime: 2022-04-21T19:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "SQL Ireland User Group: Myths and Misconceptions about Locking & Blocking"
+    url: "https://www.meetup.com/SQLIreland/events/282660800"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-04-05T19:00:00Z
+    end_datetime: 2022-04-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Bash!: The Black Box Bash"
+    url: "https://www.meetup.com/devbash/events/281395274"
+    region: 🇬🇧
+    date_added: 2022-03-04
+    start_datetime: 2022-04-26T17:45:00Z
+    end_datetime: 2022-04-26T19:45:00Z
     new: true
     recurring: false
     desc: 

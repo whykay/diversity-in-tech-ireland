@@ -266,7 +266,7 @@ eventlistings:
     date_added: 2022-02-22
     start_datetime: 2022-03-04T09:00:00Z
     end_datetime: 2022-03-04T09:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -276,7 +276,7 @@ eventlistings:
     date_added: 2022-02-22
     start_datetime: 2022-03-04T10:00:00Z
     end_datetime: 2022-03-04T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -286,7 +286,7 @@ eventlistings:
     date_added: 2022-02-22
     start_datetime: 2022-03-04T12:15:00Z
     end_datetime: 2022-03-04T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -296,7 +296,7 @@ eventlistings:
     date_added: 2022-02-22
     start_datetime: 2022-03-04T13:15:00Z
     end_datetime: 2022-03-04T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -307,7 +307,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-09T12:00:00Z
     end_datetime: 2022-03-09T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "In celebration of International Women's Day, Stripe's data science, engineering and product management teams have come together to host a small virtual event to recognise Women in Technology. You will hear stories from this growing female community of Stripe's and a guest panellist from Trainline, Chief Technology Officer Milena Nikolic. Listen as they discuss what it's like to be women in their field and how they #breakthebias. Join in on the conversation during our interactive Q&A and networking session."
     type: diversity
@@ -317,7 +317,7 @@ eventlistings:
     date_added: 2022-02-22
     start_datetime: 2022-03-07T10:00:00Z
     end_datetime: 2022-03-07T11:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -327,7 +327,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-02T20:00:00Z
     end_datetime: 2022-03-02T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -337,7 +337,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-04T12:00:00Z
     end_datetime: 2022-03-04T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -347,7 +347,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-04T13:00:00Z
     end_datetime: 2022-03-04T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -357,7 +357,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-04T14:00:00Z
     end_datetime: 2022-03-04T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -367,7 +367,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-01T11:00:00Z
     end_datetime: 2022-03-01T12:10:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Scale Ireland, which represents Irish tech start-up and scale-up companies, is hosting an all island online webinar ahead of International Women's Day.</p>
     <p>It will feature leading female figures in the sector and is supported by Meta, Martinsen Mayer and InterTradeIreland.</p>"
@@ -379,7 +379,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-10T18:30:00Z
     end_datetime: 2022-03-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -389,7 +389,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-06T15:00:00Z
     end_datetime: 2022-03-06T16:19:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's have some tea or coffee, chat, and plan some awesome events for this year!"
     type: diversity
@@ -399,7 +399,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-10T18:30:00Z
     end_datetime: 2022-03-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -409,7 +409,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-09T18:00:00Z
     end_datetime: 2022-03-09T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -419,7 +419,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-09T18:30:00Z
     end_datetime: 2022-03-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech, in-person
@@ -429,7 +429,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-15T19:00:00Z
     end_datetime: 2022-03-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -439,7 +439,7 @@ eventlistings:
     date_added: 2022-02-24
     start_datetime: 2022-03-29T08:00:00Z
     end_datetime: 2022-03-29T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -449,7 +449,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-10T12:00:00Z
     end_datetime: 2022-03-10T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
     type: diversity
@@ -459,7 +459,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-11T09:00:00Z
     end_datetime: 2022-03-11T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>To celebrate International Women's Day (albeit on the Friday) we are highlighting a number of local, inspirational women in product.</p>
     <p>Walk away with a variety of snappy insights and ideas to implement in your own day to day jobs, after listening to great NI talent talk about what has worked for them.</p>"
@@ -470,7 +470,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-15T18:30:00Z
     end_datetime: 2022-03-15T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -480,7 +480,7 @@ eventlistings:
     date_added: 2022-02-23
     start_datetime: 2022-03-23T19:00:00Z
     end_datetime: 2022-03-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!Bring a laptop and something to work on. It's okay if you don't have a project!</p>"
     type: diversity
@@ -490,7 +490,168 @@ eventlistings:
     date_added: 2022-03-01
     start_datetime: 2022-03-10T19:30:00Z
     end_datetime: 2022-03-10T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Imagine a gender equal world. A world free of bias, stereotypes and discrimination. A world that's diverse, equitable, and inclusive. Collectively we can all #BreakTheBias.</p>"
     type: diversity
+
+  - name: "(In-Person) Personio's Platform & Pizzas (Hybrid Event) #3"
+    url: "https://www.eventbrite.ie/e/why-design-international-womens-day-event-2022-tickets-272655107767"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-23T17:20:00Z
+    end_datetime: 2022-03-23T19:20:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Data Scientist Ireland: Graph-based stream processing in Python"
+    url: "https://www.meetup.com/DataScientistsIreland/events/283637434"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-08T19:00:00Z
+    end_datetime: 2022-03-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/284054602"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-08T19:00:00Z
+    end_datetime: 2022-03-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Automotive Security Research Group Waterford (ASRG-WAT): Code Signing for Automotive Cybersecurity"
+    url: "https://www.meetup.com/automotive-security-research-group-waterford-asrg-wat/events/284351811"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-10T13:00:00Z
+    end_datetime: 2022-03-10T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Data Science and Engineering Club: If you wonder how to apply Data Observability… Come over!"
+    url: "https://www.meetup.com/Data-Science-and-Engineering-Club/events/284267964"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-12T10:00:00Z
+    end_datetime: 2022-03-12T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/284155282"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-13T13:30:00Z
+    end_datetime: 2022-03-13T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "OWASP Belfast Chapter"
+    url: "Security Observability 101: Thinking Inside the Box!"
+    region: 🇬🇧
+    date_added: 2022-03-04
+    start_datetime: 2022-03-17T17:00:00Z
+    end_datetime: 2022-03-17T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Data Science: Workshop: An Introduction to Bayesian Statistics and Buy-Till-You-Die Models"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/284219556"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-21T19:00:00Z
+    end_datetime: 2022-03-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Belfast: Product Management for UX People"
+    url: "https://www.meetup.com/UXBelfast/events/284244683"
+    region: 🇬🇧
+    date_added: 2022-03-04
+    start_datetime: 2022-03-23T18:00:00Z
+    end_datetime: 2022-03-23T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyBelfast Returns!"
+    url: "https://www.meetup.com/PyBelfast/events/284335778"
+    region: 🇬🇧
+    date_added: 2022-03-04
+    start_datetime: 2022-03-24T18:00:00Z
+    end_datetime: 2022-03-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Code Mentoring: Free Code Mentoring - Q&A for all levels"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/283918318"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-26T15:00:00Z
+    end_datetime: 2022-03-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/283592411"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-26T15:00:00Z
+    end_datetime: 2022-03-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Coding Grace Diversity Friendly Workshop: Tech Basics for Founders (Limited Places)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/283592411"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-29T08:00:00Z
+    end_datetime: 2022-03-30T10:00:00Z
+    new: true
+    recurring: false
+    desc: "Are you a founder? Feel befuddled by technologies and their terms as you are figuring out if you need a CTO, technical team in-house or out-sourcing it? Coding Grace Foundation is delighted to present a virtual foundational workshops to help alleviate those fears of asking and discussing about technology as you build and expand your business to the next level. Each session is 2 hours."
+    type: diversity
+  - name: "Cork JS Zoom chat meeting"
+    url: "https://www.meetup.com/Cork-JavaScript-Meetup/events/284100652"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-10T19:00:00Z
+    end_datetime: 2022-03-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Connacht Leadership & Empowerment, an International Women's Day celebration"
+    url: "https://www.meetup.com/galway-atlassian-community-events/events/284363125"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-13T13:00:00Z
+    end_datetime: 2022-03-13T16:00:00Z
+    new: true
+    recurring: false
+    desc: "The Connacht Leadership & Empowerment, an International Women's Day celebration will combine inspiring stories, powerful experiences in a relaxed environment. Best of all, we are back and in person ready to support one another!"
+    type: diversity
+  - name: "Limerick DotNet-Azure User Group (LDNA): When super powers combine; Azure & Octopus Deploy"
+    url: "https://www.meetup.com/Limerick-DotNet/events/284231610"
+    region: 🇮🇪
+    date_added: 2022-03-04
+    start_datetime: 2022-03-24T20:00:00Z
+    end_datetime: 2022-03-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
