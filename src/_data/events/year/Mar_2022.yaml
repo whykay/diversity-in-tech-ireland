@@ -677,3 +677,14 @@ eventlistings:
     desc: "<p>AllBright's founding principle is when women join forces, amazing things happen. And that's exactly our mission behind AllBright MEETS - to connect women all over the UK and Ireland, in real life, and this year it's in partnership with BMW i.</p>
     <p>On International Women's Day we're popping up in FIVE cities, connecting 500 women, all in one night, with very special guest speakers.</p>"
     type: diversity
+  - name: "International WOMEN’S DAY I am remarkable workshopl"
+    url: "https://www.eventbrite.ie/e/international-womens-day-i-am-remarkable-workshop-tickets-289523571797"
+    region: 🇮🇪
+    date_added: 2022-03-08
+    start_datetime: 2022-03-09T17:00:00Z
+    end_datetime: 2022-03-09T18:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>I am remarkable workshop online. Join us for an online workshop empowering women and underrepresented groups to celebrate YOUR achievements in the workplace and beyond. This online workshop will highlight the importance of self-promotion in YOUR career and provide YOU with the tools to practise this skill.#IamRemarkable is a Google initiative. </p>"
+    type: diversity
+    
