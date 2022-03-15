@@ -501,7 +501,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-23T17:20:00Z
     end_datetime: 2022-03-23T19:20:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -511,7 +511,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-08T19:00:00Z
     end_datetime: 2022-03-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -521,7 +521,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-08T19:00:00Z
     end_datetime: 2022-03-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -531,7 +531,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-10T13:00:00Z
     end_datetime: 2022-03-10T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -541,7 +541,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-12T10:00:00Z
     end_datetime: 2022-03-12T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -551,7 +551,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-13T13:30:00Z
     end_datetime: 2022-03-13T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -561,7 +561,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-17T17:00:00Z
     end_datetime: 2022-03-17T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -571,7 +571,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-21T19:00:00Z
     end_datetime: 2022-03-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -581,7 +581,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-23T18:00:00Z
     end_datetime: 2022-03-23T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -591,7 +591,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-24T18:00:00Z
     end_datetime: 2022-03-24T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -601,7 +601,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-26T15:00:00Z
     end_datetime: 2022-03-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -611,7 +611,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-26T15:00:00Z
     end_datetime: 2022-03-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -621,7 +621,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-29T08:00:00Z
     end_datetime: 2022-03-30T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Are you a founder? Feel befuddled by technologies and their terms as you are figuring out if you need a CTO, technical team in-house or out-sourcing it? Coding Grace Foundation is delighted to present a virtual foundational workshops to help alleviate those fears of asking and discussing about technology as you build and expand your business to the next level. Each session is 2 hours."
     type: diversity
@@ -631,7 +631,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-10T19:00:00Z
     end_datetime: 2022-03-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -641,7 +641,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-13T13:00:00Z
     end_datetime: 2022-03-13T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The Connacht Leadership & Empowerment, an International Women's Day celebration will combine inspiring stories, powerful experiences in a relaxed environment. Best of all, we are back and in person ready to support one another!"
     type: diversity
@@ -651,7 +651,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-24T20:00:00Z
     end_datetime: 2022-03-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -661,7 +661,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-10T18:00:00Z
     end_datetime: 2022-03-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This is a hybrid event (in-person and virtual). Link will be shared on day of event to attendees attending virtually).</p>
     <p>In the past week asylum seekers have begun arriving in Ireland from Ukraine. They are fleeing an unjust war. A war they didn't want. A war that is being currently investigated by the International Criminal Court in the Hague for numerous war crimes. This event explores how our tech for good community in Ireland can be mobilised to support Ukraine and the projects underway led by Anton Krasun <a href='https://www.irelandhelpukraine.com'>irelandhelpukraine.com</a></p>"
@@ -672,19 +672,30 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-03-08T18:00:00Z
     end_datetime: 2022-03-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>AllBright's founding principle is when women join forces, amazing things happen. And that's exactly our mission behind AllBright MEETS - to connect women all over the UK and Ireland, in real life, and this year it's in partnership with BMW i.</p>
     <p>On International Women's Day we're popping up in FIVE cities, connecting 500 women, all in one night, with very special guest speakers.</p>"
     type: diversity
-  - name: "International WOMEN’S DAY I am remarkable workshopl"
+  - name: "International WOMEN'S DAY I am remarkable workshop"
     url: "https://www.eventbrite.ie/e/international-womens-day-i-am-remarkable-workshop-tickets-289523571797"
     region: 🇮🇪
     date_added: 2022-03-08
     start_datetime: 2022-03-09T17:00:00Z
     end_datetime: 2022-03-09T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>I am remarkable workshop online. Join us for an online workshop empowering women and underrepresented groups to celebrate YOUR achievements in the workplace and beyond. This online workshop will highlight the importance of self-promotion in YOUR career and provide YOU with the tools to practise this skill.#IamRemarkable is a Google initiative. </p>"
+    type: diversity
+    
+  - name: "Skills@ScAIe Webinar Series: Following the Smart AI Money, Venturing into AI"
+    url: "https://www.ictskillnet.ie/training/skillsscaie-webinar-series-2/"
+    region: 🇮🇪
+    date_added: 2022-03-15
+    start_datetime: 2022-03-23T08:00:00Z
+    end_datetime: 2022-03-23T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This webinar discusses how to venture into Artificial Intelligence, discussing how to translate an idea into a commercial venture. What are the routes to success. The webinar also considers venturing from a female perspective, and addresses the question of how to attract more women into a male dominated industry.</p>"
     type: diversity
     

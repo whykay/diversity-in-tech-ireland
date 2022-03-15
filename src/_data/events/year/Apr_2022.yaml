@@ -29,7 +29,7 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-04-05T19:00:00Z
     end_datetime: 2022-04-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -39,7 +39,18 @@ eventlistings:
     date_added: 2022-03-04
     start_datetime: 2022-04-26T17:45:00Z
     end_datetime: 2022-04-26T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) NDRC Demo Day at Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/ndrc-demo-day-at-dogpatch-labs-tickets-295079910957"
+    region: 🇮🇪
+    date_added: 2022-03-15
+    start_datetime: 2022-04-07T16:15:00Z
+    end_datetime: 2022-04-07T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup

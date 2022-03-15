@@ -142,7 +142,12 @@ opportunities:
     region: 🇮🇪
     status: new
     
-
+  - name: "Level Up: Women In Tech"
+    desc: "<p>A social initiative aiming to upskill women from all over the world to start careers in tech.</p>
+    <p>Level Up: Women In Tech is an extension of the Level Up initiative, organized by Zartis. Once again, we are combining forces with Code Institute. Together, we aim to upskill women from all over the world, with limited access to tech resources and education, and help them start a career in tech.</p>"
+    url: "https://www.zartis.com/levelup/women-in-tech/"
+    region: 🇮🇪 🌍
+    status: new
 
 aob:
   - name: "BelfastFP moved away from Meetup"
