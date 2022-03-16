@@ -54,3 +54,14 @@ eventlistings:
     recurring: false
     desc: 
     type: startup
+
+  - name: "(In-person) Fingal Makerspace: An Introduction to 3D Printing (adults)"
+    url: "https://www.eventbrite.ie/e/an-introduction-to-3d-printing-adults-tickets-298307474687"
+    region: 🇮🇪
+    date_added: 2022-03-16
+    start_datetime: 2022-04-27T18:00:00Z
+    end_datetime: 2022-04-27T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker

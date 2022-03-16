@@ -699,3 +699,33 @@ eventlistings:
     desc: "<p>This webinar discusses how to venture into Artificial Intelligence, discussing how to translate an idea into a commercial venture. What are the routes to success. The webinar also considers venturing from a female perspective, and addresses the question of how to attract more women into a male dominated industry.</p>"
     type: diversity
     
+  - name: "(In-person) Fingal Makerspace: An Introduction to 3D Printing (adults)"
+    url: "https://www.eventbrite.ie/e/an-introduction-to-3d-printing-adults-tickets-292525721307"
+    region: 🇮🇪
+    date_added: 2022-03-16
+    start_datetime: 2022-03-16T18:00:00Z
+    end_datetime: 2022-03-16T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-person) Fingal Makerspace: An Intro to CAD using Fusion 360 (adults - 3 sessions)"
+    url: "https://www.eventbrite.ie/e/an-intro-to-cad-using-fusion-360-adults-3-sessions-tickets-293768458367"
+    region: 🇮🇪
+    date_added: 2022-03-16
+    start_datetime: 2022-03-23T18:00:00Z
+    end_datetime: 2022-03-23T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-person) Fingal Makerspace: An Introduction to the Laser Cutter (adults)"
+    url: "https://www.eventbrite.ie/e/an-introduction-to-the-laser-cutter-adults-tickets-292541107327"
+    region: 🇮🇪
+    date_added: 2022-03-16
+    start_datetime: 2022-03-26T14:00:00Z
+    end_datetime: 2022-03-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
