@@ -750,3 +750,44 @@ eventlistings:
     recurring: false
     desc: "We've been on this journey for 1 Year. We're hosting a little social in Dublin, come join us on 26th of March! For POC only."
     type: diversity
+  - name: "nxnwtech V: Build Successful E-Commerce Platforms With Modular Web Architecture"
+    url: "https://www.meetup.com/North-by-Northwest-Tech-Meetup/events/284662753/"
+    region: 🇮🇪
+    date_added: 2022-03-22
+    start_datetime: 2022-03-24T18:00:00Z
+    end_datetime: 2022-03-24T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Platform Engineers Dublin: Top 10 fallacies in platform engineering and how to avoid them"
+    url: "https://www.meetup.com/platform-engineers-dublin/events/284305507/"
+    region: 🇮🇪
+    date_added: 2022-03-22
+    start_datetime: 2022-03-23T18:00:00Z
+    end_datetime: 2022-03-23T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "BigNumber Dublin: Graph-Based Stream Processing featuring Memgraph"
+    url: "https://www.meetup.com/bignumber-dublin/events/284469081/"
+    region: 🇮🇪
+    date_added: 2022-03-22
+    start_datetime: 2022-03-23T16:00:00Z
+    end_datetime: 2022-03-23T17:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Distributed Data Dublin: Platform Demo - Apache Kafka®"
+    url: "https://www.meetup.com/Distributed-Data-Dublin/events/284511838/"
+    region: 🇮🇪
+    date_added: 2022-03-22
+    start_datetime: 2022-03-22T17:00:00Z
+    end_datetime: 2022-03-22T17:20:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+    
