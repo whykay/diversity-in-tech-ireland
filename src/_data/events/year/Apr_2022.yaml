@@ -50,7 +50,7 @@ eventlistings:
     date_added: 2022-03-15
     start_datetime: 2022-04-07T16:15:00Z
     end_datetime: 2022-04-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -61,7 +61,7 @@ eventlistings:
     date_added: 2022-03-16
     start_datetime: 2022-04-27T18:00:00Z
     end_datetime: 2022-04-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
