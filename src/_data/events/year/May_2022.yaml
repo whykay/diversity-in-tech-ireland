@@ -11,3 +11,24 @@ eventlistings:
     desc: "<p>We are delighted to announce that the Women in Project Management (WiPM) Summit 2022 will be hosted on Thursday 26th May at The Westbury Hotel in Dublin, Ireland. We look forward to welcoming you back to our in-person event once again.</p>
     <p>The creation of the Women in Project Management (WiPM) Summit is a natural evolution of our founding principle here at PM Summit HQ which is 'Inclusivity not Exclusivity'. Project Management like many other professions is capable of gender balance especially due to the attributes required to perform the role.</p>"
     type: diversity
+
+  - name: "(In Person) BelfastJS Summer Event @ The MAC"
+    url: "https://www.meetup.com/Belfast-JS/events/285040552"
+    region: 🇬🇧
+    date_added: 2022-04-05
+    start_datetime: 2022-05-13T18:00:00Z
+    end_datetime: 2022-05-13T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Code Mentoring: Coding Club"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/285041204"
+    region: 🇮🇪
+    date_added: 2022-04-05
+    start_datetime: 2022-05-14T11:05:00Z
+    end_datetime: 2022-05-14T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
