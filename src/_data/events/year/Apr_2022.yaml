@@ -378,3 +378,13 @@ eventlistings:
     recurring: false
     desc: "Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate! Bring a laptop and something to work on. It's okay if you don't have a project!"
     type: diversity
+  - name: "Imirt Workshop: Lose Control with Charlene Putney"
+    url: "https://www.eventbrite.ie/e/imirt-workshop-lose-control-with-charlene-putney-tickets-299356692927"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-04-20T18:30:00Z
+    end_datetime: 2022-04-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
