@@ -32,3 +32,34 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "SQL Ireland User Group: A deep dive into Docker"
+    url: "https://www.meetup.com/SQLIreland/events/282660894/"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-05-03T19:00:00Z
+    end_datetime: 2022-05-03T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Platform Engineers Dublin: Hashicorp & Humanitec - architecting an Internal Developer Platform"
+    url: "https://www.meetup.com/platform-engineers-dublin/events/285104866/"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-05-05T18:00:00Z
+    end_datetime: 2022-05-05T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Linux Developer meetup with RedHat"
+    url: "https://www.meetup.com/Dublin-Linux-Developers/events/285107060/"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-05-07T18:00:00Z
+    end_datetime: 2022-05-07T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

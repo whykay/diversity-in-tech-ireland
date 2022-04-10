@@ -174,3 +174,14 @@ conferences:
     type: tech
     status: active
     
+  - name: "#DataWeekender CU5"
+    url: "https://www.meetup.com/DataWeekender/events/283284735/"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-05-14T00:00:00Z
+    end_datetime: 2022-05-14T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are delighted to run the 5th #DataWeekender event on the 14th May 2022. As usual, the full schedule, speaker list, and track URL's will be on <a href='https://www.dataweekender.com'>https://www.dataweekender.com</a></p>"
+    type: tech
+    status: active
