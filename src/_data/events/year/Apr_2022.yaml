@@ -198,7 +198,7 @@ eventlistings:
     desc: "International Women's Day (IWD) occurs on March 8th every year. It marks a moment to celebrate and provide visibility for the incredible contributions of women around the world and is a call to action for accelerating gender parity. #BreakTheBias"
     type: diversity
   - name: "(Online) HER+Data Reboot: Meet Amazing Women in Data"
-    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-iwd-2022-women-techmakers-dublin-invite-you-all-to-celebrate-being-you/"
+    url: "https://www.meetup.com/HER-Data/events/285020547/"
     region: 🇮🇪
     date_added: 2022-04-05
     start_datetime: 2022-04-28T12:00:00Z
@@ -213,6 +213,57 @@ eventlistings:
     date_added: 2022-04-05
     start_datetime: 2022-04-05T19:15:00Z
     end_datetime: 2022-04-05T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace - Online Only Craft Night, Knitting, Sewing and Art, Open to All..."
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/kmjxpsydcgbnb/"
+    region: 🇮🇪
+    date_added: 2022-04-05
+    start_datetime: 2022-04-10T18:00:00Z
+    end_datetime: 2022-04-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In Person) TOG Hackerspace - Electronics Night"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/kzdsssydcgbxb/"
+    region: 🇮🇪
+    date_added: 2022-04-05
+    start_datetime: 2022-04-18T19:15:00Z
+    end_datetime: 2022-04-18T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In Person) Rust Dublin April Hybrid Meetup"
+    url: "https://www.meetup.com/Rust-Dublin/events/285069899/"
+    region: 🇮🇪
+    date_added: 2022-04-05
+    start_datetime: 2022-04-12T18:30:00Z
+    end_datetime: 2022-04-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In Person) The Games Co-Op: Yaaaaaaypril"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/285077185/"
+    region: 🇮🇪
+    date_added: 2022-04-05
+    start_datetime: 2022-04-20T19:00:00Z
+    end_datetime: 2022-04-20T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+
+  - name: "(In Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/284756181/"
+    region: 🇮🇪
+    date_added: 2022-04-10
+    start_datetime: 2022-04-10T13:30:00Z
+    end_datetime: 2022-04-10T15:00:00Z
     new: true
     recurring: false
     desc: 
