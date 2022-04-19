@@ -450,4 +450,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-    
+  - name: "(In Person) WITS Coffee Meetup"
+    url: "https://www.eventbrite.ie/e/wits-ireland-coffee-meetup-in-cork-city-april-2022-tickets-253970882747"
+    region: 🇮🇪
+    date_added: 2022-04-19
+    start_datetime: 2022-04-21T08:30:00Z
+    end_datetime: 2022-04-21T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
+    type: diversity
