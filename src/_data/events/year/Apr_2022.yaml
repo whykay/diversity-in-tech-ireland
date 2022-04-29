@@ -446,7 +446,7 @@ eventlistings:
     date_added: 2022-04-19
     start_datetime: 2022-04-27T18:00:00Z
     end_datetime: 2022-04-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -456,7 +456,18 @@ eventlistings:
     date_added: 2022-04-19
     start_datetime: 2022-04-21T08:30:00Z
     end_datetime: 2022-04-21T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
     type: diversity
+
+  - name: "Dublin Java User Group - Cybersecurity / Cyberwarfare"
+    url: "https://www.meetup.com/TechMeetupspace/events/285343378/"
+    region: 🇮🇪
+    date_added: 2022-04-27
+    start_datetime: 2022-04-28T18:15:00Z
+    end_datetime: 2022-04-28T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
