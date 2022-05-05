@@ -70,7 +70,7 @@ eventlistings:
     date_added: 2022-04-19
     start_datetime: 2022-05-19T08:30:00Z
     end_datetime: 2022-05-19T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
     type: diversity
@@ -80,7 +80,7 @@ eventlistings:
     date_added: 2022-04-19
     start_datetime: 2022-05-04T18:30:00Z
     end_datetime: 2022-05-04T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The workshop will be followed by a moment to mingle and exchange on our experiences around drinks (offered for this event).</p>
     <p>We are very excited to be back in person for what promises to be a particularly interactive, instructive and fun event. We look forward to seeing you there!</p>"
@@ -91,7 +91,59 @@ eventlistings:
     date_added: 2022-04-19
     start_datetime: 2022-05-10T20:00:00Z
     end_datetime: 2022-05-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This month we're reading <a href='https://www.goodreads.com/book/show/52701044-girl-decoded'>Girl Decoded by Rana El Kaliouby</a> (Technology)</p>"
     type: diversity
+
+
+  - name: "First Fridays @ RDI Hub | Kerry: Welcome to the Ecosystem"
+    url: "https://us02web.zoom.us/meeting/register/tZYqfuyrpzMsE9aEtHe0c2oasKOhPlSaz3LW"
+    region: 🇮🇪
+    date_added: 2022-05-05
+    start_datetime: 2022-05-06T09:00:00Z
+    end_datetime: 2022-05-06T09:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "First Fridays @ RDI Hub | Kerry: Mentoring"
+    url: "https://mentoring.firstfridays.ie/"
+    region: 🇮🇪
+    date_added: 2022-05-05
+    start_datetime: 2022-05-06T10:00:00Z
+    end_datetime: 2022-05-06T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "First Fridays @ RDI Hub | Kerry: Educate - This month we're talking about Fintech"
+    url: "https://www.crowdcast.io/e/educate--fintech--first"
+    region: 🇮🇪
+    date_added: 2022-05-05
+    start_datetime: 2022-05-06T12:15:00Z
+    end_datetime: 2022-05-06T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "First Fridays @ RDI Hub | Kerry: Inspire - Insights from a high growth founder"
+    url: "https://www.crowdcast.io/e/inspire-with-louise"
+    region: 🇮🇪
+    date_added: 2022-05-05
+    start_datetime: 2022-05-06T13:15:00Z
+    end_datetime: 2022-05-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "First Fridays - Inspire with Louise Phelan | First Fridays May"
+    url: "https://www.crowdcast.io/e/inspire-with-louise/register"
+    region: 🇮🇪
+    date_added: 2022-05-05
+    start_datetime: 2022-05-06T13:15:00Z
+    end_datetime: 2022-05-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
