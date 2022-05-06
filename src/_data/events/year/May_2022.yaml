@@ -12,7 +12,7 @@ eventlistings:
     <p>The creation of the Women in Project Management (WiPM) Summit is a natural evolution of our founding principle here at PM Summit HQ which is 'Inclusivity not Exclusivity'. Project Management like many other professions is capable of gender balance especially due to the attributes required to perform the role.</p>"
     type: diversity
 
-  - name: "(In Person) BelfastJS Summer Event @ The MAC"
+  - name: "(In-Person) BelfastJS Summer Event @ The MAC"
     url: "https://www.meetup.com/Belfast-JS/events/285040552"
     region: 🇬🇧
     date_added: 2022-04-05
@@ -64,7 +64,7 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "(In Person) WITS Coffee Meetup"
+  - name: "(In-Person) WITS Coffee Meetup"
     url: "https://www.eventbrite.ie/e/wits-ireland-coffee-meetup-in-cork-city-may-2022-tickets-258210072277"
     region: 🇮🇪
     date_added: 2022-04-19
@@ -74,7 +74,7 @@ eventlistings:
     recurring: false
     desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
     type: diversity
-  - name: "(In Person) WITS Coaching Series: give your self-confidence a boost"
+  - name: "(In-Person) WITS Coaching Series: give your self-confidence a boost"
     url: "https://www.eventbrite.ie/e/wits-coaching-series-give-your-self-confidence-a-boost-tickets-294095877687"
     region: 🇮🇪
     date_added: 2022-04-19
@@ -143,6 +143,307 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T13:15:00Z
     end_datetime: 2022-05-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+
+  - name: "Limerick Pragmatic Programmer Group Meetup: April Code Kata"
+    url: "https://www.meetup.com/limerick-pragmatic-software-group-meetup/events/284865920/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-07T19:00:00Z
+    end_datetime: 2022-05-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/285346272/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-08T13:30:00Z
+    end_datetime: 2022-05-08T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/285352513/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-08T18:00:00Z
+    end_datetime: 2022-05-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Data Engineering and Data Architecture Group (DEDAG):What is Data Observability and why should data teams consider it?"
+    url: "https://www.meetup.com/data-engineering-and-data-architecture-group/events/285273728/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-09T18:00:00Z
+    end_datetime: 2022-05-09T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) No-Code and Automation Meetup #6"
+    url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/285538411/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-10T18:30:00Z
+    end_datetime: 2022-05-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/285397854/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-10T19:00:00Z
+    end_datetime: 2022-05-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/Dublin-Accelerated-Learning-Technology-Meetup/events/285419441/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T18:00:00Z
+    end_datetime: 2022-05-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "ProductTank Belfast: The North Star Framework - In Person Workshop"
+    url: "https://www.meetup.com/ProductTank-Belfast/events/285437528/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T18:00:00Z
+    end_datetime: 2022-05-11T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/280640450/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T18:30:00Z
+    end_datetime: 2022-05-11T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Azure Dublin Meetup: Azure SQL Managed instance, a different sql server?"
+    url: "https://www.meetup.com/AzureDublin/events/285542572/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T19:00:00Z
+    end_datetime: 2022-05-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) BelfAWSt Meetup: Introductory Open Space"
+    url: "https://www.meetup.com/belfawst-meetup/events/285670916/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-13T17:30:00Z
+    end_datetime: 2022-05-13T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) BelfastJS Summer Event @ The MAC"
+    url: "https://www.meetup.com/Belfast-JS/events/285040552/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-13T18:00:00Z
+    end_datetime: 2022-05-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/285476986/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-14T15:00:00Z
+    end_datetime: 2022-05-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin TypeScript Meetup 4.7rc"
+    url: "https://www.meetup.com/Dublin-TypeScript-Meetup/events/285629842/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-16T18:30:00Z
+    end_datetime: 2022-05-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/285525906/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-16T19:15:00Z
+    end_datetime: 2022-05-16T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "DevOps Belfast:The Data Must Flow"
+    url: "https://www.meetup.com/DevOps-Belfast/events/284768001/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-17T18:30:00Z
+    end_datetime: 2022-05-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Science: Reproducible Research 2.0"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/285228396/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-18T18:30:00Z
+    end_datetime: 2022-05-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyLadies Dublin X WAI Ireland: WaiPRACTICE Showcase"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/285228396/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-21T13:30:00Z
+    end_datetime: 2022-05-21T15:45:00Z
+    new: true
+    recurring: false
+    desc: "PyLadies Dublin are partnered with Women in Ireland who will be showcasing the projects from their WaiPractice Programme that ran from Feb to Apr by their mentors and mentees."
+    type: diversity
+  - name: "(In-Person) Belfast Automation and Software Testing: Pipelines at ESO and Test Automation with Detox"
+    url: "https://www.meetup.com/Belfast-Automation-Software-Testing/events/285517116/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-26T18:00:00Z
+    end_datetime: 2022-05-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Silicon Drinkabout Belfast: Raise Ventures Tech for Non-Tech - ONLINE NOW!"
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/285630861/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-05-26T18:30:00Z
+    end_datetime: 2022-05-26T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(In-Person) Sunday's productive JS and coffee meetings"
+    url: "https://www.meetup.com/Cork-JavaScript-Meetup/events/285346148/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-08T14:00:00Z
+    end_datetime: 2022-05-08T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Cork|Sec 107"
+    url: "https://www.meetup.com/CorkSec/events/282819496/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-08T19:00:00Z
+    end_datetime: 2022-05-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Limerick DotNet-Azure User Group (LDNA): DevSecOps as an approach to building and deploying secure applications"
+    url: "https://www.meetup.com/Limerick-DotNet/events/285440655/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-26T20:00:00Z
+    end_datetime: 2022-05-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "CDNA - Cork .NET and Azure:23rd CDNA Meetup- Microsoft 365 Fundamentals & Microsoft Azure Fundamentals"
+    url: "https://www.meetup.com/CorkDotNetAzure/events/285657557/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-31T19:00:00Z
+    end_datetime: 2022-05-31T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "WITS Coaching Series: give your self-confidence a boost 2/3"
+    url: "https://www.eventbrite.ie/e/wits-coaching-series-give-your-self-confidence-a-boost-23-tickets-324174894837"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-25T18:30:00Z
+    end_datetime: 2022-05-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: "For the second workshop of this coaching series, Life and Career Coach Anna Lehane brings our focus to this famous impostor syndrome: how does it work? What is the role of our inner critic in its mechanism? How can you manage this inner critic more effectively to stop doubting your own abilities?"
+    type: diversity
+  - name: "(In-Person) AwakenHub Get Together Dublin"
+    url: "https://www.eventbrite.ie/e/wits-coaching-series-give-your-self-confidence-a-boost-23-tickets-324174894837"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T18:00:00Z
+    end_datetime: 2022-05-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: "We're hosting a small AwakenHub get together to give us a chance to get a few of our local AwakenHubbers and friends together in-person."
+    type: diversity
+  - name: "AwakenHub: Joyriding with Angela Scanlon"
+    url: "https://www.eventbrite.co.uk/e/joyriding-with-angela-scanlon-tickets-260766608947"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-17T17:00:00Z
+    end_datetime: 2022-05-17T18:15:00Z
+    new: true
+    recurring: false
+    desc: "Join us for a very special 75 minutes with Angela Scanlon as she shares some of the reasons behind her new book 'Joyrider' as well as her female founder journey with frkl."
+    type: diversity
+  - name: "Wild Code School: Tech Workshop - Data - Web Scraping: collecting data on the Internet"
+    url: "https://www.eventbrite.ie/e/tech-workshop-data-web-scraping-collecting-data-on-the-internet-tickets-261666109377"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T16:00:00Z
+    end_datetime: 2022-05-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Fingal Maker Space: An Introduction to 3D Printing (adults)"
+    url: "https://www.eventbrite.ie/e/an-introduction-to-3d-printing-adults-tickets-327156894077"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-11T18:00:00Z
+    end_datetime: 2022-05-11T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "RDI Hub: Founders Circle"
+    url: "https://www.eventbrite.ie/e/founders-circle-tickets-329693912367"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-05-20T11:00:00Z
+    end_datetime: 2022-05-20T12:35:00Z
     new: true
     recurring: false
     desc: 
