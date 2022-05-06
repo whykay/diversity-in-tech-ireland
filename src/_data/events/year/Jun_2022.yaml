@@ -1,0 +1,84 @@
+---
+eventlistings:
+  - name: "(In Person) Farset Labs: Farset Courses: Building Apps with Flutter"
+    url: "https://www.meetup.com/farsetlabs/events/284942258/"
+    region: 🇬🇧
+    date_added: 2022-05-06
+    start_datetime: 2022-06-04T13:00:00Z
+    end_datetime: 2022-06-04T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "SQL Ireland User Group: Administering SQL Server with PowerShell using dbatools"
+    url: "https://www.meetup.com/SQLIreland/events/282660901/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-07T19:00:00Z
+    end_datetime: 2022-06-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: ".Net Mafia, C# Mobsters and other Microsoft family:ScyllaDB: A better Apache Cassandra (TM) and AWS DynamoDB (TM)"
+    url: "https://www.meetup.com/Net-Mafia-C-Mobsters-and-other-Microsoft-family/events/285543403/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-15T18:00:00Z
+    end_datetime: 2022-06-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "PyLadies Dublin Workshop with Jina AI"
+    url: "https://www.meetup.com/PyLadiesDublin/events/285571054/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-21T18:30:00Z
+    end_datetime: 2022-06-21T19:30:00Z
+    new: true
+    recurring: false
+    desc: "We are so excited to have our first workshop this year, and it's going to be run by Jina AI. This will be a virtual workshop."
+    type: diversity
+  - name: "(In Person) Galway Tech: Sports Tech & TBA"
+    url: "https://www.meetup.com/galway-tech/events/285540972/"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-02T18:00:00Z
+    end_datetime: 2022-06-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "WITS Coaching Series: give your self-confidence a boost 3/3"
+    url: "https://www.eventbrite.ie/e/wits-coaching-series-give-your-self-confidence-a-boost-33-tickets-324186740267"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-08T18:30:00Z
+    end_datetime: 2022-06-08T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Barriers to career progression are multiple, and the easiest to eliminate are the ones that are in your direct control. Have you already downplayed your achievements when being praised in front of others? Silently worked very hard in the hope to get a promotion without daring (or even thinking!) to ask for it? Stayed quiet in front of a patronising colleague? If you had had a little more self-confidence, would you have handled that situation differently?<p>
+    <p>This 3rd workshop will be an1 hour interactive workshop online via WITS zoom.<p>"
+    type: diversity
+  - name: "WITS Ireland Coffee Meetup in Cork City"
+    url: "https://www.eventbrite.ie/e/wits-ireland-coffee-meetup-in-cork-city-june-2022-tickets-258211747287"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-16T08:30:00Z
+    end_datetime: 2022-06-16T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
+    type: diversity
+  - name: "AwakenHub: Get Your Pitch On!"
+    url: "https://www.eventbrite.co.uk/e/get-your-pitch-on-tickets-260771503587"
+    region: 🇮🇪
+    date_added: 2022-05-06
+    start_datetime: 2022-06-14T17:00:00Z
+    end_datetime: 2022-06-14T18:15:00Z
+    new: true
+    recurring: false
+    desc: "Join us for an AwakenHub Pitch Night with a selection of our 1st SheGenerate cohort sharing their new businesses with you and a chance for one of them to win £500 on the night."
+    type: diversity
+  
