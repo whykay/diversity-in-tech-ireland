@@ -459,3 +459,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "Imirt Workshop: (2-Part) A Crash Course in Games Testing with Anna Radak"
+    url: "https://www.eventbrite.ie/e/imirt-workshop-a-crash-course-in-games-testing-with-anna-radak-tickets-333117963797"
+    region: 🇮🇪
+    date_added: 2022-05-09
+    start_datetime: 2022-05-26T18:00:00Z
+    end_datetime: 2022-05-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
