@@ -103,7 +103,7 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T09:00:00Z
     end_datetime: 2022-05-06T09:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -113,7 +113,7 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T10:00:00Z
     end_datetime: 2022-05-06T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -123,7 +123,7 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T12:15:00Z
     end_datetime: 2022-05-06T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -133,7 +133,7 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T13:15:00Z
     end_datetime: 2022-05-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -143,7 +143,7 @@ eventlistings:
     date_added: 2022-05-05
     start_datetime: 2022-05-06T13:15:00Z
     end_datetime: 2022-05-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -154,7 +154,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-07T19:00:00Z
     end_datetime: 2022-05-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -164,7 +164,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-08T13:30:00Z
     end_datetime: 2022-05-08T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -174,7 +174,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-08T18:00:00Z
     end_datetime: 2022-05-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -184,7 +184,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-09T18:00:00Z
     end_datetime: 2022-05-09T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -194,7 +194,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-10T18:30:00Z
     end_datetime: 2022-05-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -204,7 +204,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-10T19:00:00Z
     end_datetime: 2022-05-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -214,7 +214,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T18:00:00Z
     end_datetime: 2022-05-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -224,7 +224,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T18:00:00Z
     end_datetime: 2022-05-11T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -234,7 +234,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T18:30:00Z
     end_datetime: 2022-05-11T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -244,7 +244,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T19:00:00Z
     end_datetime: 2022-05-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-13T17:30:00Z
     end_datetime: 2022-05-13T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -264,7 +264,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-13T18:00:00Z
     end_datetime: 2022-05-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -274,7 +274,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-14T15:00:00Z
     end_datetime: 2022-05-14T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -284,7 +284,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-16T18:30:00Z
     end_datetime: 2022-05-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -294,7 +294,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-16T19:15:00Z
     end_datetime: 2022-05-16T21:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-17T18:30:00Z
     end_datetime: 2022-05-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -314,7 +314,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-18T18:30:00Z
     end_datetime: 2022-05-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -324,7 +324,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-21T13:30:00Z
     end_datetime: 2022-05-21T15:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "PyLadies Dublin are partnered with Women in Ireland who will be showcasing the projects from their WaiPractice Programme that ran from Feb to Apr by their mentors and mentees."
     type: diversity
@@ -334,7 +334,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-26T18:00:00Z
     end_datetime: 2022-05-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -344,7 +344,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-26T18:30:00Z
     end_datetime: 2022-05-26T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -354,7 +354,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-08T14:00:00Z
     end_datetime: 2022-05-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -364,7 +364,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-08T19:00:00Z
     end_datetime: 2022-05-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -374,7 +374,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-26T20:00:00Z
     end_datetime: 2022-05-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -384,7 +384,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-31T19:00:00Z
     end_datetime: 2022-05-31T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -394,7 +394,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-25T18:30:00Z
     end_datetime: 2022-05-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "For the second workshop of this coaching series, Life and Career Coach Anna Lehane brings our focus to this famous impostor syndrome: how does it work? What is the role of our inner critic in its mechanism? How can you manage this inner critic more effectively to stop doubting your own abilities?"
     type: diversity
@@ -404,7 +404,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T18:00:00Z
     end_datetime: 2022-05-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We're hosting a small AwakenHub get together to give us a chance to get a few of our local AwakenHubbers and friends together in-person."
     type: diversity
@@ -414,7 +414,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-17T17:00:00Z
     end_datetime: 2022-05-17T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us for a very special 75 minutes with Angela Scanlon as she shares some of the reasons behind her new book 'Joyrider' as well as her female founder journey with frkl."
     type: diversity
@@ -424,7 +424,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T16:00:00Z
     end_datetime: 2022-05-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -434,7 +434,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-11T18:00:00Z
     end_datetime: 2022-05-11T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -444,7 +444,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-05-20T11:00:00Z
     end_datetime: 2022-05-20T12:35:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -455,7 +455,7 @@ eventlistings:
     date_added: 2022-05-08
     start_datetime: 2022-05-08T18:30:00Z
     end_datetime: 2022-05-08T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -466,7 +466,70 @@ eventlistings:
     date_added: 2022-05-09
     start_datetime: 2022-05-26T18:00:00Z
     end_datetime: 2022-05-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
+
+  - name: "Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/285246711/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-26T08:00:00Z
+    end_datetime: 2022-05-27T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
+    <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
+    type: diversity
+  - name: "Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/285549390/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-17T19:00:00Z
+    end_datetime: 2022-05-17T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/285649919/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-22T13:30:00Z
+    end_datetime: 2022-05-22T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "📖 The UX Book Club Book 📖 Ruined by Design with Mike Monteiro"
+    url: "https://www.meetup.com/theuxbookclub/events/285242790/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-24T18:00:00Z
+    end_datetime: 2022-05-24T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Hake May While The Sun Shines"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/285738697/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-25T19:00:00Z
+    end_datetime: 2022-05-25T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/285779219/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-05-28T15:00:00Z
+    end_datetime: 2022-05-28T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  

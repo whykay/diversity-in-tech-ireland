@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-04T13:00:00Z
     end_datetime: 2022-06-04T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-07T19:00:00Z
     end_datetime: 2022-06-07T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-15T18:00:00Z
     end_datetime: 2022-06-15T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -36,7 +36,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-21T18:30:00Z
     end_datetime: 2022-06-21T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We are so excited to have our first workshop this year, and it's going to be run by Jina AI. This will be a virtual workshop."
     type: diversity
@@ -46,7 +46,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-02T18:00:00Z
     end_datetime: 2022-06-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -56,7 +56,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-08T18:30:00Z
     end_datetime: 2022-06-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Barriers to career progression are multiple, and the easiest to eliminate are the ones that are in your direct control. Have you already downplayed your achievements when being praised in front of others? Silently worked very hard in the hope to get a promotion without daring (or even thinking!) to ask for it? Stayed quiet in front of a patronising colleague? If you had had a little more self-confidence, would you have handled that situation differently?<p>
     <p>This 3rd workshop will be an1 hour interactive workshop online via WITS zoom.<p>"
@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-16T08:30:00Z
     end_datetime: 2022-06-16T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's meet around a coffee in Cork City! This morning coffee meet-up, open to WITS members and non-members, aims to be a short breathe of fresh air into our busy schedules to connect, exchange about life in STEM, or simply take a break!"
     type: diversity
@@ -77,8 +77,49 @@ eventlistings:
     date_added: 2022-05-06
     start_datetime: 2022-06-14T17:00:00Z
     end_datetime: 2022-06-14T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us for an AwakenHub Pitch Night with a selection of our 1st SheGenerate cohort sharing their new businesses with you and a chance for one of them to win £500 on the night."
     type: diversity
   
+  - name: "C++ <Belfast>: The Return: Contractual Disappointment in C++"
+    url: "https://www.meetup.com/Cpp-Belfast/events/285738429/"
+    region: 🇬🇧
+    date_added: 2022-05-16
+    start_datetime: 2022-06-06T18:30:00Z
+    end_datetime: 2022-06-06T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/280640454/"
+    region: 
+    date_added: 2022-05-16
+    start_datetime: 2022-06-08T18:30:00Z
+    end_datetime: 2022-06-08T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Coding Club - Valid Parentheses (difficulty: easy)"
+    url: "https://www.meetup.com/Dublin-Code-Mentoring/events/285376947/"
+    region: 
+    date_added: 2022-05-16
+    start_datetime: 2022-06-11T11:00:00Z
+    end_datetime: 2022-06-11T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Developer meetup with EuroPython"
+    url: "https://www.meetup.com/Dublin-Linux-Developers/events/285723850/"
+    region: 
+    date_added: 2022-05-16
+    start_datetime: 2022-06-11T11:00:00Z
+    end_datetime: 2022-06-11T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
