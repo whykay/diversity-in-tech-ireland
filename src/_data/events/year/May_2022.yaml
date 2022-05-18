@@ -556,3 +556,13 @@ eventlistings:
     desc: '<p>WiE Dublin are excited to announce our first in-person event - WiE Dublin Spring Drinks Reception - on 26th May, and sponsored by Kroll</p>
     <p>Women in eDiscovery™ ("WiE") is a nonprofit organization focused on providing women with legal technology education, networking and leadership opportunities.</p>'
     type: diversity
+  - name: "(In-Person) #HackTheHub Hackathon 2022"
+    url: "https://www.eventbrite.ie/e/women-in-ediscovery-dublin-drinks-reception-tickets-336337944847"
+    region: 🇬🇧
+    date_added: 2022-05-18
+    start_datetime: 2022-05-28T09:00:00Z
+    end_datetime: 2022-05-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

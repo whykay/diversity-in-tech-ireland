@@ -94,11 +94,11 @@ conferences:
     status: active
 
   - name: "TechConnect Live 2022"
-    url: "https://www.eventbrite.com/e/techconnect-live-2022-tickets-88809017161"
+    url: "https://www.eventbrite.ie/e/tech-connect-conference-exhibition-tickets-108662823430"
     region: 🇮🇪
     date_added: 2022-01-22
-    start_datetime: 2022-11-10T00:00:00Z
-    end_datetime: 2022-11-10T00:00:00Z
+    start_datetime: 2022-09-13T00:00:00Z
+    end_datetime: 2022-09-13T00:00:00Z
     new: false
     recurring: false
     desc: "<p>TechConnect Live is Ireland's largest annual business and technology exhibition for Micro, SME and Enterprise level companies. The event, which is supported by Ibec and the Small Firms Association (SFA) creates a marketplace for a wide range of SMEs experiencing rapid growth. It's estimated that SME's account for 99.8 percent of all active businesses here in Ireland.</p>"
