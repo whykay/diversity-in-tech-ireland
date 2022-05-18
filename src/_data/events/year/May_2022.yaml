@@ -532,4 +532,27 @@ eventlistings:
     recurring: false
     desc:
     type: tech
-  
+  - name: "Women Who Code: CONNECT Recharge 2022 - Part 1"
+    url: "https://www.meetup.com/Women-Who-Code-Dublin/events/285576550/"
+    region: 🌎
+    date_added: 2022-05-16
+    start_datetime: 2022-05-26T12:00:00Z
+    end_datetime: 2022-05-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Us Live for Part 1 of Our One-Day Online Conference to CONNECT and Recharge!</p>
+    <p>Staying connected with industry experts and other women in tech from around the world is the best way to recharge your network and passion for what you do.</p>
+    <p>Women Who Code has created a three-part one-day live online event of diverse speakers to help you grow your skills and get inspired to take your career to the next level. Wherever you are on your journey, this conference has something for you!</p>"
+    type: diversity
+
+  - name: "Women in eDiscovery Dublin Drinks Reception"
+    url: "https://www.eventbrite.ie/e/women-in-ediscovery-dublin-drinks-reception-tickets-336337944847"
+    region: 🇮🇪
+    date_added: 2022-05-18
+    start_datetime: 2022-05-26T18:30:00Z
+    end_datetime: 2022-05-26T21:30:00Z
+    new: true
+    recurring: false
+    desc: '<p>WiE Dublin are excited to announce our first in-person event - WiE Dublin Spring Drinks Reception - on 26th May, and sponsored by Kroll</p>
+    <p>Women in eDiscovery™ ("WiE") is a nonprofit organization focused on providing women with legal technology education, networking and leadership opportunities.</p>'
+    type: diversity

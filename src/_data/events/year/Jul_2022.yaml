@@ -1,13 +1,36 @@
 ---
 eventlistings:
-  - name: "AwakenHub: Get Your Pitch On!"
-    url: "https://www.eventbrite.co.uk/e/get-your-pitch-on-tickets-260771503587"
+  - name: "AwakenHub Turns 2"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-turns-2-details-to-follow-tickets-260772205687"
     region: 🇮🇪
     date_added: 2022-05-06
-    start_datetime: 2022-06-14T17:00:00Z
-    end_datetime: 2022-06-14T18:15:00Z
+    start_datetime: 2022-07-05T17:00:00Z
+    end_datetime: 2022-07-05T18:15:00Z
     new: true
     recurring: false
-    desc: "Join us for an AwakenHub Pitch Night with a selection of our 1st SheGenerate cohort sharing their new businesses with you and a chance for one of them to win £500 on the night."
+    desc: "Join us for our 2nd Birthday along with a special guest not to be missed."
+    type: diversity
+  - name: "Django Girls Dublin @ EuroPython (11 July, 2022)"
+    url: "https://djangogirls.org/en/dublin/"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-07-11T09:00:00Z
+    end_datetime: 2022-07-11T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>If you are a female and you want to learn how to make websites, we have good news for you! We are holding a one-day workshop for beginners!</p>
+    <p>It will take place on Monday 11th July at Convention Centre Dublin in the heart of Dublin city.</p>
+    <p>Workshop is free of charge. You don't need a EuroPython conference ticket to attend, but you need to register separately.</p>"
+    type: diversity
+  - name: "Trans*Code @ EuroPython (12 July, 2022)"
+    url: "https://ep2022.europython.eu/trans_code"
+    region: 🇮🇪
+    date_added: 2022-05-16
+    start_datetime: 2022-07-12T09:00:00Z
+    end_datetime: 2022-07-12T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>After nearly 3 years of hiatus, Trans*Code will be returning! We are delighted that EuroPython will be hosting a Trans*Code event in Dublin in July!</p>
+    <p>Trans*Code is an international hack event series focused solely on drawing attention to transgender issues and opportunities. Trans*Code events aim to help draw attention to transgender issues through informal, topic-focused hackdays. Coders, designers, activists, and community members not currently working in technology are also encouraged to participate.</p>"
     type: diversity
     

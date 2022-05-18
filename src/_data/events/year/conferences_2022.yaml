@@ -209,3 +209,27 @@ conferences:
     desc: "<p>Ireland's annual tech community festival is back for a seventh year!  The AtlanTec Festival features an incredible line-up of talented minds, inspiring organisations and enjoyable events across a packed festival.</p><p>This year the focus is on the Art of Digitalisation & Acceleration. The reality of business today is one of unrelentingly disruptive change—on a scale never seen before.</p>"
     type: tech
     status: active
+
+  - name: "9th International Data Science Summit"
+    url: "https://www.eventbrite.ie/e/9th-international-data-science-summit-tickets-266711339797"
+    region: 🇮🇪
+    date_added: 2022-04-27
+    start_datetime: 2022-05-19T00:00:00Z
+    end_datetime: 2022-05-19T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 9th International Data Science Summit organized by the Data Science Foundation International will be held on 19th May 2022 at The Convention Centre @ Dublin. The summit will provide unique insights into creating a data-driven culture in organizations, and the benefits of using data and analytics to drive the decision making process.</p>
+    <p>Connect with some of the most innovative people and ideas in the world of data science & AI, while learning first-hand from core practitioners and contributors, Data Science Summit will welcome renowned speakers from the space to share innovative ideas on how to correctly and efficiently extract the knowledge & insights from data.</p>"
+    type: tech
+    status: active
+  - name: "Big Data Belfast 2022"
+    url: "https://www.eventbrite.ie/e/9th-international-data-science-summit-tickets-266711339797"
+    region: 🇬🇧
+    date_added: 2022-04-27
+    start_datetime: 2022-05-25T00:00:00Z
+    end_datetime: 2022-05-25T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Big Data Belfast is a one-day data and technology conference hosted by data analytics solution provider Analytics Engines. Now in its 8th year, the conference has established itself as a highlight of the Northern Ireland tech events calendar.</p>"
+    type: tech
+    status: active
