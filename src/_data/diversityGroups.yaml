@@ -1,7 +1,7 @@
 ---
 groups:
   - name: AnitaB.org Dublin
-    url: https://community.anitab.org/tag/anitabdublin/
+    url: "https://membership.anitab.org/page/communitiesandgroups"
     region: Dublin
     date_added: 2020-09-11
     year_added: 2020
@@ -282,7 +282,8 @@ groups:
     year_added: 2017
     month_added: 04
     day_added: 24
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all  
   - name: Mentor HER
     url: "https://www.meetup.com/Mentor-HER/"
@@ -291,7 +292,8 @@ groups:
     year_added: 2020
     month_added: 06
     day_added: 10
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all     
   - name: ngGirls Dublin
     url: "http://ng-girls.org/dublin-2019/"
@@ -300,7 +302,8 @@ groups:
     year_added: 2019
     month_added: 09
     day_added: 03
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all 
   - name: Rails Girls Dublin
     url: "https://twitter.com/railsgirls_dub"
@@ -373,7 +376,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all 
   - name: Tech Women Dublin
     url: "https://www.meetup.com/Tech-Women-Dublin"
@@ -382,7 +386,8 @@ groups:
     year_added: 2020
     month_added: 06
     day_added: 30
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all 
   - name: Women CyberSecurity Society
     url:
@@ -435,7 +440,7 @@ groups:
     status: active
     type: all  
   - name: Women in DevOps 
-    url: "http://witsireland.com/"
+    url: "https://www.womenindevops.com/events/"
     region: Dublin/Global
     date_added: 2019-11-06
     year_added: 2019
@@ -461,8 +466,8 @@ groups:
     year_added: 2019
     month_added: 08
     day_added: 15
-    date_removed:
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all 
   - name: Women of Wearables Dublin
     url: "https://www.womenofwearables.com/new-blog/wow-woman-in-ar-and-wow-ambassador-in-dublin-darya-yegorina-serial-entrepreneur-and-ceo-of-cleverbooks"
@@ -471,8 +476,8 @@ groups:
     year_added: 2018
     month_added: 04
     day_added: 06
-    date_removed:
-    status: active
+    date_removed: 2022-05-18
+    status: retired
     type: all   
   - name: Women Techmakers Belfast
     url: "https://twitter.com/WTMBelfast"
@@ -832,7 +837,7 @@ groups:
     month_added: 03
     day_added: 23
     date_removed:
-    status: new
+    status: active
     type: all 
   - name: "Women in Tech Entrepreneurs & aspiring"
     url: "https://www.meetup.com/wetech/"
@@ -841,8 +846,8 @@ groups:
     year_added: 2021
     month_added: 03
     day_added: 23
-    date_removed:
-    status: new
+    date_removed: 2022-05-18
+    status: retired
     type: all 
   - name: "PhaseInnovate (BameTech/GalTech/SocialTech)"
     url: "https://phaseinnovate.com/"
@@ -852,7 +857,7 @@ groups:
     month_added: 03
     day_added: 23
     date_removed:
-    status: new
+    status: active
     type: all 
   - name: "Ada Lovelace Initiative"
     url: "https://www.verifyrecruitment.com/ali.php"
@@ -862,7 +867,7 @@ groups:
     month_added: 04
     day_added: 15
     date_removed:
-    status: new
+    status: active
     type: youth 
 
   - name: "Lady Nerds of Dublin"
@@ -872,6 +877,17 @@ groups:
     year_added: 2021
     month_added: 08
     day_added: 27
+    date_removed:
+    status: active
+    type: all 
+
+  - name: "Women in eDiscovery Dublin"
+    url: "https://www.womeninediscovery.org/dublin"
+    region: Dublin
+    date_added: 2022-05-18
+    year_added: 2022
+    month_added: 05
+    day_added: 18
     date_removed:
     status: new
     type: all 
