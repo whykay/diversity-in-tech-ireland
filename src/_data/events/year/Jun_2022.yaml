@@ -1,15 +1,5 @@
 ---
 eventlistings:
-  - name: "(In Person) Farset Labs: Farset Courses: Building Apps with Flutter"
-    url: "https://www.meetup.com/farsetlabs/events/284942258/"
-    region: 🇬🇧
-    date_added: 2022-05-06
-    start_datetime: 2022-06-04T13:00:00Z
-    end_datetime: 2022-06-04T16:00:00Z
-    new: false
-    recurring: false
-    desc: 
-    type: tech
   - name: "SQL Ireland User Group: Administering SQL Server with PowerShell using dbatools"
     url: "https://www.meetup.com/SQLIreland/events/282660901/"
     region: 🇮🇪
@@ -123,3 +113,225 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) Farset Labs: Explain Like I'm 5 (ELI5)"
+    url: "https://www.meetup.com/farsetlabs/events/286133182/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-06-17T18:00:00Z
+    end_datetime: 2022-06-17T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Farset Labs: Maker Night in the Workshop 🛠"
+    url: "https://www.meetup.com/farsetlabs/events/glbgtsydcjbkc/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-06-27T19:00:00Z
+    end_datetime: 2022-06-27T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/285942732/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-05T13:30:00Z
+    end_datetime: 2022-06-05T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All..."
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/285757906/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-05T18:00:00Z
+    end_datetime: 2022-06-05T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Dublin Data Science: Workshop: An Introduction to Bayesian Statistics and Buy-Till-You-Die Models"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/286019549/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-06T19:00:00Z
+    end_datetime: 2022-06-06T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Power BI User Group: Marc Lelijveld: Application Lifecycle Management for Power BI"
+    url: "https://www.meetup.com/DublinPUG/events/286012704/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-07T18:00:00Z
+    end_datetime: 2022-06-07T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Data Engineering and Data Architecture Group: A History of How Hardware Impacted Database Software"
+    url: "https://www.meetup.com/data-engineering-and-data-architecture-group/events/285671967/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-07T18:00:00Z
+    end_datetime: 2022-06-07T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Azure Dublin Meetup: Beyond the Black Box"
+    url: "https://www.meetup.com/AzureDublin/events/285542908/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-08T12:30:00Z
+    end_datetime: 2022-06-08T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/Dublin-Accelerated-Learning-Technology-Meetup/events/285876210/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-08T18:00:00Z
+    end_datetime: 2022-06-08T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Codú Community - Web Developer - Networking Event - FREE T-SHIRTS ❤️"
+    url: "https://www.meetup.com/codu-community/events/286035480/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-09T18:00:00Z
+    end_datetime: 2022-06-09T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Rust Dublin: Verus — Verified Rust for low-level systems code"
+    url: "https://www.meetup.com/Rust-Dublin/events/286018947/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-09T18:30:00Z
+    end_datetime: 2022-06-09T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/Dublin-Linux-Community/events/286071795/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-11T15:00:00Z
+    end_datetime: 2022-06-11T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyBelfast: Summer Meetup!"
+    url: "https://www.meetup.com/PyBelfast/events/286109293/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-06-14T18:00:00Z
+    end_datetime: 2022-06-14T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Coder Forge"
+    url: "https://www.meetup.com/Dublin-Coder-Forge/events/286141012/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-14T19:00:00Z
+    end_datetime: 2022-06-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) No-Code and Automation Dublin Meetup #7 @ MongoDB HQ"
+    url: "https://www.meetup.com/no-code-automation-meetup-dublin/events/285837938/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-15T18:30:00Z
+    end_datetime: 2022-06-15T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TechMeetup.space: Meetup's David Siegel Live in Dublin!"
+    url: "https://ti.to/techmeetupspace/june-2022-david-siegel-meetup"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-15T19:00:00Z
+    end_datetime: 2022-06-15T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) DevOps Belfast"
+    url: "https://www.meetup.com/DevOps-Belfast/events/286290002/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-06-21T18:30:00Z
+    end_datetime: 2022-06-21T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/285795850/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-06-23T08:00:00Z
+    end_datetime: 2022-06-23T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
+    <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
+    type: diversity
+  - name: "📖 The UX Book Club Book 📖 Testing Business Ideas: A Field Guide"
+    url: "https://www.meetup.com/theuxbookclub/events/284609887/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-28T08:00:00Z
+    end_datetime: 2022-06-28T09:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "CorkJS: Sunday's productive JS and coffee meetings"
+    url: "https://www.meetup.com/Cork-JavaScript-Meetup/events/285943412/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-05T14:00:00Z
+    end_datetime: 2022-06-05T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1GAM-Galway/events/285992082/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-07T19:00:00Z
+    end_datetime: 2022-06-07T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: "TOG Hackerspace At Carnival of Science in Cork"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/286068115/"
+    region: 🇮🇪
+    date_added: 2022-06-02
+    start_datetime: 2022-06-11T10:00:00Z
+    end_datetime: 2022-06-11T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker

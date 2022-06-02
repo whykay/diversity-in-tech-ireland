@@ -1,0 +1,12 @@
+---
+eventlistings:
+  - name: "(In-Person) Farset Labs: Scraping the Web for Fun and Profit"
+    url: "https://www.meetup.com/farsetlabs/events/284942276/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-08-06T13:00:00Z
+    end_datetime: 2022-08-06T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

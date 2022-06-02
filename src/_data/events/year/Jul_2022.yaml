@@ -34,3 +34,23 @@ eventlistings:
     <p>Trans*Code is an international hack event series focused solely on drawing attention to transgender issues and opportunities. Trans*Code events aim to help draw attention to transgender issues through informal, topic-focused hackdays. Coders, designers, activists, and community members not currently working in technology are also encouraged to participate.</p>"
     type: diversity
     
+  - name: "(In-Person) Farset Labs: Maker Night in the Workshop 🛠"
+    url: "https://www.meetup.com/farsetlabs/events/glbgtsydckbhc/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-07-25T19:00:00Z
+    end_datetime: 2022-07-25T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Silicon Drinkabout Belfast: Raise Ventures Summer Pub Quiz"
+    url: "https://www.meetup.com/Tech-Startups-Belfast/events/286228151/"
+    region: 🇬🇧
+    date_added: 2022-06-02
+    start_datetime: 2022-07-28T18:00:00Z
+    end_datetime: 2022-07-28T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
