@@ -54,3 +54,23 @@ eventlistings:
     recurring: false
     desc:
     type: startup
+  - name: "Cork Power BI / Power Platform User Group:Data Analysis Using Power BI for Beginners"
+    url: "https://www.meetup.com/Cork-PowerBI-User-Group/events/285386805/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-07-12T18:00:00Z
+    end_datetime: 2022-07-12T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Tech: MedTech in Galway"
+    url: "https://www.meetup.com/galway-tech/events/286307498/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-07-07T18:00:00Z
+    end_datetime: 2022-07-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

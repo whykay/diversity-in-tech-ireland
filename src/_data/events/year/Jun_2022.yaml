@@ -335,3 +335,86 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+
+  - name: "(In-Person) Red Hat: OpenShift Commons, Dublin"
+    url: "https://events.redhat.com/profile/form/index.cfm?PKformID=0x5644726e5c&varPage=register"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-23T09:00:00Z
+    end_datetime: 2022-06-23T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Edge: First Social Event"
+    url: "https://www.theedgedublin.com/post/theedge-social-evening-14th-june"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-14T17:30:00Z
+    end_datetime: 2022-06-14T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) Cork Software Crafters: Refactoring to Hexagonal Architecture"
+    url: "https://www.meetup.com/Cork-Software-Craftsmanship-Meetup/events/286029958/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-14T18:15:00Z
+    end_datetime: 2022-06-14T20:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 108"
+    url: "https://www.meetup.com/CorkSec/events/282819500/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-14T19:00:00Z
+    end_datetime: 2022-06-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork:Test Bash World - MoT Cork Watch Party (Sponsored by Tigera)"
+    url: "https://www.meetup.com/Ministry-of-Testing-Cork/events/286089020/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-23T17:30:00Z
+    end_datetime: 2022-06-23T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Girl Develop It, Cork: Code & Coffee"
+    url: "https://www.meetup.com/meetup-group-KtPOQaae/events/285911950/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-28T18:30:00Z
+    end_datetime: 2022-06-28T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
+    <p>This month we will pick an exercise from exercism.org and all work on the same problem.</p>
+    <p>This month there will be free t-shirts.</p>"
+    type: diversity
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/Tog-Dublin-Hackerspace/events/286119638/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-13T19:00:00Z
+    end_datetime: 2022-06-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Artificial Intelligence - Northern Ireland:AINI 15 @Derry: Sentiment, Synthetic Data & Blueprint Based AI Development"
+    url: "https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/286234835/"
+    region: 🇬🇧
+    date_added: 2022-06-03
+    start_datetime: 2022-06-16T18:00:00Z
+    end_datetime: 2022-06-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

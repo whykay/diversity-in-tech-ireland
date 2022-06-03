@@ -233,3 +233,39 @@ conferences:
     desc: "<p>Big Data Belfast is a one-day data and technology conference hosted by data analytics solution provider Analytics Engines. Now in its 8th year, the conference has established itself as a highlight of the Northern Ireland tech events calendar.</p>"
     type: tech
     status: active
+
+  - name: "Open Source Summit Europe"
+    url: "https://events.linuxfoundation.org/open-source-summit-europe/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-09-13T00:00:00Z
+    end_datetime: 2022-09-16T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Open Source Summit is the premier event for open source developers, technologists, and community leaders to collaborate, share information, solve problems, and gain knowledge, furthering open source innovation and ensuring a sustainable open source ecosystem. It is the gathering place for open-source code and community contributors.</p>
+    <p>Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today.</p>"
+    type: tech
+    status: new
+  - name: "NodeConf EU"
+    url: "https://nodeconf.eu"
+    region: 🇮🇪 🇪🇺
+    date_added: 2022-06-03
+    start_datetime: 2022-10-03T00:00:00Z
+    end_datetime: 2022-10-05T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>NodeConf EU celebrate its 10th anniversary this year. Over the 3 days, you will hear from over 30 speakers which are hand-picked based on their contribution and level of innovation within the Node.js community.</p>
+    <p>They are back in Ireland in 2022 hosting their first in-person event since 2019. Over the past two years, in light of the COVID-19 pandemic, they ran two very successful virtual NodeConf events. As a nod to this, they will be hosting 2022 as a hybrid event.</p>"
+    type: tech
+    status: new
+  - name: "ProductCamp Dublin 2022"
+    url: "https://productcampdublin.com"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-06-09T11:00:00Z
+    end_datetime: 2022-06-09T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>ProductCamp is a collaborative, user organized unconference, focused on product management and marketing topics.  At ProductCamp there are no “attendees,” since everyone participates in some manner:  This means you get to suggest and lead sessions to share your experiences, help with logistics, help secure sponsorship, or volunteer.  ProductCamp is a great opportunity for you to learn from, teach to, and network with professionals involved in the product management, marketing, and the development process!</p>"
+    type: tech
+    status: new
