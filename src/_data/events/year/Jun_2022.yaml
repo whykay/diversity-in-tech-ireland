@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-17T18:00:00Z
     end_datetime: 2022-06-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-27T19:00:00Z
     end_datetime: 2022-06-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-05T13:30:00Z
     end_datetime: 2022-06-05T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-05T18:00:00Z
     end_datetime: 2022-06-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-06T19:00:00Z
     end_datetime: 2022-06-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-07T18:00:00Z
     end_datetime: 2022-06-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-07T18:00:00Z
     end_datetime: 2022-06-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-08T12:30:00Z
     end_datetime: 2022-06-08T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-08T18:00:00Z
     end_datetime: 2022-06-08T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-09T18:00:00Z
     end_datetime: 2022-06-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-09T18:30:00Z
     end_datetime: 2022-06-09T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -230,7 +230,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-11T15:00:00Z
     end_datetime: 2022-06-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -240,7 +240,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-14T18:00:00Z
     end_datetime: 2022-06-14T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -250,7 +250,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-14T19:00:00Z
     end_datetime: 2022-06-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -260,7 +260,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-15T18:30:00Z
     end_datetime: 2022-06-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -270,7 +270,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-15T19:00:00Z
     end_datetime: 2022-06-15T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -280,7 +280,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-21T18:30:00Z
     end_datetime: 2022-06-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -290,7 +290,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-23T08:00:00Z
     end_datetime: 2022-06-23T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
     <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
@@ -301,7 +301,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-28T08:00:00Z
     end_datetime: 2022-06-28T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -311,7 +311,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-05T14:00:00Z
     end_datetime: 2022-06-05T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -321,7 +321,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-07T19:00:00Z
     end_datetime: 2022-06-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -331,7 +331,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-06-11T10:00:00Z
     end_datetime: 2022-06-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-23T09:00:00Z
     end_datetime: 2022-06-23T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -352,7 +352,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-14T17:30:00Z
     end_datetime: 2022-06-14T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -362,7 +362,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-14T18:15:00Z
     end_datetime: 2022-06-14T20:15:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -372,7 +372,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-14T19:00:00Z
     end_datetime: 2022-06-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -382,7 +382,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-23T17:30:00Z
     end_datetime: 2022-06-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-28T18:30:00Z
     end_datetime: 2022-06-28T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
     <p>This month we will pick an exercise from exercism.org and all work on the same problem.</p>
@@ -404,7 +404,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-13T19:00:00Z
     end_datetime: 2022-06-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -414,7 +414,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-16T18:00:00Z
     end_datetime: 2022-06-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -424,7 +424,30 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-06-22T14:00:00Z
     end_datetime: 2022-06-22T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) Summer Get-Together - Celebrating Social Entrepreneurs"
+    url: "https://www.eventbrite.ie/e/summer-get-together-celebrating-social-entrepreneurs-tickets-325675954547"
+    region: 🇮🇪
+    date_added: 2022-06-19
+    start_datetime: 2022-06-28T19:00:00Z
+    end_datetime: 2022-06-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are excited to be hosting another one of our global social entrepreneurship networking events series. Supported by our friends at DogPatch Labs, Irish Social Enterprise Network, KPesa, Changemakers Lab and Techstars Startup Weekend Women Dublin. An evening of networking and an interactive Roundtable Discussion from inspiring Irish Social Innovators.</p>"
+    type: diversity
+  - name: "(In-Person) Pride in Tech"
+    url: "https://ace.atlassian.com/events/details/atlassian-galway-presents-pride-in-tech/"
+    region: 🇮🇪
+    date_added: 2022-06-19
+    start_datetime: 2022-06-19T12:00:00Z
+    end_datetime: 2022-06-19T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an in-person Pride Panel featuring some awesome LGBTQIA+ professionals and learn about their career journeys as well as individual talks from allies and community members on wide ranging topical issues.</p>
+    <p>We are here to support tech professionals that are LGBTQIA+ identifying and staunch allies. Registration is required for attendance in order to provide a safe place for our members.</p>
+    <p>Food and soft drinks will be provided, alcohol will be BYOB.</p>"
+    type: diversity

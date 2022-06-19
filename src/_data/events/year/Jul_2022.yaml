@@ -10,7 +10,7 @@ eventlistings:
     recurring: false
     desc: "Join us for our 2nd Birthday along with a special guest not to be missed."
     type: diversity
-  - name: "Django Girls Dublin @ EuroPython (11 July, 2022)"
+  - name: "(In-Person) Django Girls Dublin @ EuroPython (11 July, 2022)"
     url: "https://djangogirls.org/en/dublin/"
     region: 🇮🇪
     date_added: 2022-05-16
@@ -22,7 +22,7 @@ eventlistings:
     <p>It will take place on Monday 11th July at Convention Centre Dublin in the heart of Dublin city.</p>
     <p>Workshop is free of charge. You don't need a EuroPython conference ticket to attend, but you need to register separately.</p>"
     type: diversity
-  - name: "Trans*Code @ EuroPython (12 July, 2022)"
+  - name: "(In-Person) Trans*Code @ EuroPython (12 July, 2022)"
     url: "https://ep2022.europython.eu/trans_code"
     region: 🇮🇪
     date_added: 2022-05-16
@@ -40,7 +40,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-07-25T19:00:00Z
     end_datetime: 2022-07-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -50,7 +50,7 @@ eventlistings:
     date_added: 2022-06-02
     start_datetime: 2022-07-28T18:00:00Z
     end_datetime: 2022-07-28T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -60,7 +60,7 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-07-12T18:00:00Z
     end_datetime: 2022-07-12T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -70,6 +70,27 @@ eventlistings:
     date_added: 2022-06-03
     start_datetime: 2022-07-07T18:00:00Z
     end_datetime: 2022-07-07T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "(In-Person) Women in AI Ireland Meetup"
+    url: "https://www.eventbrite.ca/e/wai-meet-up-tickets-354820506687"
+    region: 🇮🇪
+    date_added: 2022-06-17
+    start_datetime: 2022-07-09T13:00:00Z
+    end_datetime: 2022-07-09T16:00:00Z
+    new: true
+    recurring: false
+    desc: "Celebrating our third year in Ireland, and following nearly two years of online presence, Women in AI are re-launching in-person events in Ireland! Secure your place today for our upcoming event on the 9th of July at Platform X, Harbourmaster Place, KPMG, Dublin proudly sponsored by our long-time supporters KPMG Ireland and Insight SFI Centre for Data Analytics!"
+    type: diversity
+  - name: "(In-Person) Code For Ethics"
+    url: "https://www.eventbrite.com/e/code-for-ethics-registration-333620306317"
+    region: 🇮🇪
+    date_added: 2022-06-19
+    start_datetime: 2022-07-01T08:00:00Z
+    end_datetime: 2022-07-01T17:00:00Z
     new: true
     recurring: false
     desc: 
