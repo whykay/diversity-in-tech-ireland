@@ -10,3 +10,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Diversity in Tech Awards"
+    url: "https://diversityintechawards.online"
+    region: 🇮🇪
+    date_added: 2022-06-19
+    start_datetime: 2022-09-28T18:00:00Z
+    end_datetime: 2022-09-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are delighted to be welcoming the Diversity in Tech community back together at the first face-to-face awards ceremony in nearly 3 years! We can't wait to see you all again & look forward to welcoming new friends.</p>"
+    type: diversity
