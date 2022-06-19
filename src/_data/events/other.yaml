@@ -110,7 +110,7 @@ opportunities:
     desc: "<p>Women ReBOOT Programme, an initiative of Technology Ireland Software Skillnet.</p>"
     url: "https://www.research.net/r/WomenReBOOT_2022"
     region: 🇮🇪
-    status: active
+    status: archive
   - name: "Outreachy - Mentors and Internships"
     desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
     <p>Check website for important dates.</p>"
@@ -134,20 +134,26 @@ opportunities:
     url: "https://lesbianswhotech.org/codingscholarship/"
     region: 🌎
     status: archive
+  - name: "Visa's She's Next Grant Programme in Ireland"
+    desc: "<p>Following the success of the inaugural 2021 programme in Ireland, Visa is continuing its commitment to support women entrepreneurs through the She's Next Grant Programme in partnership with IFundWomen. For a second consecutive year, She's Next is returning to Ireland, but on a larger scale, to continue to address the challenges and barriers faced by women entrepreneurs. Through She's Next, Visa wants to challenge the status quo and empower women through providing funding, expertise and coaching.</p>
+    <p>Deadline: August 16th, 2022</p>"
+    url: "https://ifundwomen.com/visaireland"
+    region: 🇮🇪
+    status: new
 
   - name: "GoingFar Mentorship Programme"
     desc: "<p>GoingFar mentorship programme is for diverse migrant professionals living in Ireland.</p>
     <p>The programme will run for 3 months and will allow you to receive mentorship from an experienced professional in one of the following three areas: Entrepreneurship / Finding a job / Achieving a leadership position</p>"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSduu4dWIUs-cREfYD49tyqmpeg5-buR4Oh_gsOxWCqBWBVW2Q/viewform"
     region: 🇮🇪
-    status: new
+    status: 
     
   - name: "Level Up: Women In Tech"
     desc: "<p>A social initiative aiming to upskill women from all over the world to start careers in tech.</p>
     <p>Level Up: Women In Tech is an extension of the Level Up initiative, organized by Zartis. Once again, we are combining forces with Code Institute. Together, we aim to upskill women from all over the world, with limited access to tech resources and education, and help them start a career in tech.</p>"
     url: "https://www.zartis.com/levelup/women-in-tech/"
     region: 🇮🇪 🌍
-    status: new
+    status: 
 
 aob:
   - name: "BelfastFP moved away from Meetup"
