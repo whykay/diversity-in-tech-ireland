@@ -473,3 +473,13 @@ eventlistings:
     recurring: false
     desc: "<p>Wilding by Isabella Tree (Science / Ecology). Broad ecology and excellent. Suggested by Jennifer McElwain • Botany at TCD. This 3,500 acre project tells an inspiring story of hope and rewilding with benefits for the land; economic activity and employment. Part gripping memoir, part fascinating account. With thanks to Jennifer for the recommendation. Please note the change of date to 21 June.</p>"
     type: diversity
+  - name: "(Online) Enterprise Nation: #SheMeansBusiness: Social media Q & A"
+    url: "https://www.witsireland.com/news/wits-stemminist-book-club-may-june-2020/"
+    region: 🇮🇪🇬🇧
+    date_added: 2022-06-19
+    start_datetime: 2022-06-23T14:00:00Z
+    end_datetime: 2022-06-23T14:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>In this free 45 minute live Q+A , your expert trainer Jo Francis and David Glenwright will be on hand to answer your social media questions and offer advice on how best to utilise Facebook and Facebook family of apps for your business. You will also have the opportunity to network with female founders across Ireland & UK.</p>"
+    type: diversity
