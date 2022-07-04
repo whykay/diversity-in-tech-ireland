@@ -435,7 +435,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-28T19:00:00Z
     end_datetime: 2022-06-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are excited to be hosting another one of our global social entrepreneurship networking events series. Supported by our friends at DogPatch Labs, Irish Social Enterprise Network, KPesa, Changemakers Lab and Techstars Startup Weekend Women Dublin. An evening of networking and an interactive Roundtable Discussion from inspiring Irish Social Innovators.</p>"
     type: diversity
@@ -445,7 +445,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-19T12:00:00Z
     end_datetime: 2022-06-19T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an in-person Pride Panel featuring some awesome LGBTQIA+ professionals and learn about their career journeys as well as individual talks from allies and community members on wide ranging topical issues.</p>
     <p>We are here to support tech professionals that are LGBTQIA+ identifying and staunch allies. Registration is required for attendance in order to provide a safe place for our members.</p>
@@ -457,7 +457,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-29T18:30:00Z
     end_datetime: 2022-06-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>WITS Coaching Series on self-confidence at work is already coming to an end!</p>
     <p>For this last episode, we want you to leave your doubts behind! The focus of this session will be self-worth. Our experienced Speaker, Life & Career Coach Anna Lehane will give you the tools to feel more comfortable with yourself at work and develop the confidence to speak out.</p>
@@ -469,7 +469,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-21T20:00:00Z
     end_datetime: 2022-06-21T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Wilding by Isabella Tree (Science / Ecology). Broad ecology and excellent. Suggested by Jennifer McElwain • Botany at TCD. This 3,500 acre project tells an inspiring story of hope and rewilding with benefits for the land; economic activity and employment. Part gripping memoir, part fascinating account. With thanks to Jennifer for the recommendation. Please note the change of date to 21 June.</p>"
     type: diversity
@@ -479,7 +479,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-23T14:00:00Z
     end_datetime: 2022-06-23T14:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>In this free 45 minute live Q+A , your expert trainer Jo Francis and David Glenwright will be on hand to answer your social media questions and offer advice on how best to utilise Facebook and Facebook family of apps for your business. You will also have the opportunity to network with female founders across Ireland & UK.</p>"
     type: diversity
@@ -489,7 +489,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-06-28T17:30:00Z
     end_datetime: 2022-06-28T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -500,7 +500,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-29T18:30:00Z
     end_datetime: 2022-06-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -510,7 +510,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-24T18:00:00Z
     end_datetime: 2022-06-24T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A Trinnovo Group Pride networking event, in collaboration with Dogpatch Labs and supporting our Charity Partner, TENI.</p>
     <p>This is a free networking event, kindly hosted by Dogpatch Labs, with any and all donations going to our charity partner, the wonderful charity organisation, Transgender Equality Network Ireland (TENI).</p>"
@@ -521,7 +521,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-23T18:00:00Z
     end_datetime: 2022-06-23T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Tech are back with an exciting new Panel Event - “Women Leaders in Tech - Stories and Learnings” on 23rd June 2022. Kindly co-sponsored by Peak 6 Belfast and Urban HQ - who are generously hosting us in their glamourous Ground Floor Lounge.</p>
     <p>
@@ -539,7 +539,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-23T18:00:00Z
     end_datetime: 2022-06-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -549,7 +549,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-23T18:00:00Z
     end_datetime: 2022-06-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -559,7 +559,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-28T18:30:00Z
     end_datetime: 2022-06-28T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -569,7 +569,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-29T18:00:00Z
     end_datetime: 2022-06-29T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -579,7 +579,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-30T18:30:00Z
     end_datetime: 2022-06-30T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -589,7 +589,7 @@ eventlistings:
     date_added: 2022-06-22
     start_datetime: 2022-06-22T19:00:00Z
     end_datetime: 2022-06-22T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games

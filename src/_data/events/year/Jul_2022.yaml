@@ -81,7 +81,7 @@ eventlistings:
     date_added: 2022-06-17
     start_datetime: 2022-07-09T13:00:00Z
     end_datetime: 2022-07-09T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Celebrating our third year in Ireland, and following nearly two years of online presence, Women in AI are re-launching in-person events in Ireland! Secure your place today for our upcoming event on the 9th of July at Platform X, Harbourmaster Place, KPMG, Dublin proudly sponsored by our long-time supporters KPMG Ireland and Insight SFI Centre for Data Analytics!"
     type: diversity
@@ -91,7 +91,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-07-01T08:00:00Z
     end_datetime: 2022-07-01T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -101,7 +101,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-07-01T09:00:00Z
     end_datetime: 2022-07-01T09:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-07-01T10:00:00Z
     end_datetime: 2022-07-01T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -121,7 +121,7 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-07-01T12:15:00Z
     end_datetime: 2022-07-01T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -131,7 +131,250 @@ eventlistings:
     date_added: 2022-06-19
     start_datetime: 2022-07-01T13:15:00Z
     end_datetime: 2022-07-01T14:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startup
+
+
+  - name: "SQL Ireland User Group: Integrating Power BI with Azure Synapse Analytics Serverless SQL Pools"
+    url: "https://www.meetup.com/sqlireland/events/282661055/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-05T19:00:00Z
+    end_datetime: 2022-07-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Coder Forge"
+    url: "https://www.meetup.com/dublin-coder-forge/events/286592508/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-05T19:00:00Z
+    end_datetime: 2022-07-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/286540864/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-09T15:00:00Z
+    end_datetime: 2022-07-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/286714199/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-11T19:00:00Z
+    end_datetime: 2022-07-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/285876213/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-13T18:00:00Z
+    end_datetime: 2022-07-13T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Azure Dublin Meetup: Azure Security & Governance"
+    url: "https://www.meetup.com/azuredublin/events/286805429/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-13T18:00:00Z
+    end_datetime: 2022-07-13T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Python Ireland Social Meetup, Euro Python Conference Edition"
+    url: "https://www.meetup.com/pythonireland/events/280640457/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-13T18:30:00Z
+    end_datetime: 2022-07-13T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS Meetup Dublin - JUL 14th 2022 - Re:Connect!"
+    url: "https://www.meetup.com/aws-ireland-usergroup/events/286743553/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-14T18:00:00Z
+    end_datetime: 2022-07-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UX Design Dublin meeting"
+    url: "https://www.meetup.com/ux-design-ireland/events/286649182/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-17T13:30:00Z
+    end_datetime: 2022-07-17T16:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Big Data Demystified - Dublin: SQL Demystified - Part 2 | Introduction to Joins"
+    url: "https://www.meetup.com/big-data-demystified-dublin/events/286896506/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-19T17:00:00Z
+    end_datetime: 2022-07-19T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "PyLadies Dublin July Meetup - 3 x Speakers"
+    url: "https://www.meetup.com/pyladiesdublin/events/286594152/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-19T18:30:00Z
+    end_datetime: 2022-07-19T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>
+    3 Talks this month
+    <ul>
+      <li>- How encourage teenage girl to programming</li>
+      <li>- How to start career in python</li>
+      <li>- Supply Chain Security in OSS</li>
+    </ul>
+    </p>"
+    type: diversity
+  - name: ".Net Mafia, C# Mobsters and other Microsoft family:Build a database from the ground up"
+    url: "https://www.meetup.com/net-mafia-c-mobsters-and-other-microsoft-family/events/286805150/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-20T12:30:00Z
+    end_datetime: 2022-07-20T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Data Science Engineering Club"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/286770365/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-23T10:00:00Z
+    end_datetime: 2022-07-23T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "UX Cork Community: A day in the life of a UX Researcher"
+    url: "https://www.meetup.com/ux-cork-community/events/286632631/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-11T17:30:00Z
+    end_datetime: 2022-07-11T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "CorkJS: Sunday's productive JS and coffee meetings"
+    url: "https://www.meetup.com/cork-javascript-meetup/events/286828597/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-17T14:00:00Z
+    end_datetime: 2022-07-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Girl Develop It, Cork: Code & Coffee"
+    url: "https://www.meetup.com/meetup-group-ktpoqaae/events/286257396/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-26T18:30:00Z
+    end_datetime: 2022-07-26T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
+    <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>
+    <p>This month there will be free t-shirts.</p>"
+    type: diversity
+  - name: "(In-Person) Cork|Sec 109 (Annual Pub Quiz Edition)"
+    url: "https://www.meetup.com/corksec/events/286073112/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-26T19:00:00Z
+    end_datetime: 2022-07-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1gam-galway/events/286592280/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-05T19:00:00Z
+    end_datetime: 2022-07-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/286615888/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-06T08:00:00Z
+    end_datetime: 2022-07-06T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "OWASP Belfast Chapter: Log4Shell, Spring4shell, Next4Shell. How to protect from 0-Day vulnerabilities?"
+    url: "https://www.meetup.com/owasp-belfast/events/286872008/"
+    region: 🇬🇧
+    date_added: 2022-07-04
+    start_datetime: 2022-07-21T16:00:00Z
+    end_datetime: 2022-07-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/286758963/"
+    region: 🇬🇧
+    date_added: 2022-07-04
+    start_datetime: 2022-07-28T08:00:00Z
+    end_datetime: 2022-07-28T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
+    <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
+    type: diversity
+  - name: "(In-Person) NxNWTech Meetup - Agility in the Enterprise"
+    url: "https://www.meetup.com/north-by-northwest-tech-meetup/events/286839674/"
+    region: 🇬🇧
+    date_added: 2022-07-04
+    start_datetime: 2022-07-07T18:00:00Z
+    end_datetime: 2022-07-07T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Founders Night Belfast"
+    url: "https://www.eventbrite.co.uk/e/founders-night-belfast-tickets-372641409487"
+    region: 🇬🇧
+    date_added: 2022-07-04
+    start_datetime: 2022-07-07T18:30:00Z
+    end_datetime: 2022-07-07T21:00:00Z
     new: true
     recurring: false
     desc: 
     type: startup
+    
