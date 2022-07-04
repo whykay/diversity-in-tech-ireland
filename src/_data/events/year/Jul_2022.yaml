@@ -377,4 +377,43 @@ eventlistings:
     recurring: false
     desc: 
     type: startup
-    
+  - name: "(In-Person) TOG Hackerspace: Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/286494531/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-16T19:00:00Z
+    end_datetime: 2022-07-17T01:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: makers
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/tsqsvsydckbwb/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-17T18:00:00Z
+    end_datetime: 2022-07-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: makers
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/mpvcvsydckbhc/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-25T19:00:00Z
+    end_datetime: 2022-07-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: makers
+  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/mtqsvsydckbpc/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-07-31T18:00:00Z
+    end_datetime: 2022-07-31T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: makers
