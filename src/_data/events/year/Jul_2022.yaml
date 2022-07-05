@@ -417,3 +417,13 @@ eventlistings:
     recurring: false
     desc: 
     type: makers
+  - name: "InsureTech Ireland: The Future is Bright!"
+    url: "https://www.insurtechireland.org/events/2022/7/5/insurtech-meet-up-2022"
+    region: 🇮🇪
+    date_added: 2022-07-05
+    start_datetime: 2022-07-05T18:00:00Z
+    end_datetime: 2022-07-05T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
