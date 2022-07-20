@@ -216,7 +216,7 @@ conferences:
     date_added: 2022-04-27
     start_datetime: 2022-05-19T00:00:00Z
     end_datetime: 2022-05-19T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 9th International Data Science Summit organized by the Data Science Foundation International will be held on 19th May 2022 at The Convention Centre @ Dublin. The summit will provide unique insights into creating a data-driven culture in organizations, and the benefits of using data and analytics to drive the decision making process.</p>
     <p>Connect with some of the most innovative people and ideas in the world of data science & AI, while learning first-hand from core practitioners and contributors, Data Science Summit will welcome renowned speakers from the space to share innovative ideas on how to correctly and efficiently extract the knowledge & insights from data.</p>"
@@ -228,7 +228,7 @@ conferences:
     date_added: 2022-04-27
     start_datetime: 2022-05-25T00:00:00Z
     end_datetime: 2022-05-25T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Big Data Belfast is a one-day data and technology conference hosted by data analytics solution provider Analytics Engines. Now in its 8th year, the conference has established itself as a highlight of the Northern Ireland tech events calendar.</p>"
     type: tech
@@ -240,7 +240,7 @@ conferences:
     date_added: 2022-06-03
     start_datetime: 2022-09-13T00:00:00Z
     end_datetime: 2022-09-16T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Open Source Summit is the premier event for open source developers, technologists, and community leaders to collaborate, share information, solve problems, and gain knowledge, furthering open source innovation and ensuring a sustainable open source ecosystem. It is the gathering place for open-source code and community contributors.</p>
     <p>Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today.</p>"
@@ -252,7 +252,7 @@ conferences:
     date_added: 2022-06-03
     start_datetime: 2022-10-03T00:00:00Z
     end_datetime: 2022-10-05T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>NodeConf EU celebrate its 10th anniversary this year. Over the 3 days, you will hear from over 30 speakers which are hand-picked based on their contribution and level of innovation within the Node.js community.</p>
     <p>They are back in Ireland in 2022 hosting their first in-person event since 2019. Over the past two years, in light of the COVID-19 pandemic, they ran two very successful virtual NodeConf events. As a nod to this, they will be hosting 2022 as a hybrid event.</p>"
@@ -264,7 +264,7 @@ conferences:
     date_added: 2022-06-03
     start_datetime: 2022-06-09T11:00:00Z
     end_datetime: 2022-06-09T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>ProductCamp is a collaborative, user organized unconference, focused on product management and marketing topics.  At ProductCamp there are no “attendees,” since everyone participates in some manner:  This means you get to suggest and lead sessions to share your experiences, help with logistics, help secure sponsorship, or volunteer.  ProductCamp is a great opportunity for you to learn from, teach to, and network with professionals involved in the product management, marketing, and the development process!</p>"
     type: tech

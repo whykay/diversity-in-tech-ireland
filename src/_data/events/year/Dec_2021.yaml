@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-18T10:00:00Z
     end_datetime: 2021-12-18T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -314,7 +314,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-19T14:30:00Z
     end_datetime: 2021-12-19T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -324,7 +324,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-19T18:00:00Z
     end_datetime: 2021-12-19T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -334,7 +334,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-21T18:00:00Z
     end_datetime: 2021-12-21T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -344,7 +344,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-21T19:00:00Z
     end_datetime: 2021-12-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech, in-person
@@ -354,7 +354,7 @@ eventlistings:
     date_added: 2021-12-16
     start_datetime: 2021-12-29T19:00:00Z
     end_datetime: 2021-12-29T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
