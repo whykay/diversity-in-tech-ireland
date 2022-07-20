@@ -161,3 +161,36 @@ eventlistings:
     recurring: false
     desc: 
     type: tech  
+  - name: "(Online) First Fridays with Dogpatch Labs: Welcome to the Ecosystem"
+    url: "https://us02web.zoom.us/meeting/register/tZ0vc-utqT0oHtXzUDfmflNL7DGw_ID__ubo"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-05T11:00:00Z
+    end_datetime: 2022-08-05T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Online) First Fridays with Dogpatch Labs: Educate: Media & Marketing for Startups."
+    url: "https://www.crowdcast.io/e/first-fridays-august-educate"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-05T13:15:00Z
+    end_datetime: 2022-08-05T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Online) First Fridays with Dogpatch Labs: Inspire: Aine Kerr"
+    url: "https://www.crowdcast.io/e/first-fridays-august-inspire"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-05T14:15:00Z
+    end_datetime: 2022-08-05T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+
+
+
