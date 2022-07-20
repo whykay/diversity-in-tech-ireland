@@ -427,3 +427,95 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+
+  - name: "(In-Person) Codú Community - Web Developer Meetup Dublin:Web Developer - Networking Event (and drinks mostly)"
+    url: "https://www.meetup.com/codu-community/events/287267216/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-28T18:00:00Z
+    end_datetime: 2022-07-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Her+Data: Meet Amazing Women in Data"
+    url: "https://www.meetup.com/her-data/events/287139178/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-21T12:30:00Z
+    end_datetime: 2022-07-21T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) Dublin Maker Festival"
+    url: "http://dublinmaker.ie"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-23T10:00:00Z
+    end_datetime: 2022-07-23T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/286955830/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-23T15:00:00Z
+    end_datetime: 2022-07-23T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Data Science: Workshop: An Introduction to Bayesian Statistics and Buy-Till-You-Die Models"
+    url: "https://www.meetup.com/dublin-data-science/events/286989588/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-25T19:00:00Z
+    end_datetime: 2022-07-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) JuliaCon 2022 - Limerick Meetup"
+    url: "https://www.meetup.com/datascientistsireland/events/286734468/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-25T19:00:00Z
+    end_datetime: 2022-07-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Coder Forge"
+    url: "https://www.meetup.com/dublin-coder-forge/events/287020892/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-26T19:00:00Z
+    end_datetime: 2022-07-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Limerick Pragmatic Programmer Group Meetup:Pragmatic Software Design"
+    url: "https://www.meetup.com/limerick-pragmatic-software-group-meetup/events/287213364/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-25T19:00:00Z
+    end_datetime: 2022-07-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Cork JS Zoom chat meeting"
+    url: "https://www.meetup.com/cork-javascript-meetup/events/287067634/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-07-28T19:00:00Z
+    end_datetime: 2022-07-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

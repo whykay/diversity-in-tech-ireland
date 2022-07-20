@@ -20,7 +20,7 @@ eventlistings:
     recurring: false
     desc: 
     type: makers
-  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
+  - name: "(Online) TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/tsqsvsydclbsb/"
     region: 🇮🇪
     date_added: 2022-07-04
@@ -50,7 +50,7 @@ eventlistings:
     recurring: false
     desc: 
     type: makers
-  - name: "TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
+  - name: "(Online) TOG Hackerspace: Online Only Craft Night, Knitting, Sewing and Art, Open to All"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/mtqsvsydclblc/"
     region: 🇮🇪
     date_added: 2022-07-04
@@ -60,3 +60,104 @@ eventlistings:
     recurring: false
     desc: 
     type: makers
+
+  - name: "(Online) Rust Language Group: Green threads vs Async"
+    url: "https://www.meetup.com/rust-language-group/events/287233233/"
+    region: 🇮🇪
+    date_added: 2022-07-04
+    start_datetime: 2022-08-01T21:00:00Z
+    end_datetime: 2022-08-01T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Query store in an Hour- On-prem and in Cloud"
+    url: "https://www.meetup.com/sqlireland/events/282660955/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-02T19:00:00Z
+    end_datetime: 2022-08-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Automation and Software Testing: It's time to change - people, pipelines and process"
+    url: "https://www.meetup.com/belfast-automation-software-testing/events/286916240/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-09T18:00:00Z
+    end_datetime: 2022-08-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) PyLadies Dublin August Meetup"
+    url: "https://www.meetup.com/pyladiesdublin/events/286761477/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-16T18:30:00Z
+    end_datetime: 2022-08-16T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(Online) Python Ireland"
+    url: "https://www.meetup.com/pythonireland/events/280640466/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-10T18:30:00Z
+    end_datetime: 2022-08-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/285876217/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-10T18:30:00Z
+    end_datetime: 2022-08-10T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) 📖 The UX Book Club Book 📖 So You've Been Publicly Shamed"
+    url: "https://www.meetup.com/theuxbookclub/events/285508864/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-23T08:00:00Z
+    end_datetime: 2022-08-23T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) 1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1gam-galway/events/287167719/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-02T08:00:00Z
+    end_datetime: 2022-08-02T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "(Online) Drupal Limerick Meetup"
+    url: "https://www.meetup.com/drupal-limerick/events/287191202/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-03T20:00:00Z
+    end_datetime: 2022-08-03T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Cork Community: Researching, Designing, & Educating for the Future"
+    url: "https://www.meetup.com/ux-cork-community/events/287182242/"
+    region: 🇮🇪
+    date_added: 2022-07-20
+    start_datetime: 2022-08-17T18:00:00Z
+    end_datetime: 2022-08-17T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech  
