@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2022-07-04
     start_datetime: 2022-08-01T21:00:00Z
     end_datetime: 2022-08-01T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -77,7 +77,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-02T19:00:00Z
     end_datetime: 2022-08-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -87,7 +87,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-09T18:00:00Z
     end_datetime: 2022-08-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -97,9 +97,13 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-16T18:30:00Z
     end_datetime: 2022-08-16T19:30:00Z
-    new: true
+    new: false
     recurring: false
-    desc: 
+    desc: "Two talks:
+          <ul>
+            <li>- Reproducible machine learning projects with DVC and Poetry by Samira</li>
+            <li>- Pytch - Bridging coding from Scratch to Python</li>
+          </ul>"
     type: diversity
   - name: "(Online) Python Ireland"
     url: "https://www.meetup.com/pythonireland/events/280640466/"
@@ -107,7 +111,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-10T18:30:00Z
     end_datetime: 2022-08-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -117,7 +121,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-10T18:30:00Z
     end_datetime: 2022-08-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -127,7 +131,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-23T08:00:00Z
     end_datetime: 2022-08-23T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -137,7 +141,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-02T08:00:00Z
     end_datetime: 2022-08-02T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -147,7 +151,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-03T20:00:00Z
     end_datetime: 2022-08-03T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -157,7 +161,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-17T18:00:00Z
     end_datetime: 2022-08-17T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech  
@@ -167,7 +171,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-05T11:00:00Z
     end_datetime: 2022-08-05T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -177,7 +181,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-05T13:15:00Z
     end_datetime: 2022-08-05T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -187,10 +191,59 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-08-05T14:15:00Z
     end_datetime: 2022-08-05T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
 
 
-
+  - name: "(In-Person) AI NI 16 - Sensational Startups and Pioneering Professional Services"
+    url: "https://www.meetup.com/artificial-intelligence-northern-ireland/events/287280662/"
+    region: 🇬🇧
+    date_added: 2022-07-27
+    start_datetime: 2022-08-03T18:00:00Z
+    end_datetime: 2022-08-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Data Science"
+    url: "https://www.meetup.com/dublin-data-science/events/286989588/"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-08-01T19:00:00Z
+    end_datetime: 2022-08-01T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Coder Forge"
+    url: "https://www.meetup.com/dublin-coder-forge/events/287310205/"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-08-09T19:00:00Z
+    end_datetime: 2022-08-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/287331009/"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-08-27T15:00:00Z
+    end_datetime: 2022-08-27T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Java User Group: Jamie Coleman, Software Developer and Advocate at IBM"
+    url: "https://www.meetup.com/corkjug/events/287421848/"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-08-25T18:00:00Z
+    end_datetime: 2022-08-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

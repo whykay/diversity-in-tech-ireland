@@ -435,7 +435,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-28T18:00:00Z
     end_datetime: 2022-07-28T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -445,7 +445,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-21T12:30:00Z
     end_datetime: 2022-07-21T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -455,7 +455,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-23T10:00:00Z
     end_datetime: 2022-07-23T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-23T15:00:00Z
     end_datetime: 2022-07-23T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -475,7 +475,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-25T19:00:00Z
     end_datetime: 2022-07-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -485,7 +485,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-25T19:00:00Z
     end_datetime: 2022-07-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -495,7 +495,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-26T19:00:00Z
     end_datetime: 2022-07-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -505,7 +505,7 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-25T19:00:00Z
     end_datetime: 2022-07-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -515,6 +515,37 @@ eventlistings:
     date_added: 2022-07-20
     start_datetime: 2022-07-28T19:00:00Z
     end_datetime: 2022-07-28T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "(In-Person) Cork Pride: Proud to be - Work With Pride 2022 Diversity & Inclusion Conference"
+    url: "https://www.eventbrite.co.uk/e/proud-to-be-work-with-pride-2022-diversity-inclusion-conference-tickets-356314124137"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-07-28T09:00:00Z
+    end_datetime: 2022-07-28T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) BLUG General: OpenStreetMap mapping at Folk Museum"
+    url: "https://www.eventbrite.co.uk/e/proud-to-be-work-with-pride-2022-diversity-inclusion-conference-tickets-356314124137"
+    region: 🇬🇧
+    date_added: 2022-07-27
+    start_datetime: 2022-07-31T10:20:00Z
+    end_datetime: 2022-07-31T11:50:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) It In Dublin Meetup (Mainly Portuguese speaking)"
+    url: "https://www.meetup.com/it-in-dublin/events/287281128/"
+    region: 🇮🇪
+    date_added: 2022-07-27
+    start_datetime: 2022-07-30T18:00:00Z
+    end_datetime: 2022-07-30T20:00:00Z
     new: true
     recurring: false
     desc: 
