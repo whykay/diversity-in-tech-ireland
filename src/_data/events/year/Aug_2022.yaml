@@ -339,3 +339,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: '(Online) Code Labs Academy Dublin - Coding Bootcamp: Cybersecurity Bootcamp - Info Session'
+    url: "https://www.meetup.com/code-labs-academy-dublin/events/287553365/"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-08-21T16:00:00Z
+    end_datetime: 2022-08-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
