@@ -31,3 +31,57 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Code & Coffee"
+    url: "https://www.meetup.com/meetup-group-ktpoqaae/events/287430974/"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-09-27T18:30:00Z
+    end_datetime: 2022-09-27T19:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
+    <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>
+    <p>This month there will be free t-shirts.</p>"
+    type: diversity
+  - name: '(In-Person) Jacky Klein - "Art and Technology Today: The New Frontiers"'
+    url: "https://www.eventbrite.ie/e/jacky-klein-art-and-technology-today-the-new-frontiers-tickets-375187424687"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-09-10T15:00:00Z
+    end_datetime: 2022-09-10T16:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The 2022 Champion Changemakers Weekend - Hackathon"
+    url: "https://www.surveymonkey.com/r/ChampionChangemakers"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-09-23T09:00:00Z
+    end_datetime: 2022-09-25T18:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Kinia: Introduction to Creative Technology Event | Athlone (End time, ask event host)"
+    url: "https://kinia.ie/etn/introduction-to-creative-technology-event-westmeath-athlone/"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-09-14T18:00:00Z
+    end_datetime: 2022-09-14T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) AwakenHub: Reeling In The Years"
+    url: "https://www.eventbrite.co.uk/e/reeling-in-the-years-tickets-394978008857"
+    region: 🇮🇪
+    date_added: 2022-08-02
+    start_datetime: 2022-09-13T17:00:00Z
+    end_datetime: 2022-09-13T18:15:00Z
+    new: false
+    recurring: false
+    desc: "<p>Join us on 13 September at 5pm for a masterclass hosted by Denise McQuaid and special guest Lyn Mutch. Understand the importance of Social Media and how to use it to your advantage.</p>
+    <p>Final itinerary to follow but it will include of course our legendary 'secret sauce' breakout rooms for some valuable and informal networking.</p>"
+    type: diversity
