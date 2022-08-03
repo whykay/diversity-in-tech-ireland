@@ -902,3 +902,14 @@ groups:
     date_removed:
     status: new
     type: all 
+
+  - name: "Women in Animation Ireland"
+    url: "https://twitter.com/Wia_Ireland"
+    region: Dublin
+    date_added: 2022-08-03
+    year_added: 2022
+    month_added: 08
+    day_added: 03
+    date_removed:
+    status: new
+    type: all 
