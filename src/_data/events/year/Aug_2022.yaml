@@ -349,3 +349,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Women in Animation Ireland: Summer Get Together"
+    url: "https://twitter.com/Wia_Ireland/status/1547259471608647680"
+    region: 🇮🇪
+    date_added: 2022-08-03
+    start_datetime: 2022-08-19T18:00:00Z
+    end_datetime: 2022-08-19T23:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: animation
+
+  - name: "(In-Person) The Games Co-Op: Roll, Pitch and YAugust"
+    url: "https://www.meetup.com/The-Games-Co-Op/events/287600115/"
+    region: 🇮🇪
+    date_added: 2022-08-03
+    start_datetime: 2022-08-31T19:00:00Z
+    end_datetime: 2022-08-31T23:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: games

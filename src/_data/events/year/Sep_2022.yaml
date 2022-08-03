@@ -85,3 +85,15 @@ eventlistings:
     desc: "<p>Join us on 13 September at 5pm for a masterclass hosted by Denise McQuaid and special guest Lyn Mutch. Understand the importance of Social Media and how to use it to your advantage.</p>
     <p>Final itinerary to follow but it will include of course our legendary 'secret sauce' breakout rooms for some valuable and informal networking.</p>"
     type: diversity
+
+  - name: "(In-Person) HACKfest animation festival"
+    url: "https://www.eventbrite.com/e/hackfest-2022-an-animation-festival-which-is-also-nfts-tickets-392814949087"
+    region: 🇮🇪
+    date_added: 2022-08-03
+    start_datetime: 2022-09-02T19:00:00Z
+    end_datetime: 2022-09-02T22:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: hackathon
+  
