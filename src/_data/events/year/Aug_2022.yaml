@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2022-08-01
     start_datetime: 2022-08-02T19:00:00Z
     end_datetime: 2022-08-02T21:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -265,7 +265,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-18T18:30:00Z
     end_datetime: 2022-08-18T21:30:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -275,7 +275,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-11T19:00:00Z
     end_datetime: 2022-08-11T21:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -285,7 +285,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-23T17:00:00Z
     end_datetime: 2022-08-25T21:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -295,7 +295,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-28T15:00:00Z
     end_datetime: 2022-08-28T16:30:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -305,7 +305,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-25T08:00:00Z
     end_datetime: 2022-08-25T09:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring. Bytes n' Brew will be hosted over Zoom"
     type: diversity
@@ -315,7 +315,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-25T18:00:00Z
     end_datetime: 2022-08-25T20:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: startup
@@ -325,7 +325,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-03T19:00:00Z
     end_datetime: 2022-08-03T23:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: games
@@ -335,7 +335,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-24T18:00:00Z
     end_datetime: 2022-08-24T21:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -345,7 +345,7 @@ eventlistings:
     date_added: 2022-08-02
     start_datetime: 2022-08-21T16:00:00Z
     end_datetime: 2022-08-21T17:00:00Z
-    new: true
+    new: false 
     recurring: false
     desc: 
     type: tech
@@ -371,3 +371,20 @@ eventlistings:
     recurring: false
     desc:
     type: games
+
+  - name: "(Online) WaiPRACTICE Showcase - Collins Aerospace cohort"
+    url: "https://www.eventbrite.ca/e/waipractice-showcase-collins-aerospace-cohort-tickets-397207828307"
+    region: 🇮🇪
+    date_added: 2022-08-09
+    start_datetime: 2022-08-31T18:00:00Z
+    end_datetime: 2022-08-31T19:00:00Z
+    new: true
+    recurring: false
+    desc: '<p>In partnership with Collins Aerospace, we present two groups working on Image classification and Airplane crash investigation.<p>
+    <p>
+      <ul>
+        <li>Karin Cheong (TikTok), mentored by Kerry Garrett, will present on Flight image classification.</li>
+        <li>Pedram Aghaei (Transitioning into AI), Erumena Ezimano (MSc Data Science), mentored by Katarina Vuckovic, will present their WaiPRACTICE group project titled "Boeing/Airbus Crash investigation".</li>
+      </ul>
+    </p>'
+    type: diversity
