@@ -111,12 +111,13 @@ opportunities:
     url: "https://www.research.net/r/WomenReBOOT_2022"
     region: 🇮🇪
     status: archive
-  - name: "Outreachy - Mentors and Internships"
+  - name: "Outreachy - Mentors and Internships 🆙"
     desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
-    <p>Check website for important dates.</p>"
+    <p>👋🏿 New communities are welcome to fill out a participation application. Community application deadline: Sept. 9, 2022 at 4pm UTC.</p>
+    <p>👋🏽 Mentors are welcome to submit internship projects to participating communities. Project submission deadline: Sept. 23, 2022 at 4pm UTC.</p>"
     url: "https://www.outreachy.org/"
     region: 🌎
-    status: active
+    status: new
   - name: "Women Developer Academy Europe - Application Open"
     desc: "<p>The Women Developer Academy, powered by Women Techmakers, will equip participants with the skills, resources and support they need to become leaders in the industry through public speaking and other community contributions.</p>"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfjIHa0M_nJMzmiQWTfvdUiZju3OuJv5nM2YDgV8dTbRiQcVQ/viewform"

@@ -280,4 +280,28 @@ conferences:
     recurring: false
     desc: "<p>Two years after our 10th anniversary celebration, we are delighted to be back with an exciting new program for Irelands premier technical conference.</p>"
     type: tech
-    status: new
+    status: active
+
+  - name: "IRISSCERT Annual Cybercrime Conference 2022"
+    url: "https://python.ie/pycon-2022/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-11-10T09:00:00Z
+    end_datetime: 2022-11-10T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>IRISSCERT holds an annual conference themed on cyber crime in November. This is an all day conference which focuses on providing attendees with an overview of the current cyber threats facing businesses in Ireland and what they can do to help deal with those threats.</p>"
+    type: tech
+    status: active
+  - name: "Creative Educator TechFest"
+    url: "https://kinia.ie/educator-event/"
+    region: 🇮🇪
+    date_added: 2022-06-03
+    start_datetime: 2022-11-11T12:00:00Z
+    end_datetime: 2022-11-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Kinia brings together everyone who believes in the power of learning. We want all young people to confidently create their future</p>
+    <p>We are launching our first ever Creative Educator TechFest! This event is for you, the educator, and is proudly supported by Google.</p>"
+    type: tech
+    status: active

@@ -378,7 +378,7 @@ eventlistings:
     date_added: 2022-08-09
     start_datetime: 2022-08-31T18:00:00Z
     end_datetime: 2022-08-31T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: '<p>In partnership with Collins Aerospace, we present two groups working on Image classification and Airplane crash investigation.<p>
     <p>
@@ -388,3 +388,14 @@ eventlistings:
       </ul>
     </p>'
     type: diversity
+
+  - name: "SFI ADAPT Research Centre: Talk on Artificial Dialog Agents with David Traum"
+    url: "https://www.eventbrite.ie/e/talk-on-artificial-dialog-agents-with-david-traum-tickets-404034336577"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-08-25T10:00:00Z
+    end_datetime: 2022-08-25T11:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

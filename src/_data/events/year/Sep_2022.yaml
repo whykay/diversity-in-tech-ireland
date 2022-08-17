@@ -103,7 +103,58 @@ eventlistings:
     date_added: 2022-08-09
     start_datetime: 2022-09-01T17:00:00Z
     end_datetime: 2022-09-01T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are excited to host our first online meetup for Techstars Startup Weekend Women Dublin. It's been a while since our event in March and we miss you guys. We want to know what you have been up to and connect with our growing community</p>"
     type: diversity
+
+  - name: "(Online) TechMeetups.com: Deutsche Bank Open Evening-Software Development"
+    url: "https://www.eventbrite.co.uk/e/deutsche-bank-open-evening-software-development-registration-402289006247"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-09-15T18:00:00Z
+    end_datetime: 2022-09-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) John McCarthy Artificial Intelligence Summer School 2022 | AI for Tourism"
+    url: "https://www.eventbrite.ie/e/john-mccarthy-artificial-intelligence-summer-school-2022-ai-for-tourism-tickets-392472003327"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-09-01T13:00:00Z
+    end_datetime: 2022-09-02T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Delta Presents: VCs and Founders - Friends or Foes?"
+    url: "https://www.eventbrite.com/e/delta-presents-vcs-and-founders-friends-or-foes-tickets-369083146627?aff=odsjldbosharelinkedin"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-09-15T17:00:00Z
+    end_datetime: 2022-09-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(In-Person) Open Ireland Network's Open Tech After Work"
+    url: "https://www.eventbrite.ie/e/open-ireland-networks-open-tech-after-work-tickets-400601057547"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-09-12T18:00:00Z
+    end_datetime: 2022-09-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) GTA Black Wowen In Tech - Ireland Launch"
+    url: "https://www.eventbrite.ie/e/gta-black-wowen-in-tech-ireland-launch-tickets-386333352457"
+    region: 🇮🇪
+    date_added: 2022-08-17
+    start_datetime: 2022-09-08T18:00:00Z
+    end_datetime: 2022-09-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
