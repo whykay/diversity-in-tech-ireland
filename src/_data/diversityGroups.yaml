@@ -913,3 +913,15 @@ groups:
     date_removed:
     status: new
     type: all 
+
+
+  - name: "GTA Black Wowen In Tech - Ireland"
+    url: "https://www.eventbrite.co.uk/o/global-tech-advocates-black-women-in-tech-25181111483"
+    region: Dublin
+    date_added: 2022-08-17
+    year_added: 2022
+    month_added: 08
+    day_added: 17
+    date_removed:
+    status: new
+    type: all 
