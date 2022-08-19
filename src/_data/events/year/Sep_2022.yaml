@@ -156,5 +156,17 @@ eventlistings:
     end_datetime: 2022-09-08T21:00:00Z
     new: true
     recurring: false
-    desc: 
-    type: tech
+    desc: "GTA Black Women in Tech Ireland is opening in Dublin this September. Join us for our opening."
+    type: diversity
+
+  - name: "(In-Person) PyLadies Dublin x Microsoft Ireland - Sep Meetup"
+    url: "https://www.meetup.com/pyladiesdublin/events/287637521/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-26T18:30:00Z
+    end_datetime: 2022-09-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>🙌 We are excited to announce our second in-person event this year! And we are partnering with Microsoft Ireland who will also be hosting us at their HQ in Sandyford.</p>
+    <p>💻 Do bring along your laptops if you want to code in between or after the talks, it can be with others attending, trying out code with speakers, it's up to you! 🥰</p>"
+    type: diversity

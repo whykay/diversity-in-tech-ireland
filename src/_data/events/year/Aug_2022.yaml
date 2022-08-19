@@ -300,7 +300,7 @@ eventlistings:
     desc: 
     type: tech
   - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
-    url: "https://www.meetup.com/women-who-code-belfast/events/286993002/"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/286993003/"
     region: 🇬🇧
     date_added: 2022-08-02
     start_datetime: 2022-08-25T08:00:00Z
@@ -389,7 +389,7 @@ eventlistings:
     </p>'
     type: diversity
 
-  - name: "SFI ADAPT Research Centre: Talk on Artificial Dialog Agents with David Traum"
+  - name: "(In-Person) SFI ADAPT Research Centre: Talk on Artificial Dialog Agents with David Traum"
     url: "https://www.eventbrite.ie/e/talk-on-artificial-dialog-agents-with-david-traum-tickets-404034336577"
     region: 🇮🇪
     date_added: 2022-08-17
@@ -399,3 +399,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) YourY Network: Summer Drinks - Celebrating Social Entrepreneurs"
+    url: "https://www.eventbrite.ie/e/summer-drinks-celebrating-social-entrepreneurs-tickets-397078511517"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-08-26T19:00:00Z
+    end_datetime: 2022-08-26T22:00:00Z
+    new: true
+    recurring: false
+    desc: "We are excited to host our first Summer Drinks meetup for Irish Social Entrepreneurs / Innovators. The evening will be full of interesting conversations in all things impact and sustainability."
+    type: diversity
