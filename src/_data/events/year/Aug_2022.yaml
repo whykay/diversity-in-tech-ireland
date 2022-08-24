@@ -395,7 +395,7 @@ eventlistings:
     date_added: 2022-08-17
     start_datetime: 2022-08-25T10:00:00Z
     end_datetime: 2022-08-25T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -406,7 +406,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-08-26T19:00:00Z
     end_datetime: 2022-08-26T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We are excited to host our first Summer Drinks meetup for Irish Social Entrepreneurs / Innovators. The evening will be full of interesting conversations in all things impact and sustainability."
     type: diversity

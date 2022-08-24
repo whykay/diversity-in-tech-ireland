@@ -288,7 +288,7 @@ conferences:
     date_added: 2022-06-03
     start_datetime: 2022-11-10T09:00:00Z
     end_datetime: 2022-11-10T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>IRISSCERT holds an annual conference themed on cyber crime in November. This is an all day conference which focuses on providing attendees with an overview of the current cyber threats facing businesses in Ireland and what they can do to help deal with those threats.</p>"
     type: tech
