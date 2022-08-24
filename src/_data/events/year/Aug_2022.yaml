@@ -410,3 +410,43 @@ eventlistings:
     recurring: false
     desc: "We are excited to host our first Summer Drinks meetup for Irish Social Entrepreneurs / Innovators. The evening will be full of interesting conversations in all things impact and sustainability."
     type: diversity
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-08-26T09:00:00Z
+    end_datetime: 2022-08-26T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/286993003/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-08-25T08:00:00Z
+    end_datetime: 2022-08-25T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "(In-Person) Limerick DotNet-Azure User Group (LDNA): Creating a Bot using Azure Bot Service with Keith Atherton"
+    url: "https://www.meetup.com/limerick-dotnet/events/287613644/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-08-26T20:00:00Z
+    end_datetime: 2022-08-26T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) CorkJS: Sunday’s productive JS and coffee meetings"
+    url: "https://www.meetup.com/cork-javascript-meetup/events/287694249/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-08-28T14:00:00Z
+    end_datetime: 2022-08-28T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech

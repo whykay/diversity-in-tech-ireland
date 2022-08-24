@@ -170,3 +170,346 @@ eventlistings:
     desc: "<p>🙌 We are excited to announce our second in-person event this year! And we are partnering with Microsoft Ireland who will also be hosting us at their HQ in Sandyford.</p>
     <p>💻 Do bring along your laptops if you want to code in between or after the talks, it can be with others attending, trying out code with speakers, it's up to you! 🥰</p>"
     type: diversity
+
+  - name: "(In-Person) The Trinity Long Room Hub, Arts and Humanities Research Institute: The Ethical Dimension of Human Centred AI"
+    url: "https://www.eventbrite.ie/e/the-ethical-dimension-of-human-centred-ai-tickets-404092079287"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-11T13:00:00Z
+    end_datetime: 2022-09-11T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Trinity Long Room Hub, Arts and Humanities Research Institute: Your Avatar and You: Identity and Behaviour in the Digital World"
+    url: "https://www.eventbrite.ie/e/your-avatar-and-you-identity-and-behaviour-in-the-digital-world-tickets-406156574247"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-27T13:00:00Z
+    end_datetime: 2022-09-27T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Earth Institute and Insight Centre for Data Analytics collaborative event"
+    url: "https://www.eventbrite.ie/e/earth-institute-and-insight-centre-for-data-analytics-collaborative-event-tickets-400068855717"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-22T14:00:00Z
+    end_datetime: 2022-09-22T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in Energy"
+    url: "https://www.eventbrite.ie/e/women-in-energy-tickets-400714195947"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-15T11:00:00Z
+    end_datetime: 2022-09-15T12:30:00Z
+    new: true
+    recurring: false
+    desc: "This event will provide an insightful discussion on encouraging the growth of women working in the energy sector in Ireland."
+    type: diversity
+  - name: "(In-Person) LKpesa: Girls Night Out"
+    url: "https://www.eventbrite.ie/e/girls-night-out-tickets-402325314847"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-03T19:00:00Z
+    end_datetime: 2022-09-04T01:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Umoja linn and KPesa bring you a Girls Night Out and Networking event! Let's step out before the Summer ends!</p>
+    <p>Come along and introduce yourself to other business owners, aspiring creatives, and a general fun group of women.</p>
+    <p>Grab a drink, laugh it out, and make new connections and reacquaint yourself with others you haven't seen in a while!</p>"
+    type: diversity
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-02T09:00:00Z
+    end_datetime: 2022-08-02T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-09T09:00:00Z
+    end_datetime: 2022-08-09T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-16T09:00:00Z
+    end_datetime: 2022-08-16T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-23T09:00:00Z
+    end_datetime: 2022-08-23T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) Brew Crew: Coffee and Startups | Belfast"
+    url: "https://www.eventbrite.ie/e/brew-crew-coffee-and-startups-belfast-tickets-384438545037"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-30T09:00:00Z
+    end_datetime: 2022-08-30T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) NI Creative Community: REFRESH"
+    url: "https://www.eventbrite.ie/e/refresh-tickets-401877034027"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-08T18:30:00Z
+    end_datetime: 2022-08-08T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: creatives
+  - name: "(In-Person) Raise Ventures: Deep Dive: Diversity in startups"
+    url: "https://www.eventbrite.ie/e/deep-dive-diversity-in-startups-tickets-406257425897"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-15T16:00:00Z
+    end_datetime: 2022-08-15T17:00:00Z
+    new: true
+    recurring: false
+    desc: "How can startups embed Diversity, Equality and Inclusion ethics into their practices? Hear from DEI experts on practical considerations"
+    type: diversity
+  - name: "(In-Person) Future Screens NI: Future Tuesdays with Becca Hume, Founder and CEO of TapSOS Limited"
+    url: "https://www.eventbrite.ie/e/future-tuesdays-with-becca-hume-founder-and-ceo-of-tapsos-limited-tickets-396542077027"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-13T12:00:00Z
+    end_datetime: 2022-08-13T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) RAISE Ventures: Startup Stories: Stephen Rice, Founder of TalentSensus"
+    url: "https://www.eventbrite.ie/e/startup-stories-stephen-rice-founder-of-talentsensus-tickets-405920849187"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-22T16:00:00Z
+    end_datetime: 2022-08-22T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(Online) INVENT 2022 Awards Night Online"
+    url: "https://www.eventbrite.co.uk/e/invent-2022-awards-night-online-tickets-406264657527"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-01T20:00:00Z
+    end_datetime: 2022-08-01T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+  - name: "(In-Person) The Rediscovery Centre: Engineering Workshop for Kids"
+    url: "https://www.eventbrite.ie/e/engineering-workshop-for-kids-tickets-230345980027"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-17T14:30:00Z
+    end_datetime: 2022-08-17T16:00:00Z
+    new: true
+    recurring: false
+    desc: "Everyday Engineering: a fun hands-on workshop for children exploring everyday engineering and what the future of engineering holds!"
+    type: diversity
+  - name: "(In-Person) Northern Ireland Raspberry Jam "
+    url: "https://www.eventbrite.ie/e/northern-ireland-raspberry-jam-september-2022-tickets-405324876617"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-17T13:00:00Z
+    end_datetime: 2022-08-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!"
+    type: diversity
+  - name: "(In-Person) Limerick Pragmatic Programmer Group Meetup: Test Driven Development in Pratice"
+    url: "https://www.meetup.com/limerick-pragmatic-software-group-meetup/events/287673649/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-03T10:30:00Z
+    end_datetime: 2022-09-03T11:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) Data Science and Engineering Club: Building a Scalable Data Annotation Strategy"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/287991516/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-06T18:00:00Z
+    end_datetime: 2022-09-06T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Data Science in Power BI Desktop"
+    url: "https://www.meetup.com/sqlireland/events/282661062/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-06T19:00:00Z
+    end_datetime: 2022-09-06T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Newry Digital: SRE and the rise of platform engineering"
+    url: "https://www.meetup.com/newry-digital/events/287655251/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-07T19:00:00Z
+    end_datetime: 2022-08-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Cybersecurity Meetup Group"
+    url: "https://www.meetup.com/dublin-cybersecurity-meetup-group/events/287568730/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-08T19:00:00Z
+    end_datetime: 2022-09-08T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyBelfast September: NIDC MeetUp Fest"
+    url: "https://www.meetup.com/pybelfast/events/287739426/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-08T18:00:00Z
+    end_datetime: 2022-09-08T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/287451453/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-14T18:00:00Z
+    end_datetime: 2022-09-14T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(Hybrid) DubJUG "Hybrid" - Java Champion Ixchel Ruiz'
+    url: "https://www.meetup.com/dublinjavausergroup/events/287876928/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-14T18:00:00Z
+    end_datetime: 2022-09-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(Online) Python Ireland Monthly Meetup'
+    url: "https://www.meetup.com/pythonireland/events/280640471/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-14T18:30:00Z
+    end_datetime: 2022-09-14T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(In-Person) Belfast JS September: NIDC MeetUp Fest'
+    url: "https://www.meetup.com/belfast-js/events/287738425/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-14T18:30:00Z
+    end_datetime: 2022-09-14T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(Online-Person) Docker Dublin: Simplify your tools with Docker Extensions'
+    url: "https://www.meetup.com/docker-dublin/events/287446216/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-14T19:00:00Z
+    end_datetime: 2022-09-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(In-Person) BelfAWSt Meetup: AWS Open Space'
+    url: "https://www.meetup.com/belfawst-meetup/events/287635152/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-15T17:30:00Z
+    end_datetime: 2022-09-15T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(In-Person) Women in Tech Belfast: End-of-Summer Social'
+    url: "https://www.meetup.com/women-in-tech-belfast/events/287854809/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-15T18:00:00Z
+    end_datetime: 2022-09-15T21:00:00Z
+    new: true
+    recurring: false
+    desc: "The event will include a BRIEF talk from us at Women in Tech Belfast about our future events and from our hosts Version 1 about their open roles, with the majority of the evening just being a relaxed event for women in the industry to meet and chat to each other."
+    type: diversity
+  - name: '(In-Person) GDG Belfast: It’s 2022. We have JetPacks'
+    url: "https://www.meetup.com/google-developer-group-belfast/events/287983701/"
+    region: 🇬🇧
+    date_added: 2022-08-19
+    start_datetime: 2022-09-15T18:00:00Z
+    end_datetime: 2022-09-15T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(Online) 1GAM Galway Meetup!'
+    url: "https://www.meetup.com/1gam-galway/events/287885571/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-06T19:00:00Z
+    end_datetime: 2022-09-06T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: games
+  - name: '(Online) Drupal Limerick Meetup'
+    url: "https://www.meetup.com/drupal-limerick/events/287910125/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-07T20:00:00Z
+    end_datetime: 2022-09-07T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: '(Online) UX Cork Community: Succeeding at UX in the organisation'
+    url: "https://www.meetup.com/ux-cork-community/events/287910999/"
+    region: 🇮🇪
+    date_added: 2022-08-19
+    start_datetime: 2022-09-19T17:30:00Z
+    end_datetime: 2022-09-19T18:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

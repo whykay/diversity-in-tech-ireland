@@ -305,3 +305,28 @@ conferences:
     <p>We are launching our first ever Creative Educator TechFest! This event is for you, the educator, and is proudly supported by Google.</p>"
     type: tech
     status: active
+
+  - name: "InnerSource Commons Gathering"
+    url: "https://www.eventbrite.ie/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-09-08T12:00:00Z
+    end_datetime: 2022-09-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The InnerSource Commons Gathering is a conference that will be held over 1.5 days on September 8th and 9th in Dublin, Ireland. It will comprise of a mix of presentations, panels, breakouts and expert workshops for all attendees to participate in.</p>"
+    type: tech
+    status: active
+
+# CONFERENCES 2023
+  - name: "3D Printing Expo"
+    url: "https://www.3dprintingexpo.ie/"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2023-05-23T12:00:00Z
+    end_datetime: 2023-05-24T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 3D Printing Show is the largest professional 3D printing show and additive manufacturing conference and expo in Ireland As an attendee, you'll explore the business applications of 3D printing through conference sessions led by industry experts, demonstrations of the latest 3D printers and services, and programming for designers, professionals, and makers. Meet with offer 30 exhibitors and understand how 3D printing is revolutionizing industries including manufacturing, medicine, architecture, aerospace, and more.</p>"
+    type: tech
+    status: active    
