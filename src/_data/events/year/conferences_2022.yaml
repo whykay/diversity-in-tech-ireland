@@ -318,6 +318,18 @@ conferences:
     type: tech
     status: active
 
+  - name: "Furthr Festival 2022"
+    url: "https://furthr.ie/event/furthr-festival/"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2022-10-21T00:00:00Z
+    end_datetime: 2022-10-21T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Furthr Festival (formerly Futurescope) is back and in person on the 21st October 2022. Join 1,600 + of those most engaged in the tech and entrepreneurial ecosystems as they explore the business opportunities arising from transformative technologies and the big global challenges.</p>"
+    type: startup
+    status: active
+
 # CONFERENCES 2023
   - name: "3D Printing Expo"
     url: "https://www.3dprintingexpo.ie/"
