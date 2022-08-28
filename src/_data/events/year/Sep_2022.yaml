@@ -513,3 +513,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: '(Online) Robotics@Ireland: AI-powered Robotics: From Research to Betterment of Humanity'
+    url: "https://www.meetup.com/robotics-at-ireland/events/288072716/"
+    region: 🇮🇪
+    date_added: 2022-08-28
+    start_datetime: 2022-09-03T10:00:00Z
+    end_datetime: 2022-09-03T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

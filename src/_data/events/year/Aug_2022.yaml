@@ -376,8 +376,8 @@ eventlistings:
     url: "https://www.eventbrite.ca/e/waipractice-showcase-collins-aerospace-cohort-tickets-397207828307"
     region: 🇮🇪
     date_added: 2022-08-09
-    start_datetime: 2022-08-31T18:00:00Z
-    end_datetime: 2022-08-31T19:00:00Z
+    start_datetime: 2022-08-19T18:00:00Z
+    end_datetime: 2022-08-19T19:00:00Z
     new: false
     recurring: false
     desc: '<p>In partnership with Collins Aerospace, we present two groups working on Image classification and Airplane crash investigation.<p>
