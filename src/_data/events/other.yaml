@@ -168,6 +168,12 @@ opportunities:
     region: 🇮🇪 🌍
     status: 
 
+  - name: "Microsoft for Startups - Founders Hub"
+    desc: "<p>We can't wait to hear about your startup or idea! To get to know you, we require all applicants to begin by sharing their LinkedIn profile. After that, you'll be guided through our simple 10-minute application, bringing you one step closer to building and growing with us.</p>"
+    url: "https://foundershub.startups.microsoft.com/signup"
+    region: 🇮🇪 🌍
+    status: new
+
 aob:
   - name: "BelfastFP moved away from Meetup"
     desc: "Meetups and Events will be run by directly communicating with their members via our Mailing List."
