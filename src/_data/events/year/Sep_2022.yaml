@@ -524,3 +524,244 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: '(Online) First Fridays @ Ludgate Hub | Skibbereen: Welcome to the Ecosystem'
+    url: "https://us02web.zoom.us/meeting/register/tZAlduyurzssGNyTG9aPeokV_i26E5fiRDk2"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-02T11:30:00Z
+    end_datetime: 2022-09-02T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startups
+  - name: '(Online) First Fridays @ Ludgate Hub | Skibbereen: Educate - Fundraising & Finance for Startups'
+    url: "https://www.crowdcast.io/e/first-fridays-educate"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-02T13:15:00Z
+    end_datetime: 2022-09-02T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startups
+  - name: '(Online) First Fridays @ Ludgate Hub | Skibbereen: Inspire - John Riordan (Chairman, Grow Remote, Ex- Chair Shopify International)'
+    url: "https://www.crowdcast.io/e/first-fridays-inspire"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-02T14:15:00Z
+    end_datetime: 2022-09-02T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startups
+  - name: '(In-Person) Building a TinyGS Station Workshop with Jeffrey Roe'
+    url: "https://www.tog.ie/2022/09/building-a-tinygs-station-workshop/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-17T16:00:00Z
+    end_datetime: 2022-09-17T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: '(In-Person) Fingal MakerSpace: Level 1: 3D Printing: Design a Vase (adults)'
+    url: "https://www.eventbrite.ie/e/level-1-3d-printing-design-a-vase-adults-tickets-409961083637"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-24T11:00:00Z
+    end_datetime: 2022-09-24T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: '(Hybrid) Women in Games Satellite Event: Tea Talks with Black Shamrock, A Virtuos Studio'
+    url: "https://www.womeningamesfestival.org/events/women-in-games-satellite-event-tea-talks-with-black-shamrock-a-virtuos-studio/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-06T10:30:00Z
+    end_datetime: 2022-09-06T11:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: '(Online) Soda Special: Time to Close the Gender Gap '
+    url: "https://www.meetup.com/SODA-Social/events/287712370/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-06T18:00:00Z
+    end_datetime: 2022-09-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us for our upcoming SODA Social webinar in partnership with our friends at Code Institute, where we will be discussing innovative solutions to support gender equality in tech organisations."
+    type: diversity
+  - name: '(Online) Cloud Technology in the North: Scalable Data Streaming with Benthos'
+    url: "https://www.meetup.com/cloud-technology-north/events/287694620/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-12T09:00:00Z
+    end_datetime: 2022-09-12T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Cloud Technology in the North: The Jabberwocky of Network Cloudification'
+    url: "https://www.meetup.com/cloud-technology-north/events/287732286/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-19T09:00:00Z
+    end_datetime: 2022-09-19T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(In-Person) TOG Hackerspace: Electronics Night'
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/287863697/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-05T19:00:00Z
+    end_datetime: 2022-09-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: '(Online) Dublin Data Science: Workshop: An Introduction to Bayesian Statistics and Buy-Till-You-Die Models'
+    url: "https://www.meetup.com/dublin-data-science/events/288026231/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-05T19:00:00Z
+    end_datetime: 2022-09-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(In-Person) Maker Night in the Workshop: Special Edition Series 2/6 🤩'
+    url: "https://www.meetup.com/farsetlabs/events/287951574/"
+    region: 🇬🇧
+    date_added: 2022-09-01
+    start_datetime: 2022-09-05T19:00:00Z
+    end_datetime: 2022-09-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Her_Data: Meet Amazing Women in Data'
+    url: "https://www.meetup.com/her-data/events/288153505/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-08T12:30:00Z
+    end_datetime: 2022-09-08T14:00:00Z
+    new: true
+    recurring: false
+    desc: "We're back with another virtual HER+Data meetup of 2022 - a lunch time affair on Thursday September 8th @12:30pm IST/GMT. We'll have talks from 2 amazing women who work with data! Join, ask questions and meet other women who love data."
+    type: diversity
+  - name: '(In-Person) IT In Dublin - Developer Meetup Dublin: ClusterStack presents: It In Dublin - All Nationalities'
+    url: "https://www.meetup.com/it-in-dublin/events/287852869/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-08T19:00:00Z
+    end_datetime: 2022-09-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Dublin Linux Community: Coffee Meetup'
+    url: "https://www.meetup.com/dublin-linux-community/events/287963950/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-10T15:00:00Z
+    end_datetime: 2022-09-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(In-Person) PyBelfast September: NIDC MeetUp Fest'
+    url: "https://www.meetup.com/pybelfast/events/287739426/"
+    region: 🇬🇧
+    date_added: 2022-09-01
+    start_datetime: 2022-09-13T18:00:00Z
+    end_datetime: 2022-09-13T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Dublin Accelerated Learning Technology Meetup'
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/287451453/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-14T18:00:00Z
+    end_datetime: 2022-09-14T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Speaker Event - UX Design Dublin'
+    url: "https://www.meetup.com/ux-design-dublin/events/288073861/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-15T18:00:00Z
+    end_datetime: 2022-09-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(Online) Online Games Co-Op: September'
+    url: "https://www.meetup.com/the-games-co-op/events/287600581/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-15T19:00:00Z
+    end_datetime: 2022-09-15T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: '(In-Person) SaaStock Local Dublin - Meetup'
+    url: "https://www.meetup.com/dublin-tech-talks/events/288026295/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-20T17:30:00Z
+    end_datetime: 2022-09-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: '(In-Person) ProductTank Dublin @ Teckro'
+    url: "https://www.meetup.com/producttank-dublin/events/288133007/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-21T18:00:00Z
+    end_datetime: 2022-09-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/286993027/"
+    region: 🇬🇧
+    date_added: 2022-09-01
+    start_datetime: 2022-09-22T08:00:00Z
+    end_datetime: 2022-09-22T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: '(In-Person) AWS Meetup Dublin'
+    url: "https://www.meetup.com/awsdublin/events/288136176/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-22T18:00:00Z
+    end_datetime: 2022-09-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) CorkJS Zoom chat meeting"
+    url: "https://www.meetup.com/cork-javascript-meetup/events/287858155/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-08T19:00:00Z
+    end_datetime: 2022-09-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

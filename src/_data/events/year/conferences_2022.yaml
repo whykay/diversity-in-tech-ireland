@@ -329,6 +329,40 @@ conferences:
     desc: "<p>Furthr Festival (formerly Futurescope) is back and in person on the 21st October 2022. Join 1,600 + of those most engaged in the tech and entrepreneurial ecosystems as they explore the business opportunities arising from transformative technologies and the big global challenges.</p>"
     type: startup
     status: active
+  - name: "SCI:COM 2022"
+    url: "https://www.eventbrite.ie/e/scicom-2022-tickets-409769310037"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-12-07T00:00:00Z
+    end_datetime: 2022-12-07T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>SCI:COM 2022 returns in December for another year in our new venue at the Aviva Stadium! This year's theme is Representation. Enjoy a day of networking, workshops, new ideas, great speakers and fantastic food.</p>"
+    type: scicom
+    status: active
+  - name: "The Irish Startup Conference 2022"
+    url: "https://www.eventbrite.ie/e/the-irish-startup-conference-2022-tickets-402361803987"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-10-28T00:00:00Z
+    end_datetime: 2022-10-28T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Hosted by Startup Network Europe, The Irish Startup Conference 2022 is our second annual conference for Irish Startup Founders, VCs, Executives, and Seed Fund Partners.</p>
+    <p>This event will gather 400 people in the Edmund Burke Theatre in Trinity College</p>"
+    type: startup
+    status: active
+  - name: "NIDC 2022"
+    url: "https://www.nidevconf.com/"
+    region: 🇬🇧
+    date_added: 2022-09-01
+    start_datetime: 2022-10-22T00:00:00Z
+    end_datetime: 2022-10-22T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bringing together the whole development community of Northern Ireland, every year.</p>"
+    type: tech
+    status: active
 
 # CONFERENCES 2023
   - name: "3D Printing Expo"
