@@ -299,7 +299,7 @@ conferences:
     date_added: 2022-06-03
     start_datetime: 2022-11-11T12:00:00Z
     end_datetime: 2022-11-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Kinia brings together everyone who believes in the power of learning. We want all young people to confidently create their future</p>
     <p>We are launching our first ever Creative Educator TechFest! This event is for you, the educator, and is proudly supported by Google.</p>"
@@ -312,7 +312,7 @@ conferences:
     date_added: 2022-08-24
     start_datetime: 2022-09-08T12:00:00Z
     end_datetime: 2022-09-09T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The InnerSource Commons Gathering is a conference that will be held over 1.5 days on September 8th and 9th in Dublin, Ireland. It will comprise of a mix of presentations, panels, breakouts and expert workshops for all attendees to participate in.</p>"
     type: tech
@@ -324,7 +324,7 @@ conferences:
     date_added: 2022-08-24
     start_datetime: 2022-10-21T00:00:00Z
     end_datetime: 2022-10-21T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Furthr Festival (formerly Futurescope) is back and in person on the 21st October 2022. Join 1,600 + of those most engaged in the tech and entrepreneurial ecosystems as they explore the business opportunities arising from transformative technologies and the big global challenges.</p>"
     type: startup
@@ -337,7 +337,7 @@ conferences:
     date_added: 2022-08-24
     start_datetime: 2023-05-23T12:00:00Z
     end_datetime: 2023-05-24T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 3D Printing Show is the largest professional 3D printing show and additive manufacturing conference and expo in Ireland As an attendee, you'll explore the business applications of 3D printing through conference sessions led by industry experts, demonstrations of the latest 3D printers and services, and programming for designers, professionals, and makers. Meet with offer 30 exhibitors and understand how 3D printing is revolutionizing industries including manufacturing, medicine, architecture, aerospace, and more.</p>"
     type: tech

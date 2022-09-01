@@ -177,7 +177,7 @@ eventlistings:
     date_added: 2022-08-24
     start_datetime: 2022-09-11T13:00:00Z
     end_datetime: 2022-09-11T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -187,7 +187,7 @@ eventlistings:
     date_added: 2022-08-24
     start_datetime: 2022-09-27T13:00:00Z
     end_datetime: 2022-09-27T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -197,7 +197,7 @@ eventlistings:
     date_added: 2022-08-24
     start_datetime: 2022-09-22T14:00:00Z
     end_datetime: 2022-09-22T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -207,7 +207,7 @@ eventlistings:
     date_added: 2022-08-24
     start_datetime: 2022-09-15T11:00:00Z
     end_datetime: 2022-09-15T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "This event will provide an insightful discussion on encouraging the growth of women working in the energy sector in Ireland."
     type: diversity
@@ -217,7 +217,7 @@ eventlistings:
     date_added: 2022-08-24
     start_datetime: 2022-09-03T19:00:00Z
     end_datetime: 2022-09-04T01:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Umoja linn and KPesa bring you a Girls Night Out and Networking event! Let's step out before the Summer ends!</p>
     <p>Come along and introduce yourself to other business owners, aspiring creatives, and a general fun group of women.</p>
@@ -229,7 +229,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-02T09:00:00Z
     end_datetime: 2022-08-02T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -239,7 +239,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-09T09:00:00Z
     end_datetime: 2022-08-09T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -249,7 +249,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-16T09:00:00Z
     end_datetime: 2022-08-16T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -259,7 +259,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-23T09:00:00Z
     end_datetime: 2022-08-23T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -269,7 +269,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-30T09:00:00Z
     end_datetime: 2022-08-30T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -279,7 +279,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-08T18:30:00Z
     end_datetime: 2022-08-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: creatives
@@ -289,7 +289,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-15T16:00:00Z
     end_datetime: 2022-08-15T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "How can startups embed Diversity, Equality and Inclusion ethics into their practices? Hear from DEI experts on practical considerations"
     type: diversity
@@ -299,7 +299,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-13T12:00:00Z
     end_datetime: 2022-08-13T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -309,7 +309,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-22T16:00:00Z
     end_datetime: 2022-08-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -319,7 +319,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-01T20:00:00Z
     end_datetime: 2022-08-01T21:15:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -329,7 +329,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-17T14:30:00Z
     end_datetime: 2022-08-17T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Everyday Engineering: a fun hands-on workshop for children exploring everyday engineering and what the future of engineering holds!"
     type: diversity
@@ -339,7 +339,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-17T13:00:00Z
     end_datetime: 2022-08-17T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!"
     type: diversity
@@ -349,7 +349,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-03T10:30:00Z
     end_datetime: 2022-09-03T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -359,7 +359,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-06T18:00:00Z
     end_datetime: 2022-09-06T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -369,7 +369,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-06T19:00:00Z
     end_datetime: 2022-09-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -379,7 +379,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-07T19:00:00Z
     end_datetime: 2022-08-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -389,7 +389,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-08T19:00:00Z
     end_datetime: 2022-09-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -399,7 +399,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-08T18:00:00Z
     end_datetime: 2022-09-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -409,7 +409,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-14T18:00:00Z
     end_datetime: 2022-09-14T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -419,7 +419,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-14T18:00:00Z
     end_datetime: 2022-09-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -429,7 +429,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-14T18:30:00Z
     end_datetime: 2022-09-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -439,7 +439,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-14T18:30:00Z
     end_datetime: 2022-09-14T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -449,7 +449,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-14T19:00:00Z
     end_datetime: 2022-09-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -459,7 +459,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-15T17:30:00Z
     end_datetime: 2022-09-15T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -469,7 +469,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-15T18:00:00Z
     end_datetime: 2022-09-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The event will include a BRIEF talk from us at Women in Tech Belfast about our future events and from our hosts Version 1 about their open roles, with the majority of the evening just being a relaxed event for women in the industry to meet and chat to each other."
     type: diversity
@@ -479,7 +479,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-15T18:00:00Z
     end_datetime: 2022-09-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -489,7 +489,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-06T19:00:00Z
     end_datetime: 2022-09-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -499,7 +499,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-07T20:00:00Z
     end_datetime: 2022-09-07T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -509,7 +509,7 @@ eventlistings:
     date_added: 2022-08-19
     start_datetime: 2022-09-19T17:30:00Z
     end_datetime: 2022-09-19T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -520,7 +520,7 @@ eventlistings:
     date_added: 2022-08-28
     start_datetime: 2022-09-03T10:00:00Z
     end_datetime: 2022-09-03T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
