@@ -765,3 +765,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "Founder Weekend @ Dogpatch Labs"
+    url: "https://www.ndrc.ie/founder-weekend"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-23T18:00:00Z
+    end_datetime: 2022-09-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
