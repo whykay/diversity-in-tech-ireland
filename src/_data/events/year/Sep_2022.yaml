@@ -775,3 +775,14 @@ eventlistings:
     recurring: false
     desc: 
     type: startups
+  - name: "Social Enterprise World Forum Community Hub Dinner"
+    url: "https://www.eventbrite.ie/e/social-enterprise-world-forum-community-hub-dinner-tickets-401628139577"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-29T18:00:00Z
+    end_datetime: 2022-09-29T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>YourY Network is excited to host a dinner for social entrepreneurs in Dublin as one of Social Enterprise World Forum Community Hubs.</p>
+    <p>An evening of good food, interesting conversations with like minded and catch up with everything that's happening at the Social Enterprise World Forum events that week.<p>"
+    type: diversity

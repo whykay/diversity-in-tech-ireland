@@ -329,13 +329,14 @@ conferences:
     desc: "<p>Furthr Festival (formerly Futurescope) is back and in person on the 21st October 2022. Join 1,600 + of those most engaged in the tech and entrepreneurial ecosystems as they explore the business opportunities arising from transformative technologies and the big global challenges.</p>"
     type: startup
     status: active
+    
   - name: "SCI:COM 2022"
     url: "https://www.eventbrite.ie/e/scicom-2022-tickets-409769310037"
     region: 🇮🇪
     date_added: 2022-09-01
     start_datetime: 2022-12-07T00:00:00Z
     end_datetime: 2022-12-07T00:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>SCI:COM 2022 returns in December for another year in our new venue at the Aviva Stadium! This year's theme is Representation. Enjoy a day of networking, workshops, new ideas, great speakers and fantastic food.</p>"
     type: scicom
@@ -365,6 +366,18 @@ conferences:
     status: active
 
 # CONFERENCES 2023
+  - name: "Techstars Startup Weekend: Women Dublin"
+    url: "https://www.3dprintingexpo.ie/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2023-03-24T00:00:00Z
+    end_datetime: 2023-03-26T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Save the date! #SWDW2023</p>"
+    type: diversity
+    status: active  
+
   - name: "3D Printing Expo"
     url: "https://www.3dprintingexpo.ie/"
     region: 🇮🇪
