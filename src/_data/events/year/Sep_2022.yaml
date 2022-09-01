@@ -786,3 +786,23 @@ eventlistings:
     desc: "<p>YourY Network is excited to host a dinner for social entrepreneurs in Dublin as one of Social Enterprise World Forum Community Hubs.</p>
     <p>An evening of good food, interesting conversations with like minded and catch up with everything that's happening at the Social Enterprise World Forum events that week.<p>"
     type: diversity
+  - name: "(Online) Republic of Work: Starting a Company Straight from College"
+    url: "https://www.eventbrite.ie/e/starting-a-company-straight-from-college-tickets-411873423497"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-06T13:00:00Z
+    end_datetime: 2022-09-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Online) Republic of Work: The Key to Good Visual Storytelling"
+    url: "https://www.eventbrite.ie/e/the-key-to-good-visual-storytelling-tickets-411880504677"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2022-09-27T13:00:00Z
+    end_datetime: 2022-09-27T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: comms
