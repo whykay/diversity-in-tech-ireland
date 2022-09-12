@@ -1,0 +1,11 @@
+eventlistings:
+  - name: "(In-Person) AI Awards 2022 @ Gibeson Hotel"
+    url: "https://www.eventbrite.co.uk/e/ai-awards-2022-tickets-379640674477"
+    region: 🇮🇪
+    date_added: 2022-09-12
+    start_datetime: 2022-11-23T09:30:00Z
+    end_datetime: 2022-11-23T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

@@ -806,3 +806,25 @@ eventlistings:
     recurring: false
     desc: 
     type: comms
+
+  - name: "(In-Person) AWS Irelad: DATA DRIVEN INNOVATION"
+    url: "https://datadriveninnovation.splashthat.com/"
+    region: 🇮🇪
+    date_added: 2022-09-012
+    start_datetime: 2022-09-14T09:00:00Z
+    end_datetime: 2022-09-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AwakenHub Get Together in Limerick"
+    url: "https://awstechtalkdublin.splashthat.com/?cmpid=SMOTAW402451B"
+    region: 🇮🇪
+    date_added: 2022-09-12
+    start_datetime: 2022-09-30T10:00:00Z
+    end_datetime: 2022-09-30T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're hosting a small AwakenHub get together to give us a chance to get a few of our local AwakenHubbers and friends together in-person. Can't wait to see you!</p>
+    <p>Spaces are limited and you do need to REGISTER to attend as names have to be pre-submitted to gain access to the venue.</p>"
+    type: diversity
