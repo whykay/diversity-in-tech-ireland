@@ -93,3 +93,13 @@ eventlistings:
     recurring: false
     desc: "We've shared our top tips to make sure migrants and refugees are aware of cultural norms and rules in the Irish recruitment process in our June masterclass with Brigid Farrell. We've showed you how to fit in, now we want to show you how to STAND OUT!"
     type: diversity
+  - name: "(n-Person) #HackTheHub Autumn 2022 @ Datactics Office"
+    url: "https://www.hackthehub.com/"
+    region: 🇬🇧
+    date_added: 2022-09-16
+    start_datetime: 2022-10-15T09:30:00Z
+    end_datetime: 2022-10-15T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
