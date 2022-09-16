@@ -146,13 +146,13 @@ opportunities:
     <p>Applications close 5pm on Friday 9 September. </p>"
     url: "https://www.awakenhub.com/shegenerate2"
     region: 🇮🇪
-    status: new
+    status: 
   - name: "European Innovation Council: EU Prize for Women Innovators"
     desc: "<p>Applications to the ninth edition of the EU Prize for Women Innovators are now open.</p>
     <p>Deadline for applications is 18 August 2022 at 17.00 (CET).</p>"
     url: "https://eic.ec.europa.eu/eic-funding-opportunities/eic-prizes/eu-prize-women-innovators_en"
     region: 🇮🇪
-    status: new
+    status: 
 
   - name: "GoingFar Mentorship Programme"
     desc: "<p>GoingFar mentorship programme is for diverse migrant professionals living in Ireland.</p>
@@ -172,6 +172,12 @@ opportunities:
     desc: "<p>We can't wait to hear about your startup or idea! To get to know you, we require all applicants to begin by sharing their LinkedIn profile. After that, you'll be guided through our simple 10-minute application, bringing you one step closer to building and growing with us.</p>"
     url: "https://foundershub.startups.microsoft.com/signup"
     region: 🇮🇪 🌍
+    status: 
+
+  - name: "I-FIT: Ireland's Females in Tech Apprenticeship"
+    desc: "<p>Offering participants the opportunity to earn while they learn, modern apprenticeships foster economic independence, progression and clear pathways to quality employment. The first fully-fledged female class is a pioneering approach to boosting participation and showcasing untapped talent. </p>"
+    url: "https://fit.ie/i-fit/"
+    region: 🇮🇪
     status: new
 
 aob:
