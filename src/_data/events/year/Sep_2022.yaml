@@ -950,3 +950,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: '(Online) Longford and Westmeath Education & Training Board, in partnership with Code Institute'
+    url: "https://codeinstitute.net/etb-webinar/"
+    region: 🇮🇪
+    date_added: 2022-09-22
+    start_datetime: 2022-09-29T12:00:00Z
+    end_datetime: 2022-09-29T12:45:00Z
+    new: true
+    recurring: false
+    desc: "During this webinar on Thursday, September 29th, we'll be joined by Longford and Westmeath Education and Training Board, who, in partnership with Code Institute, is offering a fully funded training opportunity, Coding for Career Changers, to support a cohort of job seekers and career returners into coding occupations"
+    type: diversity
