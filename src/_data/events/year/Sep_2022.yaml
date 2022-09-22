@@ -950,15 +950,3 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: '(In-Person) Girl Develop It, Cork: Code & Coffee @ Republic of Work'
-    url: "https://www.meetup.com/meetup-group-ktpoqaae/events/287430974/"
-    region: 🇮🇪
-    date_added: 2022-09-22
-    start_datetime: 2022-09-27T18:30:00Z
-    end_datetime: 2022-09-27T19:30:00Z
-    new: true
-    recurring: false
-    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
-    <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>
-    <p>This month there will be free t-shirts.</p>"
-    type: diversity
