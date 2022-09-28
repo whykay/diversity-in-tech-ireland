@@ -244,3 +244,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) WITS Student Series - Technology Panel"
+    url: "https://www.eventbrite.ie/e/wits-student-series-technology-panel-tickets-426804041377?aff=ebdsoporgprofile"
+    region: 🇮🇪
+    date_added: 2022-09-28
+    start_datetime: 2022-10-18T19:00:00Z
+    end_datetime: 2022-10-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>THIRD LEVEL STUDENTS!!! Join WITS Ireland for an online panel discussion event that is dedicated to learning about how to make the first break into a role in a technology company. Learn from people who work in Workhuman, Teckro, AWS and more.</p>
+    <p>The panel will discuss their own personal experiences of working in technology, how they got their first role out of college and what it was like to start in a technology company. There will be a 15 minute Q&A from the audience at the end.</p>"
+    type: diversity
+  - name: "WITS Ireland - Online Coffee"
+    url: "https://www.eventbrite.ie/e/wits-ireland-online-coffee-tickets-426812296067"
+    region: 🇮🇪
+    date_added: 2022-09-28
+    start_datetime: 2022-10-27T08:30:00Z
+    end_datetime: 2022-10-27T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Rise and shine with WITS Ireland. This online virtual coffee event is a great and easy way to connect with other members and discuss WITS related topics.</p>"
+    type: diversity
