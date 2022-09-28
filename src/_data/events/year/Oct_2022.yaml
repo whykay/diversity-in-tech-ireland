@@ -110,7 +110,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-01T11:00:00Z
     end_datetime: 2022-10-01T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-22T11:00:00Z
     end_datetime: 2022-10-22T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-02T11:00:00Z
     end_datetime: 2022-10-02T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-05T19:00:00Z
     end_datetime: 2022-10-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-06T18:30:00Z
     end_datetime: 2022-10-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-11T19:00:00Z
     end_datetime: 2022-10-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-12T18:00:00Z
     end_datetime: 2022-10-12T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-12T18:30:00Z
     end_datetime: 2022-10-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-26T08:00:00Z
     end_datetime: 2022-10-26T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-26T09:00:00Z
     end_datetime: 2022-10-26T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-26T09:00:00Z
     end_datetime: 2022-10-26T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-04T19:00:00Z
     end_datetime: 2022-10-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -230,7 +230,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-05T20:00:00Z
     end_datetime: 2022-10-05T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -240,7 +240,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-10-11T19:00:00Z
     end_datetime: 2022-10-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech

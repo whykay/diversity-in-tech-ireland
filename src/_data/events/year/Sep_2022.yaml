@@ -761,7 +761,7 @@ eventlistings:
     date_added: 2022-09-01
     start_datetime: 2022-09-22T19:00:00Z
     end_datetime: 2022-09-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -829,24 +829,13 @@ eventlistings:
     <p>Spaces are limited and you do need to REGISTER to attend as names have to be pre-submitted to gain access to the venue.</p>"
     type: diversity
 
-  - name: "(Online) AwakenHub Get Together in Limerick"
-    url: "https://www.eventbrite.co.uk/e/donegal-inspires-creative-women-of-the-world-tickets-420526003597"
-    region: 🇮🇪
-    date_added: 2022-09-22
-    start_datetime: 2022-09-22T17:00:00Z
-    end_datetime: 2022-09-22T18:15:00Z
-    new: true
-    recurring: false
-    desc: "<p>As part of this year's Donegal Connect event and Tip O'Neill Irish Diaspora Awards, AwakenHub in partnership with Donegal County Council are delighted to bring you an online event featuring the best of Donegal’s creative talent.</p>
-    <p>Welcome to 'Donegal Inspires Creative Women of the World'</p>"
-    type: diversity
   - name: "(In-Person) Tech Disruptors Discussion and Networking but also Pizza and Beer @ Dogpatch Labs"
     url: "https://www.meetup.com/meetup-group-upzmkpgb/events/288280508/"
     region: 🇮🇪
     date_added: 2022-09-22
     start_datetime: 2022-09-29T18:00:00Z
     end_datetime: 2022-09-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -856,7 +845,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-22T17:00:00Z
     end_datetime: 2022-09-22T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -866,7 +855,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-24T10:30:00Z
     end_datetime: 2022-09-24T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -876,7 +865,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-24T10:30:00Z
     end_datetime: 2022-09-24T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -886,7 +875,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-26T18:30:00Z
     end_datetime: 2022-09-26T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -896,7 +885,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-28T18:00:00Z
     end_datetime: 2022-09-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -906,7 +895,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-28T18:30:00Z
     end_datetime: 2022-09-28T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -916,7 +905,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-28T19:00:00Z
     end_datetime: 2022-09-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -926,7 +915,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-29T18:00:00Z
     end_datetime: 2022-09-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -936,7 +925,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-29T18:15:00Z
     end_datetime: 2022-09-29T20:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -946,7 +935,7 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-22T20:00:00Z
     end_datetime: 2022-09-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -956,7 +945,18 @@ eventlistings:
     date_added: 2022-09-22
     start_datetime: 2022-09-29T12:00:00Z
     end_datetime: 2022-09-29T12:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "During this webinar on Thursday, September 29th, we'll be joined by Longford and Westmeath Education and Training Board, who, in partnership with Code Institute, is offering a fully funded training opportunity, Coding for Career Changers, to support a cohort of job seekers and career returners into coding occupations"
     type: diversity
+
+  - name: "(In-Person) #StripeMeetup: Dublin"
+    url: "https://stripe.events/stripe-meetup-dublin"
+    region: 🇮🇪
+    date_added: 2022-09-28
+    start_datetime: 2022-09-29T16:00:00Z
+    end_datetime: 2022-09-29T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startups
