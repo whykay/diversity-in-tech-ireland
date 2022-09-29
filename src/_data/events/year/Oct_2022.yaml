@@ -266,6 +266,7 @@ eventlistings:
     recurring: false
     desc: "<p>Rise and shine with WITS Ireland. This online virtual coffee event is a great and easy way to connect with other members and discuss WITS related topics.</p>"
     type: diversity
+  
   - name: "(In-Person) Local Enterprise Office: National Women's Enterprise Day 2022 @ The Pavilion, Leopardstown Racecourse"
     url: "https://www.localenterprise.ie/DLR/Training-Events/Online-Bookings/Events/National-Womens-Enterprise-Day.html"
     region: 🇮🇪
@@ -277,3 +278,13 @@ eventlistings:
     desc: "<p>No matter what size or stage your business is at, your strategy really matters. Think of strategy as the map that guides you, informing your decisions, ensuring you set goals and actions that drive achievement.</p>
     <p>Join us for National Women's Enterprise Day as we explore strategies for business success.  This high energy, informative and inspiring event will help you develop your business strategy or strengthen your existing one.</p>"
     type: diversity
+  - name: "(In-Person) Dublin MUG: Let's talk CV Tips, Career Changes and Serverless KMM Apps with MongoDB"
+    url: "https://www.mongodb.com/community/forums/t/dublin-mug-lets-talk-cv-tips-career-changes-and-serverless-kmm-apps-with-mongodb/190203"
+    region: 🇮🇪
+    date_added: 2022-09-29
+    start_datetime: 2022-10-05T18:00:00Z
+    end_datetime: 2022-10-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
