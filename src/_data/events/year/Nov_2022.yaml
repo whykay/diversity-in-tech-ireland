@@ -42,3 +42,14 @@ eventlistings:
     desc: "<p>THIRD LEVEL STUDENTS!!! Join WITS Ireland for an online panel discussion event that is dedicated to learning about how to make the first break into a role in a science role. Learn from people who work and research in science.</p>
     <p>The panel will discuss their own personal experiences of working in engineering, how they got their first role out of college and what it was like to start in an engineering role. There will be a 15 minute Q&A from the audience at the end.</p>"
     type: diversity
+  - name: "(In-Person) Programming Workshop for Women @ Overstock Ireland (Sligo)"
+    url: "https://codinggrace.com/events/coding-workshop-sligo/2022/"
+    region: 🇮🇪
+    date_added: 2022-09-30
+    start_datetime: 2022-11-12T09:30:00Z
+    end_datetime: 2022-11-12T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Coding Grace are partnering with Overstock Ireland hosting an intro to Django workshop.</p>
+    <p>This is a one-day beginners in-person programming workshop for women that are interested in learning how to code. Expert coaches will teach you how to create a website using Python, Django, HTML & CSS.</p>"
+    type: diversity
