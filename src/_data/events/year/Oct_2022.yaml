@@ -288,3 +288,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) D.A.T.A - Dublin Art and Technology Assocation @ NCAD"
+    url: "http://www.data.ie"
+    region: 🇮🇪
+    date_added: 2022-09-30
+    start_datetime: 2022-10-01T13:00:00Z
+    end_datetime: 2022-10-01T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
