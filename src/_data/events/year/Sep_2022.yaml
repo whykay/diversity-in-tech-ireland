@@ -956,7 +956,7 @@ eventlistings:
     date_added: 2022-09-28
     start_datetime: 2022-09-29T16:00:00Z
     end_datetime: 2022-09-29T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startups
