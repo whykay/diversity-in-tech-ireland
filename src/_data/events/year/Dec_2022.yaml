@@ -1,0 +1,11 @@
+eventlistings:
+  - name: "(Hybrid) Dublin Java User Group"
+    url: "https://ti.to/dublin-java-user-group/upcoming-java-events-Dublin-Ireland"
+    region: 🇮🇪
+    date_added: 2022-10-07
+    start_datetime: 2022-12-17T19:00:00Z
+    end_datetime: 2022-12-17T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
