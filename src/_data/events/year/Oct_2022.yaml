@@ -363,3 +363,26 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     desc: "<p>it@cork & KerrySciTech are excited to announce that we will be hosting our first ever Diversity Matters mini conference, kindly sponsored by Deloitte.</p>
     <p>During this half day event you will get the opportunity to engage with a keynote speaker and three panel discussions in which expert panellists will discuss various topics in Diversity, Equity, and Inclusion.</p>"
     type: diversity
+
+  - name: "(In-Person) North by Northwest Tech Meetup: DevOps with Sligo Chamber of Commerce SkillsNet Ireland @ Overstock"
+    url: "https://www.meetup.com/north-by-northwest-tech-meetup/events/288926972/"
+    region: 🇮🇪
+    date_added: 2022-10-07
+    start_datetime: 2022-10-20T18:30:00Z
+    end_datetime: 2022-10-20T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "(In-Person) PyLadies Dublin x Honeywell - Oct Meetup"
+    url: "https://www.meetup.com/north-by-northwest-tech-meetup/events/288926972/"
+    region: 🇮🇪
+    date_added: 2022-10-07
+    start_datetime: 2022-10-18T18:30:00Z
+    end_datetime: 2022-10-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>🙌 We are back with another in-person event after a pretty successful one in September. And our host this month is Honeywell!</p>
+    <p>We are looking for speakers, more info on event page.</p>"
+    type: diversity

@@ -53,3 +53,24 @@ eventlistings:
     desc: "<p>Coding Grace are partnering with Overstock Ireland hosting an intro to Django workshop.</p>
     <p>This is a one-day beginners in-person programming workshop for women that are interested in learning how to code. Expert coaches will teach you how to create a website using Python, Django, HTML & CSS.</p>"
     type: diversity
+
+  - name: "(Hybrid) DubJug: Java Champion Holly Cummins"
+    url: "https://ti.to/dublin-java-user-group/nov-2022-java-champion-holly-cummins"
+    region: 🇮🇪
+    date_added: 2022-10-07
+    start_datetime: 2022-11-02T19:00:00Z
+    end_datetime: 2022-11-02T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Hybrid) DubJug: Maurice Naftalin"
+    url: "https://ti.to/dublin-java-user-group/nov-2022-java-champion-maurice-naftalin"
+    region: 🇮🇪
+    date_added: 2022-10-07
+    start_datetime: 2022-11-23T19:00:00Z
+    end_datetime: 2022-11-23T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
