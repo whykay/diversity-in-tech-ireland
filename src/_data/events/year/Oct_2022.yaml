@@ -386,3 +386,14 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     desc: "<p>🙌 We are back with another in-person event after a pretty successful one in September. And our host this month is Honeywell!</p>
     <p>We are looking for speakers, more info on event page.</p>"
     type: diversity
+
+  - name: "Data + Women Ireland: Visualising Data"
+    url: "https://www.meetup.com/north-by-northwest-tech-meetup/events/288926972/"
+    region: 🇮🇪
+    date_added: 2022-10-10
+    start_datetime: 2022-10-19T16:00:00Z
+    end_datetime: 2022-10-19T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Speakers: Alli Torban (Information Designer who helps researchers spread their ideas with visual clarity) and Nikita Parab (Senior Consultant @ The Information Lab and Data Specialist with PWC)</p>"
+    type: diversity
