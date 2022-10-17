@@ -74,3 +74,21 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(Hybrid) PyLadies Dublin x WIT Galway @ DSI Galway"
+    url: "https://www.meetup.com/pyladiesdublin/events/288880621/"
+    region: 🇮🇪
+    date_added: 2022-10-17
+    start_datetime: 2022-11-16T18:30:00Z
+    end_datetime: 2022-11-16T20:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>🔥 We are on a roll! And it's a hybrid event with Samira and Priya based in Galway hosting us at Data Science Institute (DSI), University of Galway.</p>
+    <p>
+    Talks:-
+    <ul>
+    <li>\"Introduction to Explainable AI and its needs\" by Gargi Gupta</li>
+    <li>\"Python in the Community\" by Vicky Twomey-Lee</li>
+    <li>\"Ethics and Trustworthiness in an Data World\" by Karen Conway</li>
+    </ul>
+    </p>"
+    type: diversity
