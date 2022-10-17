@@ -383,8 +383,13 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     end_datetime: 2022-10-18T20:30:00Z
     new: true
     recurring: false
-    desc: "<p>🙌 We are back with another in-person event after a pretty successful one in September. And our host this month is Honeywell!</p>
-    <p>We are looking for speakers, more info on event page.</p>"
+    desc: '<p>🙌 We are back with another in-person event after a pretty successful one in September. And our host this month is Honeywell!</p>
+    <p>Talks:-
+    <ul>
+    <li>"Using BERT to investigate cognitive biases in thinking of everyday unexpected events" by Molly Quinn</li>
+    <li>"What is Bioconductor" by Maria Doyle</li>
+    <li>"Hello Polars!" by Antonio Bevilacqua</li>
+    </ul></p>'
     type: diversity
 
   - name: "Data + Women Ireland: Visualising Data"
@@ -396,4 +401,26 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     new: true
     recurring: false
     desc: "<p>Speakers: Alli Torban (Information Designer who helps researchers spread their ideas with visual clarity) and Nikita Parab (Senior Consultant @ The Information Lab and Data Specialist with PWC)</p>"
+    type: diversity
+
+  - name: "(In-Person) NDRC Accelerator Demo Day 2022 @ Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/ndrc-accelerator-demo-day-2022-tickets-428392331997"
+    region: 🇮🇪
+    date_added: 2022-10-11
+    start_datetime: 2022-10-20T16:00:00Z
+    end_datetime: 2022-10-20T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
+
+  - name: "(Online) Her+Data: Meet Amazing Women in Data Oct 2022"
+    url: "https://www.meetup.com/HER-Data/events/289163130/"
+    region: 🇮🇪 
+    date_added: 2022-10-17
+    start_datetime: 2022-10-18T12:30:00Z
+    end_datetime: 2022-10-18T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're back with another virtual HER+Data meetup of 2022 - a lunch time affair on Thursday September 27th @12:30pm IST/GMT. We'll have talks from 2 amazing women who work with data! Join, ask questions and meet other women who love data.</p>"
     type: diversity
