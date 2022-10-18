@@ -381,7 +381,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-07
     start_datetime: 2022-10-18T18:30:00Z
     end_datetime: 2022-10-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: '<p>🙌 We are back with another in-person event after a pretty successful one in September. And our host this month is Honeywell!</p>
     <p>Talks:-
@@ -423,4 +423,14 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     new: true
     recurring: false
     desc: "<p>We're back with another virtual HER+Data meetup of 2022 - a lunch time affair on Thursday September 27th @12:30pm IST/GMT. We'll have talks from 2 amazing women who work with data! Join, ask questions and meet other women who love data.</p>"
+    type: diversity
+  - name: "(In-Person) EY x WAI Ireland"
+    url: "https://www.eventbrite.ca/e/ey-x-wai-ireland-tickets-422309648527"
+    region: 🇮🇪 
+    date_added: 2022-10-18
+    start_datetime: 2022-10-22T12:30:00Z
+    end_datetime: 2022-10-22T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are meeting on 22nd October 2022 at @wavespace EY, Harcourt, Dublin to celebrate all the women working in this space! We will also be meeting in Cork this time with EY themselves on 19th November, 2022 to bring our events closer to wherever you are!</p>"
     type: diversity
