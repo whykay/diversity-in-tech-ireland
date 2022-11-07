@@ -371,7 +371,7 @@ conferences:
     date_added: 2022-10-11
     start_datetime: 2022-10-17T00:00:00Z
     end_datetime: 2022-10-19T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>SaaStock 2022 is the world's most impactful conference for SaaS founders on the journey to $10M+ ARR and beyond.</p>
     <p>We're different to any other conference because year after year, we bring together the highest concentration of SaaS decision makers in Europe, with 68% of all attendees in leadership roles. In Dublin this October, 5000+ SaaS founders will spark conversations, build relationships and accelerate opportunities.</p>"

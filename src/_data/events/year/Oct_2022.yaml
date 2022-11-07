@@ -306,7 +306,7 @@ eventlistings:
     date_added: 2022-10-05
     start_datetime: 2022-10-07T11:30:00Z
     end_datetime: 2022-10-07T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -316,7 +316,7 @@ eventlistings:
     date_added: 2022-10-05
     start_datetime: 2022-10-07T13:15:00Z
     end_datetime: 2022-10-07T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -326,7 +326,7 @@ eventlistings:
     date_added: 2022-10-05
     start_datetime: 2022-10-07T14:15:00Z
     end_datetime: 2022-10-07T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -338,7 +338,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-06
     start_datetime: 2022-10-13T14:30:00Z
     end_datetime: 2022-10-13T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -348,7 +348,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-06
     start_datetime: 2022-10-15T16:00:00Z
     end_datetime: 2022-10-15T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -358,7 +358,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-06
     start_datetime: 2022-10-12T08:30:00Z
     end_datetime: 2022-10-12T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>it@cork & KerrySciTech are excited to announce that we will be hosting our first ever Diversity Matters mini conference, kindly sponsored by Deloitte.</p>
     <p>During this half day event you will get the opportunity to engage with a keynote speaker and three panel discussions in which expert panellists will discuss various topics in Diversity, Equity, and Inclusion.</p>"
@@ -370,7 +370,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-07
     start_datetime: 2022-10-20T18:30:00Z
     end_datetime: 2022-10-20T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -398,7 +398,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-10
     start_datetime: 2022-10-19T16:00:00Z
     end_datetime: 2022-10-19T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Speakers: Alli Torban (Information Designer who helps researchers spread their ideas with visual clarity) and Nikita Parab (Senior Consultant @ The Information Lab and Data Specialist with PWC)</p>"
     type: diversity
@@ -409,7 +409,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-11
     start_datetime: 2022-10-20T16:00:00Z
     end_datetime: 2022-10-20T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: startup
@@ -420,7 +420,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-17
     start_datetime: 2022-10-18T12:30:00Z
     end_datetime: 2022-10-18T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We're back with another virtual HER+Data meetup of 2022 - a lunch time affair on Thursday September 27th @12:30pm IST/GMT. We'll have talks from 2 amazing women who work with data! Join, ask questions and meet other women who love data.</p>"
     type: diversity
@@ -430,7 +430,7 @@ ASSESSMAKE21 Final Conference and Dissemination Event"
     date_added: 2022-10-18
     start_datetime: 2022-10-22T12:30:00Z
     end_datetime: 2022-10-22T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are meeting on 22nd October 2022 at @wavespace EY, Harcourt, Dublin to celebrate all the women working in this space! We will also be meeting in Cork this time with EY themselves on 19th November, 2022 to bring our events closer to wherever you are!</p>"
     type: diversity
