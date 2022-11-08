@@ -92,3 +92,35 @@ eventlistings:
     </ul>
     </p>"
     type: diversity
+
+  - name: "(Online) The Rediscovery Centre: Women in STEM"    
+    url: "https://www.eventbrite.ie/e/women-in-stem-tickets-409255733917"
+    region: 🇮🇪
+    date_added: 2022-11-07
+    start_datetime: 2022-11-17T11:00:00Z
+    end_datetime: 2022-11-17T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join this exciting interactive online \"Women in STEM\" event, which aims to engage and inspire the next generation of Irish women in STEM. It will provide a unique insight into STEM careers through first-hand experiences of female scientists and researchers. The event will consist of a panel discussion between our MC, Science Educator, Ali Knight, and a number of speakers who will talk from personal experience, showcase the incredible work they are doing and answer any qustions live from the audience. The panel of speakers are women working across all spectrums of STEM, who will interact with classrooms and audiences all across the country.</p>"
+    type: diversity
+
+  - name: "(In-Person) Waterford Tech Meetup: Re-imagining the edge & A Serverless reality"
+    url: "https://www.meetup.com/Waterford-Tech-Meetup/events/289327335/"
+    region: 🇮🇪
+    date_added: 2022-11-08
+    start_datetime: 2022-11-08T19:00:00Z
+    end_datetime: 2022-11-08T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Women in AI and EY - Cork"
+    url: "https://www.eventbrite.ca/e/women-in-ai-and-ey-cork-tickets-443926775937"
+    region: 🇮🇪
+    date_added: 2022-11-08
+    start_datetime: 2022-11-19T12:30:00Z
+    end_datetime: 2022-11-19T15:00:00Z
+    new: true
+    recurring: false
+    desc: "We are meeting on the 19th November 2022 at EY, Lapp's Quay, Cork to celebrate all the women working in this space! Mark your calendar and register with us!"
+    type: diversity
