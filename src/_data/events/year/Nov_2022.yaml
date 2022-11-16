@@ -409,3 +409,53 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) AI Awards 2022"
+    url: "https://www.eventbrite.ie/e/ai-awards-2022-tickets-379640674477"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-11-23T09:30:00Z
+    end_datetime: 2022-11-23T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Do we need a Science Gallery? @ St. Patrick's Campus"
+    url: "https://www.eventbrite.ie/e/do-we-need-a-science-gallery-tickets-460679584037"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-11-17T18:00:00Z
+    end_datetime: 2022-11-17T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: STEAM
+  - name: "(In-Person) Kitchen Lithography Workshop @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/kitchen-lithography-workshop-tickets-464904641297"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-11-19T11:00:00Z
+    end_datetime: 2022-11-19T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: Maker
+  - name: "(In-Person) Artificial Intelligence explained by Lizy Abraham from the Walton Institute @ Enniscorthy Library"
+    url: "https://www.eventbrite.ie/e/artificial-intelligence-explained-by-lizy-abraham-from-the-walton-institute-tickets-452980776697"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-11-17T19:00:00Z
+    end_datetime: 2022-11-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber: Cyber Runway National Event - Belfast edition @ Catalyst"
+    url: "https://www.eventbrite.ie/e/cyber-runway-national-event-belfast-edition-tickets-431039479687"
+    region: 🇬🇧
+    date_added: 2022-11-16
+    start_datetime: 2022-11-16T09:30:00Z
+    end_datetime: 2022-11-16T16:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

@@ -139,3 +139,13 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Northern Ireland Raspberry Jam @ Queen's University"
+    url: "https://www.eventbrite.ie/e/northern-ireland-raspberry-jam-december-2022-tickets-462188316697"
+    region: 🇬🇧
+    date_added: 2022-11-16
+    start_datetime: 2022-12-10T13:00:00Z
+    end_datetime: 2022-12-10T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
