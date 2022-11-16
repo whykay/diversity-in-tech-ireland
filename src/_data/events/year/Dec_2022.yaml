@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2022-11-08
     start_datetime: 2022-12-01T18:30:00Z
     end_datetime: 2022-12-01T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are delighted to co-organise with Inclusio for this month's Women Who Code Dublin x Inclusio virtual event.</p>
     <p>
@@ -34,7 +34,7 @@ eventlistings:
     date_added: 2022-11-11
     start_datetime: 2022-12-07T19:00:00Z
     end_datetime: 2022-12-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -44,7 +44,7 @@ eventlistings:
     date_added: 2022-11-11
     start_datetime: 2022-12-14T18:00:00Z
     end_datetime: 2022-12-14T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
