@@ -149,3 +149,23 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Waterford Tech Meetup: The Tutors Platform & Continuous Learning and Discovery @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/Waterford-Tech-Meetup/events/289786688/"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-12-13T19:00:00Z
+    end_datetime: 2022-12-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) AwakenHub: Annual (famous) Christmas Jollies"
+    url: "https://www.awakenhub.com/events-2/awakenhub-turns-2-yar9f"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-12-13T17:00:00Z
+    end_datetime: 2022-12-13T18:15:00Z
+    new: true
+    recurring: false
+    desc: "Details to follow. But we really hope you can join us for our Annual (famous) Christmas Jollies."
+    type: diversity
