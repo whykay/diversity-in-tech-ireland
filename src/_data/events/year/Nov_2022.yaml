@@ -365,7 +365,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-24T18:00:00Z
     end_datetime: 2022-11-24T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -375,7 +375,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-28T17:00:00Z
     end_datetime: 2022-11-28T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -385,7 +385,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-16T18:00:00Z
     end_datetime: 2022-11-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -395,7 +395,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-30T17:30:00Z
     end_datetime: 2022-11-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -405,7 +405,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-30T18:00:00Z
     end_datetime: 2022-11-30T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -415,7 +415,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-23T09:30:00Z
     end_datetime: 2022-11-23T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -425,7 +425,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-17T18:00:00Z
     end_datetime: 2022-11-17T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: STEAM
@@ -435,7 +435,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-19T11:00:00Z
     end_datetime: 2022-11-19T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: Maker
@@ -445,7 +445,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-17T19:00:00Z
     end_datetime: 2022-11-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -455,7 +455,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-16T09:30:00Z
     end_datetime: 2022-11-16T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-30T19:30:00Z
     end_datetime: 2022-11-30T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: science
@@ -475,7 +475,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-22T19:30:00Z
     end_datetime: 2022-11-22T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: science
@@ -485,7 +485,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-11-29T13:00:00Z
     end_datetime: 2022-11-29T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Throughout this session, Clodagh will share personal insights, scientific research and expert tips that will support you on your own well-being journey. CRAOI is a workplace wellness technology solution that offers users on-demand personalised content across 4 holistic pillars: Movement, Mindfulness, Nutrition and Happiness. Clodagh has over 15 years experience working in both the corporate and wellness industries. She is a qualified Yoga Teacher, certified Health and Wellness Coach and an advocate for workplace well-being.</p>"
     type: diversity

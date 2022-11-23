@@ -55,7 +55,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-01T18:00:00Z
     end_datetime: 2022-12-01T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -65,7 +65,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-06T18:30:00Z
     end_datetime: 2022-12-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -75,7 +75,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-10T15:00:00Z
     end_datetime: 2022-12-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -85,7 +85,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-13T18:30:00Z
     end_datetime: 2022-12-13T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -95,7 +95,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-14T18:30:00Z
     end_datetime: 2022-12-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -105,7 +105,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-01T18:00:00Z
     end_datetime: 2022-12-01T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -115,7 +115,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-06T18:30:00Z
     end_datetime: 2022-12-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -125,7 +125,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-09T14:00:00Z
     end_datetime: 2022-12-09T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -135,7 +135,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-13T19:00:00Z
     end_datetime: 2022-12-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -145,7 +145,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-10T13:00:00Z
     end_datetime: 2022-12-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -155,7 +155,7 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-13T19:00:00Z
     end_datetime: 2022-12-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -165,7 +165,20 @@ eventlistings:
     date_added: 2022-11-16
     start_datetime: 2022-12-13T17:00:00Z
     end_datetime: 2022-12-13T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Details to follow. But we really hope you can join us for our Annual (famous) Christmas Jollies."
+    type: diversity
+  - name: "(In-Person) Learnovate: Diversity & Inclusion in all Learning Environments"
+    url: "https://hopin.com/events/iversity-and-inclusion-in-education-in-all-learning-environments-ea4a4d3f-fc2c-4285-abe7-4e3688eb12ff"
+    region: 🇮🇪
+    date_added: 2022-11-16
+    start_datetime: 2022-12-01T18:00:00Z
+    end_datetime: 2022-12-01T19:30:00Z
+    new: false
+    recurring: false
+    desc: '<p>Welcome to our final Link & Learn webinar of 2022 “Diversity and Inclusion in all Learning Environments".</p> 
+    <p>During this event we will take a look at the latest research into diversity and inclusion as well as the approach in education in both schools and corporate L&D environments.</p>
+    <p>We have invited a range of experts from these sectors and encourage you to join the conversation with your fellow attendees.</p>
+    <p>Takeaways include practical responses to universal questions. This event is also a great opportunity to ask the experts live on our event platform. </p>'
     type: diversity

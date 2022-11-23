@@ -384,7 +384,7 @@ conferences:
     date_added: 2022-11-16
     start_datetime: 2022-11-13T00:00:00Z
     end_datetime: 2022-11-20T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>As a society, we have shown our resilience and ability to withstand adversity, bouncing back from difficult challenges we face in our daily lives and as a collective. Science is an important part of a shared better future - helping us to understand our world, inspiring new opportunities, and providing potential solutions. From the infinite variety of our amazing planet and the adaptability of nature, to our ability to face the unexpected, the possibilities are endless. We have many choices to make and more challenges to face, and we are all part of the conversation about the role that science can play.</p>"
     type: tech
@@ -395,7 +395,7 @@ conferences:
     date_added: 2022-11-16
     start_datetime: 2022-12-08T09:00:00Z
     end_datetime: 2022-12-09T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>DevTernity is the top international software development conference. We focus on the core skills paramount to your success - coding, architecture, and leadership.Start preparing for an architect, engineering leader, or CTO role today.</p>"
     type: tech
