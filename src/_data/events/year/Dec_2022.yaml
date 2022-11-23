@@ -182,3 +182,14 @@ eventlistings:
     <p>We have invited a range of experts from these sectors and encourage you to join the conversation with your fellow attendees.</p>
     <p>Takeaways include practical responses to universal questions. This event is also a great opportunity to ask the experts live on our event platform. </p>'
     type: diversity
+
+  - name: "(In-Person) TechBrew: Successful Tech Entrepreneurs don't make mistakes @ National Software Centre"
+    url: "https://www.meetup.com/Waterford-Tech-Meetup/events/289786688/"
+    region: 🇮🇪
+    date_added: 2022-11-23
+    start_datetime: 2022-12-07T18:00:00Z
+    end_datetime: 2022-12-07T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: startup
