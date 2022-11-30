@@ -496,7 +496,7 @@ eventlistings:
     date_added: 2022-11-23
     start_datetime: 2022-11-23T18:30:00Z
     end_datetime: 2022-11-23T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our November event is a discussion with women in the STEM (Science, technology, Engineering, and Mathematics) sector. Limerick and the greater mid-west STEM sector is thriving. The region is home to leading technology, engineering, and pharma brands like Transact Campus, Jaguar Land Rover, Fiserv, WP Engine, General Motors, and Analog devices to name a few. This event puts a spotlight on the women in the sector their challenges, their viewpoints on the future and why female representation is important for the growth of the sector.</p>
     <p>Join us for a panel discussion with Emily Ross (Twitter), Aisling Finn (Jaguar Land Rover) and Grannie Murphy (Analog Devices).</p>"

@@ -10,3 +10,14 @@ eventlistings:
     recurring: false
     desc: "It seems ridiculous - we know - to be thinking 2023. But we promise blink and it will be here. So we like to plan ahead. Stick the date in your diary and all the details will be forthcoming."
     type: diversity
+
+  - name: "Deep Dive: How to write successful grant applications @ RAISE Ventures"
+    url: "https://www.eventbrite.co.uk/e/deep-dive-how-to-write-successful-grant-applications-tickets-477223838347"
+    region: 🇬🇧
+    date_added: 2022-11-30
+    start_datetime: 2023-01-24T15:00:00Z
+    end_datetime: 2023-01-24T16:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: startups
