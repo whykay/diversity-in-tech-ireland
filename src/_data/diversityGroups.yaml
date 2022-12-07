@@ -36,7 +36,8 @@ groups:
     year_added: 2017
     month_added: 11
     day_added: 01
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all
   - name: BlockW Ireland
     url: "https://www.meetup.com/BlockW-Ireland/"
@@ -63,7 +64,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all
   - name: CodeFirstGirls
     url: "https://twitter.com/CodeFirstGirls"
@@ -218,7 +220,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all 
   - name: Ireland Girl Geek Dinners 
     url: "https://www.meetup.com/Ireland-Girl-Geek-Dinners/"
@@ -264,7 +267,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all 
   - name: Lesbians Who Tech Dublin
     url: "https://www.facebook.com/lesbianswhotech/"
@@ -321,11 +325,12 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all  
   - name: R-Ladies Dublin
     url: "https://www.meetup.com/R-Ladies-Dublin/"
-    region: Galway
+    region: Dublin
     date_added: 2017-02-26
     year_added: 2017
     month_added: 02
@@ -506,8 +511,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    date_removed:
-    status: active
+    date_removed: 2022-12-07
+    status: retired
     type: all 
   - name: Women Tech Space 
     url: "https://twitter.com/womentechspace"
@@ -561,7 +566,7 @@ groups:
     type: all 
 
   - name: CIT / WiSTEM
-    url: "https://socsportal.cit.ie/profile.php?id=MTAyOQ=="
+    url: "https://societies.mtu.ie/societies/cork/wistem"
     instagram: MTUCorkWiSTEM
     twitter: MTUCorkWiSTEM
     facebook: "https://www.facebook.com/MTUCorkWiSTEM"
@@ -600,7 +605,7 @@ groups:
     credit: Lauren from GalStem (DCU) 
     type: student
   - name: Institute of Technology Carlow / Women in Technology
-    url: "https://twitter.com/womenintechitc"
+    url: "https://twitter.com/WITcarlowSETU"
     instagram: 
     twitter: 
     facebook: 
