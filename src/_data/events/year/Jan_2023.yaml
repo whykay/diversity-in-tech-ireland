@@ -21,3 +21,36 @@ eventlistings:
     recurring: false
     desc: 
     type: startups
+
+  - name: "(In-Person) Women Techmakers Belfast: Women in Leadership with Sally Helgesen @ Urban HQ"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/289945055/"
+    region: 🇬🇧
+    date_added: 2022-12-07
+    start_datetime: 2022-01-12T18:00:00Z
+    end_datetime: 2022-01-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women Techmakers Belfast, in collaboration with Insider, is delighted to bring you an evening with internationally best-selling author and Leadership Coach Sally Helgesen.</p>
+    <p>Come join us for our first event in the New Year, while we listen to Sally discuss topics from her books, including how more women can move into leadership roles, before giving you the chance to ask her some questions about her book, How Women Rise. You do not need to have read the book to attend! This is open to everyone.</p>
+    <p>To finish off the night, the Women Techmakers Belfast Team will be launching their 2023 International Women's Day event! Register now to hear all about the exciting things we do and how you can become a tech speaker at our annual conference.</p>"
+    type: diversity
+  - name: "(Hybrid) DubJUG - 4 Day jChampion Watch Party with a Special Guests Each Night"
+    url: "https://www.meetup.com/dublinjavausergroup/events/290110267/"
+    region: 🇮🇪
+    date_added: 2022-12-07
+    start_datetime: 2022-01-19T14:00:00Z
+    end_datetime: 2022-01-24T10:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) React Dublin MeetUp 2023 @ MongoDB"
+    url: "https://www.meetup.com/react-community-dublin/events/289935679/"
+    region: 🇮🇪
+    date_added: 2022-12-07
+    start_datetime: 2022-01-24T16:30:00Z
+    end_datetime: 2022-01-25T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
