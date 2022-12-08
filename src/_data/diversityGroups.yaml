@@ -565,6 +565,7 @@ groups:
     status: active
     type: all 
 
+# THIRD LEVEL
   - name: CIT / WiSTEM
     url: "https://societies.mtu.ie/societies/cork/wistem"
     instagram: MTUCorkWiSTEM
@@ -618,9 +619,9 @@ groups:
     credit: Lauren from GalStem (DCU) 
     type: student
   - name: NUIG / WiSTEM
-    url: "https://tiktok.com/@wistemnuig"
-    instagram: wistemsocnuig
-    twitter: stemnuig
+    url: "https://socs.nuigalway.ie/societies/wistem"
+    instagram: 
+    twitter: 
     facebook: 
     region: Galway
     date_added: 2020-11-19
@@ -644,7 +645,7 @@ groups:
     credit: Lauren from GalStem (DCU) 
     type: student  
   - name: TU Dublin / ESTeEM
-    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE3MQ=="
+    url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/projects/esteem/"
     instagram: 
     twitter: 
     facebook: "https://www.dit.ie/edi/projects/esteem/"
@@ -695,6 +696,22 @@ groups:
     status: active
     credit: Lauren from GalStem (DCU) 
     type: student  
+  - name: TU Dublin (Tallaght) / WiSTEM Society
+    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE5Ng=="
+    instagram: tudublinwistemsoctc
+    twitter: WistemT
+    facebook:
+    region: Dublin
+    date_added: 2022-12-08
+    year_added: 2022
+    month_added: 12
+    day_added: 08
+    status: active
+    credit:  
+    type: student  
+
+
+
   - name: BAME Tech (Drogheda)
     url: "https://www.facebook.com/BameTech/"
     region: Drogheda
