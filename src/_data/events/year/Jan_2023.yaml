@@ -26,8 +26,8 @@ eventlistings:
     url: "https://www.meetup.com/google-developer-group-belfast/events/289945055/"
     region: 🇬🇧
     date_added: 2022-12-07
-    start_datetime: 2022-01-12T18:00:00Z
-    end_datetime: 2022-01-12T20:00:00Z
+    start_datetime: 2023-01-12T18:00:00Z
+    end_datetime: 2023-01-12T20:00:00Z
     new: false
     recurring: false
     desc: "<p>Women Techmakers Belfast, in collaboration with Insider, is delighted to bring you an evening with internationally best-selling author and Leadership Coach Sally Helgesen.</p>
@@ -38,8 +38,8 @@ eventlistings:
     url: "https://www.meetup.com/dublinjavausergroup/events/290110267/"
     region: 🇮🇪
     date_added: 2022-12-07
-    start_datetime: 2022-01-19T14:00:00Z
-    end_datetime: 2022-01-24T10:00:00Z
+    start_datetime: 2023-01-19T14:00:00Z
+    end_datetime: 2023-01-24T10:00:00Z
     new: false
     recurring: false
     desc:
@@ -48,9 +48,21 @@ eventlistings:
     url: "https://www.meetup.com/react-community-dublin/events/289935679/"
     region: 🇮🇪
     date_added: 2022-12-07
-    start_datetime: 2022-01-24T16:30:00Z
-    end_datetime: 2022-01-25T21:30:00Z
+    start_datetime: 2023-01-24T16:30:00Z
+    end_datetime: 2023-01-25T21:30:00Z
     new: false
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) itag AI Forum present AI Talk: Data Driven, Ethical & Trustworthy AI @ The Mick Lally Theatre (Galway)"
+    url: "https://www.eventbrite.ie/e/data-driven-ethical-trustworthy-ai-tickets-482653197707"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-25T16:30:00Z
+    end_datetime: 2023-01-25T19:30:00Z
+    new: false
+    recurring: false
+    desc: "Guest Speakers followed by Networking & Pizza: Gearóid Hynes (CitySwift's Head of Product) and  Dr Malika Bendechache (Assistant Professor/Lecturer, University of Galway)"
+    type: diversity
+    

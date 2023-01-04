@@ -41,10 +41,12 @@ data:  events.other, events.recurring
             {# mmm_yyyy.yaml in _data, splitting it with '_' #}
             {% set key_list = key.split('_') %}
 
+            
             {% if key_list[1] == helpers.currentYear() %}
                 {% if key_list[0] == helpers.currentMonth() %}
                     {% set thisMonthListings = val %}
                 {% elif key_list[0] == "conferences" %}
+                    
                     {% set thisYearsConfListings = val %}
                 {% endif %}
             {% endif %}
@@ -76,6 +78,7 @@ data:  events.other, events.recurring
             <h2 id="events">Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
             {% if listings | length != 0 %}
 
+                {# {{listings.slice(0,5) | log}} #}
                 
                 {% for event in listings.slice(0,5)  %}
                     <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
@@ -120,59 +123,71 @@ data:  events.other, events.recurring
                 <div class=" text-2xl">👉 No more diversity events for this month, check <span class="bg-yellow-200 bg-opacity-50"><a href="#event_archives">Archives</a></span> for more upcoming events</div>
             {% endif %}
             
+            
             <h3 class="text-center">🔁 Recurring Virtual Events</h3>
+            {% set recurringCnt = 0 %}
             {% for event in events.recurring.events %}
                 {% if event.recurring %}
-                <div class="border-solid border-1 bg-indigo-100 rounded-lg p-5 mt-2">
-                    <div>
-                        <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
+                    <div class="border-solid border-1 bg-indigo-100 rounded-lg p-5 mt-2">
+                        <div>
+                            <a href="{{ event.url }}">{{ event.name }}</a> {% if event.region %}{{ event.region }}{% endif %} {% if event.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">new</span>{% endif %}
+                        </div>
+                        {% if event.desc %}
+                            <div class="text-sm">{{ event.desc | safe }}</div>
+                        {% endif %}
+                        <div class="font-semibold text-base">When: {{ event.start_datetime }}</div>
                     </div>
-                    {% if event.desc %}
-                    <div class="text-sm">{{ event.desc | safe }}</div>
-                    {% endif %}
-                    <div class="font-semibold text-base">When: {{ event.start_datetime }}</div>
-                </div>
+                    {% set recurringCnt = recurringCnt + 1 %}
                 {% endif %}
             {% endfor %}
-
-            <h2 id="conferences">🎫 Conferences</h2>
-            {% set upcomingConferences =  thisYearsConfListings.conferences | laterItemListConf | sort(attribute='start_datetime') %}
-            <h3>📌 {{upcomingConferences | length}} Upcoming Conferences</h3>
-
-            {% for conf in upcomingConferences %}
-                <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
-                    <div>
-                        <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
-                    </div>
-                    <div class="text-base">
-                        {{ conf.desc | safe }}
-                    </div>
-                    <div>
-                        When: {{ conf.start_datetime | readableDate() }} {% if conf.end_datetime %} - {{ conf.end_datetime | readableDate() }}{% endif %}
-                    </div>
-                </div>
-            {% endfor %}
-
-            {% set cancelledConfCnt = 0 %}
-            <h3 id="cancelled-conferences">🛑 Cancelled/Postponed Conferences</h3>
             
-            {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
-                {% if (conf.status == "cancelled") or (conf.status == "postponed") %} 
-                <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
-                    <div>
-                        <a href="{{ conf.url }}">{{conf.name}}</a>
-                        {% if conf.status == "cancelled" %}<span class="text-xs bg-black text-white pl-1 pr-1">cancelled</span>
-                        {% elif conf.status == "postponed" %}<span class="text-xs bg-black text-white pl-1 pr-1">postponed</span>{% endif %}
-                        
-                    </div>
-                    {% if conf.desc %}<div>{{ conf.desc | safe }}</div>{% endif %}
-                </div>
-                {% set cancelledConfCnt = cancelledConfCnt + 1 %}
-                {% endif %}
-            {% endfor %}
+            {% if recurringCnt == 0 %}
+            <div>No recurring events. Let us know if we are missing something.</div>
+            {% endif %}
+                
+            <h2 id="conferences">🎫 Conferences</h2>
+            {% if thisYearsConfListings.conferences %}
 
-            {% if cancelledConfCnt == 0 %}
-                <div>No cancelled/postponed events 🙌</div>
+                {% set upcomingConferences =  thisYearsConfListings.conferences | laterItemListConf | sort(attribute='start_datetime') %}
+                <h3>📌 {{upcomingConferences | length}} Upcoming Conferences</h3>
+
+                {% for conf in upcomingConferences %}
+                    <div class="border-solid border-1 bg-green-200 rounded-lg p-5 mt-2">
+                        <div>
+                            <a href="{{ conf.url }}">{{ conf.name }}</a> {% if conf.region %}{{ conf.region }}{% endif %} {% if conf.new %}<span class="bg-yellow-200 text-xs pl-2 pr-2">New</span>{% endif %}
+                        </div>
+                        <div class="text-base">
+                            {{ conf.desc | safe }}
+                        </div>
+                        <div>
+                            When: {{ conf.start_datetime | readableDate() }} {% if conf.end_datetime %} - {{ conf.end_datetime | readableDate() }}{% endif %}
+                        </div>
+                    </div>
+                {% endfor %}
+
+                {% set cancelledConfCnt = 0 %}
+                <h3 id="cancelled-conferences">🛑 Cancelled/Postponed Conferences</h3>
+                
+                {% for conf in thisYearsConfListings.conferences | sort(attribute="name") %}
+                    {% if (conf.status == "cancelled") or (conf.status == "postponed") %} 
+                    <div class="border-solid border-1 bg-red-200 rounded-lg p-5 mt-2">
+                        <div>
+                            <a href="{{ conf.url }}">{{conf.name}}</a>
+                            {% if conf.status == "cancelled" %}<span class="text-xs bg-black text-white pl-1 pr-1">cancelled</span>
+                            {% elif conf.status == "postponed" %}<span class="text-xs bg-black text-white pl-1 pr-1">postponed</span>{% endif %}
+                            
+                        </div>
+                        {% if conf.desc %}<div>{{ conf.desc | safe }}</div>{% endif %}
+                    </div>
+                    {% set cancelledConfCnt = cancelledConfCnt + 1 %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if cancelledConfCnt == 0 %}
+                    <div>No cancelled/postponed events 🙌</div>
+                {% endif %}
+            {% else %}
+                <div>No Conferences found</div>
             {% endif %}
         {% else %}
             Listings not found

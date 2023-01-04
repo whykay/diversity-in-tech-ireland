@@ -1,0 +1,25 @@
+---
+conferences:
+  - name: "Techstars Startup Weekend: Women Dublin"
+    url: "https://www.3dprintingexpo.ie/"
+    region: 🇮🇪
+    date_added: 2022-09-01
+    start_datetime: 2023-03-24T00:00:00Z
+    end_datetime: 2023-03-26T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Save the date! #SWDW2023</p>"
+    type: diversity
+    status: active  
+
+  - name: "3D Printing Expo"
+    url: "https://www.3dprintingexpo.ie/"
+    region: 🇮🇪
+    date_added: 2022-08-24
+    start_datetime: 2023-05-23T12:00:00Z
+    end_datetime: 2023-05-24T17:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>The 3D Printing Show is the largest professional 3D printing show and additive manufacturing conference and expo in Ireland As an attendee, you'll explore the business applications of 3D printing through conference sessions led by industry experts, demonstrations of the latest 3D printers and services, and programming for designers, professionals, and makers. Meet with offer 30 exhibitors and understand how 3D printing is revolutionizing industries including manufacturing, medicine, architecture, aerospace, and more.</p>"
+    type: tech
+    status: active

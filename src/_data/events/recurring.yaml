@@ -28,7 +28,7 @@ events:
     start_datetime: Various dates
     end_datetime: 
     new: false
-    recurring: true
+    recurring: false
     desc: 'See <a href="https://hackaday.com/">https://hackaday.com/</a> for more info'
 
   - name: "Women Who Code Remote Events"
@@ -48,7 +48,7 @@ events:
     start_datetime: Every Mon Morning
     end_datetime: 
     new: false
-    recurring: true
+    recurring: false
     desc: 
 
 
