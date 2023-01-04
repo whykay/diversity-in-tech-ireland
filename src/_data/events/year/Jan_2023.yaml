@@ -61,8 +61,203 @@ eventlistings:
     date_added: 2022-01-03
     start_datetime: 2023-01-25T16:30:00Z
     end_datetime: 2023-01-25T19:30:00Z
-    new: false
+    new: true
     recurring: false
     desc: "Guest Speakers followed by Networking & Pizza: Gearóid Hynes (CitySwift's Head of Product) and  Dr Malika Bendechache (Assistant Professor/Lecturer, University of Galway)"
     type: diversity
-    
+  - name: "(Online) Techstars Startup Weekend Women Dublin Online Networking"
+    url: "https://www.eventbrite.ie/e/techstars-startup-weekend-women-dublin-online-networking-tickets-484246734017"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-17T17:00:00Z
+    end_datetime: 2023-01-17T18:00:00Z
+    new: true
+    recurring: false
+    desc: "We are excited to host another one of our online meetup for Techstars Startup Weekend Women Dublin. A great opportunity to networking with other aspiring female founders."
+    type: diversity
+  - name: "(Online) 🎉 PyLadies Dublin Jan 2023 Meetup"
+    url: "https://www.meetup.com/pyladiesdublin/events/290101036/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-17T18:30:00Z
+    end_datetime: 2023-01-17T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome back! We are very excited to have a couple of speakers to kickoff 2023, and to keep everyone warm on this cold Jan evening, it will be a virtual event.</p>
+    <p>
+      <ul>
+        <li>- Update Nested Serializers Fields with Django REST Framework by Uffa Modey</li>
+        <li>- Mitigating Bias in AI by Arthur Lubambo</li>
+      </ul>
+    </p>"
+    type: diversity
+  - name: "(In-Person) Ennis Maker Space: Makers Night"
+    url: "https://www.meetup.com/ennis-makerspace/events/290599128/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-04T18:00:00Z
+    end_datetime: 2023-01-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) TOG Hackerspace: Maker Night - Work on 3D projects using laser cutter, 3D Printer at TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/290353623/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-04T19:00:00Z
+    end_datetime: 2023-01-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) InfoSec NI: Community Event"
+    url: "https://www.meetup.com/infosec-ni/events/290216246/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-04T19:00:00Z
+    end_datetime: 2023-01-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/290418346/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-09T19:00:00Z
+    end_datetime: 2023-01-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Waterford Tech Meetup: Jan 2023 - Building an MVP & Improving Microservices Reliability in the Cloud @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/290475031/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-10T19:00:00Z
+    end_datetime: 2023-01-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/290479877/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-11T18:00:00Z
+    end_datetime: 2023-01-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Python Ireland Meetup"
+    url: "https://www.meetup.com/pythonireland/events/280640490/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-11T18:30:00Z
+    end_datetime: 2023-01-11T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Farset Labs: Elections NI"
+    url: "https://www.meetup.com/farsetlabs/events/290346713/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-11T19:00:00Z
+    end_datetime: 2023-01-11T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Gameuary"
+    url: "https://www.meetup.com/the-games-co-op/events/290692444/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-11T19:00:00Z
+    end_datetime: 2023-01-11T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/289952831/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-14T15:00:00Z
+    end_datetime: 2023-01-14T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/290427245/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-16T18:00:00Z
+    end_datetime: 2023-01-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) Dublin Power BI User Group: Melissa Coates: Increasing Trustworthiness of Power BI Content"
+    url: "https://www.meetup.com/dublinpug/events/290571566//"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-17T18:30:00Z
+    end_datetime: 2023-01-17T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Belfast"
+    url: "https://www.meetup.com/devops-belfast/events/289810724/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-17T18:30:00Z
+    end_datetime: 2023-01-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyBelfast January: Packaging, Environment, and Tooling in Python"
+    url: "https://www.meetup.com/pybelfast/events/290196257/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-18T18:00:00Z
+    end_datetime: 2023-01-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) React Dublin MeetUp 2023"
+    url: "https://www.meetup.com/react-community-dublin/events/289935679/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-25T18:30:00Z
+    end_datetime: 2023-01-25T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: State of the Cybers 2022"
+    url: "https://www.meetup.com/infosec-ni/events/290419837/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-01-18T18:30:00Z
+    end_datetime: 2023-01-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 115 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483050/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-01-10T19:00:00Z
+    end_datetime: 2023-01-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

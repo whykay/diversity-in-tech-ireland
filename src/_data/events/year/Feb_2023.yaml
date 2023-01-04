@@ -1,0 +1,22 @@
+---
+eventlistings:
+  - name: "(In-Person) Managed Intel: Threat Data & Engineering: Leveraging Intelligence with Data and Engineering"
+    url: "https://www.meetup.com/managed-intel-threat-data-engineering/events/290576937/"
+    region: 🇬🇧
+    date_added: 2022-01-03
+    start_datetime: 2023-02-02T17:45:00Z
+    end_datetime: 2023-02-02T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) GDG Galway: KonnekApp - Our Google Journey with demo, walkthrough and productivity tips!"
+    url: "https://www.meetup.com/gdggalway/events/290282917/"
+    region: 🇮🇪
+    date_added: 2022-01-03
+    start_datetime: 2023-02-23T18:00:00Z
+    end_datetime: 2023-02-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
