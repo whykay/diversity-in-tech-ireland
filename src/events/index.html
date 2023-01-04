@@ -76,10 +76,7 @@ data:  events.other, events.recurring
 
             <!-- GENERAL TECH EVENTS -->
             <h2 id="events">Upcoming General Tech Events in {{ helpers.currentMonth() }}</h2>
-            {% if listings | length != 0 %}
-
-                {# {{listings.slice(0,5) | log}} #}
-                
+            {% if listings | length != 0 %}                
                 {% for event in listings.slice(0,5)  %}
                     <div class="border-solid border-1 bg-purple-50 rounded-lg p-5 mt-2">
                         <div>
