@@ -23,3 +23,70 @@ conferences:
     desc: "<p>The 3D Printing Show is the largest professional 3D printing show and additive manufacturing conference and expo in Ireland As an attendee, you'll explore the business applications of 3D printing through conference sessions led by industry experts, demonstrations of the latest 3D printers and services, and programming for designers, professionals, and makers. Meet with offer 30 exhibitors and understand how 3D printing is revolutionizing industries including manufacturing, medicine, architecture, aerospace, and more.</p>"
     type: tech
     status: active
+
+  - name: "10TH ARVR INNOVATE"
+    url: "https://arvrinnovate.com/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-05-26T09:00:00Z
+    end_datetime: 2023-05-27T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>ARVR Innovate has a unique focus on AR and VR as emerging technologies. We organise one conference per year with an independently curated agenda. ARVR Innovate has been named as one of the top AR and VR events in the world.</p>"
+    type: tech
+    status: active
+  - name: "Dublin Tech Summit"
+    url: "https://dublintechsummit.tech/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-05-31T09:00:00Z
+    end_datetime: 2023-06-01T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Dublin Tech Summit (DTS) is a two-day conference that sits at the heart of the international tech scene. As one of the world's most active technology hubs, Dublin has become the EMEA base for some of the biggest global tech companies and over the last 6 years DTS has emerged as one of Europe's fastest growing B2B tech events.</p>"
+    type: tech
+    status: active
+  - name: "Saastock 2023"
+    url: "https://www.saastock.com/saastock-2023/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-10-16T09:00:00Z
+    end_datetime: 2023-10-19T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>SaaStock 2023 is the world's most impactful conference for SaaS founders on the journey to $10M+ ARR and beyond.</p>"
+    type: tech
+    status: active
+  - name: "JSDayIE 2023"
+    url: "https://www.jsday.ie/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-09-26T09:00:00Z
+    end_datetime: 2023-09-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>JSDayIE is a day to celebrate the JavaScript community in Ireland and it is presented by Wolk Software with support for the initiative from our sponsors.</p>"
+    type: tech
+    status: active
+  - name: "Global AppSec Dublin"
+    url: "https://dublin.globalappsec.org/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-02-15T09:00:00Z
+    end_datetime: 2023-02-16T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for the 2023 Global AppSec Dublin held at the Dublin Convention Center. Designed for private and public sector infosec professionals, the two-day OWASP conference equips developers, defenders, and advocates to build a more secure web.</p>"
+    type: tech
+    status: active
+  - name: "TechConnect Live 2023"
+    url: "https://www.techconnect-live.com/"
+    region: 🇮🇪
+    date_added: 2023-01-06
+    start_datetime: 2023-09-45T09:00:00Z
+    end_datetime: 2023-09-14T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>TechConnect Live is Ireland's largest annual business and technology exhibition for Micro, SME and Enterprise level companies. The event, which is supported by Ibec and the Small Firms Association (SFA) creates a marketplace for a wide range of SMEs experiencing rapid growth. It's estimated that SME's account for 99.8 percent of all active businesses here in Ireland.</p>"
+    type: tech
+    status: active
