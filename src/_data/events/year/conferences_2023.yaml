@@ -83,10 +83,22 @@ conferences:
     url: "https://www.techconnect-live.com/"
     region: 🇮🇪
     date_added: 2023-01-06
-    start_datetime: 2023-09-45T09:00:00Z
+    start_datetime: 2023-09-14T09:00:00Z
     end_datetime: 2023-09-14T17:00:00Z
     new: true
     recurring: false
     desc: "<p>TechConnect Live is Ireland's largest annual business and technology exhibition for Micro, SME and Enterprise level companies. The event, which is supported by Ibec and the Small Firms Association (SFA) creates a marketplace for a wide range of SMEs experiencing rapid growth. It's estimated that SME's account for 99.8 percent of all active businesses here in Ireland.</p>"
+    type: tech
+    status: active
+
+  - name: "ServerlessDays Belfast 2023"
+    url: "https://serverlessdaysbelfast.com/"
+    region: 🇬🇧
+    date_added: 2023-01-12
+    start_datetime: 2023-02-28T09:00:00Z
+    end_datetime: 2023-02-28T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are excited to invite you to the 2023 edition of ServerlessDays Belfast! This year we are holding ServerlessDays at Game of Thrones Studio Tour on Tuesday 28 February 2023.</p>"
     type: tech
     status: active

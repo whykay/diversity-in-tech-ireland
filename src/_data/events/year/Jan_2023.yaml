@@ -231,16 +231,6 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) React Dublin MeetUp 2023"
-    url: "https://www.meetup.com/react-community-dublin/events/289935679/"
-    region: 🇮🇪
-    date_added: 2022-01-03
-    start_datetime: 2023-01-25T18:30:00Z
-    end_datetime: 2023-01-25T21:30:00Z
-    new: true
-    recurring: false
-    desc: 
-    type: tech
   - name: "(In-Person) InfoSec NI: State of the Cybers 2022"
     url: "https://www.meetup.com/infosec-ni/events/290419837/"
     region: 🇬🇧
@@ -270,5 +260,57 @@ eventlistings:
     end_datetime: 2023-01-27T12:00:00Z
     new: true
     recurring: false
-    desc: 
+    desc: "Welcome to the official launch of the Women Entrepreneurs Network @ Dogpatch Labs. You spoke, we listened.
+    Following an engaging and eye-opening Roundtable Workshop with women entrepreneurs from all around Ireland, we want to tackle the issues that women entrepreneurs like you face. And challenge #1 is… networking!"
     type: diversity
+
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/290598301/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-01-18T19:00:00Z
+    end_datetime: 2023-01-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Cybersecurity Monthly Meeting @ Pipers Corner"
+    url: "https://www.meetup.com/dublin-cybersecurity-meetup-group/events/290823841/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-01-24T18:30:00Z
+    end_datetime: 2023-01-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) WP Belfast"
+    url: "https://www.meetup.com/wpbelfast/events/290737034/"
+    region: 🇬🇧
+    date_added: 2022-01-12
+    start_datetime: 2023-01-26T20:00:00Z
+    end_datetime: 2023-01-26T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Industry Alliance: Tech Talk: Sustainable Tech - Working Towards the Circular Economy"
+    url: "https://www.eventbrite.ie/e/tech-talk-sustainable-tech-working-towards-the-circular-economy-tickets-510513368227"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-01-31T07:30:00Z
+    end_datetime: 2023-01-31T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) itag Skillnet: Data Driven, Ethical & Trustworthy AI"
+    url: "https://www.eventbrite.ie/e/data-driven-ethical-trustworthy-ai-tickets-482653197707"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-01-25T16:30:00Z
+    end_datetime: 2023-01-25T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

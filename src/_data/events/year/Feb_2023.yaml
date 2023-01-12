@@ -20,3 +20,96 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Her+Data: 2023 Kick off Event @ Workday"
+    url: "https://www.meetup.com/HER-Data/events/290738258/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-09T18:30:00Z
+    end_datetime: 2023-02-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: "We're back with our first in person HER+Data meetup since 2019! An evening time event on Thursday February 9th @6:30pm Irish Time. We'll have talks from 2 amazing women who work with data! Join, ask questions and meet other women who love data."
+    type: diversity
+
+  - name: "(Online) Code Labs Academy Dublin - Coding Bootcamp:Protecting your digital Privacy - Part 1: Cookies"
+    url: "https://www.meetup.com/code-labs-academy-dublin/events/290870418/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-01T18:00:00Z
+    end_datetime: 2023-02-01T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Python Ireland Monthly Meetup"
+    url: "https://www.meetup.com/pythonireland/events/290831591/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-08T18:30:00Z
+    end_datetime: 2023-02-08T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Bytes n' Brew Online ☕️💻 - Lunch"
+    url: "https://www.meetup.com/pythonireland/events/290831591/"
+    region: 🇬🇧
+    date_added: 2022-01-12
+    start_datetime: 2023-02-09T12:00:00Z
+    end_datetime: 2023-02-00T13:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "(In-Person) IT in Dublin @ Morgan Mckinley"
+    url: "https://www.meetup.com/it-in-dublin/events/290865716/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-16T18:00:00Z
+    end_datetime: 2023-02-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Talks - Figma Collaborative Session"
+    url: "https://www.meetup.com/ux-talks/events/290878078/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-18T19:00:00Z
+    end_datetime: 2023-02-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Girl Develop It: Code & Coffee @ Republic of Work"
+    url: "https://www.meetup.com/meetup-group-ktpoqaae/events/290721053/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-24T18:30:00Z
+    end_datetime: 2023-02-24T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
+    <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>"
+    type: diversity
+  - name: "(In-Person) Cork|Sec 116 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483052/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-14T19:00:00Z
+    end_datetime: 2023-02-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DIY Your Way to an Electric Vehicle @ TOG Hackerspace"
+    url: "https://www.meetup.com/corksec/events/290483052/"
+    region: 🇮🇪
+    date_added: 2022-01-12
+    start_datetime: 2023-02-26T14:00:00Z
+    end_datetime: 2023-02-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
