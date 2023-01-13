@@ -181,8 +181,14 @@ opportunities:
     status: new   
   - name: "Outreachy - Mentors and Internships 🆙"
     desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
-    <p>✍🏿 Intern applications are accepted from January 16, 2023 to February 6, 2023</p>
-    <p>🙋🏽 Mentoring organization sign up is open through February 10, 2023. Project submission deadline is February 24, 2023.</p>"
+    <h4>✍🏿 Intern applications are accepted from January 16, 2023 to February 6, 2023</h4>
+    <h4>🙋🏽 Mentoring organization sign up is open through February 10, 2023. Project submission deadline is February 24, 2023.</h4>"
+    url: "https://www.outreachy.org/"
+    region: 🌎
+    status: new
+  - name: "Edie Windsor Coding Scholarship 2023"
+    desc: "<p>The edie windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology.</p>
+    <h4>Deadline is February 14th, 2023.</h4>"
     url: "https://www.outreachy.org/"
     region: 🌎
     status: new
