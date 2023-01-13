@@ -111,13 +111,6 @@ opportunities:
     url: "https://www.research.net/r/WomenReBOOT_2022"
     region: 🇮🇪
     status: archive
-  - name: "Outreachy - Mentors and Internships 🆙"
-    desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
-    <p>👋🏿 New communities are welcome to fill out a participation application. Community application deadline: Sept. 9, 2022 at 4pm UTC.</p>
-    <p>👋🏽 Mentors are welcome to submit internship projects to participating communities. Project submission deadline: Sept. 23, 2022 at 4pm UTC.</p>"
-    url: "https://www.outreachy.org/"
-    region: 🌎
-    status: new
   - name: "Women Developer Academy Europe - Application Open"
     desc: "<p>The Women Developer Academy, powered by Women Techmakers, will equip participants with the skills, resources and support they need to become leaders in the industry through public speaking and other community contributions.</p>"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfjIHa0M_nJMzmiQWTfvdUiZju3OuJv5nM2YDgV8dTbRiQcVQ/viewform"
@@ -178,7 +171,22 @@ opportunities:
     desc: "<p>Offering participants the opportunity to earn while they learn, modern apprenticeships foster economic independence, progression and clear pathways to quality employment. The first fully-fledged female class is a pioneering approach to boosting participation and showcasing untapped talent. </p>"
     url: "https://fit.ie/i-fit/"
     region: 🇮🇪
+    status: 
+
+  - name: "Ready, Set, Go Furthr - Applications open"
+    desc: "<p>Ready, Set, Go Furthr is a one-day interactive workshop to help ambitious founders get started on the right path to a successful start up journey.</p>
+    <p>Our next workshop will take place on <strong>Wednesday, 25th of January 2023 at the Guinness Enterprise Centre, from 9am - 4pm</strong>. </p>"
+    url: "https://dublinbic-5694315.hs-sites.com/ready-set-go-furthr-workshop-now-open-for-applications"
+    region: 🇮🇪
+    status: new   
+  - name: "Outreachy - Mentors and Internships 🆙"
+    desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
+    <p>✍🏿 Intern applications are accepted from January 16, 2023 to February 6, 2023</p>
+    <p>🙋🏽 Mentoring organization sign up is open through February 10, 2023. Project submission deadline is February 24, 2023.</p>"
+    url: "https://www.outreachy.org/"
+    region: 🌎
     status: new
+
 
 aob:
   - name: "BelfastFP moved away from Meetup"
