@@ -134,3 +134,134 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) HackHers Dublin @ Toast"
+    url: "https://www.meetup.com/hackhers-dublin/events/291026649/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-08T18:00:00Z
+    end_datetime: 2023-02-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us to connect, share and engage with developers and leaders and help build a supportive network for women in technology.We'll also be going through some fun coding activities picked from previous year's Advent of Code (https://adventofcode.com/). Groups are free to choose the programming language they want to work on. You don't have to be a pro to attend this event. We encourage anyone who is interested in coding to attend and have some fun together! Bring your laptop."
+    type: diversity
+  - name: "(In-Person) InfoSec NI: Lockpicking Social @ Town Square"
+    url: "https://www.meetup.com/infosec-ni/events/290689551/"
+    region: 🇬🇧
+    date_added: 2022-01-26
+    start_datetime: 2023-02-01T19:00:00Z
+    end_datetime: 2023-02-01T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women Techmakers and MongoDB Dublin collaborates for first event of 2023"
+    url: "https://www.meetup.com/gdg-dublin/events/291134907/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-03T18:15:00Z
+    end_datetime: 2023-02-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: "Women Techmakers Dublin and MongoDB Dublin User group welcome you all for an evening of technical talks, food, and networking."
+    type: diversity
+  - name: "(In-Person) Farset Labs: Elections NI"
+    url: "https://www.meetup.com/farsetlabs/events/291053735/"
+    region: 🇬🇧
+    date_added: 2022-01-26
+    start_datetime: 2023-02-08T19:00:00Z
+    end_datetime: 2023-02-08T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Product Tank Belfast: Breaking down misconceptions to create healthier teams"
+    url: "https://www.meetup.com/producttank-belfast/events/290983437/"
+    region: 🇬🇧
+    date_added: 2022-01-26
+    start_datetime: 2023-02-09T19:00:00Z
+    end_datetime: 2023-02-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: Implementing Security on AWS and Elastic Cloud & Event Camera"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/291068563/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-15T19:00:00Z
+    end_datetime: 2023-02-15T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Code Labs Academy Dublin - Coding Bootcamp: Neural Networks with JAX"
+    url: "https://www.meetup.com/code-labs-academy-dublin/events/290475304/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-18T13:00:00Z
+    end_datetime: 2023-02-18T14:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Belfast"
+    url: "https://www.meetup.com/devops-belfast/events/291000113/"
+    region: 🇬🇧
+    date_added: 2022-01-26
+    start_datetime: 2023-02-21T18:30:00Z
+    end_datetime: 2023-02-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Hashicorp User Group: Launch Night - HUG NI 1st MeetUp"
+    url: "https://www.meetup.com/hug-ireland-hashicorp-user-group/events/290976375//"
+    region: 🇬🇧
+    date_added: 2022-01-26
+    start_datetime: 2023-02-23T18:00:00Z
+    end_datetime: 2023-02-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 116 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483052/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-21T19:00:00Z
+    end_datetime: 2023-02-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork: Bug Bash Workshop @ Tigera"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/291189212/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-07T18:00:00Z
+    end_datetime: 2023-02-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) 1GAM Galway Meetup!"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/291189212/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-07T19:00:00Z
+    end_datetime: 2023-02-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "(Online) UX Talks - Figma Collaborative Session"
+    url: "https://www.meetup.com/ux-talks/events/291188318/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-02-15T19:00:00Z
+    end_datetime: 2023-02-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

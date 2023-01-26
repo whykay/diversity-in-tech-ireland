@@ -355,3 +355,34 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) OWASP Dublin meetup -Implementing AppSec using common sense @ Hays"
+    url: "https://www.meetup.com/owasp-dublin/events/291000719/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-01-26T18:00:00Z
+    end_datetime: 2023-01-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/290018165/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-01-28T15:00:00Z
+    end_datetime: 2023-01-28T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ML Dublin meets EY Wavespace @ EY"
+    url: "https://www.meetup.com/machine-learning-dublin/events/291022439/"
+    region: 🇮🇪
+    date_added: 2022-01-26
+    start_datetime: 2023-01-30T18:00:00Z
+    end_datetime: 2023-01-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
