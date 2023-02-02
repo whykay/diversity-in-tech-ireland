@@ -265,3 +265,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) AwakenHub: How to Craft A Killer Business Plan"
+    url: "https://www.eventbrite.co.uk/e/how-to-craft-a-killer-business-plan-tickets-522495767907"
+    region: 🇮🇪
+    date_added: 2022-02-02
+    start_datetime: 2023-02-21T17:00:00Z
+    end_datetime: 2023-02-21T18:30:00Z
+    new: true
+    recurring: false
+    desc: "Join us on 21 February for our AwakenHub online community event as we share with you fellow founders tips, insights and practical feedback on how to build out your Business Plan when seeking funding / investment / grants."
+    type: diversity
