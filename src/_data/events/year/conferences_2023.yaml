@@ -102,3 +102,39 @@ conferences:
     desc: "<p>We are excited to invite you to the 2023 edition of ServerlessDays Belfast! This year we are holding ServerlessDays at Game of Thrones Studio Tour on Tuesday 28 February 2023.</p>"
     type: tech
     status: active
+
+  - name: "Cyber Expo & Conference Ireland 2023"
+    url: "https://www.eventbrite.ie/e/cyber-expo-conference-ireland-2023-tickets-481609776807"
+    region: 🇮🇪
+    date_added: 2023-02-08
+    start_datetime: 2023-05-16T08:00:00Z
+    end_datetime: 2023-05-16T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Renaissance, Ireland's leading IT security distributor, is delighted to announce the return of Cyber Expo & Conference Ireland 2023!</p>"
+    type: tech
+    status: active
+  - name: "Zero Days CTF 2023"
+    url: "https://www.eventbrite.ie/e/zero-days-ctf-2023-tickets-468521228607"
+    region: 🇮🇪
+    date_added: 2023-02-08
+    start_datetime: 2023-04-01T09:00:00Z
+    end_datetime: 2023-04-01T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Back for the 7th year of our Inter-colleges Capture-The-Flag event, This will be one of the largest in-person CTFs on the planet. All previous events have sold out so get your team in and spread the word.</p>
+    <p>Entries are open to teams of 4 and includes lunch, hacking challenges and games, all followed by our ZeroDays After-Party (from 6pm) </p>
+    <p>We aim to crown the top Irish college security team, but as always we have a separate 'Open' category for non-college and industry teams, so everyone is welcome to take part.</p>"
+    type: tech
+    status: active
+  - name: "2023 DE&I Creative Leadership Conference @ Titanic Hotel Belfast"
+    url: "https://www.eventbrite.co.uk/e/2023-dei-creative-leadership-conference-tickets-502856777157"
+    region: 🇬🇧
+    date_added: 2023-02-08
+    start_datetime: 2023-06-16T10:00:00Z
+    end_datetime: 2023-06-16T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Conference focusing on Good Practice, Experience and Expertise from Diversity, Equity & Inclusion specialists.</p>"
+    type: tech
+    status: active

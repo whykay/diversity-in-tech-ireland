@@ -276,3 +276,146 @@ eventlistings:
     recurring: false
     desc: "Join us on 21 February for our AwakenHub online community event as we share with you fellow founders tips, insights and practical feedback on how to build out your Business Plan when seeking funding / investment / grants."
     type: diversity
+
+
+  - name: "(In-Person) TechBrek - Enabling Open Source Innovation In Ireland @ IBEC"
+    url: "https://www.ictskillnet.ie/techbrek/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-28T08:30:00Z
+    end_datetime: 2023-02-28T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Software Craftsmanship Community: Refactoring Dojo @ Farset Labs"
+    url: "https://www.meetup.com/belfast-software-craftsmanship-community/events/291311108/"
+    region: 🇬🇧
+    date_added: 2022-02-08
+    start_datetime: 2023-02-09T18:00:00Z
+    end_datetime: 2023-02-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/290018167/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-11T15:30:00Z
+    end_datetime: 2023-02-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Science: Portfolio Allocation for Bayesian Dummies @ DogPatch Labs"
+    url: "https://www.meetup.com/dublin-data-science/events/291285480/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-15T18:30:00Z
+    end_datetime: 2023-02-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Feb-WOOOO-ary! @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/291332854/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-15T17:00:00Z
+    end_datetime: 2023-02-15T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "(In-Person) 3D Meetup Dublin: Social 3DMeetup @ Harbourmaster"
+    url: "https://www.meetup.com/3d-meetup-dublin/events/291443404/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-16T18:00:00Z
+    end_datetime: 2023-02-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Docker Dublin: Running Multiple Applications in a Container (without breaking the rules) @ MongoDB"
+    url: "https://www.meetup.com/docker-dublin/events/291295324/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-22T18:30:00Z
+    end_datetime: 2023-02-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in Tech Belfast: Poker Night with Poker Power! @ Urban HQ"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/291209442/"
+    region: 🇬🇧
+    date_added: 2022-02-08
+    start_datetime: 2023-02-23T17:45:00Z
+    end_datetime: 2023-02-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Tech, in collaboration with Poker Power, are delighted to present our Poker Night on Thursday 23rd February - kindly sponsored by Apex Solutions in their gorgeous offices in UrbanHQ.<p>
+    <p>Poker is traditionally a male dominated past-time. Poker Power know there's a strong connection between women's success, money ownership, and the game of poker. So they are on a mission to teach women how to play Texas Hold 'em to compete and succeed in business, finance, and life — all in a fun, supportive, and safe-to-fail environment.</p>"
+    type: diversity
+  - name: "(In-Person) Belfast Gophers: February 2023 meetup"
+    url: "https://www.meetup.com/belfast-gophers/events/290298411/"
+    region: 🇬🇧
+    date_added: 2022-02-08
+    start_datetime: 2023-02-23T18:00:00Z
+    end_datetime: 2023-02-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin DevRel Meetup: February Meetup"
+    url: "https://www.meetup.com/dublin-devrel/events/289885400/"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-28T18:00:00Z
+    end_datetime: 2023-02-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WaiTime - WAI Ireland Meet-up in Dublin @ The Duke Dublin"
+    url: "https://www.eventbrite.ie/e/waitime-wai-ireland-meet-up-in-dublin-tickets-529356628927"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-18T13:00:00Z
+    end_datetime: 2023-02-18T16:00:00Z
+    new: true
+    recurring: false
+    desc: "\"If you didn't know, now you know.\" Women in AI is inviting you to meet our members and chat about various AI related topics!"
+    type: diversity
+  - name: "(In-Person) Early Career Women in STEM @ Rapid7"
+    url: "https://www.eventbrite.ie/e/early-career-women-in-stem-tickets-518708931377"
+    region: 🇬🇧
+    date_added: 2022-02-08
+    start_datetime: 2023-02-28T17:35:00Z
+    end_datetime: 2023-02-28T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Are you a female student currently studying or considering a career in STEM? Come along to hear more from local females and employers.</p>"
+    type: diversity
+  - name: "(In-Person) PA Belfast's Women in Tech network: Moving into Tech @ The Black Box"
+    url: "https://www.eventbrite.ie/e/moving-into-tech-tickets-536093639507"
+    region: 🇬🇧
+    date_added: 2022-02-08
+    start_datetime: 2023-02-21T18:00:00Z
+    end_datetime: 2023-02-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Are you thinking about changing career into the Technology sector but are not sure where to start? Join us for an insightful look into the journeys of four local career changers and hear about their experiences moving from non-tech jobs into a dynamic and future-focused industry. </p>"
+    type: diversity
+  - name: "(In-Person) Bright Club Dublin @ Whelan's"
+    url: "https://www.eventbrite.ie/e/bright-club-dublin-february-21st-2023-tickets-522464674907"
+    region: 🇮🇪
+    date_added: 2022-02-08
+    start_datetime: 2023-02-21T19:30:00Z
+    end_datetime: 2023-02-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: comedy
