@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2022-01-20
     start_datetime: 2023-02-01T19:00:00Z
     end_datetime: 2023-02-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-08T18:00:00Z
     end_datetime: 2023-02-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us to connect, share and engage with developers and leaders and help build a supportive network for women in technology.We'll also be going through some fun coding activities picked from previous year's Advent of Code (https://adventofcode.com/). Groups are free to choose the programming language they want to work on. You don't have to be a pro to attend this event. We encourage anyone who is interested in coding to attend and have some fun together! Bring your laptop."
     type: diversity
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-01T19:00:00Z
     end_datetime: 2023-02-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-03T18:15:00Z
     end_datetime: 2023-02-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women Techmakers Dublin and MongoDB Dublin User group welcome you all for an evening of technical talks, food, and networking."
     type: diversity
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-08T19:00:00Z
     end_datetime: 2023-02-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -181,7 +181,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-09T19:00:00Z
     end_datetime: 2023-02-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -191,7 +191,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-15T19:00:00Z
     end_datetime: 2023-02-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -201,7 +201,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-18T13:00:00Z
     end_datetime: 2023-02-18T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -211,7 +211,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-21T18:30:00Z
     end_datetime: 2023-02-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-23T18:00:00Z
     end_datetime: 2023-02-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-21T19:00:00Z
     end_datetime: 2023-02-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -241,7 +241,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-07T18:00:00Z
     end_datetime: 2023-02-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -251,7 +251,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-07T19:00:00Z
     end_datetime: 2023-02-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -261,7 +261,7 @@ eventlistings:
     date_added: 2022-01-26
     start_datetime: 2023-02-15T19:00:00Z
     end_datetime: 2023-02-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -272,7 +272,7 @@ eventlistings:
     date_added: 2022-02-02
     start_datetime: 2023-02-21T17:00:00Z
     end_datetime: 2023-02-21T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us on 21 February for our AwakenHub online community event as we share with you fellow founders tips, insights and practical feedback on how to build out your Business Plan when seeking funding / investment / grants."
     type: diversity
