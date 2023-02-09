@@ -419,3 +419,14 @@ eventlistings:
     recurring: false
     desc: 
     type: comedy
+
+  - name: "(Online) WITS Ireland: WITS Reads"
+    url: "https://witsireland.com/news/wits-reads-2023/"
+    region: 🇮🇪
+    date_added: 2022-02-09
+    start_datetime: 2023-02-21T20:00:00Z
+    end_datetime: 2023-02-21T21:30:00Z
+    new: true
+    recurring: false
+    desc: "Feed your heart, and your head to enable your hand - the 3Hs framework is simple and effective because motivation precedes action. In keeping with our other efforts, WITS Reads aims to support women in STEM to reach their full potential. Members please email WITS to take part and to join the WITS Reads group on Goodreads. We typically meet the second Tuesday in the month (currently via Zoom) apart from February 2023."
+    type: diversity
