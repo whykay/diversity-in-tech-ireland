@@ -284,7 +284,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-28T08:30:00Z
     end_datetime: 2023-02-28T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -294,7 +294,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-09T18:00:00Z
     end_datetime: 2023-02-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-11T15:30:00Z
     end_datetime: 2023-02-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -314,7 +314,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-15T18:30:00Z
     end_datetime: 2023-02-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -324,7 +324,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-15T17:00:00Z
     end_datetime: 2023-02-15T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -334,7 +334,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-16T18:00:00Z
     end_datetime: 2023-02-16T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -344,7 +344,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-22T18:30:00Z
     end_datetime: 2023-02-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -354,7 +354,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-23T17:45:00Z
     end_datetime: 2023-02-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Tech, in collaboration with Poker Power, are delighted to present our Poker Night on Thursday 23rd February - kindly sponsored by Apex Solutions in their gorgeous offices in UrbanHQ.<p>
     <p>Poker is traditionally a male dominated past-time. Poker Power know there's a strong connection between women's success, money ownership, and the game of poker. So they are on a mission to teach women how to play Texas Hold 'em to compete and succeed in business, finance, and life — all in a fun, supportive, and safe-to-fail environment.</p>"
@@ -365,7 +365,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-23T18:00:00Z
     end_datetime: 2023-02-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -375,7 +375,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-28T18:00:00Z
     end_datetime: 2023-02-28T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -385,7 +385,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-18T13:00:00Z
     end_datetime: 2023-02-18T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "\"If you didn't know, now you know.\" Women in AI is inviting you to meet our members and chat about various AI related topics!"
     type: diversity
@@ -395,7 +395,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-28T17:35:00Z
     end_datetime: 2023-02-28T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Are you a female student currently studying or considering a career in STEM? Come along to hear more from local females and employers.</p>"
     type: diversity
@@ -405,7 +405,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-21T18:00:00Z
     end_datetime: 2023-02-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Are you thinking about changing career into the Technology sector but are not sure where to start? Join us for an insightful look into the journeys of four local career changers and hear about their experiences moving from non-tech jobs into a dynamic and future-focused industry. </p>"
     type: diversity
@@ -415,7 +415,7 @@ eventlistings:
     date_added: 2022-02-08
     start_datetime: 2023-02-21T19:30:00Z
     end_datetime: 2023-02-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: comedy
@@ -426,7 +426,7 @@ eventlistings:
     date_added: 2022-02-09
     start_datetime: 2023-02-21T20:00:00Z
     end_datetime: 2023-02-21T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Feed your heart, and your head to enable your hand - the 3Hs framework is simple and effective because motivation precedes action. In keeping with our other efforts, WITS Reads aims to support women in STEM to reach their full potential. Members please email WITS to take part and to join the WITS Reads group on Goodreads. We typically meet the second Tuesday in the month (currently via Zoom) apart from February 2023."
     type: diversity
