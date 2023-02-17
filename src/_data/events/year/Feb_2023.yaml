@@ -523,3 +523,73 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Tech Nomads"
+    url: "https://techtribes.io/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-22T15:00:00Z
+    end_datetime: 2023-02-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech, careers
+  - name: "(In-Person) Ennis Makerspace: Makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/291667431/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-22T18:00:00Z
+    end_datetime: 2023-02-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) UX Network Galway Monthly Meetup @ Genesys"
+    url: "https://www.meetup.com/ux-network-galway/events/291469872/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-22T19:00:00Z
+    end_datetime: 2023-02-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Limerick DotNet-Azure User Group (LDNA): Roundtable chat about the benefits of Microsoft Certifications"
+    url: "https://www.meetup.com/limerick-dotnet/events/291360884/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-23T20:00:00Z
+    end_datetime: 2023-02-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Cork Community: Introduction to Accessibility"
+    url: "https://www.meetup.com/ux-cork-community/events/291640580/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-25T10:00:00Z
+    end_datetime: 2023-02-25T11:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) CDNA - Cork .NET and Azure: Multi-cloud App Development with Microsoft Azure and Oracle Cloud Infrastructure"
+    url: "https://www.meetup.com/corkdotnetazure/events/291466828/"
+    region: 🇮🇪
+    date_added: 2022-02-17
+    start_datetime: 2023-02-28T18:00:00Z
+    end_datetime: 2023-02-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Northern Ireland Raspberry Jam - Science Festival Special 2023 @ Queen's University"
+    url: "https://www.eventbrite.ie/e/northern-ireland-raspberry-jam-science-festival-special-2023-tickets-513269552047"
+    region: 🇬🇧
+    date_added: 2022-02-17
+    start_datetime: 2023-02-18T13:00:00Z
+    end_datetime: 2023-02-18T15:00:00Z
+    new: true
+    recurring: false
+    desc: "Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!"
+    type: diversity
