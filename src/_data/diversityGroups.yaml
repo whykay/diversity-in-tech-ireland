@@ -847,8 +847,8 @@ groups:
     year_added: 2021
     month_added: 02
     day_added: 19
-    date_removed:
-    status: active
+    date_removed: 2023-02-20
+    status: retired
     type: all 
 
   - name: "Dublin Women in Machine Learning and Data Science"
