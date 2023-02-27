@@ -157,7 +157,7 @@ conferences:
     date_added: 2023-02-17
     start_datetime: 2023-03-23T17:00:00Z
     end_datetime: 2023-03-24T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A unique nocturnal experience, celebrating creative craft and artistry in a fully immersive two-day festival exploring the space between creativity and technology. Ignite your imagination with inspiring speakers from the worlds of film, gaming, animation, immersive, and more! Learn from the best, with 30+ creatives from the likes of Netflix, Pixar, Walt Disney Studios and Epic Games among others.</p>"
     type: tech
@@ -168,7 +168,7 @@ conferences:
     date_added: 2023-02-17
     start_datetime: 2023-03-08T08:30:00Z
     end_datetime: 2023-03-09T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>BelTech, the conference that unites technologists under one all-encompassing banner, is set to return to Belfast on 8 and 9 March 2023. A vibrant, diverse and inclusive conference, BelTech 2023 will take place at Titanic Belfast and will continue to lead the way in gathering, informing and inspiring Northern Ireland's technology practitioners of today and of the future.</p>"
     type: tech
@@ -179,7 +179,7 @@ conferences:
     date_added: 2023-02-17
     start_datetime: 2023-03-09T08:45:00Z
     end_datetime: 2023-03-09T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>With the rapid influx of ransomware attack, constant emerging technologies, geopolitical tensions and regulations, the cybersecurity landscape is being reshaped every day. Zero Day Con 2023 brings you 'Connect'.</p>"
     type: tech

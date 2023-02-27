@@ -427,7 +427,7 @@ eventlistings:
     date_added: 2022-02-13
     start_datetime: 2023-02-25T11:00:00Z
     end_datetime: 2023-02-25T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: hackathon
@@ -449,7 +449,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-20T18:00:00Z
     end_datetime: 2023-02-20T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -459,7 +459,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-20T19:00:00Z
     end_datetime: 2023-02-20T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -469,7 +469,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-21T17:00:00Z
     end_datetime: 2023-02-21T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -479,7 +479,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-22T18:00:00Z
     end_datetime: 2023-02-22T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -489,7 +489,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-22T19:00:00Z
     end_datetime: 2023-02-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -499,7 +499,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-23T19:30:00Z
     end_datetime: 2023-02-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -509,7 +509,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-25T15:00:00Z
     end_datetime: 2023-02-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -519,7 +519,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-22T15:00:00Z
     end_datetime: 2023-02-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech, careers
@@ -529,7 +529,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-22T18:00:00Z
     end_datetime: 2023-02-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -539,7 +539,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-22T19:00:00Z
     end_datetime: 2023-02-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -549,7 +549,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-23T20:00:00Z
     end_datetime: 2023-02-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -559,7 +559,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-25T10:00:00Z
     end_datetime: 2023-02-25T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -569,7 +569,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-28T18:00:00Z
     end_datetime: 2023-02-28T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -579,7 +579,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-02-18T13:00:00Z
     end_datetime: 2023-02-18T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!"
     type: diversity

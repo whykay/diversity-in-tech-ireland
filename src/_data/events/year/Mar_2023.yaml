@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2023-02-13
     start_datetime: 2023-03-24T18:00:00Z
     end_datetime: 2023-03-26T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Techstars Startup Weekend is an exciting and immersive foray into the world of startups. Over an action-packed three days, you'll meet the very best mentors, investors, co-founders and sponsors to show you how to get more done faster -- and, maybe even start that business."
     type: diversity
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2022-02-13
     start_datetime: 2023-03-02T07:30:00Z
     end_datetime: 2023-03-02T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The eighth UCD Women in Leadership Conference will take place on March 2nd, 2023, in O'Reilly Hall, UCD."
     type: diversity
@@ -79,7 +79,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-06T13:00:00Z
     end_datetime: 2023-03-06T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "At this hands-on workshop team members from hubs all across Ireland will explore how a hub can put diversity, equity and inclusion into practice."
     type: diversity
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-08T09:30:00Z
     end_datetime: 2023-03-08T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us on International Women's Day for an exciting event to celebrate successful Dutch & Irish leaders. Hear from folks in Women's FAI, HubSpot, Green Rebel and Irish Lights and their insights on on creating more inclusive workplaces."
     type: diversity
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-08T18:30:00Z
     end_datetime: 2023-03-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We are bringing designers and meetup organisers from the grassroots tech community together to share knowledge on how to design inclusive experiences. Attendees will come away with greater insight into inclusivity, and an Inclusive Events toolkit for their meetup community."
     type: diversity
@@ -109,7 +109,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-09T18:30:00Z
     end_datetime: 2023-03-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "An intimate evening event where leaders and change agents will engage in dialogue-based workshops focusing on the practicalities of becoming an effective “Ally” to accelerate a culture of inclusion in their workplace."
     type: diversity
@@ -119,7 +119,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-10T10:00:00Z
     end_datetime: 2023-03-10T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The Women Entrepreneurs Network at Dogpatch returns following its launch in January with a jam-packed session for women tech entrepreneurs focused on fundraising. We've got a founder panel, curated workshops, and slots with top VC mentors up for grabs."
     type: diversity
@@ -129,7 +129,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-10T16:30:00Z
     end_datetime: 2023-03-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Coderdojo returns to Dogpatch! The Docklands Dojo is where young people age 7-17 can code and explore technology in a fun and social environment."
     type: diversity
@@ -139,7 +139,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-04T14:00:00Z
     end_datetime: 2023-03-04T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -149,7 +149,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-02T17:00:00Z
     end_datetime: 2023-03-02T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -159,7 +159,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-02T17:30:00Z
     end_datetime: 2023-03-02T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -169,7 +169,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-08T18:00:00Z
     end_datetime: 2023-03-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join us in Dublin this International Women's Day to hear from our engineers and technologists about how we're making banking better!"
     type: diversity
@@ -179,7 +179,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-07T19:00:00Z
     end_datetime: 2023-03-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -189,7 +189,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-09T18:30:00Z
     end_datetime: 2023-03-09T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
     <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>"
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-05T12:00:00Z
     end_datetime: 2023-03-05T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-08T18:30:00Z
     end_datetime: 2023-03-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2022-02-17
     start_datetime: 2023-03-11T11:00:00Z
     end_datetime: 2023-03-11T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: STEAM
