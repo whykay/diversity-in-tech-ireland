@@ -224,3 +224,61 @@ eventlistings:
     recurring: false
     desc: 
     type: STEAM
+
+  - name: "(In-Person) International Women's Day Supporting Women in Start-ups and Tech"
+    url: "https://www.eventbrite.ie/e/international-womens-day-supporting-women-in-start-ups-and-tech-tickets-545300637887"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-07T11:00:00Z
+    end_datetime: 2023-03-07T12:30:00Z
+    new: true
+    recurring: false
+    desc: "Scale Ireland is delighted to announce that it is hosting a networking reception and special International Women's Day event with founders, funders and key stakeholders to 'Promote Women in Start-ups and Tech' on the island of Ireland."
+    type: diversity
+  - name: "(In-Person) PyLadies Dublin x Microsoft Ireland - Mar Meetup"
+    url: "https://www.meetup.com/pyladiesdublin/events/291759914/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-21T18:30:00Z
+    end_datetime: 2023-03-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>🙌 We are excited to be back with Microsoft Ireland who is hosting us at their HQ in Sandyford this month!</p>
+    <p>
+    <ul>
+    <li>- No Meetup API? No Problem by Philip Germeyer</li>
+    <li>- Use Backstage to create your asset and Template management by Mansura Habiba</li>
+    </ul>
+    </p>"
+    type: diversity
+  - name: "(Online) PyLadies Dublin Study Group: Fluent Python Chapter 1"
+    url: "https://www.meetup.com/pyladiesdublin/events/291722500/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T18:30:00Z
+    end_datetime: 2023-03-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Let's meet to read and comment on the book Fluent Python. The book presents Python's core language features and libraries and teaches you how to make your code shorter, faster, and more readable.</p>
+    <p>On this session we will start with the Chapter 1. Data Structures and learn together more about Python Data Models and its Arrays of sequences.</p>"
+    type: diversity
+  - name: "(In-Person) IWD Celebrations @ New Relic - Embrace Equity,  Embracing your Personal Power @ New Relic"
+    url: "https://docs.google.com/forms/d/1_eZkUGVK-zgg_V2ZYCy18r5rQJpZq9YC-KYYzwaH92g/viewform"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T10:00:00Z
+    end_datetime: 2023-03-09T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Speakers: Sarah Murphy, CEO, Business Post & Deirdre McGinn, Career & Confidence Coach.</p>"
+    type: diversity
+  - name: "(Online)) Cyber Tuesday"
+    url: "https://cyberireland.ie/ci-event/cyber-tuesday-march-twenty-three/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-28T13:00:00Z
+    end_datetime: 2023-03-28T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

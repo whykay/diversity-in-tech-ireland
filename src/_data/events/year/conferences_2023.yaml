@@ -184,3 +184,16 @@ conferences:
     desc: "<p>With the rapid influx of ransomware attack, constant emerging technologies, geopolitical tensions and regulations, the cybersecurity landscape is being reshaped every day. Zero Day Con 2023 brings you 'Connect'.</p>"
     type: tech
     status: active
+
+  - name: "ShipItCon 2023"
+    url: "https://shipitcon.com/"
+    region: 🇮🇪
+    date_added: 2023-03-05
+    start_datetime: 2023-09-01T08:45:00Z
+    end_datetime: 2023-09-01T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>ShipItCon is a community driven, not-for-profit conference about Software Delivery. Our primary goal is to create an accessible, enjoyable and educational event in which people from all walks of life can engage, share and learn.</p>
+    <p>This year's theme is “The Unknown”. Join us on Friday 1st September 2023 as we voyage into the unknown and look at topics such as risk, unknowns unknowns, observability, AI, security, leading through uncertain times and more. Our speakers will share stories and practical examples of how they continue to deliver delightful experiences to customers during turbulent times.</p>"
+    type: tech
+    status: active
