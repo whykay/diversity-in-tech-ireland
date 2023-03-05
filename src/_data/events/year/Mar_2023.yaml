@@ -272,7 +272,7 @@ eventlistings:
     recurring: false
     desc: "<p>Speakers: Sarah Murphy, CEO, Business Post & Deirdre McGinn, Career & Confidence Coach.</p>"
     type: diversity
-  - name: "(Online)) Cyber Tuesday"
+  - name: "(Online) Cyber Tuesday"
     url: "https://cyberireland.ie/ci-event/cyber-tuesday-march-twenty-three/"
     region: 🇮🇪
     date_added: 2022-03-05
@@ -282,3 +282,283 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291621265/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-06T19:00:00Z
+    end_datetime: 2023-03-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) JavaScript Iterators & Front-end Tracing @ Toast"
+    url: "https://www.meetup.com/dublinjs/events/291843075/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-07T18:30:00Z
+    end_datetime: 2023-03-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Elections NI @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/291667096/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-08T19:00:00Z
+    end_datetime: 2023-03-08T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin AI Developers Group: Real-Time Stream Processing Unconference (in-person London and virtual)"
+    url: "https://www.meetup.com/dublin-ai-developers-group/events/291964274/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T16:00:00Z
+    end_datetime: 2023-03-09T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) OWASP Dublin Chapter Meetup - Threats, Tracking and Tools @ Workday"
+    url: "https://www.meetup.com/owasp-dublin/events/291823310/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T18:00:00Z
+    end_datetime: 2023-03-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) IT In Dublin - Developer Meetup Dublin @ Morgan Mckinley"
+    url: "https://www.meetup.com/it-in-dublin/events/291955407/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T18:00:00Z
+    end_datetime: 2023-03-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin tech meet up: Thursday Tech Meetup Up @ The Barge"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/292005681/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T18:00:00Z
+    end_datetime: 2023-03-09T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/290018179/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-11T15:00:00Z
+    end_datetime: 2023-03-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Game Dev Network: NI Game Audio Meetup @ The Cardan Bar & Grill"
+    url: "https://www.meetup.com/nigamedev/events/291797118/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-11T15:00:00Z
+    end_datetime: 2023-03-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: games
+  - name: "(In-Person) March Mechanical Keyboard Meetup @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291568868/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-12T13:00:00Z
+    end_datetime: 2023-03-12T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) March Mechanical Keyboard Meetup @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291568868/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-12T13:00:00Z
+    end_datetime: 2023-03-12T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Coding School Meetup: Career Paths: What is it like to work at Groupon?"
+    url: "https://www.meetup.com/dublin-coding-school-meetup/events/291815159/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-14T17:00:00Z
+    end_datetime: 2023-03-14T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ladies that UX Belfast: UX career reflections @ ESO"
+    url: "https://www.meetup.com/ladies-that-ux-belfast/events/291773225/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-14T18:00:00Z
+    end_datetime: 2023-03-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Ladies That UX Belfast supports women in the UX industry through workshops, informal gatherings and projects. It is co-lead by MT McCann (ESO), Sam Nelson (Deloitte Digital) and Ciara Davey (LV)."
+    type: diversity
+  - name: "(In-Person) Distilled's adoption of Terraform & Engineering at Scale in Google @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/291954977/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-14T19:00:00Z
+    end_datetime: 2023-03-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Azure Dublin Meetup: ClickOps over GitOps"
+    url: "https://www.meetup.com/azuredublin/events/290962740/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-15T13:00:00Z
+    end_datetime: 2023-03-15T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Marchenemy @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/290699731/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-15T19:00:00Z
+    end_datetime: 2023-03-15T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) InfoSec NI: Movie Night - Hackers @ Farset Labs"
+    url: "https://www.meetup.com/infosec-ni/events/291422646/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-15T19:00:00Z
+    end_datetime: 2023-03-15T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Belfast"
+    url: "https://www.meetup.com/devops-belfast/events/291001986/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-21T18:30:00Z
+    end_datetime: 2023-03-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Automotive Security Research Group Waterford (ASRG-WAT): Automotive Cybersecurity Risk Assessment through the OBD socket"
+    url: "https://www.meetup.com/automotive-security-research-group-waterford-asrg-wat/events/291931046/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-22T17:30:00Z
+    end_datetime: 2023-03-22T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Dublin Java User Group: Java & Blockchain Corda / Intelligent Java Artificial Intelligence"
+    url: "https://www.meetup.com/dublinjavausergroup/events/291709021/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-22T18:00:00Z
+    end_datetime: 2023-03-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/292004569/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-23T08:00:00Z
+    end_datetime: 2023-03-23T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "(In-Person) Codú - The Web Developer Community: JavaScript Talks - Creative Coding and Data Visualisation @ Marsh Ireland"
+    url: "https://www.meetup.com/codu-community/events/291908157/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-23T18:00:00Z
+    end_datetime: 2023-03-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Gophers: March 2023 meetup @ Teamwork"
+    url: "https://www.meetup.com/belfast-gophers/events/291839774/"
+    region: 🇬🇧
+    date_added: 2022-03-05
+    start_datetime: 2023-03-23T18:00:00Z
+    end_datetime: 2023-03-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Meetup - March 2023 @ Toners"
+    url: "https://www.meetup.com/dublin-data-drinks/events/291979266/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-23T19:00:00Z
+    end_datetime: 2023-03-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) 1GAM Galway Meetup!"
+    url: "https://www.meetup.com/1gam-galway/events/291643162/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-07T19:00:00Z
+    end_datetime: 2023-03-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) NGINX Community Group: Cork Chapter: Kubernetes Ingress, NGINX Unit, and Creating a Reverse Proxy @ NGINX"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/291727869/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-09T17:30:00Z
+    end_datetime: 2023-03-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 117 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483055/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-14T19:00:00Z
+    end_datetime: 2023-03-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/291823690/"
+    region: 🇮🇪
+    date_added: 2022-03-05
+    start_datetime: 2023-03-15T18:00:00Z
+    end_datetime: 2023-03-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
