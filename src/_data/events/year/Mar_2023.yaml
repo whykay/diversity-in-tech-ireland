@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-07T11:00:00Z
     end_datetime: 2023-03-07T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Scale Ireland is delighted to announce that it is hosting a networking reception and special International Women's Day event with founders, funders and key stakeholders to 'Promote Women in Start-ups and Tech' on the island of Ireland."
     type: diversity
@@ -241,7 +241,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-21T18:30:00Z
     end_datetime: 2023-03-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>🙌 We are excited to be back with Microsoft Ireland who is hosting us at their HQ in Sandyford this month!</p>
     <p>
@@ -257,7 +257,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T18:30:00Z
     end_datetime: 2023-03-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Let's meet to read and comment on the book Fluent Python. The book presents Python's core language features and libraries and teaches you how to make your code shorter, faster, and more readable.</p>
     <p>On this session we will start with the Chapter 1. Data Structures and learn together more about Python Data Models and its Arrays of sequences.</p>"
@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T10:00:00Z
     end_datetime: 2023-03-09T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Speakers: Sarah Murphy, CEO, Business Post & Deirdre McGinn, Career & Confidence Coach.</p>"
     type: diversity
@@ -278,7 +278,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-28T13:00:00Z
     end_datetime: 2023-03-28T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -288,7 +288,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-06T19:00:00Z
     end_datetime: 2023-03-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -298,7 +298,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-07T18:30:00Z
     end_datetime: 2023-03-07T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -308,7 +308,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-08T19:00:00Z
     end_datetime: 2023-03-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -318,7 +318,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T16:00:00Z
     end_datetime: 2023-03-09T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -328,7 +328,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T18:00:00Z
     end_datetime: 2023-03-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -338,7 +338,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T18:00:00Z
     end_datetime: 2023-03-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -348,7 +348,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T18:00:00Z
     end_datetime: 2023-03-09T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -358,7 +358,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-11T15:00:00Z
     end_datetime: 2023-03-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -368,7 +368,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-11T15:00:00Z
     end_datetime: 2023-03-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: games
@@ -378,27 +378,27 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-12T13:00:00Z
     end_datetime: 2023-03-12T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) March Mechanical Keyboard Meetup @ TOG Hackerspace"
-    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291568868/"
+  - name: "(Online) TOG Craft Night, Knitting, Sewing and Art, Open to All"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291761222/"
     region: 🇮🇪
     date_added: 2022-03-05
-    start_datetime: 2023-03-12T13:00:00Z
-    end_datetime: 2023-03-12T16:00:00Z
-    new: true
+    start_datetime: 2023-03-12T18:00:00Z
+    end_datetime: 2023-03-12T20:00:00Z
+    new: false
     recurring: false
     desc: 
-    type: tech
+    type: maker
   - name: "(Online) Dublin Coding School Meetup: Career Paths: What is it like to work at Groupon?"
     url: "https://www.meetup.com/dublin-coding-school-meetup/events/291815159/"
     region: 🇮🇪
     date_added: 2022-03-05
     start_datetime: 2023-03-14T17:00:00Z
     end_datetime: 2023-03-14T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -408,7 +408,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-14T18:00:00Z
     end_datetime: 2023-03-14T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Ladies That UX Belfast supports women in the UX industry through workshops, informal gatherings and projects. It is co-lead by MT McCann (ESO), Sam Nelson (Deloitte Digital) and Ciara Davey (LV)."
     type: diversity
@@ -418,7 +418,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-14T19:00:00Z
     end_datetime: 2023-03-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -428,7 +428,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-15T13:00:00Z
     end_datetime: 2023-03-15T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -438,7 +438,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-15T19:00:00Z
     end_datetime: 2023-03-15T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -448,7 +448,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-15T19:00:00Z
     end_datetime: 2023-03-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -458,7 +458,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-21T18:30:00Z
     end_datetime: 2023-03-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -468,7 +468,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-22T17:30:00Z
     end_datetime: 2023-03-22T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -478,7 +478,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-22T18:00:00Z
     end_datetime: 2023-03-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -488,7 +488,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-23T08:00:00Z
     end_datetime: 2023-03-23T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
     type: diversity
@@ -498,7 +498,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-23T18:00:00Z
     end_datetime: 2023-03-23T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -508,7 +508,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-23T18:00:00Z
     end_datetime: 2023-03-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -518,7 +518,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-23T19:00:00Z
     end_datetime: 2023-03-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -528,7 +528,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-07T19:00:00Z
     end_datetime: 2023-03-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -538,7 +538,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-09T17:30:00Z
     end_datetime: 2023-03-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -548,7 +548,7 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-14T19:00:00Z
     end_datetime: 2023-03-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -558,7 +558,81 @@ eventlistings:
     date_added: 2022-03-05
     start_datetime: 2023-03-15T18:00:00Z
     end_datetime: 2023-03-15T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "(Online) TechFoundHer Town Hall Webinar: Let's bust some myths about tech"
+    url: "https://www.meetup.com/techfoundher-supporting-female-founders-of-tech-startups/events/292129999/"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-22T11:00:00Z
+    end_datetime: 2023-03-22T11:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>You don't need to be a techie to be a female founder of a tech company or start up.</p>
+    <p>In this webinar you'll be inspired to hear how different female founders (who are not techies) are building awesome tech business and get some tips on how they are smashing it.</p>"
+    type: diversity
+  - name: "(In-Person) TechFoundHer Townhall @ AWS Startup Loft Dublin"
+    url: "https://www.eventbrite.ie/e/techfoundher-town-hall-tickets-580828663167"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-27T17:00:00Z
+    end_datetime: 2023-03-27T18:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>TechFoundHer TownHall - community gathering for female founders and all entrepreneurial women and allies.</p>
+    <p>Get inspired about how tech can support you to have more impact and meet other female founders to share in a safe and social space about your startup journey.</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub Meetup Dublin @ The Wiley Fox"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-in-person-meetup-dublin-tickets-547707958247"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-14T17:30:00Z
+    end_datetime: 2023-03-14T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>One of those actual real in-person Awakenhubber meet ups in Dublin.</p>
+    <p>Join us (some of AwakenHub co-founding team) along with women founders from our community for an informal meetup in Dublin on evening of 14 March 2023.</p>"
+    type: diversity
+  - name: "(Online) AwakenHub: Sales Success: Real Selling, Real Strategies"
+    url: "https://www.eventbrite.co.uk/e/sales-success-real-selling-real-strategies-tickets-522553330077"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-21T17:00:00Z
+    end_datetime: 2023-03-21T18:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>With thanks as always to our AwakenHub partners and sponsors. As a registered social enterprise we are driven by our social impact mission to change the landscape for women founders for generations to come and we couldn't do it without all of your support.</p>"
+    type: diversity
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer at TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/291824712/"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-15T19:00:00Z
+    end_datetime: 2023-03-15T21:00:00Z
     new: true
     recurring: false
     desc: 
     type: maker
+  - name: "(Online) Data, Cloud and AI in Dublin: Introduction to Quantum Computing"
+    url: "https://www.meetup.com/big-data-developers-in-dublin/events/290311699/"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-22T12:00:00Z
+    end_datetime: 2023-03-22T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UXDX Dublin: Product Enablement Principles with John Cutler @ Toast"
+    url: "https://www.meetup.com/uxdx-dublin/events/292068735/"
+    region: 🇮🇪
+    date_added: 2022-03-12
+    start_datetime: 2023-03-22T18:30:00Z
+    end_datetime: 2023-03-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
