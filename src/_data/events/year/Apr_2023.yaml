@@ -55,3 +55,18 @@ eventlistings:
     <p>Join us for our first ever Tech Gateway Dublin DEI meet-up on the 3rd April, live and in person at Dogpatch Labs, The Chq Building, 1 Custom House Quay, North Dock, Dublin.</p>
     <p>Open-source, an open community, open to all for opportunities.</p>"
     type: diversity
+  
+
+  - name: "(In-Person) Women TechMakers Dublin: Dare To Be - Celebration of Anything we want to be (IWD 2023) @ MongoDB"
+    url: "https://gdg.community.dev/gdg-dublin/"
+    region: 🇮🇪 
+    date_added: 2023-03-20
+    start_datetime: 2023-04-26T18:00:00Z
+    end_datetime: 2023-04-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>GDG Dublin collaborates with MongoDB Dublin for an evening of talks and networking. This will be a post-celebration of the International Women's Day Event on March 8th.</p>
+    <p>The <a href=\"https://sessionize.com/dare-to-be-iwd2023/\">CFP</a> is open from March 09 - March 20, 2023. Please submit your talks on a topic you like; Android, Flutter, Cloud, Firebase, Career Development, ML/AI, Databases, Soft Skills, and more.</p>
+    <p>The speaker details will be updated on this page by end of March.</p>
+    <p>Open-source, an open community, open to all for opportunities.</p>"
+    type: diversity
