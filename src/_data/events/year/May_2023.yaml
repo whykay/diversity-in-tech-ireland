@@ -11,3 +11,64 @@ eventlistings:
     desc: "<p>Calling all female founders!  Got an idea for a tech product but not sure how to get started? Or need some tips on how to brief and contract a coder? Want to hear from award winning tech female founders on how to avoid tech product design pitfalls. Or interested in how the low code and no code revolution can help shape your prototype.</p>
     <p>We are delighted to announce that our first TechFoundHer Bootcamp takes place on Tuesday 2nd May 2023 at the historic Mansion House in Dublin 2.</p>"
     type: diversity
+
+  - name: "(Online) SQL Ireland User Group: Batch Mode Improvements Leveraging Modern Hardware"
+    url: "https://www.meetup.com/sqlireland/events/292657673/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-05-02T18:30:00Z
+    end_datetime: 2023-05-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: Lockpicking Social"
+    url: "https://www.meetup.com/infosec-ni/events/292383460/"
+    region: 🇬🇧
+    date_added: 2023-04-07
+    start_datetime: 2023-05-03T19:00:00Z
+    end_datetime: 2023-05-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(In-Person) BelfAWSt Meetup: May the Fourth Be With You! @ River House Belfast"
+    url: "https://www.meetup.com/belfawst-meetup/events/292601488/"
+    region: 🇬🇧
+    date_added: 2023-04-07
+    start_datetime: 2023-05-04T18:00:00Z
+    end_datetime: 2023-05-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Automation and Software Testing: Improve your testing with slicing and data @ Version 1"
+    url: "https://www.meetup.com/belfast-automation-software-testing/events/291815196/"
+    region: 🇬🇧
+    date_added: 2023-04-07
+    start_datetime: 2023-05-04T18:00:00Z
+    end_datetime: 2023-05-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Indie Hackers Dublin: Casual Indie Hackers Coffee Chat"
+    url: "https://www.meetup.com/sqlireland/events/292657673/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-05-06T12:00:00Z
+    end_datetime: 2023-05-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) React Dublin Spring Meetup: Using React Realm and AI & more"
+    url: "https://www.meetup.com/react-community-dublin/events/292251243/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-05-11T16:30:00Z
+    end_datetime: 2023-05-11T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

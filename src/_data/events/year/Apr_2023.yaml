@@ -273,3 +273,156 @@ eventlistings:
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
     <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>"
     type: diversity
+
+  - name: "(In-Person) Dublin tech meetup: Wednesday Tech Meet Up"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/292732153/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-12T18:00:00Z
+    end_datetime: 2023-04-12T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Science: How to Think About the Future @ Dogpatch Labs"
+    url: "https://www.meetup.com/dublin-data-science/events/292655736/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-12T18:30:00Z
+    end_datetime: 2023-04-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/292433833/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-12T19:00:00Z
+    end_datetime: 2023-04-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) The Games Co-Op: Okaypril @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/292574760/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-12T19:00:00Z
+    end_datetime: 2023-04-12T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) HireBrain - Tech Career Meetup: Improve Your CV! Interactive Workshop for Tech Experts @ SEDA College"
+    url: "https://www.meetup.com/hirebrain-tech-carreer-meetup/events/292658817"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-17T18:00:00Z
+    end_datetime: 2023-04-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyLadies Dublin April Meetup @ LinkedIn"
+    url: "https://www.meetup.com/hirebrain-tech-carreer-meetup/events/292658817"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-18T17:30:00Z
+    end_datetime: 2023-04-18T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Talk: How to test Machine Learning code in Python? by Joanna 
+          Lenczuk</p>
+          <p>💻 Bring your own laptop (code on own project, looking for help, demo something, break out sesh with speaker, what happens at PyLadies keeps going and being awesome! 😆)</p>"
+    type: diversity
+  - name: "(In-Person) DevOps Belfast"
+    url: "https://www.meetup.com/devops-belfast/events/291773342/"
+    region: 🇬🇧
+    date_added: 2023-04-07
+    start_datetime: 2023-04-18T18:30:00Z
+    end_datetime: 2023-04-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Newry Digital: An Incident Management Special. Never waste a good incident!"
+    url: "https://www.meetup.com/newry-digital/events/292689968/"
+    region: 🇬🇧
+    date_added: 2023-04-07
+    start_datetime: 2023-04-19T19:00:00Z
+    end_datetime: 2023-04-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Talks - in Person event with Luke Mackey CEO www.yonder.app @ Martinsen Mayer"
+    url: "https://www.meetup.com/dublin-tech-talks/events/292552457/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-25T17:30:00Z
+    end_datetime: 2023-04-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Personio Platform & Pizzas #4 @ Personio"
+    url: "https://www.meetup.com/personios-platform-pizzas/events/292149152/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-26T17:30:00Z
+    end_datetime: 2023-04-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup @ Waterford Treasures:Skupper Networking & A Developers Role in an Agile team @ Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/292680944/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-11T19:00:00Z
+    end_datetime: 2023-04-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/292732388/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-12T18:00:00Z
+    end_datetime: 2023-04-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) UX Talks - Anthony Hobday, Interface design expert"
+    url: "https://www.meetup.com/ux-talks/events/292710517/"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-19T18:30:00Z
+    end_datetime: 2023-04-19T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Talk: AI - Debunking Myths @ EY Cork"
+    url: "https://www.eventbrite.ie/e/tech-talk-ai-debunking-myths-tickets-590222781227"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-20T07:30:00Z
+    end_datetime: 2023-04-20T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Rent the Runway: Fireside Chat with Anushka Salinas and Ciara O;Brien @ The Portershed"
+    url: "https://www.eventbrite.ie/e/rent-the-runway-fireside-chat-with-anushka-salinas-and-ciara-obrien-tickets-577061034087"
+    region: 🇮🇪
+    date_added: 2023-04-07
+    start_datetime: 2023-04-19T18:00:00Z
+    end_datetime: 2023-04-19T19:30:00Z
+    new: true
+    recurring: false
+    desc: "Galway business and technology communities are invited to attend a live fireside chat with visiting Rent the Runway President & COO, Anushka Salinas, and Irish Times Business and Technology journalist, Ciara O'Brien."
+    type: diversity
