@@ -63,7 +63,7 @@ eventlistings:
     date_added: 2023-03-20
     start_datetime: 2023-04-26T18:00:00Z
     end_datetime: 2023-04-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>GDG Dublin collaborates with MongoDB Dublin for an evening of talks and networking. This will be a post-celebration of the International Women's Day Event on March 8th.</p>
     <p>The <a href=\"https://sessionize.com/dare-to-be-iwd2023/\">CFP</a> is open from March 09 - March 20, 2023. Please submit your talks on a topic you like; Android, Flutter, Cloud, Firebase, Career Development, ML/AI, Databases, Soft Skills, and more.</p>
@@ -77,7 +77,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-07T11:30:00Z
     end_datetime: 2023-04-07T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -87,7 +87,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-07T13:15:00Z
     end_datetime: 2023-04-07T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -97,7 +97,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-07T14:15:00Z
     end_datetime: 2023-04-07T14:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -107,7 +107,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-07T15:00:00Z
     end_datetime: 2023-04-07T15:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startup
@@ -117,7 +117,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-01T12:00:00Z
     end_datetime: 2023-04-01T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -127,7 +127,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-03T18:00:00Z
     end_datetime: 2023-04-03T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: Geeking out
@@ -137,7 +137,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-04T18:30:00Z
     end_datetime: 2023-04-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -147,7 +147,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-05T19:00:00Z
     end_datetime: 2023-04-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: geeking out
@@ -157,7 +157,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-06T19:00:00Z
     end_datetime: 2023-04-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: geeking out
@@ -167,7 +167,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-12T18:30:00Z
     end_datetime: 2023-04-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -177,7 +177,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-13T18:30:00Z
     end_datetime: 2023-04-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -187,7 +187,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-13T18:30:00Z
     end_datetime: 2023-04-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -197,7 +197,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-17T18:00:00Z
     end_datetime: 2023-04-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -207,7 +207,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-18T18:00:00Z
     end_datetime: 2023-04-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -217,7 +217,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-18T18:30:00Z
     end_datetime: 2023-04-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -227,7 +227,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-19T10:00:00Z
     end_datetime: 2023-04-19T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -237,7 +237,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-20T18:00:00Z
     end_datetime: 2023-04-20T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -247,7 +247,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-26T18:30:00Z
     end_datetime: 2023-04-26T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -257,7 +257,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-27T08:00:00Z
     end_datetime: 2023-04-27T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
     <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2023-03-29
     start_datetime: 2023-04-06T18:30:00Z
     end_datetime: 2023-04-06T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Girl Develop It's mission to empower career-age women to get tech education. This will be an informal event where members can meet each other and collaborate!</p>
     <p>This month we will pick an exercise from exercism.org in JavaScript and all work on the same problem.</p>"
