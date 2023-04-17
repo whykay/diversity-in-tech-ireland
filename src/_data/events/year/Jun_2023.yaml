@@ -10,3 +10,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) WITS Leadership Coaching Series - Episode 3/3: Resolving Conflict"
+    url: "https://www.eventbrite.ie/e/wits-leadership-coaching-series-episode-33-resolving-conflict-tickets-568713295777"
+    region: 🇮🇪
+    date_added: 2023-04-17
+    start_datetime: 2023-06-13T28:30:00Z
+    end_datetime: 2023-06-13T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We all have issues with conflict now and again. When the case is the behaviour of others, it can be challenging and stressful as a leader to navigate both for ourselves and among our team members. Too often, we fear upsetting the other person. However, internalising problems causes us to behave differently toward the other person. We also start to label that person as 'bad' and seek evidence to support this, thus damaging the relationship in the long run.</p>
+    <p>What happens when the conflict affects your team? What can you do when it is due to cultural differences? How do you explain poor performance or resignations of crucial talent due to internal conflicts, within your team or with others, that have failed to be resolved?</p>"
+    type: diversity

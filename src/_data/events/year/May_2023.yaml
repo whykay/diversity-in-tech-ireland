@@ -72,3 +72,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) WITS Leadership Coaching Series - Episode 1/3: Unpacking the leader in you @ AWS Startup Loft Dublin"
+    url: "https://www.eventbrite.ie/e/wits-leadership-coaching-series-episode-13-unpacking-the-leader-in-you-tickets-566917464397"
+    region: 🇮🇪
+    date_added: 2023-04-17
+    start_datetime: 2023-05-16T09:30:00Z
+    end_datetime: 2023-05-16T12:00:00Z
+    new: false
+    recurring: false
+    desc: "After last year's highly successful coaching workshops on self-confidence in the workplace, we are very excited to propose another WITS Coaching Series in 2023, this time focusing on leadership! Increasing the part of women in leadership positions in STEM requires multiple actions from multiple stakeholders. Focusing on what is in your control, you may feel the need for greater awareness and confidence about your potential as a leader. Are you ready to uncover your superpower? Discover what makes you unique, your leadership niche?"
+    type: diversity
+  - name: "(Online) WITS Leadership Coaching Series - Episode 2/3: Influencing with impact"
+    url: "https://www.eventbrite.ie/e/wits-leadership-coaching-series-episode-23-influencing-with-impact-tickets-568710758187"
+    region: 🇮🇪
+    date_added: 2023-04-17
+    start_datetime: 2023-05-30T18:30:00Z
+    end_datetime: 2023-05-30T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>During this second session of our Leadership Coaching Series, we will focus on credibility and impact. Do you face challenges convincing your teammates, peers and business partners going in the direction you want, to achieve your business and/or career goals?</p>
+    <p>This practical session will be particularly beneficial to people new to a team, organisation or project. For this to be effective, you must have a specific group or individual in mind. This online session will be highly practical and interactive: together, we will create an action plan to boost strengths and opportunities and reduce the impact or mitigate blockers. Get ready to actively take part in the discussion and practice!</p>"
+    type: diversity
