@@ -110,8 +110,8 @@ eventlistings:
     url: "https://www.eventbrite.co.uk/e/black-girls-in-tech-ireland-launch-tickets-625234943547"
     region: 🇮🇪
     date_added: 2023-04-28
-    start_datetime: 2023-05-16T18:30:00Z
-    end_datetime: 2023-05-16T20:30:00Z
+    start_datetime: 2023-05-17T18:00:00Z
+    end_datetime: 2023-05-17T21:00:00Z
     new: false
     recurring: false
     desc: "<p>We are thrilled to announce that BGIT IRELAND is hosting our highly anticipated launch event in Dublin, Ireland, on the 17th of May. This is an exciting opportunity for our community to come together and celebrate this milestone with us.</p>"
@@ -458,3 +458,65 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Join a Startup! @ Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/join-a-startup-tickets-629870548767"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-26T10:00:00Z
+    end_datetime: 2023-05-26T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(In-Person) Founders Talent Accelerator Launch @ Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/founders-talent-accelerator-launch-tickets-616976632717"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T18:00:00Z
+    end_datetime: 2023-05-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(In-Person) Tech Gateway presents \"Big Boost Mondays\" Dublin Microsoft"
+    url: "https://www.eventbrite.ie/e/tech-gateway-presents-big-boost-mondays-dublin-microsoft-tickets-610949044037"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-15T12:00:00Z
+    end_datetime: 2023-05-15T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Thank you to Dogpatch Labs for our first \"Big Boost Mondays\" Dublin event - the monthly Tech & DEI meet-up, helping you find your pathway into technology in the city!</p>
+    <p>Join us for our next \"Big Boost Mondays\" Dublin event at Microsoft on Monday 15th May!  - With guest speakers who are leaders in tech plus a special showcase of projects with a TU Dublin Computer Engineering Degree Show 2023 by TU Dublin Students.</p>"
+    type: diversity
+  - name: "(In-Person) Tech Talk Series: Mark Kelly, AI Ireland, AI Unlocked: Discovering Market Trends and the Limitless Potential of Artificial Intelligence @ Sligo Park Hotel"
+    url: "https://www.aimcentre.ie/tech-talk"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-11T07:30:00Z
+    end_datetime: 2023-05-11T09:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Talk Series: Sinead A O Connor, TCD, Big Data: Data is the New Currency @ Sligo Park Hotel"
+    url: "https://www.aimcentre.ie/tech-talk"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-18T07:30:00Z
+    end_datetime: 2023-05-18T09:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Talk Series: Richard Kennedy, InterTrade Ireland, The Three P's of Business Success: People, Profit, and Planet @ Sligo Park Hotel"
+    url: "https://www.aimcentre.ie/tech-talk"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T07:30:00Z
+    end_datetime: 2023-05-25T09:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+

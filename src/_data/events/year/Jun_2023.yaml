@@ -88,3 +88,23 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Tech Talk Series: Brian Cooney, Beyond the Factory: Robotics in Industry, Today and Tomorrow @ Sligo Park Hotel"
+    url: "https://www.aimcentre.ie/tech-talk"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-06-01T07:30:00Z
+    end_datetime: 2023-06-01T09:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Talk Series: Bom Minnock, Navigating the Challenges of Global Supply Chains @ Sligo Park Hotel"
+    url: "https://www.aimcentre.ie/tech-talk"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-06-08T07:30:00Z
+    end_datetime: 2023-06-08T09:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
