@@ -443,7 +443,7 @@ eventlistings:
     date_added: 2023-04-12
     start_datetime: 2023-04-26T18:00:00Z
     end_datetime: 2023-04-26T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2023-04-18
     start_datetime: 2023-04-29T13:00:00Z
     end_datetime: 2023-04-29T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in AI is inviting you to meet our members and chat about various topics. We'd like to build a community to discuss and share our experiences in the AI field, upcoming job opportunities, upskilling opportunities and just anything that is on your mind too. We want to create an environment where you can connect to professionals in your area and share your concerns and successes.</p>"
     type: diversity
@@ -475,7 +475,7 @@ eventlistings:
     date_added: 2023-04-18
     start_datetime: 2023-04-29T13:00:00Z
     end_datetime: 2023-04-29T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in AI is inviting you to meet our members and chat about various topics. We'd like to build a community to discuss and share our experiences in the AI field, upcoming job opportunities, upskilling opportunities and just anything that is on your mind too. We want to create an environment where you can connect to professionals in your area and share your concerns and successes.</p>"
     type: diversity

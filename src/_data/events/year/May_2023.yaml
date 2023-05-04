@@ -18,7 +18,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-02T18:30:00Z
     end_datetime: 2023-05-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -28,7 +28,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-03T19:00:00Z
     end_datetime: 2023-05-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-04T18:00:00Z
     end_datetime: 2023-05-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -48,7 +48,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-04T18:00:00Z
     end_datetime: 2023-05-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-06T12:00:00Z
     end_datetime: 2023-05-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2023-04-07
     start_datetime: 2023-05-11T16:30:00Z
     end_datetime: 2023-05-11T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2023-04-17
     start_datetime: 2023-05-30T18:30:00Z
     end_datetime: 2023-05-30T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>During this second session of our Leadership Coaching Series, we will focus on credibility and impact. Do you face challenges convincing your teammates, peers and business partners going in the direction you want, to achieve your business and/or career goals?</p>
     <p>This practical session will be particularly beneficial to people new to a team, organisation or project. For this to be effective, you must have a specific group or individual in mind. This online session will be highly practical and interactive: together, we will create an action plan to boost strengths and opportunities and reduce the impact or mitigate blockers. Get ready to actively take part in the discussion and practice!</p>"
@@ -101,7 +101,7 @@ eventlistings:
     date_added: 2023-04-18
     start_datetime: 2023-05-16T18:30:00Z
     end_datetime: 2023-05-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are back with another in-person event hosted by Workday. We will have a couple of talks followed by a free-structured evening where people can code on their own projects, ask for help, chat and network.</p>"
     type: diversity
@@ -112,7 +112,349 @@ eventlistings:
     date_added: 2023-04-28
     start_datetime: 2023-05-16T18:30:00Z
     end_datetime: 2023-05-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are thrilled to announce that BGIT IRELAND is hosting our highly anticipated launch event in Dublin, Ireland, on the 17th of May. This is an exciting opportunity for our community to come together and celebrate this milestone with us.</p>"
     type: diversity
+
+  - name: "Women In DevOps: From Data-driven to people-driven: Leading with empathy in Tech"
+    url: "https://www.meetup.com/women-in-devops/events/293293768"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-31T18:30:00Z
+    end_datetime: 2023-05-31T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "AwakenHub: SheGenerate Showcase Event & SheGenerate 3.0 News"
+    url: "https://www.awakenhub.com/events-2/showcase"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-23T17:00:00Z
+    end_datetime: 2023-05-23T18:30:00Z
+    new: true
+    recurring: false
+    desc: "Join us for an AwakenHub SheGenerate Showcase with a selection of our 2nd SheGenerate cohort sharing their new businesses with you and a chance for one of them to win £500 on the night (and you hold the power on who wins through live vote)."
+    type: diversity
+  - name: "(In-Person) Technology's Deep Time @ Trinity Long Room Hub, TCD"
+    url: "https://www.eventbrite.ie/e/technologys-deep-time-tickets-626057834837"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-18T19:00:00Z
+    end_datetime: 2023-05-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) /generative_AI meetup Ireland"
+    url: "https://generative.broadstone.vc/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-16T18:00:00Z
+    end_datetime: 2023-05-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Learn Digital Systems Design Using Microcontrollers with Raspberry Pi Pico @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/292980619/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-16T19:15:00Z
+    end_datetime: 2023-05-16T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) SQL Ireland User Group:Batch Mode Improvements Leveraging Modern Hardware "
+    url: "https://www.meetup.com/sqlireland/events/292657673/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-09T18:30:00Z
+    end_datetime: 2023-05-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: May 2023 - Integrating AI into Development Practices & AutoML @ Waterford Treasures: Medieval Museum "
+    url: "https://www.meetup.com/waterford-tech-meetup/events/292993708/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-09T19:00:00Z
+    end_datetime: 2023-05-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Meet Up @ The Barge"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/293024944/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T18:00:00Z
+    end_datetime: 2023-05-10T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/293025120/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T18:00:00Z
+    end_datetime: 2023-05-10T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Python Ireland Meetup"
+    url: "https://www.meetup.com/pythonireland/events/289072445/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T18:30:00Z
+    end_datetime: 2023-05-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS Cloud Club at Ulster University: AWS Cloud Club Introduction Session @ Instil"
+    url: "https://www.meetup.com/aws-cloud-club-ulster-university/events/292869329/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T18:30:00Z
+    end_datetime: 2023-05-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Elections NI @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/293026768/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T19:00:00Z
+    end_datetime: 2023-05-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: I Wanna Take You To A May Bar @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/293041054/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T19:00:00Z
+    end_datetime: 2023-05-10T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Clojure Ireland Pub Meetup (May 2023) @ Against the Grain"
+    url: "https://www.meetup.com/clojure-ireland/events/293262008/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T19:30:00Z
+    end_datetime: 2023-05-10T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Java User Group (JUG): Organising and Governing Evolutionary Architectures with Pat Kua @ LibertyIT"
+    url: "https://www.meetup.com/belfastjug/events/293194584/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-11T17:30:00Z
+    end_datetime: 2023-05-11T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) React Dublin Spring Meetup: Using React Realm and AI, React Learning & more @ MongoDB"
+    url: "https://ti.to/gitnation/react-dublin-spring-meetup"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-11T18:30:00Z
+    end_datetime: 2023-05-11T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Global Azure Dublin 23 @ Microsoft Ireland"
+    url: "https://www.meetup.com/azuredublin/events/293280324/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-12T09:45:00Z
+    end_datetime: 2023-05-12T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/292773190/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-13T15:00:00Z
+    end_datetime: 2023-05-13T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/293079999/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-15T18:00:00Z
+    end_datetime: 2023-05-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "DevOps Belfast"
+    url: "https://www.meetup.com/devops-belfast/events/292967058/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-16T18:30:00Z
+    end_datetime: 2023-05-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Women in Tech Belfast: Be Seen. Be Heard. Women in Tech Belfast with Sinead Sharkey-Steenson @ Teamwork"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/293194218/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-17T17:30:00Z
+    end_datetime: 2023-05-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Tech Belfast are proud to present \"Be Seen.Be Heard.\" in collaboration with Sinead Sharkey-Steenson.</p>
+    <p>Sinead will take to the stage to offer advice on how women can make themselves more visible in male-dominated environments - as well as offering practical advice on how to get your voice heard! There will be a fireside chat with Sinead and some of the Teamwork team who have stories to tell from their own careers. It will feel informal and everyone will have a chance to talk and ask Sinead's advice on any scenarios.</p>"
+    type: diversity
+  - name: "(In-Person) ProductTank Dublin May @ Zendesk featuring Pippa Topp @ Zendesk"
+    url: "https://www.meetup.com/producttank-dublin/events/293143474/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-17T18:00:00Z
+    end_datetime: 2023-05-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: Movie Night - Sneakers @ Farset Labs"
+    url: "https://www.meetup.com/infosec-ni/events/292916218/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-17T19:00:00Z
+    end_datetime: 2023-05-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(In-Person) Newry Digital: Lightning Talks: HTMX, UptimeKuma @ 28 Corn Mkt"
+    url: "https://www.meetup.com/newry-digital/events/293021149/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-23T19:00:00Z
+    end_datetime: 2023-05-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ProductTank Belfast: World Product Day In Person Workshop: Reducing risk through lean experimentation @ Liberty IT"
+    url: "https://www.meetup.com/producttank-belfast/events/293038909/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-24T18:00:00Z
+    end_datetime: 2023-05-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Talks: Agility with Francesco Bianchi & Ana Mandic @ Martinsen Mayer"
+    url: "https://www.meetup.com/dublin-tech-talks/events/293147259/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T17:30:00Z
+    end_datetime: 2023-05-25T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Gophers: May 2023 meetup @ Teamwork"
+    url: "https://www.meetup.com/belfast-gophers/events/290300126/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T18:00:00Z
+    end_datetime: 2023-05-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) OWASP Belfast event! @ ESO"
+    url: "https://www.meetup.com/belfast-gophers/events/290300126/"
+    region: 🇬🇧
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T18:30:00Z
+    end_datetime: 2023-05-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin DevRel Meetup: May Meetup - online David Neal & LiranTal"
+    url: "https://www.meetup.com/dublin-devrel/events/293171615/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-31T18:00:00Z
+    end_datetime: 2023-05-31T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 119 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483063/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-09T19:00:00Z
+    end_datetime: 2023-05-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Google I/O Extended 2023 Watch Party @ Genesys"
+    url: "https://www.meetup.com/gdggalway/events/293278522/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-10T17:30:00Z
+    end_datetime: 2023-05-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork:AI assisted testing using postman and openAI @ Poppulo"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/293111105/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-16T18:00:00Z
+    end_datetime: 2023-05-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Community Group: Cork Chapter: NGINX Meetup: May's Community Evening @ 89 S Mall"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/293041221/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-16T17:30:00Z
+    end_datetime: 2023-05-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Burbsec Galway second meeting! @ Keanes Oranmore"
+    url: "https://www.meetup.com/burbsec-galway/events/293221642/"
+    region: 🇮🇪
+    date_added: 2023-05-04
+    start_datetime: 2023-05-25T19:00:00Z
+    end_datetime: 2023-05-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
