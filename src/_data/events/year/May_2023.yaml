@@ -466,8 +466,9 @@ eventlistings:
     end_datetime: 2023-05-26T13:30:00Z
     new: true
     recurring: false
-    desc: 
-    type: startups
+    desc: "<p>Calling all software engineers, data analysts, full stack developers, UI/UX experts, marketing gurus, sales experts, operations specialists, and anyone interested in tech startups! Startups in our Women Entrepreneurs Network are growing their teams and want you.</p>
+    <p>If you are interested in jumping into a world of opportunity, dynamism, building and creating, exploring and learning (and the startup rollercoaster life) - then you should join us at this May's Women Entrepreneurs Network event here in Dogpatch, where you will meet 10 startups looking to change the world.</p>"
+    type: diversity
   - name: "(In-Person) Founders Talent Accelerator Launch @ Dogpatch Labs"
     url: "https://www.eventbrite.ie/e/founders-talent-accelerator-launch-tickets-616976632717"
     region: 🇮🇪
