@@ -524,7 +524,7 @@ eventlistings:
   - name: "(In-Person) Belfast Software Craftsmanship Community: Test Driven Development Dojo @ Farset Labs"
     url: "https://www.meetup.com/belfast-software-craftsmanship-community/events/293404900/"
     region: 🇬🇧
-    date_added: 2023-05-19
+    date_added: 2023-05-17
     start_datetime: 2023-05-18T17:30:00Z
     end_datetime: 2023-05-18T19:30:00Z
     new: true
@@ -534,7 +534,7 @@ eventlistings:
   - name: "(In-Person) OWASP Dublin - May Meetup @ KPMG"
     url: "https://www.meetup.com/owasp-dublin/events/293492626/"
     region: 🇮🇪
-    date_added: 2023-05-19
+    date_added: 2023-05-17
     start_datetime: 2023-05-23T18:00:00Z
     end_datetime: 2023-05-23T20:00:00Z
     new: true
@@ -544,7 +544,7 @@ eventlistings:
   - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
     url: "https://www.meetup.com/women-who-code-belfast/events/293340885/"
     region: 🇬🇧
-    date_added: 2023-05-19
+    date_added: 2023-05-17
     start_datetime: 2023-05-25T08:00:00Z
     end_datetime: 2023-05-25T09:00:00Z
     new: true
@@ -555,7 +555,7 @@ eventlistings:
   - name: "(In-Person) 3D Meetup Dublin: Summer Social 3DMeetup @ Harbourmaster"
     url: "https://www.meetup.com/3d-meetup-dublin/events/293406920/"
     region: 🇮🇪
-    date_added: 2023-05-19
+    date_added: 2023-05-17
     start_datetime: 2023-05-25T18:00:00Z
     end_datetime: 2023-05-25T21:00:00Z
     new: true
@@ -565,10 +565,32 @@ eventlistings:
   - name: "(Online) WP Belfast: Debugging, Speed Testing & Full Site Editing. And 13 going on 20 years"
     url: "https://www.meetup.com/wpbelfast/events/293567590/"
     region: 🇬🇧
-    date_added: 2023-05-19
+    date_added: 2023-05-17
     start_datetime: 2023-05-25T19:30:00Z
     end_datetime: 2023-05-25T21:30:00Z
     new: true
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) TechBrek: Space for Growth - Growing the Space Sector in Ireland @ Ibec"
+    url: "https://ictskillnet.ie/events/techbrek-23rd/"
+    region: 🇮🇪
+    date_added: 2023-05-18
+    start_datetime: 2023-05-23T08:30:00Z
+    end_datetime: 2023-05-23T10:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women in AI: WaiTUTORIAL - Decision Trees in Pythonc"
+    url: "https://www.eventbrite.ca/e/waitutorial-decision-trees-in-python-tickets-637991749497"
+    region: 🇮🇪
+    date_added: 2023-05-18
+    start_datetime: 2023-05-25T18:00:00Z
+    end_datetime: 2023-05-23T18:40:00Z
+    new: true
+    recurring: false
+    desc: "<p>WaiTUTORIAL program is the latest iniative from Women in AI Ireland team, which is organised as a short seminar series that provide hands-on tutorials that can help you to understand the usage of AI/ Data Science available tools more effectively.</p>
+    <p>This session provides a beginner-friendly, short and sweet introduction to decision trees. Decision trees are powerful supervised machine learning algorithms that are easy to understand, visualise and interpret. A great tool to facilitate decision-making on complex datasets or just to explore them, adaptable in different contexts. In this tutorial we will see how to create a decision tree based on self-tracking data, to explore the relationship between focusing techniques and productivity levels in various situations.</p>"
+    type: diversity
