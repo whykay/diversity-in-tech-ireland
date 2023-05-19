@@ -152,3 +152,25 @@ eventlistings:
     <p>We are super excited to announce we will be reviving our in-person events with our Bytes n' Brew morning meet-up. This event is kindly being hosted by Allstate Northern Ireland.</p>
     <p>Bytes n' Brew is a social morning event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Pop in before work or class to make new friends in the community, ask others for career advice, coding help or mentoring.</p>"
     type: diversity
+
+  - name: "(In-Person) YourYNetwork: Summer Get-Together - Celebrating Social Entrepreneurs"
+    url: "https://www.eventbrite.ie/e/summer-get-together-celebrating-social-entrepreneurs-tickets-624310207637?aff=erelexpmlt"
+    region: 🇮🇪
+    date_added: 2023-05-19
+    start_datetime: 2023-06-27T17:00:00Z
+    end_datetime: 2023-06-27T19:00:00Z
+    new: true
+    recurring: false
+    desc: "We are excited to be hosting another one of our social entrepreneurship networking events series. Supported by KPesa and Techstars Startup Weekend Women Dublin. An evening of networking and an interactive Panel Discussion from aspiring Irish Social Innovators. Come and be inspired by the impact they want to make in the world around us!"
+    type: diversity
+  - name: "(In-Person) Meetup for Meetup Leaders with Meetup's Greg Giusti
+@ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/293641336"
+    region: 🇮🇪
+    date_added: 2023-05-19
+    start_datetime: 2023-06-09T11:00:00Z
+    end_datetime: 2023-06-09T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: community
