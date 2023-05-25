@@ -174,3 +174,15 @@ eventlistings:
     recurring: false
     desc: 
     type: community
+
+
+  - name: "(In-Person) Build Your Own Satellite Ground Station @ Benchspace Cork"
+    url: "https://benchspacecork.ie/events/satellite_ground_station_9june/"
+    region: 🇮🇪
+    date_added: 2023-05-25
+    start_datetime: 2023-06-09T18:30:00Z
+    end_datetime: 2023-06-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
