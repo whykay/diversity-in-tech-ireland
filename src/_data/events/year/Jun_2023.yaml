@@ -186,3 +186,94 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) TU Dublin State of Play 2023"
+    url: "https://www.eventbrite.ie/e/tu-dublin-state-of-play-2023-tickets-640456692207"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-02T17:00:00Z
+    end_datetime: 2023-06-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Ennis Makerspace: maker night"
+    url: "https://www.meetup.com/Ennis-Makerspace/events/293915480/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-07T17:00:00Z
+    end_datetime: 2023-06-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Indie Hackers Dublin: Casual Indie Hackers Coffee Chat @ The Gasworks"
+    url: "https://www.meetup.com/indie-hackers-dublin/events/293368981/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-03T12:00:00Z
+    end_datetime: 2023-06-03T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) TOG Hackerspace: Craft Night, Knitting, Sewing and Art, Open to All"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/293552179/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-04T18:00:00Z
+    end_datetime: 2023-06-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Power BI User Group: Melissa Coates: Increasing Trustworthiness of Power BI Content"
+    url: "https://www.meetup.com/dublinpug/events/293690928/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-06T18:00:00Z
+    end_datetime: 2023-06-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) SQL Ireland User Group: SQL Server 2022 Hidden Gems"
+    url: "https://www.meetup.com/sqlireland/events/292548673/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-06T18:30:00Z
+    end_datetime: 2023-06-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Meet Up @ The Barge"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/293616138/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-07T18:00:00Z
+    end_datetime: 2023-06-07T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Clojure Summer Pub Meetup @ Against the Grain"
+    url: "https://www.meetup.com/clojure-ireland/events/293261173/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-07T19:30:00Z
+    end_datetime: 2023-06-07T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/293672092/"
+    region: 🇮🇪
+    date_added: 2023-06-02
+    start_datetime: 2023-06-10T15:00:00Z
+    end_datetime: 2023-06-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
