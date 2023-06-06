@@ -290,9 +290,34 @@ conferences:
     date_added: 2023-05-18
     start_datetime: 2023-05-29T09:15:00Z
     end_datetime: 2023-06-01T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for Circular Hotspot Dublin 2023, a four-day celebration of the circular economy!</p>
     <p>This year, Dublin will host the 7th edition of the flagship Circular Economy Hotspot, an international platform showcasing ground-breaking circular initiatives, best practices, and innovation.</p>"
+    type: tech
+    status: active
+
+  - name: "Digital DNA Belfast '23"
+    url: "https://ti.to/digital-dna/digital-dna-belfast-2023"
+    region: 🇬🇧
+    date_added: 2023-06-06
+    start_datetime: 2023-06-07T09:00:00Z
+    end_datetime: 2023-06-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are getting excited to see you all down at St George's Market tomorrow. It is shaping up to be an amazing day with over 2000 attendees, 400 companies, a startup village, a networking app on the go and 4 stages full of some really inspirational and knowledgeable content.</p>
+    <p>Explore what the future looks like, connect with the change-makers tackling the biggest challenges facing business and society, and learn about the innovations that are changing our world today.</p>"
+    type: tech
+    status: active
+  - name: "Data Céilí - Conference Day"
+    url: "https://www.dataceili.io/"
+    region: 🇮🇪
+    date_added: 2023-06-06
+    start_datetime: 2023-06-08T09:00:00Z
+    end_datetime: 2023-06-09T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ireland's biggest Microsoft Data Platform event is back and we're excited to bring the 2023 event to you in person!</p>
+    <p>Training: Thu, 8th June / Conference: Fri, 9th June</p>"
     type: tech
     status: active
