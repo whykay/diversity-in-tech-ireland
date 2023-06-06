@@ -146,7 +146,7 @@ eventlistings:
     date_added: 2023-05-18
     start_datetime: 2023-06-01T08:00:00Z
     end_datetime: 2023-06-01T09:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women Who Code Belfast is BACK! 🎉 </p>
     <p>We are super excited to announce we will be reviving our in-person events with our Bytes n' Brew morning meet-up. This event is kindly being hosted by Allstate Northern Ireland.</p>
@@ -182,7 +182,7 @@ eventlistings:
     date_added: 2023-05-25
     start_datetime: 2023-06-09T18:30:00Z
     end_datetime: 2023-06-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -193,7 +193,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-02T17:00:00Z
     end_datetime: 2023-06-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -213,7 +213,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-03T12:00:00Z
     end_datetime: 2023-06-03T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -223,7 +223,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-04T18:00:00Z
     end_datetime: 2023-06-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -233,7 +233,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-06T18:00:00Z
     end_datetime: 2023-06-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -243,7 +243,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-06T18:30:00Z
     end_datetime: 2023-06-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -253,7 +253,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-07T18:00:00Z
     end_datetime: 2023-06-07T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -263,7 +263,7 @@ eventlistings:
     date_added: 2023-06-02
     start_datetime: 2023-06-07T19:30:00Z
     end_datetime: 2023-06-07T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
