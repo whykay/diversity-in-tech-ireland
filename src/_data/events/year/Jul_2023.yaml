@@ -1,0 +1,12 @@
+---
+eventlistings:
+  - name: "(In-Person) TechFoundHer - AWS Lunch & Learn Workshop for Start-ups @ AWS Ireland"
+    url: "https://www.eventbrite.ie/e/techfoundher-aws-lunch-learn-workshop-for-start-ups-tickets-651605618947"
+    region: 🇮🇪
+    date_added: 2023-04-08
+    start_datetime: 2023-07-12T12:00:00Z
+    end_datetime: 2023-07-12T14:00:00Z
+    new: true
+    recurring: false
+    desc: "Let's build the prototype for a start-up from scratch! Interactive workshop for female founders demoing AWS cloud technology to run, scale and grow your start-up - with lunch provided. Led by a team of Solutions Architects from AWS and Accenture - all amazing women in tech. Everyone welcome."
+    type: diversity
