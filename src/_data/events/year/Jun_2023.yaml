@@ -402,3 +402,267 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) AwakenHub: Meet The Women Founders Breakfast with AIB"
+    url: "https://www.eventbrite.com/e/meet-the-women-founders-breakfast-with-aib-tickets-633823672667"
+    region: 🇮🇪
+    date_added: 2023-06-10
+    start_datetime: 2023-06-22T08:15:00Z
+    end_datetime: 2023-06-22T09:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>AIB and AwakenHub are delighted to host an in-person breakfast in 10 Molesworth Street at 8.15am on 22 June 2022.</p>
+    <p>An opportunity to get to up to date on AwakenHub and AwakenAngels plans for 2023/4, hear from some of our women founders and get to know eachother.</p>"
+    type: diversity
+
+  - name: "(In-Person) Introducing sensors and DIY smart technology into our buildings @ Citizen's Innovation Lab (Limerick)"
+    url: "https://www.eventbrite.com/e/introducing-sensors-and-diy-smart-technology-into-our-buildings-tickets-646929602857"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-17T14:00:00Z
+    end_datetime: 2023-06-17T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Intro to 3D Printing @ Fab Lab Limerick"
+    url: "https://www.eventbrite.com/e/intro-to-3d-printing-tickets-638022110307"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-24T14:00:00Z
+    end_datetime: 2023-06-24T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Intro to Laser Cutting @ Fab Lab Limerick"
+    url: "https://www.eventbrite.com/e/intro-to-laser-cutting-tickets-638023223637"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-24T11:00:00Z
+    end_datetime: 2023-06-24T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) The Quantum Threat - Just how safe is the blockchain in the era of Quantum @ Dogpatch Labs"
+    url: "https://www.eventbrite.com/e/the-quantum-threat-just-how-safe-is-the-blockchain-in-the-era-of-quantum-tickets-656592685397"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-22T18:00:00Z
+    end_datetime: 2023-06-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/293720872/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-12T19:00:00Z
+    end_datetime: 2023-06-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Waterford Tech MeetupInfrastructure as Code Tools & Automation First Testing @ Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/293544505/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-13T19:00:00Z
+    end_datetime: 2023-06-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Meet Up @ The Barge"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/293763782/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T18:00:00Z
+    end_datetime: 2023-06-14T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Python Ireland Monthly Meetup @ Workday"
+    url: "https://www.meetup.com/pythonireland/events/292989512/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T18:30:00Z
+    end_datetime: 2023-06-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Elections NI @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/293766100/"
+    region: 🇬🇧
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T19:00:00Z
+    end_datetime: 2023-06-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Dancing In The Junelight
+ @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/293859260/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T19:00:00Z
+    end_datetime: 2023-06-14T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) InfoSec Dublin: Information Security Dublin Social @ Brannigans Bar"
+    url: "https://www.meetup.com/infosec-dublin/events/293980702/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T19:00:00Z
+    end_datetime: 2023-06-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) GDG Douglas - Google Developer Group: Showcasing Google MediaPipe for Audio/Video and Machine Learning @ Barlays Eagle Lab"
+    url: "https://www.meetup.com/gdg-douglas/events/294012213/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-15T18:00:00Z
+    end_datetime: 2023-06-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) HER+Data: Amazing Data Women @ Phorest"
+    url: "https://www.meetup.com/her-data/events/293932806/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-15T18:30:00Z
+    end_datetime: 2023-06-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: "We're back with another in person HER+Data meetup! An evening time event on Thursday June 15th @6:30pm Irish Time. We'll have 3 talks from 3 amazing women. Join, ask questions and meet other women who love data."
+    type: diversity
+  - name: "(In-Person) TOG Open Social @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/293989134/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-17T19:00:00Z
+    end_datetime: 2023-06-18T01:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) DevOps Belfast - TBC"
+    url: "https://www.meetup.com/devops-belfast/events/293400420/"
+    region: 🇬🇧
+    date_added: 2023-06-12
+    start_datetime: 2023-06-20T18:30:00Z
+    end_datetime: 2023-06-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Talks: 4 Case Studies of Measuring Customer Experience in New Ways and Improving CX"
+    url: "https://www.meetup.com/dublin-tech-talks/events/293442878/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-21T17:30:00Z
+    end_datetime: 2023-06-21T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/293915878/"
+    region: 🇬🇧
+    date_added: 2023-06-12
+    start_datetime: 2023-06-22T08:00:00Z
+    end_datetime: 2023-06-22T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/293972635/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-24T15:00:00Z
+    end_datetime: 2023-06-24T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Kubernetes Dublin Meetup @ Amazon Ireland"
+    url: "https://www.meetup.com/dublin-kubernetes-meetup/events/293320380/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-27T18:00:00Z
+    end_datetime: 2023-06-27T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin DevRel Meetup: Megan Slater & Alex Lakatos"
+    url: "https://www.meetup.com/dublin-devrel/events/294017081/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-28T18:00:00Z
+    end_datetime: 2023-06-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 120 @ Aye"
+    url: "https://www.meetup.com/corksec/events/290483064/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-13T19:00:00Z
+    end_datetime: 2023-06-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/294066882/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T18:00:00Z
+    end_datetime: 2023-06-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) UX Talks - Joey Banks, Webflow"
+    url: "https://www.meetup.com/ux-talks/events/293633454/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-14T18:00:00Z
+    end_datetime: 2023-06-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Cork Monthly meet-up @ Impala"
+    url: "https://www.meetup.com/dublin-linux-community/events/294126854/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-17T15:00:00Z
+    end_datetime: 2023-06-17T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Cork Community: Virtual Reality User Testing"
+    url: "https://www.meetup.com/ux-cork-community/events/293929581/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-06-21T18:00:00Z
+    end_datetime: 2023-06-21T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

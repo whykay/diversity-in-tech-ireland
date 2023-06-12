@@ -10,3 +10,24 @@ eventlistings:
     recurring: false
     desc: "Let's build the prototype for a start-up from scratch! Interactive workshop for female founders demoing AWS cloud technology to run, scale and grow your start-up - with lunch provided. Led by a team of Solutions Architects from AWS and Accenture - all amazing women in tech. Everyone welcome."
     type: diversity
+
+  - name: "(In-Person) Casual Indie Hackers Coffee Chat @ The Gasworks"
+    url: "https://www.meetup.com/indie-hackers-dublin/events/294056062/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-07-01T12:00:00Z
+    end_datetime: 2023-07-01T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "Ethical AI and Data Protection in Finance and Beyond"
+    url: "https://www.meetup.com/fintech_ai_in_finance/events/290043866/"
+    region: 🇮🇪
+    date_added: 2023-06-12
+    start_datetime: 2023-07-07T12:00:00Z
+    end_datetime: 2023-07-09T11:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
