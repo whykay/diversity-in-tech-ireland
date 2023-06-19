@@ -677,3 +677,14 @@ eventlistings:
     desc: "<p>The “Empowering Women to Lead Cyber Security” programs were established in 2021 with the aim of supporting the creation of a community of empowered and empowering female leaders in cyber and information assurance roles across the UK. Less than a year on and with the support of techUK and the Northern Ireland Cyber Security Centre, alongside our industry partners, we are now able to celebrate the graduation of the latest cohort of emerging cyber leaders from across Northern Ireland.</p>
     <p>On the 26th of June, the graduates will gather together to present the outputs from their last three months of “Challenge” work, in front of an audience of their peers and the broader cyber community . These “Challenges” represent some of the key issues facing society and the cyber eco-system that the profession can help to address and have been an invaluable opportunity for the participants to collaborate and grow as a group.</p>"
     type: diversity
+
+  - name: "(In-Person)Dublin Data Science: Data Science Madness @ Dogpatch Labs"
+    url: "https://www.meetup.com/Dublin-Data-Science/events/294013261"
+    region: 🇮🇪
+    date_added: 2023-06-19
+    start_datetime: 2023-06-29T18:30:00Z
+    end_datetime: 2023-06-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
