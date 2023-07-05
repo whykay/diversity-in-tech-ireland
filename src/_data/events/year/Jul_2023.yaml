@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2023-04-08
     start_datetime: 2023-07-12T12:00:00Z
     end_datetime: 2023-07-12T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's build the prototype for a start-up from scratch! Interactive workshop for female founders demoing AWS cloud technology to run, scale and grow your start-up - with lunch provided. Led by a team of Solutions Architects from AWS and Accenture - all amazing women in tech. Everyone welcome."
     type: diversity
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2023-06-12
     start_datetime: 2023-07-01T12:00:00Z
     end_datetime: 2023-07-01T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2023-06-12
     start_datetime: 2023-07-07T12:00:00Z
     end_datetime: 2023-07-09T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-05T19:00:00Z
     end_datetime: 2023-07-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -48,7 +48,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-06T19:00:00Z
     end_datetime: 2023-07-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-12T18:30:00Z
     end_datetime: 2023-07-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-17T18:00:00Z
     end_datetime: 2023-07-17T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -78,7 +78,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-17T18:00:00Z
     end_datetime: 2023-07-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2023-06-26
     start_datetime: 2023-07-05T18:00:00Z
     end_datetime: 2023-07-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -99,8 +99,50 @@ eventlistings:
     date_added: 2023-06-26
     start_datetime: 2023-07-08T16:30:00Z
     end_datetime: 2023-07-08T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This meetup is to get to know each other and be able to get new connections and Friendships.</p>
     <p>All women that are related to technology or interested in studying Software development or similar careers are welcome.</p>"
     type: diversity
+
+
+  - name: "(Hybrid) First Fridays for Startups: Welcome to the Ecosystem @ Ludgate Hub (Cork)"
+    url: "https://us02web.zoom.us/meeting/register/tZIvdumgqj8sGNRwCGRrAYAJBuVk7E0jT_s4"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T11:30:00Z
+    end_datetime: 2023-07-07T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Educate @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-/register"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T13:15:00Z
+    end_datetime: 2023-07-07T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Lightning Talks @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-LT"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T14:15:00Z
+    end_datetime: 2023-07-07T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Inspire @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-Inspire"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T15:00:00Z
+    end_datetime: 2023-07-07T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
