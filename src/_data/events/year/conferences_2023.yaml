@@ -352,7 +352,7 @@ conferences:
     date_added: 2023-06-12
     start_datetime: 2023-10-21T00:00:00Z
     end_datetime: 2023-10-21T00:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>Bringing together the whole development community of Northern Ireland, every year.</p>
     <p>📢 Call for Papers. Deadline: Sunday 13th August (23:59:59).</p>"
