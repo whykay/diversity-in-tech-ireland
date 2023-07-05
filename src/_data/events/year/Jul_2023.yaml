@@ -146,3 +146,103 @@ eventlistings:
     recurring: false
     desc: 
     type: startup
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/294309909/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-10T19:00:00Z
+    end_datetime: 2023-07-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Data Meetup: Building the modern data stack @ The Dean Dublin"
+    url: "https://www.meetup.com/thoughtspot-data-meetup/events/294448778/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-12T17:00:00Z
+    end_datetime: 2023-07-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/294424417/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-22T15:00:00Z
+    end_datetime: 2023-07-22T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Rust Dublin Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/294189748/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-25T18:30:00Z
+    end_datetime: 2023-07-25T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: Lockpicking Social @ The Woodworkeres"
+    url: "https://www.meetup.com/infosec-ni/events/294209748/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-05T19:00:00Z
+    end_datetime: 2023-07-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(In-Person) PyBelfast July: Summer Social"
+    url: "https://www.meetup.com/pybelfast/events/294324346/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-19T18:00:00Z
+    end_datetime: 2023-07-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Gopher: July 2023 meetup @ Teamwork"
+    url: "https://www.meetup.com/belfast-gophers/events/290300427/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-20T18:00:00Z
+    end_datetime: 2023-07-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 121 @ Aye"
+    url: "https://www.meetup.com/corksec/events/294055134/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-11T19:00:00Z
+    end_datetime: 2023-07-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Meetup: July's Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/294474785/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-13T18:00:00Z
+    end_datetime: 2023-07-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Playtest Dublin - Board Game Designer Meetup @ Against the Grain"
+    url: "https://www.eventbrite.ie/e/playtest-dublin-board-game-designer-meetup-july-2023-tickets-671054651527"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-05T19:00:00Z
+    end_datetime: 2023-07-05T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: irishgamedev
