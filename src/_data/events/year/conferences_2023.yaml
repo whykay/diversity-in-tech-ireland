@@ -345,3 +345,16 @@ conferences:
     desc: "<p>Big Data Belfast is a one-day data and technology conference hosted by data analytics solution provider Analytics Engines. Returning now for its 9th year, the conference has established itself as a highlight of the Northern Ireland tech events calendar.</p>"
     type: tech
     status: active
+
+  - name: "NIDC"
+    url: "https://www.nidevconf.com/"
+    region: 🇬🇧
+    date_added: 2023-06-12
+    start_datetime: 2023-10-21T00:00:00Z
+    end_datetime: 2023-10-21T00:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Bringing together the whole development community of Northern Ireland, every year.</p>
+    <p>📢 Call for Papers. Deadline: Sunday 13th August (23:59:59).</p>"
+    type: tech
+    status: active

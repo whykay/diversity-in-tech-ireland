@@ -246,3 +246,54 @@ eventlistings:
     recurring: false
     desc: 
     type: irishgamedev
+  - name: "(In-Person) Intro to 3D Printing @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-3d-printing-tickets-658362097757"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-29T14:00:00Z
+    end_datetime: 2023-07-29T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) I-STEM Roundtable @ EPIC"
+    url: "https://www.eventbrite.ie/e/i-stem-roundtable-tickets-663465742897"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-24T11:00:00Z
+    end_datetime: 2023-07-24T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: STEM
+  - name: "(In-Person) Intro to Laser Cutting @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-laser-cutting-tickets-658360091757"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-29T11:00:00Z
+    end_datetime: 2023-07-29T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Techies In Dublin Networking Event. Come Join us ;-) @ Whelan's"
+    url: "https://www.eventbrite.ie/e/techies-in-dublin-networking-event-come-join-us--tickets-665599434827"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T20:00:00Z
+    end_datetime: 2023-07-07T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Hybrid) ARTISTS DISCUSSION #2:
+FULL STACK FEMINISM, ART, INTERSECTIONALITY & THE DIGITAL @ IMMA"
+    url: "https://imma.ie/whats-on/artists-discussion-full-stack-feminism-art-intersectionality-the-digital-2/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-06T17:30:00Z
+    end_datetime: 2023-07-06T19:15:00Z
+    new: true
+    recurring: false
+    desc: "IMMA and Full Stack Feminism in Digital Humanities present a discussion that explores digital art practice through an intersectional lens. Artists Yarli Allison, Lauren Kelly, and Roibí O'Rua will address the opportunities afforded by decentering traditional voices, practices and histories in digital art and humanities."
+    type: diversity
