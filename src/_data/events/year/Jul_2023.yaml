@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2023-04-08
     start_datetime: 2023-07-12T12:00:00Z
     end_datetime: 2023-07-12T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Let's build the prototype for a start-up from scratch! Interactive workshop for female founders demoing AWS cloud technology to run, scale and grow your start-up - with lunch provided. Led by a team of Solutions Architects from AWS and Accenture - all amazing women in tech. Everyone welcome."
     type: diversity
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2023-06-12
     start_datetime: 2023-07-01T12:00:00Z
     end_datetime: 2023-07-01T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2023-06-12
     start_datetime: 2023-07-07T12:00:00Z
     end_datetime: 2023-07-09T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-05T19:00:00Z
     end_datetime: 2023-07-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -48,7 +48,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-06T19:00:00Z
     end_datetime: 2023-07-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-12T18:30:00Z
     end_datetime: 2023-07-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-17T18:00:00Z
     end_datetime: 2023-07-17T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -78,7 +78,222 @@ eventlistings:
     date_added: 2023-06-21
     start_datetime: 2023-07-17T18:00:00Z
     end_datetime: 2023-07-17T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "(In-Person) Ruby Ireland: Ruby Everywhere! One Codebase To Rule All Platforms? @ Kitman Labs"
+    url: "https://www.meetup.com/rubyireland/events/294300999"
+    region: 🇮🇪
+    date_added: 2023-06-26
+    start_datetime: 2023-07-05T18:00:00Z
+    end_datetime: 2023-07-05T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in Tech First Meetup in Dun Laoghaire"
+    url: "https://www.meetup.com/women-in-technology-coding-academy-meetup-group/events/294104960/"
+    region: 🇮🇪
+    date_added: 2023-06-26
+    start_datetime: 2023-07-08T16:30:00Z
+    end_datetime: 2023-07-08T18:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>This meetup is to get to know each other and be able to get new connections and Friendships.</p>
+    <p>All women that are related to technology or interested in studying Software development or similar careers are welcome.</p>"
+    type: diversity
+
+
+  - name: "(Hybrid) First Fridays for Startups: Welcome to the Ecosystem @ Ludgate Hub (Cork)"
+    url: "https://us02web.zoom.us/meeting/register/tZIvdumgqj8sGNRwCGRrAYAJBuVk7E0jT_s4"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T11:30:00Z
+    end_datetime: 2023-07-07T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Educate @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-/register"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T13:15:00Z
+    end_datetime: 2023-07-07T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Lightning Talks @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-LT"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T14:15:00Z
+    end_datetime: 2023-07-07T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays for Startups: Inspire @ Ludgate Hub (Cork)"
+    url: "https://www.crowdcast.io/e/first-fridays--july-7th-Inspire"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T15:00:00Z
+    end_datetime: 2023-07-07T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/294309909/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-10T19:00:00Z
+    end_datetime: 2023-07-10T21:00:00Z
     new: true
     recurring: false
     desc: 
     type: maker
+  - name: "(In-Person) Dublin Data Meetup: Building the modern data stack @ The Dean Dublin"
+    url: "https://www.meetup.com/thoughtspot-data-meetup/events/294448778/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-12T17:00:00Z
+    end_datetime: 2023-07-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/294424417/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-22T15:00:00Z
+    end_datetime: 2023-07-22T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Rust Dublin Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/294189748/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-25T18:30:00Z
+    end_datetime: 2023-07-25T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: Lockpicking Social @ The Woodworkeres"
+    url: "https://www.meetup.com/infosec-ni/events/294209748/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-05T19:00:00Z
+    end_datetime: 2023-07-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(In-Person) PyBelfast July: Summer Social"
+    url: "https://www.meetup.com/pybelfast/events/294324346/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-19T18:00:00Z
+    end_datetime: 2023-07-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Gopher: July 2023 meetup @ Teamwork"
+    url: "https://www.meetup.com/belfast-gophers/events/290300427/"
+    region: 🇬🇧
+    date_added: 2023-07-05
+    start_datetime: 2023-07-20T18:00:00Z
+    end_datetime: 2023-07-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 121 @ Aye"
+    url: "https://www.meetup.com/corksec/events/294055134/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-11T19:00:00Z
+    end_datetime: 2023-07-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Meetup: July's Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/294474785/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-13T18:00:00Z
+    end_datetime: 2023-07-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Playtest Dublin - Board Game Designer Meetup @ Against the Grain"
+    url: "https://www.eventbrite.ie/e/playtest-dublin-board-game-designer-meetup-july-2023-tickets-671054651527"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-05T19:00:00Z
+    end_datetime: 2023-07-05T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: irishgamedev
+  - name: "(In-Person) Intro to 3D Printing @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-3d-printing-tickets-658362097757"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-29T14:00:00Z
+    end_datetime: 2023-07-29T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) I-STEM Roundtable @ EPIC"
+    url: "https://www.eventbrite.ie/e/i-stem-roundtable-tickets-663465742897"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-24T11:00:00Z
+    end_datetime: 2023-07-24T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: STEM
+  - name: "(In-Person) Intro to Laser Cutting @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-laser-cutting-tickets-658360091757"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-29T11:00:00Z
+    end_datetime: 2023-07-29T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Techies In Dublin Networking Event. Come Join us ;-) @ Whelan's"
+    url: "https://www.eventbrite.ie/e/techies-in-dublin-networking-event-come-join-us--tickets-665599434827"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-07T20:00:00Z
+    end_datetime: 2023-07-07T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Hybrid) ARTISTS DISCUSSION #2:
+FULL STACK FEMINISM, ART, INTERSECTIONALITY & THE DIGITAL @ IMMA"
+    url: "https://imma.ie/whats-on/artists-discussion-full-stack-feminism-art-intersectionality-the-digital-2/"
+    region: 🇮🇪
+    date_added: 2023-07-05
+    start_datetime: 2023-07-06T17:30:00Z
+    end_datetime: 2023-07-06T19:15:00Z
+    new: true
+    recurring: false
+    desc: "IMMA and Full Stack Feminism in Digital Humanities present a discussion that explores digital art practice through an intersectional lens. Artists Yarli Allison, Lauren Kelly, and Roibí O'Rua will address the opportunities afforded by decentering traditional voices, practices and histories in digital art and humanities."
+    type: diversity
