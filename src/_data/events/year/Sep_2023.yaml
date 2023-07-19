@@ -21,3 +21,34 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Fintech and Artificial Intelligence in Finance: Ethical AI and Data Protection in Finance and Beyond"
+    url: "https://www.meetup.com/fintech_ai_in_finance/events/290043866/"
+    region: 🇮🇪
+    date_added: 2023-07-19
+    start_datetime: 2023-09-02T09:00:00Z
+    end_datetime: 2023-09-02T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Generative AI: Concepts, Tools, and Applications for Data Professionals"
+    url: "https://www.meetup.com/sqlireland/events/294540843/"
+    region: 🇮🇪
+    date_added: 2023-07-19
+    start_datetime: 2023-09-05T18:30:00Z
+    end_datetime: 2023-09-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS User Group Meetup - AI Edition @ The Button Factory"
+    url: "https://www.meetup.com/awsdublin/events/294867536/"
+    region: 🇮🇪
+    date_added: 2023-07-19
+    start_datetime: 2023-09-13T18:00:00Z
+    end_datetime: 2023-09-13T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
