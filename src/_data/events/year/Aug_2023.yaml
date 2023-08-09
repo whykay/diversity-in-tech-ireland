@@ -200,3 +200,165 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) TechFoundHer: Meet the Founder - Shana Chu - CEO / Founder of Tailr @ Huckletree"
+    url: "https://www.eventbrite.ie/e/techfoundher-meet-the-founder-shana-chu-ceo-founder-of-tailr-tickets-694613887837"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-30T12:45:00Z
+    end_datetime: 2023-08-30T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/295223589/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-09T18:00:00Z
+    end_datetime: 2023-08-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Tech Meet Up @ The Barge"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/294929491/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-09T18:00:00Z
+    end_datetime: 2023-08-30T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Clojure Pub Meetup @ Against the Grain"
+    url: "https://www.meetup.com/clojure-ireland/events/295068764/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-09T19:30:00Z
+    end_datetime: 2023-08-30T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Data Science and Engineering Club: Build ETL in Azure with Terraform - Workshop"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/295196138/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-12T10:00:00Z
+    end_datetime: 2023-08-12T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/294424419/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-12T15:00:00Z
+    end_datetime: 2023-08-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Implement DNS in a Weekend @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/294080911/"
+    region: 🇬🇧
+    date_added: 2023-08-09
+    start_datetime: 2023-08-13T11:00:00Z
+    end_datetime: 2023-08-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin AI Developers Group: In-person Google Service Weaver Community Workshop - Dublin @ Google Ireland"
+    url: "https://www.meetup.com/dublin-ai-developers-group/events/295157890/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-15T18:00:00Z
+    end_datetime: 2023-08-15T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Oppenheimer: I'm Aujust a Girl! @ Bonobo"
+    url: "https://www.meetup.com/the-games-co-op/events/295146864/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-16T19:00:00Z
+    end_datetime: 2023-08-16T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(Hybrid) Lisp Ireland Monthly Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/lisp-ireland/events/295142957/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-15T18:30:00Z
+    end_datetime: 2023-08-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person)🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/292901751/"
+    region: 🇬🇧
+    date_added: 2023-08-09
+    start_datetime: 2023-08-21T18:00:00Z
+    end_datetime: 2023-08-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) Rust Dublin: Rust, Serverless and AWS"
+    url: "https://www.meetup.com/rust-dublin/events/294587280/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-22T18:30:00Z
+    end_datetime: 2023-08-22T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Newry Digital: Social - Newry Digital @ Flagstaff Lodge"
+    url: "https://www.meetup.com/newry-digital/events/295091648/"
+    region: 🇬🇧
+    date_added: 2023-08-09
+    start_datetime: 2023-08-22T19:00:00Z
+    end_datetime: 2023-08-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast Book Club Launch! @ Urban HQ"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/295135521/"
+    region: 🇬🇧
+    date_added: 2023-08-09
+    start_datetime: 2023-08-24T17:30:00Z
+    end_datetime: 2023-08-24T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>To kick off our August book is Brave, Not Perfect - How Celebrating Imperfection Helps You Live Your Best, Most Joyful Life by Reshma Saujani.</p>
+    <p>Refreshments will be provided.</p>"
+    type: diversity
+  - name: "(Online) UX Cork Community: Architecture to UX; Learnings is Design"
+    url: "https://www.meetup.com/ux-cork-community/events/294921494/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-14T18:00:00Z
+    end_datetime: 2023-08-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Talks - Let's learn Figma's new features, together"
+    url: "https://www.meetup.com/ux-talks/events/295191804/"
+    region: 🇮🇪
+    date_added: 2023-08-09
+    start_datetime: 2023-08-23T19:00:00Z
+    end_datetime: 2023-08-23T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

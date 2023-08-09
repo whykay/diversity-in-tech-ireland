@@ -360,3 +360,16 @@ conferences:
     type: tech
     status: active
 
+  - name: "PyLadiesCon"
+    url: "https://conference.pyladies.com/"
+    region: 🇮🇪🌍
+    date_added: 2023-08-09
+    start_datetime: 2023-12-01T00:00:00Z
+    end_datetime: 2023-12-03T00:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Global PyLadies Conference #PyLadiesCon | More information soon.</p>"
+    type: tech
+    status: active
+
+
