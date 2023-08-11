@@ -113,3 +113,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) Techstars Startup Weekend Social Innovation Dublin"
+    url: "https://www.eventbrite.com/e/techstars-startup-weekend-social-innovation-dublin-tickets-665178576027"
+    region: 🇮🇪
+    date_added: 2023-08-11
+    start_datetime: 2023-09-01T18:00:00Z
+    end_datetime: 2023-09-03T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Techstars Startup Weekends are 54-hour events designed to provide superior experiential education for technical and non-technical entrepreneurs. Beginning with Friday night pitches, the event continues through brainstorming, business plan development, and basic prototype creation, culminating in Sunday night demos and presentations.</p>
+    <p>Participants will get to form teams and work on their social innovation ideas during the event and are able to collaborate with like-minded individuals outside of their daily networks. All teams will attend workshops by industry leaders and receive valuable feedback from local entrepreneurs. The weekend is centered around action, innovation and education.</p>"
+    type: diversity
