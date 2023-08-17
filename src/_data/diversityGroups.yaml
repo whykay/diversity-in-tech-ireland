@@ -55,7 +55,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    date_removed: 2023-08-17
+    status: retired
     type: all
   - name: Codess Dublin (Microsoft’s women in tech meetup group)
     url: "https://codessdublin.splashthat.com/"
@@ -277,7 +278,8 @@ groups:
     year_added: 2018
     month_added: 05
     day_added: 15
-    status: active
+    date_removed: 2023-08-17
+    status: retired
     type: all   
   - name: LoveLace Space
     url: "http://www.lovelacespace.com/"
@@ -411,8 +413,8 @@ groups:
     year_added: 2019
     month_added: 08
     day_added: 10
-    date_removed:
-    status: active
+    date_removed: 2023-08-17
+    status: retired
     type: all
   - name: Women in AI Ireland
     url: "https://www.linkedin.com/showcase/women-in-ai-ireland/"
@@ -451,8 +453,8 @@ groups:
     year_added: 2019
     month_added: 11
     day_added: 06
-    date_removed:
-    status: active
+    date_removed: 2023-08-17
+    status: retired
     type: all  
   - name: Women in Tech Belfast
     url: "https://www.meetup.com/Women-In-Tech-Belfast-Lean-In/"
@@ -914,8 +916,8 @@ groups:
     date_removed:
     status: active
     type: all
-  - name: "Women in Product Dublin"
-    url: "https://www.meetup.com/women-in-product/"
+  - name: "Women in Product - Dublin"
+    url: "https://www.meetup.com/weinproduct/"
     region: Dublin
     date_added: 2022-08-02
     year_added: 2022
@@ -1005,8 +1007,8 @@ groups:
     year_added: 2023
     month_added: 05
     day_added: 22
-    date_removed:
-    status: new
+    date_removed: 2023-08-17
+    status: retired
     type: all 
 
   - name: "Tech and Inclusion Advocates Ireland"
