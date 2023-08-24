@@ -137,3 +137,13 @@ eventlistings:
     desc: "<p>What does career progression in look and feel like for a woman in the industry in 2023? What more should employers be doing to support women in their careers? How do you call out misogynistic behaviour when it shows up?</p>
     <p>We'll be diving in to these questions and much more at this event on the 26th September in the Green Room at the Black Box. Whether you're in the industry, looking to learn more, or want to share your experiences with others who've been in similar positions, come along and join in the conversation with our 4 fab panellist and myself having another oul crack at hosting!"
     type: diversity
+  - name: "(Online) Tech Talk: The Collaboration between IT and Legal Teams"
+    url: "https://www.eventbrite.ie/e/tech-talk-the-collaboration-between-it-and-legal-teams-tickets-705312718327"
+    region: 🇮🇪
+    date_added: 2023-08-24
+    start_datetime: 2023-09-21T07:30:00Z
+    end_datetime: 2023-09-21T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
