@@ -411,3 +411,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) OWASP Belfast September meetup @ ESO"
+    url: "https://www.meetup.com/OWASP-Belfast/events/295904214"
+    region: 🇬🇧
+    date_added: 2023-09-05
+    start_datetime: 2023-09-28T18:00:00Z
+    end_datetime: 2023-09-28T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
