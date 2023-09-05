@@ -442,3 +442,13 @@ eventlistings:
     desc: "<p>A joint event with AwakenHub and Women in AI. Supported by InterTradeIreland.</p>
     <p>After a wee summer break we are back with a bang online on the evening of 26 September with a super exciting panel event chatting all things AI, women founders who are working on AI based start-ups and the fab Women In AI Ireland chapter who are pioneering all day every day.</p>"
     type: diversity
+  - name: "(In-Pereson) SaaStock Local Dublin @ Hubspot"
+    url: "https://ti.to/saastock/saastock-local-dublin-sept-2023/"
+    region: 🇮🇪
+    date_added: 2023-09-05
+    start_datetime: 2023-09-27T12:45:00Z
+    end_datetime: 2023-09-27T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
