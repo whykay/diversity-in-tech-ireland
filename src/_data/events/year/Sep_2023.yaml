@@ -431,3 +431,14 @@ eventlistings:
     recurring: false
     desc: "	The Diversity in Tech Awards 2023 will take place at 6pm on Wednesday, 27th September. The Diversity in Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last three years has grown into a programme celebrating all facets of diversity within the tech industry, includes 17 awards celebrating the industry’s achievements in this field."
     type: diversity
+  - name: "(Online) AwakenHub: Wonder Women at the Forefront of AI"
+    url: "https://www.eventbrite.co.uk/e/wonder-women-at-the-forefront-of-ai-tickets-693951045257"
+    region: 🇮🇪
+    date_added: 2023-09-05
+    start_datetime: 2023-09-26T17:00:00Z
+    end_datetime: 2023-09-26T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>A joint event with AwakenHub and Women in AI. Supported by InterTradeIreland.</p>
+    <p>After a wee summer break we are back with a bang online on the evening of 26 September with a super exciting panel event chatting all things AI, women founders who are working on AI based start-ups and the fab Women In AI Ireland chapter who are pioneering all day every day.</p>"
+    type: diversity
