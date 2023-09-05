@@ -421,3 +421,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Diversity in Tech Awards 2023 @ RDS"
+    url: "https://diversityintechawards.online/"
+    region: 🇮🇪
+    date_added: 2023-09-05
+    start_datetime: 2023-09-27T18:00:00Z
+    end_datetime: 2023-09-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: "	The Diversity in Tech Awards 2023 will take place at 6pm on Wednesday, 27th September. The Diversity in Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last three years has grown into a programme celebrating all facets of diversity within the tech industry, includes 17 awards celebrating the industry’s achievements in this field."
+    type: diversity
