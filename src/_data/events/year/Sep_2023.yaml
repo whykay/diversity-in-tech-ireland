@@ -453,7 +453,7 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "(In-Pereson) ServerlessDays Belfast At Night"
+  - name: "(In-Person) ServerlessDays Belfast At Night"
     url: "https://serverlessdaysbelfast.com/tickets/"
     region: 🇬🇧
     date_added: 2023-09-07
@@ -463,3 +463,83 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(Online) AwakenHub: SheGenerate Information Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate-information-session-tickets-709350224617"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-11T13:00:00Z
+    end_datetime: 2023-09-11T13:30:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(Online) AwakenHub: SheGenerate Information Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate-information-session-tickets-709358419127"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-11T18:00:00Z
+    end_datetime: 2023-09-11T18:30:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(Online) AwakenHub: SheGenerate Information Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate-information-session-tickets-709361177377"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-13T13:00:00Z
+    end_datetime: 2023-09-13T13:30:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(Online) AwakenHub: SheGenerate Information Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate-information-session-tickets-709359542487"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-13T18:00:00Z
+    end_datetime: 2023-09-13T18:30:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(Online) AwakenHub: SheGenerate3.0 Online Information Evening Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate30-online-information-evening-session-tickets-641498237497"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-18T17:00:00Z
+    end_datetime: 2023-09-18T17:45:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(Online) AwakenHub: SheGenerate3.0 Online Information Session"
+    url: "https://www.eventbrite.co.uk/e/shegenerate30-online-information-session-tickets-641483884567"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-19T12:00:00Z
+    end_datetime: 2023-09-19T12:45:00Z
+    new: true
+    recurring: false
+    desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
+    type: diversity
+  - name: "(In-Person) Virtual Reality Experience with DEEP VR // The Soft Space"
+    url: "https://www.eventbrite.co.uk/e/virtual-reality-experience-with-deep-vr-the-soft-space-tickets-708503080787"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-22T20:30:00Z
+    end_datetime: 2023-09-22T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in Technology: Breaking Tech Barriers @ Lanyon Plaza West Tower"
+    url: "https://www.eventbrite.co.uk/e/breaking-tech-barriers-tickets-679960739877"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-09-14T17:30:00Z
+    end_datetime: 2023-09-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: "Despite efforts to increase diversity and inclusivity, women are still underrepresented in the tech workforce. Why is this so? We still face barriers to entering, staying, and growing within this sector. Saying that, we would love for you to join us for a lively panel discussion on Breaking Tech Barriers."
+    type: diversity
