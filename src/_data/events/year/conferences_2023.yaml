@@ -428,6 +428,17 @@ conferences:
     desc: "<p>SCI:COM returns on December 6th for another year at the Aviva Stadium! This year's theme is 'Reality?'</p>"
     type: tech
     status: active
+  - name: "AI Con 2023"
+    url: "https://ai-con.ai/"
+    region: 🇮🇪
+    date_added: 2023-09-07
+    start_datetime: 2023-11-09T08:00:00Z
+    end_datetime: 2023-11-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AI Con has been leading the conversation on artificial intelligence since our first conference took place in 2019. With that conversation stepping up considerably in recent times, once again leading the discussion and shaping the debate. As ever, we welcome the technologists and data scientists at the heart of that debate as they continue to develop AI's applications through its rapid evolution.</p>"
+    type: tech
+    status: active
 
   # 2024
   - name: "Zero Day Con - Evolve"
