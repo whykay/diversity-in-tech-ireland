@@ -154,7 +154,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-05T18:00:00Z
     end_datetime: 2023-09-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -164,7 +164,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-13T19:00:00Z
     end_datetime: 2023-09-13T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -174,7 +174,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-06T18:30:00Z
     end_datetime: 2023-09-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -204,7 +204,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-06T18:30:00Z
     end_datetime: 2023-09-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -214,7 +214,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-06T19:00:00Z
     end_datetime: 2023-09-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -224,7 +224,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-07T12:00:00Z
     end_datetime: 2023-09-07T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -234,7 +234,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-07T18:00:00Z
     end_datetime: 2023-09-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -244,7 +244,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-09T15:00:00Z
     end_datetime: 2023-09-09T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-12T18:30:00Z
     end_datetime: 2023-09-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -264,7 +264,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-13T18:00:00Z
     end_datetime: 2023-09-13T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -274,7 +274,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-13T18:00:00Z
     end_datetime: 2023-09-13T19:03:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -284,7 +284,7 @@ eventlistings:
     date_added: 2023-09-04
     start_datetime: 2023-09-13T19:30:00Z
     end_datetime: 2023-09-13T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -295,7 +295,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-13T19:00:00Z
     end_datetime: 2023-09-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -305,7 +305,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-18T18:00:00Z
     end_datetime: 2023-09-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -315,7 +315,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-19T18:00:00Z
     end_datetime: 2023-09-19T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -325,7 +325,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-20T18:30:00Z
     end_datetime: 2023-09-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -335,7 +335,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-21T17:30:00Z
     end_datetime: 2023-09-21T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us on Thursday 221st September as we launch the Women Techmakers Belfast Book Club!</p>
     <p>To kick off our August book is Brave, Not Perfect: How Celebrating Imperfection Helps You Live Your Best, Most Joyful Life by Reshma Saujani.</p>"
@@ -346,7 +346,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-21T19:00:00Z
     end_datetime: 2023-09-21T23:55:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -356,7 +356,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-25T19:00:00Z
     end_datetime: 2023-09-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -366,7 +366,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-28T08:00:00Z
     end_datetime: 2023-09-28T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
     <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
@@ -377,7 +377,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-19T18:00:00Z
     end_datetime: 2023-09-19T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -387,7 +387,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-05T19:00:00Z
     end_datetime: 2023-09-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -397,7 +397,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-27T19:00:00Z
     end_datetime: 2023-09-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -407,7 +407,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-28T20:00:00Z
     end_datetime: 2023-09-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -417,7 +417,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-28T18:00:00Z
     end_datetime: 2023-09-28T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -427,7 +427,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-27T18:00:00Z
     end_datetime: 2023-09-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "	The Diversity in Tech Awards 2023 will take place at 6pm on Wednesday, 27th September. The Diversity in Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last three years has grown into a programme celebrating all facets of diversity within the tech industry, includes 17 awards celebrating the industry’s achievements in this field."
     type: diversity
@@ -437,7 +437,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-26T17:00:00Z
     end_datetime: 2023-09-26T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A joint event with AwakenHub and Women in AI. Supported by InterTradeIreland.</p>
     <p>After a wee summer break we are back with a bang online on the evening of 26 September with a super exciting panel event chatting all things AI, women founders who are working on AI based start-ups and the fab Women In AI Ireland chapter who are pioneering all day every day.</p>"
@@ -448,7 +448,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-09-27T12:45:00Z
     end_datetime: 2023-09-27T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -459,7 +459,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-07T17:30:00Z
     end_datetime: 2023-09-07T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -469,7 +469,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-11T13:00:00Z
     end_datetime: 2023-09-11T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -479,7 +479,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-11T18:00:00Z
     end_datetime: 2023-09-11T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -489,7 +489,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-13T13:00:00Z
     end_datetime: 2023-09-13T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -499,7 +499,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-13T18:00:00Z
     end_datetime: 2023-09-13T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -509,7 +509,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-18T17:00:00Z
     end_datetime: 2023-09-18T17:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -519,7 +519,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-19T12:00:00Z
     end_datetime: 2023-09-19T12:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Free to attend live Information Sessions on AwakenHub SheGenerate accelerator lite programme for women founders & startups"
     type: diversity
@@ -529,7 +529,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-22T20:30:00Z
     end_datetime: 2023-09-22T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -539,7 +539,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-14T17:30:00Z
     end_datetime: 2023-09-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Despite efforts to increase diversity and inclusivity, women are still underrepresented in the tech workforce. Why is this so? We still face barriers to entering, staying, and growing within this sector. Saying that, we would love for you to join us for a lively panel discussion on Breaking Tech Barriers."
     type: diversity
@@ -549,7 +549,7 @@ eventlistings:
     date_added: 2023-09-07
     start_datetime: 2023-09-23T09:00:00Z
     end_datetime: 2023-09-23T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamejam
@@ -560,6 +560,28 @@ eventlistings:
     date_added: 2023-09-11
     start_datetime: 2023-09-27T18:30:00Z
     end_datetime: 2023-09-27T20:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+
+
+  - name: "(In-Person) Future of Work & Living Dublin"
+    url: "https://www.insurednomads.com/events/future-of-work-living-dublin"
+    region: 🇮🇪
+    date_added: 2023-09-19
+    start_datetime: 2023-09-19T12:30:00Z
+    end_datetime: 2023-09-19T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: digitalnomad
+  - name: "(In-Person) Backstage at The Button Factory with Dr. Werner Vogels, CTO Amazon"
+    url: "https://www.eventbrite.ie/e/backstage-at-the-button-factory-with-dr-werner-vogels-cto-amazon-tickets-718228951127"
+    region: 🇮🇪
+    date_added: 2023-09-19
+    start_datetime: 2023-09-29T12:00:00Z
+    end_datetime: 2023-09-29T16:00:00Z
     new: true
     recurring: false
     desc: 

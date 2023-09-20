@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-10-02T18:00:00Z
     end_datetime: 2023-10-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Everyone is welcome to our October Bookclub. The only rule is to have ideally read or listened to the book in advance! And of course come with an open mind ready to be inspired!</p>
     <p>So exciting that the author herself Tamara Carleton will host the event so there will be an opportunity to hear about her background and motivation for writing the book and to of course to meet others from the TechFoundHer Community!</p>"
@@ -28,7 +28,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-10-07T12:00:00Z
     end_datetime: 2023-10-07T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-10-10T18:00:00Z
     end_datetime: 2023-10-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Discover Design Operations: Scaling Creativity, Implementing Systems and Unleashing the Power of Cohesive Design.</p>
     <p>At this in-person meet-up in the Belfast Deloite office, we have 3 distinguished speakers</p>"
