@@ -688,4 +688,33 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-
+  - name: "(In-Person) Fingal Makerspace: Monthly Design Meet-up: September - Adults @ Blanchardstown Library"
+    url: "https://www.eventbrite.ie/e/monthly-design-meet-up-september-adults-tickets-690178320937"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-09-25T17:45:00Z
+    end_datetime: 2023-09-25T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Fingal Makerspace: Fusion 360 for Beginners (3 sessions) - Adults @ Blanchardstown Library"
+    url: "https://www.eventbrite.ie/e/fusion-360-for-beginners-3-sessions-adults-tickets-690773651587"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-09-27T17:45:00Z
+    end_datetime: 2023-09-27T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) TechBrew (Event for entrepreneurs, start ups, SMEs, tech sector & leaders) @ National Software Centre (Cork)"
+    url: "https://www.eventbrite.ie/e/techbrew-event-for-entrepreneurs-start-ups-smes-tech-sector-leaders-tickets-696528203607"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-09-26T12:30:00Z
+    end_datetime: 2023-09-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
