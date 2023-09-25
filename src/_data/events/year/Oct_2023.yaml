@@ -54,3 +54,127 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) SQL Ireland User Group: Handle Azure SQL Auditing with Ease"
+    url: "https://www.meetup.com/sqlireland/events/293197662/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-03T18:30:00Z
+    end_datetime: 2023-10-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin SRE Meetup Returns! @ One Dockland Central"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/296256507/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-05T18:15:00Z
+    end_datetime: 2023-10-05T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) HER+Data: Amazing Data Women - Oct 2023 @ Accenture Song & Droga5"
+    url: "https://www.meetup.com/her-data/events/296181530/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-05T18:30:00Z
+    end_datetime: 2023-10-05T20:45:00Z
+    new: true
+    recurring: false
+    desc: "We're back with another in person HER+Data meetup! An evening time event on Thursday October 5th @6:30pm Irish Time. We'll have talks from more amazing women. Join, ask questions and meet other women who love data."
+    type: diversity
+  - name: "(In-Person) HackHers Meetup @ Toast Ireland"
+    url: "https://www.meetup.com/hackhers-dublin/events/296232676/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-11T18:00:00Z
+    end_datetime: 2023-10-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to another event hosted by HackHers Dublin! This time around it's going to be more fun as we're doing a mix of speaker session and hacks.</p>
+    <p>Join us to connect, share and engage with developers and leaders and help build a supportive network for women in technology.</p>"
+    type: diversity
+  - name: "(In-Person) Women in Tech Belfast: Lightning Talks Evening 2023"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/296227918/"
+    region: 🇬🇧
+    date_added: 2023-09-25
+    start_datetime: 2023-10-12T17:30:00Z
+    end_datetime: 2023-10-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A regular in the Women in Tech Belfast Calendar! We have been holding Workshops and Lightning Talks events for many years now, with the aim of encouraging more women to give technical talks. Female speaker representation in tech events and meetups have increased as a result.</p>
+    <p>We are keen to provide another event that will help female speakers practice their talks - in advance of upcoming 2023 tech events - OR just to give it a whirl anyway!</p>"
+    type: diversity
+  - name: "(Online) Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/295998000/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-14T15:00:00Z
+    end_datetime: 2023-10-14T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/296182095/"
+    region: 🇬🇧
+    date_added: 2023-09-25
+    start_datetime: 2023-10-16T18:00:00Z
+    end_datetime: 2023-10-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) 🎂 Celebrate PyLadies Dublin 10th Anniversary with us @ Phorest"
+    url: "https://www.meetup.com/pyladiesdublin/events/295990212/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-17T18:30:00Z
+    end_datetime: 2023-10-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: "Let's celebrate 10 years of PyLadies Dublin with CODING!
+  Bring your own laptops and show us your hobbies and side projects. If you want to do a lightning talk (5 mins), you can submit your talk via our <a href='https://sessionize.com/pyladies-dublin-meetup'>CFP</a>."
+    type: diversity
+  - name: "(In-Person) Dublin Java User Group: Venkat!"
+    url: "https://www.meetup.com/dublinjavausergroup/events/296209505/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-23T18:00:00Z
+    end_datetime: 2023-10-23T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/295658851/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-25T18:00:00Z
+    end_datetime: 2023-10-25T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Community Group: Cork Chapter: October Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/296076528/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-05T18:00:00Z
+    end_datetime: 2023-10-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 124 @ Aye"
+    url: "https://www.meetup.com/corksec/events/296311637/"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: 2023-10-10T19:00:00Z
+    end_datetime: 2023-10-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

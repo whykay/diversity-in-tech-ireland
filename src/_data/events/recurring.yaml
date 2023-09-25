@@ -71,3 +71,24 @@ events:
     new: false
     recurring: false
     desc: 
+
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: Every Wed evening @ 18:00 - 20:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) 1GAM Galway Meetup! @ Portershed"
+    url: "https://www.meetup.com/1gam-galway"
+    region: 🇮🇪
+    date_added: 2023-09-25
+    start_datetime: Every 1st Tue of the month @ 19:00 - 21:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: gamedev
