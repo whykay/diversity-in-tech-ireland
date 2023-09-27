@@ -6,7 +6,47 @@ eventlistings:
     date_added: 2023-09-05
     start_datetime: 2023-11-16T18:00:00Z
     end_datetime: 2023-11-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Beta Festival: ALT.CTRL.GameCraft @ iD8 Studios"
+    url: "https://www.gamecraft.it/events/altctrljam-2023/"
+    region: 🇮🇪
+    date_added: 2023-09-27
+    start_datetime: 2023-11-04T12:00:00Z
+    end_datetime: 2023-11-04T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beta Festival: Creating Interactive Visuals with p5.js"
+    url: "https://www.eventbrite.ie/e/creating-interactive-visuals-with-p5js-tickets-719114730517"
+    region: 🇮🇪
+    date_added: 2023-09-27
+    start_datetime: 2023-11-04T13:00:00Z
+    end_datetime: 2023-11-04T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beta Festival: Repair Café"
+    url: "https://betafestival.ie/Events-1"
+    region: 🇮🇪
+    date_added: 2023-09-27
+    start_datetime: 2023-11-05T12:00:00Z
+    end_datetime: 2023-11-05T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beta Festival: TERRAIN: A creative cartography of Ireland's art and technology landscape "
+    url: "https://betafestival.ie/Events-1"
+    region: 🇮🇪
+    date_added: 2023-09-27
+    start_datetime: 2023-11-03T09:00:00Z
+    end_datetime: 2023-11-05T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: art+tech
