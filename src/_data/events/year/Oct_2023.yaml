@@ -414,3 +414,34 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(Hybrid) First Fridays: Educate: Mastering Markteting Strategies for Startup Success @ Dogpatch Labs"
+    url: "https://www.firstfridays.ie/october-2023"
+    region: 🇮🇪
+    date_added: 2023-10-06
+    start_datetime: 2023-10-06T13:15:00Z
+    end_datetime: 2023-10-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Hybrid) First Fridays: Lightning Talks @ Dogpatch Labs"
+    url: "https://www.firstfridays.ie/october-2023"
+    region: 🇮🇪
+    date_added: 2023-10-06
+    start_datetime: 2023-10-06T14:15:00Z
+    end_datetime: 2023-10-06T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Hybrid) First Fridays: Inspire with Diarmuid McSweeney (Gym+Coffee) @ Dogpatch Labs"
+    url: "https://www.firstfridays.ie/october-2023"
+    region: 🇮🇪
+    date_added: 2023-10-06
+    start_datetime: 2023-10-06T15:00:00Z
+    end_datetime: 2023-10-06T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
