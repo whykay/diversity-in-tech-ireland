@@ -190,6 +190,13 @@ opportunities:
     url: "https://www.outreachy.org/"
     region: 🌎
     status: archive
+  - name: "Going for Growth programme"
+    desc: "<p>Enterprise Ireland is looking for 60 women entrepreneurs to join the latest cycle of its Going for Growth programme.</p>
+    <p>The initiative is designed for women entrepreneurs across all sectors who are strongly focused on growth. Enterprise Ireland said the programme aims to help entrepreneurs achieve their growth goals and build stronger companies, create new jobs and increase their revenue.</p>
+    <h4>The deadline for applications for the latest Going for Growth cycle is Friday, 17 November 2023. The six-month programme will begin in January 2024 and is supported by Enterprise Ireland and KPMG.</h4>"
+    url: "https://www.outreachy.org/"
+    region: 🇮🇪
+    status: new
 
 
 aob:
