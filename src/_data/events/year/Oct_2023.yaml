@@ -257,7 +257,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-04T10:00:00Z
     end_datetime: 2023-10-04T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Adebola Olomo delves into how Artificial Intelligence is revolutionising content marketing. She explores the cutting-edge innovations that AI promises for the future of content development and marketing. The talk will delve into anticipatory customer needs, covering how AI can predict consumer behaviour and wants before they are explicitly expressed. Examples of companies excelling in this domain will be highlighted."
     type: diversity
@@ -267,7 +267,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-11T10:00:00Z
     end_datetime: 2023-10-11T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Rebecca takes us through the rapid evolution of chatbots in customer service. This session will cover how AI-powered chatbots are redefining customer engagement, offering personalised experiences, and saving costs for businesses."
     type: diversity
@@ -277,7 +277,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-18T10:00:00Z
     end_datetime: 2023-10-18T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "In a world overloaded with choices, Resa Gooding discusses how AI-driven personalisation can make a difference. Learn about algorithms that analyse user behaviour, preferences, and demographics to create uniquely tailored marketing campaigns."
     type: diversity
@@ -287,7 +287,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-25T10:00:00Z
     end_datetime: 2023-10-25T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Karin Cheong takes a critical look at the ethical dimensions surrounding AI in marketing. From data privacy concerns to the risk of perpetuating biases, this talk aims to provide guidelines for responsible AI use in marketing strategies."
     type: diversity
@@ -297,7 +297,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-09T13:00:00Z
     end_datetime: 2023-10-09T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The School of Computer Science @ TUDublin will partner with FreedomTech to host a series of events sponsored by Sight and Sound Technology.</p>
     <p>Chatting about: AT in higher education | Interactive AT roadshow by Sight and Sound Technologies | Explore digital inclusion projects - Inclusion4EU | AI and Machine Learning.</p>"
@@ -308,7 +308,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-26T08:30:00Z
     end_datetime: 2023-10-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -318,7 +318,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-10T17:00:00Z
     end_datetime: 2023-10-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -328,7 +328,7 @@ eventlistings:
     date_added: 2023-10-03
     start_datetime: 2023-10-12T19:00:00Z
     end_datetime: 2023-10-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -339,7 +339,7 @@ eventlistings:
     date_added: 2023-10-04
     start_datetime: 2023-10-20T16:00:00Z
     end_datetime: 2023-10-20T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -349,7 +349,7 @@ eventlistings:
     date_added: 2023-10-04
     start_datetime: 2023-10-20T17:00:00Z
     end_datetime: 2023-10-20T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -360,7 +360,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-24T18:00:00Z
     end_datetime: 2023-10-24T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -370,7 +370,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-09T19:15:00Z
     end_datetime: 2023-10-09T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -380,7 +380,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-11T18:30:00Z
     end_datetime: 2023-10-11T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -390,7 +390,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-11T19:30:00Z
     end_datetime: 2023-10-11T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -400,7 +400,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-17T18:00:00Z
     end_datetime: 2023-10-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -410,7 +410,7 @@ eventlistings:
     date_added: 2023-10-05
     start_datetime: 2023-10-25T18:00:00Z
     end_datetime: 2023-10-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -421,7 +421,7 @@ eventlistings:
     date_added: 2023-10-06
     start_datetime: 2023-10-06T13:15:00Z
     end_datetime: 2023-10-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -431,7 +431,7 @@ eventlistings:
     date_added: 2023-10-06
     start_datetime: 2023-10-06T14:15:00Z
     end_datetime: 2023-10-06T14:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -441,7 +441,7 @@ eventlistings:
     date_added: 2023-10-06
     start_datetime: 2023-10-06T15:00:00Z
     end_datetime: 2023-10-06T15:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
