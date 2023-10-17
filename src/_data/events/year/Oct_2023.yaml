@@ -255,7 +255,7 @@ eventlistings:
     url: "https://www.eventbrite.ca/e/waitutorial-series-on-ai-marketing-tickets-726869986697"
     region: 🇮🇪
     date_added: 2023-10-03
-    start_datetime: 2023-10-04T10:00:00Z
+    start_datetime: 2023-10-04T18:00:00Z
     end_datetime: 2023-10-04T19:00:00Z
     new: false
     recurring: false
@@ -265,7 +265,7 @@ eventlistings:
     url: "https://www.eventbrite.ca/e/waitutorial-series-on-ai-marketing-tickets-726869976667"
     region: 🇮🇪
     date_added: 2023-10-03
-    start_datetime: 2023-10-11T10:00:00Z
+    start_datetime: 2023-10-11T18:00:00Z
     end_datetime: 2023-10-11T19:00:00Z
     new: false
     recurring: false
@@ -275,7 +275,7 @@ eventlistings:
     url: "https://www.eventbrite.ca/e/waitutorial-series-on-ai-marketing-tickets-726869986697"
     region: 🇮🇪
     date_added: 2023-10-03
-    start_datetime: 2023-10-18T10:00:00Z
+    start_datetime: 2023-10-18T18:00:00Z
     end_datetime: 2023-10-18T19:00:00Z
     new: false
     recurring: false
@@ -285,7 +285,7 @@ eventlistings:
     url: "https://www.eventbrite.ca/e/waitutorial-series-on-ai-marketing-tickets-726869996727"
     region: 🇮🇪
     date_added: 2023-10-03
-    start_datetime: 2023-10-25T10:00:00Z
+    start_datetime: 2023-10-25T18:00:00Z
     end_datetime: 2023-10-25T19:00:00Z
     new: false
     recurring: false
@@ -449,9 +449,71 @@ eventlistings:
   - name: "(In-Person) Irish Council for Civil Liberties: Human rights at risk: AI and facial recognition tech in the arts @ The Complex Gallery & Studios"
     url: "https://www.eventbrite.ie/e/human-rights-at-risk-ai-and-facial-recognition-tech-in-the-arts-tickets-710380576427"
     region: 🇮🇪
-    date_added: 2023-10-012
+    date_added: 2023-10-12
     start_datetime: 2023-10-18T19:00:00Z
     end_datetime: 2023-10-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+
+  - name: "(In-Person) Introducing the first ever Atlassian Community Event in Dublin @ Clayton Hotel"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/296329514/"
+    region: 🇮🇪
+    date_added: 2023-10-17
+    start_datetime: 2023-10-19T17:30:00Z
+    end_datetime: 2023-10-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Machine Learning Meet Up - October @ EY"
+    url: "https://www.meetup.com/machine-learning-dublin/events/296673358/"
+    region: 🇮🇪
+    date_added: 2023-10-17
+    start_datetime: 2023-10-23T18:30:00Z
+    end_datetime: 2023-10-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Talks: Organisational scale with Ciara Greaney"
+    url: "https://www.meetup.com/dublin-tech-talks/events/296577883/"
+    region: 🇮🇪
+    date_added: 2023-10-17
+    start_datetime: 2023-10-24T18:30:00Z
+    end_datetime: 2023-10-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Rust Dublin: Biome, web development tooling with Rust"
+    url: "https://www.meetup.com/rust-dublin/events/295179534/"
+    region: 🇮🇪
+    date_added: 2023-10-17
+    start_datetime: 2023-10-25T19:00:00Z
+    end_datetime: 2023-10-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women Who Code Belfast: Bytes n' Brew Online ☕️💻 - Breakfast"
+    url: "https://www.meetup.com/women-who-code-belfast/events/296576321/"
+    region: 🇬🇧
+    date_added: 2023-10-17
+    start_datetime: 2023-10-25T08:00:00Z
+    end_datetime: 2023-10-25T09:00:00Z
+    new: true
+    recurring: false
+    desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
+    type: diversity
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/rust-dublin/events/295179534/"
+    region: 🇮🇪
+    date_added: 2023-10-17
+    start_datetime: 2023-10-28T15:00:00Z
+    end_datetime: 2023-10-28T17:00:00Z
     new: true
     recurring: false
     desc: 
