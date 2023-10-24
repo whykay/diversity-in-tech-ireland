@@ -1021,3 +1021,14 @@ groups:
     date_removed:
     status: new
     type: all 
+
+  - name: "SheStrategizes: Women in Marketing Meetup (Dublin Chapter)"
+    url: "https://www.meetup.com/shestrategizes-women-in-marketing-meetup-dublin-chapter/"
+    region: Dublin
+    date_added: 2023-10-24
+    year_added: 2023
+    month_added: 10
+    day_added: 24
+    date_removed:
+    status: new
+    type: all 
