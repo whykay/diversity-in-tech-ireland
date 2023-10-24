@@ -502,8 +502,8 @@ eventlistings:
     url: "https://www.meetup.com/women-who-code-belfast/events/296576321/"
     region: 🇬🇧
     date_added: 2023-10-17
-    start_datetime: 2023-10-25T08:00:00Z
-    end_datetime: 2023-10-25T09:00:00Z
+    start_datetime: 2023-10-26T08:00:00Z
+    end_datetime: 2023-10-26T09:00:00Z
     new: false
     recurring: false
     desc: "Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring."
@@ -515,6 +515,37 @@ eventlistings:
     start_datetime: 2023-10-28T15:00:00Z
     end_datetime: 2023-10-28T17:00:00Z
     new: false
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "(In-Person) Digital Dún Laoghaire: October Digital Dun Laoghaire Meetup - Guest Speaker Catherine Butler Weir"
+    url: "https://www.meetup.com/digitaldunlaoghaire/events/296273159/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-10-24T19:30:00Z
+    end_datetime: 2023-10-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/digitaldunlaoghaire/events/296273159/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-10-25T19:00:00Z
+    end_datetime: 2023-10-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) UX Network Galway #UXNG: Design for AI & AR/3D @ Cisco Galway"
+    url: "https://www.meetup.com/ux-network-galway/events/296578148/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-10-25T19:00:00Z
+    end_datetime: 2023-10-25T21:00:00Z
+    new: true
     recurring: false
     desc: 
     type: tech

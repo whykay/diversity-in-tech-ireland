@@ -106,3 +106,74 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) AI Ethics and Regulation - The things you didn't know you need to know @ Dogpatch Labs"
+    url: "https://www.meetup.com/dublin-data-science/events/296206480/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-01T18:30:00Z
+    end_datetime: 2023-11-01T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) SQL Ireland User Group: KQL, Log Analytics, and Facts - What time is love?"
+    url: "https://www.meetup.com/sqlireland/events/294804679/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-07T18:30:00Z
+    end_datetime: 2023-11-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: November 2023 - Is SRE a Sociotechnical Problem? & Generative AI: Beyond ChatGPT @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/296789624/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-09T19:30:00Z
+    end_datetime: 2023-11-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Casual Indie Hackers Coffee Chat @ The Gasworks"
+    url: "https://www.meetup.com/indie-hackers-dublin/events/296617529/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-11T13:00:00Z
+    end_datetime: 2023-11-11T15:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Microsoft Dynamics 365 and Power Platform - Ireland @ Microsoft Ireland"
+    url: "https://www.meetup.com/microsoft-dynamics-365-power-platform-ireland/events/295924223/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-23T10:00:00Z
+    end_datetime: 2023-11-23T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Community Group (Cork Chapter) Meetup: November Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/296379228/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-09T18:00:00Z
+    end_datetime: 2023-11-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 125 @ The Pavilion"
+    url: "https://www.meetup.com/corksec/events/296311638/"
+    region: 🇮🇪
+    date_added: 2023-10-24
+    start_datetime: 2023-11-07T19:00:00Z
+    end_datetime: 2023-11-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
