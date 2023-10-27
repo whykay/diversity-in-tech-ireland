@@ -500,6 +500,18 @@ conferences:
     type: tech
     status: active
 
+  - name: "The Game-Based Learning Virtual Summit"
+    url: "https://gbl-summit.com/"
+    region: 🇮🇪
+    date_added: 2023-10-27
+    start_datetime: 2023-11-01T14:00:00Z
+    end_datetime: 2023-11-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: '<p>The format is different from <a href="https://www.igbl-conference.com/">iGBL</a> as it includes only seasonned researchers and practitioners, and also the talks are longer and more in depth. Each speaker provides an interview so that you can know more about their background. The presentations are usually for 1hour, and you will be able to interact with the speakers; lastly, a round table will be organized between these experts to answer very important and relevant questions, that you probably asked yourself, but never found a response to about Games and learning.</p>'
+    type: tech
+    status: active
+
   # 2024
   - name: "Zero Day Con - Evolve"
     url: "https://www.3dprintingexpo.ie/"
