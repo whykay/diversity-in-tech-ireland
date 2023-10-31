@@ -85,15 +85,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) PyLadies Dublin November Meetup - Workshop TBA"
-    url: "https://dublin.pyladies.com"
+  - name: "(In-Person) PyLadies Dublin November Meetup (Talk and Workshop) @ Udemy"
+    url: "https://www.meetup.com/pyladiesdublin/events/296639107/"
     region: 🇮🇪
     date_added: 2023-10-05
     start_datetime: 2023-11-15T18:30:00Z
     end_datetime: 2023-11-15T20:30:00Z
     new: false
     recurring: false
-    desc: "<p>Rithika from RenRe will give a workshop based on her talk from our Sept meetup. We will also have another speaker TBA.</p>"
+    desc: "<p>Rithika from RenRe will give a workshop based on her talk from our Sept meetup. Kristian Scholze will be talking about 'Pinkie Pacts - Consumer Based Contract Testing'.</p>"
     type: diversity
 
   - name: "(In-Person) Oct/Nov DevOps Galway @ Portershed"
@@ -177,3 +177,184 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Culture Crush @ The Complex, Dublin"
+    url: "https://www.culturecrush.ie/"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T10:00:00Z
+    end_datetime: 2023-11-16T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Hybrid) First Fridays: RDI: Welcome to the Ecosystem"
+    url: "https://crowdcast.io/c/firstfridaysnovember3rd"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T11:30:00Z
+    end_datetime: 2023-11-16T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays Educate: Tools & Frameworks for Building High-Performance Cultures"
+    url: "https://www.firstfridays.ie/november-2023"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T13:15:00Z
+    end_datetime: 2023-11-16T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays Lightning Talks"
+    url: "https://www.firstfridays.ie/november-2023"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T14:15:00Z
+    end_datetime: 2023-11-16T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(Hybrid) First Fridays Inspire: Building High Performance Cultures with Caroline Currid"
+    url: "https://www.firstfridays.ie/november-2023"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T15:00:00Z
+    end_datetime: 2023-11-16T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startup
+  - name: "(In-Person) Dublin Tech Talks: Organisational scale with Ciara Greaney"
+    url: "https://www.meetup.com/dublin-tech-talks/events/296577883/"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-07T18:15:00Z
+    end_datetime: 2023-11-07T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Welcovember Hovember Carlovember!!"
+    url: "https://www.meetup.com/the-games-co-op/events/296967733/"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-15T19:00:00Z
+    end_datetime: 2023-11-15T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) IT in Dublin @ Morgan Mckinley"
+    url: "https://www.meetup.com/it-in-dublin/events/296816807/"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-16T18:00:00Z
+    end_datetime: 2023-11-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/296605499/"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-25T15:00:00Z
+    end_datetime: 2023-11-25T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Donegal Tech Advocates Launch"
+    url: "https://www.eventbrite.ie/e/donegal-tech-advocates-launch-tickets-739435129377"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-09T17:00:00Z
+    end_datetime: 2023-11-09T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AI Awards 2023"
+    url: "https://www.eventbrite.ie/e/ai-awards-2023-tickets-660444225457"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-21T08:30:00Z
+    end_datetime: 2023-11-21T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Build Your Own Satellite Ground Station @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/build-your-own-satellite-ground-station-tickets-737831222047"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-12T11:00:00Z
+    end_datetime: 2023-11-12T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Hybrid) CWIT Tech Starter: Tearing Up The Script @ IBM"
+    url: "https://www.eventbrite.ie/e/tearing-up-the-script-tickets-745998620957"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-22T16:00:00Z
+    end_datetime: 2023-11-22T18:00:00Z
+    new: true
+    recurring: false
+    desc: "Tearing up the script, more way's into Tech than you think. Panel discussion, Q&A and Networking with IBM & Salesforce."
+    type: diversity
+  - name: "(In-Person) TECHNOLOGY FOR POSITIVE IMPACT: Empowering people to create a better future"
+    url: "https://www.eventbrite.ie/e/technology-for-positive-impact-empowering-people-to-create-a-better-future-tickets-731740845567"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-02T17:00:00Z
+    end_datetime: 2023-11-02T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Insight SFI Research Centre for Data Analytics: Navigating Data-Driven Futures @ The Helix"
+    url: "https://www.eventbrite.ie/e/navigating-data-driven-futures-registration-718486220627"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-15T10:30:00Z
+    end_datetime: 2023-11-15T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Wizards & Widgets: Navigating the AI Jungle @ Ballyroan Library"
+    url: "https://www.eventbrite.ie/e/wizards-widgets-navigating-the-ai-jungle-tickets-745160092897"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-06T19:00:00Z
+    end_datetime: 2023-11-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Ethics of AI with Dr.Michał Wieczorek @ Ballyroan Library"
+    url: "https://www.eventbrite.ie/e/the-ethics-of-ai-with-drmicha-wieczorek-tickets-745262930487"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-27T19:00:00Z
+    end_datetime: 2023-11-27T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin STEM Women Graduate Careers Event @ RDS"
+    url: "https://www.eventbrite.ie/e/dublin-stem-women-graduate-careers-event-tickets-633957723617"
+    region: 🇮🇪
+    date_added: 2023-10-31
+    start_datetime: 2023-11-01T12:00:00Z
+    end_datetime: 2023-11-01T16:00:00Z
+    new: true
+    recurring: false
+    desc: "Perfect for people who are studying, or recently graduated from, a STEM related course at university and are considering different career opportunities! Each company will have a stall for you to visit and chat to their recruitment teams! There will also be insight talks from graduate employers."
+    type: diversity
