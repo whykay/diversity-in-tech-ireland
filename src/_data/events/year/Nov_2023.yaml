@@ -368,3 +368,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) StartUp 101 - Back to Basics"
+    url: "https://www.eventbrite.co.uk/e/startup-101-back-to-basics-tickets-742292044487"
+    region: 🇮🇪
+    date_added: 2023-11-01
+    start_datetime: 2023-11-14T17:00:00Z
+    end_datetime: 2023-11-14T18:15:00Z
+    new: true
+    recurring: false
+    desc: "StartUp101 - Back To Basics. Join AwakenHub cofounder Sinead Crowley as she chats with Ciara Sheahan of Orb Media and Katrina Bradley of Numersee for a 'nuts n'bolts' speed learning event"
+    type: diversity
+  - name: "(In-Person) AWS User Group South East Returns! @ Boxworks"
+    url: "https://www.meetup.com/aws-user-group-south-east/events/297087761/"
+    region: 🇮🇪
+    date_added: 2023-11-01
+    start_datetime: 2023-11-22T18:30:00Z
+    end_datetime: 2023-11-22T30:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  
