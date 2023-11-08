@@ -494,7 +494,7 @@ conferences:
     date_added: 2023-10-24
     start_datetime: 2023-11-04T08:00:00Z
     end_datetime: 2023-11-04T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A Virtual Popup Microsoft Data Conference</p>"
     type: tech
@@ -506,7 +506,7 @@ conferences:
     date_added: 2023-10-27
     start_datetime: 2023-11-01T14:00:00Z
     end_datetime: 2023-11-03T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: '<p>The format is different from <a href="https://www.igbl-conference.com/">iGBL</a> as it includes only seasonned researchers and practitioners, and also the talks are longer and more in depth. Each speaker provides an interview so that you can know more about their background. The presentations are usually for 1hour, and you will be able to interact with the speakers; lastly, a round table will be organized between these experts to answer very important and relevant questions, that you probably asked yourself, but never found a response to about Games and learning.</p>'
     type: tech
@@ -517,7 +517,7 @@ conferences:
     date_added: 2023-10-27
     start_datetime: 2023-11-29T08:30:00Z
     end_datetime: 2023-11-29T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: '<p>Tech Industry Alliance are excited to announce that due to the success of our first mini conference we will be hosting a second Diversity Matters mini conference on the 29th November in the Cork International Hotel. During this half day event you will get the opportunity to listen to and engage with various expert panellists who will discuss the importance and meaning of ‘Moving Beyond Tokenism’.</p>'
     type: tech
@@ -544,7 +544,7 @@ conferences:
     date_added: 2023-10-27
     start_datetime: 2024-02-29T17:00:00Z
     end_datetime: 2024-03-01T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: '<p>30+ international speakers from the worlds of film | gaming | animation | immersive | and more.</p>
     <p>Alongside the 2 stages, our night market will tickle your senses. We bring you an arcade, tech demonstrations, live performances, craft beer and cocktails, food village, digital art installations, record store and even some digital ping pong! All set in a misty Blade Runner inspired environment.We are pulling out all the stops for this edition, make sure you are there to see it!</p>'
@@ -557,7 +557,7 @@ conferences:
     date_added: 2023-08-11
     start_datetime: 2024-03-22T18:00:00Z
     end_datetime: 2024-03-24T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Techstars Startup Weekend is a 3 days interactive event for people who want to test/validate and explore their business ideas. You’ll meet the very best mentors, learn from workshops, work as a team and networking. Join us to learn how to Think, Work, and Build like a startup in 54 thrilling hours. You don't have to have a business idea to join.</p>"
     type: diversity
