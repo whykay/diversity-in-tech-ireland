@@ -369,7 +369,7 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "(Online) StartUp 101 - Back to Basics"
+  - name: "(Online) Awakenhub: StartUp 101 - Back to Basics"
     url: "https://www.eventbrite.co.uk/e/startup-101-back-to-basics-tickets-742292044487"
     region: 🇮🇪
     date_added: 2023-11-01
@@ -384,9 +384,32 @@ eventlistings:
     region: 🇮🇪
     date_added: 2023-11-01
     start_datetime: 2023-11-22T18:30:00Z
-    end_datetime: 2023-11-22T30:30:00Z
+    end_datetime: 2023-11-22T20:30:00Z
     new: false
     recurring: false
     desc: 
     type: tech
+  
+  - name: "(In-Person) Road to your first 100 customers - Women Entrepreneurs Network event @ Dogpatch Labs"
+    url: "https://lu.ma/gtm-women-entrepreneurs"
+    region: 🇮🇪
+    date_added: 2023-11-09
+    start_datetime: 2023-11-10T09:30:00Z
+    end_datetime: 2023-11-10T13:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Join us at Dogpatch on Friday 10th November to 10x your customer base.</p>
+    <p>This event is for women founders in tech who have got to start selling. Forget fear of failure or fear of rejection - your new best friend is a fast ‘no’. It’s time to get over it, get out there, and start gaining traction. Let’s go!</p>"
+    type: diversity
+    
+  - name: "(In-Person) Her+Data: Amazing Data Women - Nov 2023 @ Stripe"
+    url: "https://www.meetup.com/her-data/events/297096653/"
+    region: 🇮🇪
+    date_added: 2023-11-09
+    start_datetime: 2023-11-30T18:30:00Z
+    end_datetime: 2023-11-30T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Thursday November 30th @6:30pm (Irish Time), hosted at Stripe. We'll have LLM themed talks from amazing women. Join, ask questions and meet other women who love data.</p>"
+    type: diversity
   

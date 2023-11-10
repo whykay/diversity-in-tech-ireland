@@ -523,6 +523,21 @@ conferences:
     type: tech
     status: active
 
+  - name: "Culture Crush @ The Complex"
+    url: "https://www.eventbrite.ie/e/culture-crush-the-complex-dublin-november-16th-2023-tickets-723951627807"
+    region: 🇮🇪
+    date_added: 2023-11-08
+    start_datetime: 2023-11-16T10:00:00Z
+    end_datetime: 2023-11-16T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Culture Crush is a major, collaborative event for professionals working in the creative sectors, including Film, TV, Animation, Games, Music, Immersive Technologies, Visual and Performing Arts, and others.</p>"
+    type: tech
+    status: active 
+
+
+
+
   # 2024
   - name: "Zero Day Con - Evolve"
     url: "https://www.zerodaycon.com/"
@@ -563,14 +578,15 @@ conferences:
     type: diversity
     status: active 
 
-  - name: "Culture Crush @ The Complex"
-    url: "https://www.eventbrite.ie/e/culture-crush-the-complex-dublin-november-16th-2023-tickets-723951627807"
+  - name: "Women in STEM Summit 2024 @ Croke Park"
+    url: "https://womeninstem.ie/"
     region: 🇮🇪
-    date_added: 2023-11-08
-    start_datetime: 2023-11-16T10:00:00Z
-    end_datetime: 2023-11-16T19:00:00Z
+    date_added: 2023-11-09
+    start_datetime: 2024-03-13T09:00:00Z
+    end_datetime: 2024-03-13T18:00:00Z
     new: true
     recurring: false
-    desc: "<p>Culture Crush is a major, collaborative event for professionals working in the creative sectors, including Film, TV, Animation, Games, Music, Immersive Technologies, Visual and Performing Arts, and others.</p>"
-    type: tech
+    desc: "<p>The Women in STEM Summit 2024 will bring together thought leaders, educators, policy makers, innovators, and pioneers in industry to discuss how to empower women with the technology and skills necessary for a better future. It will provide a platform where they can constructively challenge current ways of thinking and offer new perspectives.</p>"
+    type: diversity
     status: active 
+
