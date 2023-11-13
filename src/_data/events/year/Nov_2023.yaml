@@ -416,10 +416,180 @@ eventlistings:
   - name: "(Online) TechFoundHer: Tales of the City. Meet the Founder - Christine Nsubuga Noonan"
     url: "https://www.eventbrite.com/e/tales-of-the-city-meet-the-founder-christine-nsubuga-noonan-tickets-757455729477"
     region: 🇮🇪
-    date_added: 2023-11-09
+    date_added: 2023-11-13
     start_datetime: 2023-11-30T13:00:00Z
     end_datetime: 2023-11-30T14:00:00Z
     new: true
     recurring: false
     desc: "<p>Everyone is welcome to join Christine Nsubuga-Noonan who leads a knowledge share event about how to build a network from scratch - which she did in NYC as an early stage founder- in just 8 weeks!</p>"
     type: diversity
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/296934476/"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-13T19:00:00Z
+    end_datetime: 2023-11-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Dublin Java User Group: Be a Good Java Cloud Citizen - Quarkus / Kubernetes @ TechMeetup.Space"
+    url: "https://www.meetup.com/dublinjavausergroup/events/297190930/"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-14T18:15:00Z
+    end_datetime: 2023-11-14T21:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Tech Meet Up @ The Portobello Bar"
+    url: "https://www.meetup.com/dublin-tech-meet-up/events/296973831/"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-15T18:30:00Z
+    end_datetime: 2023-11-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/296788573/"
+    region: 🇬🇧
+    date_added: 2023-11-13
+    start_datetime: 2023-11-20T18:00:00Z
+    end_datetime: 2023-11-20T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(Online) 📖 The UX Book Club Book 📖 The Right It"
+    url: "https://www.meetup.com/theuxbookclub/events/294739221/"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-21T20:00:00Z
+    end_datetime: 2023-11-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Science & Technology Festival 2023: Evening event AI for All: Demystifying the Power of Artificial Intelligence"
+    url: "https://www.eventbrite.ie/e/evening-event-ai-for-all-demystifying-the-power-of-artificial-intelligence-tickets-749443384337"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-16T19:00:00Z
+    end_datetime: 2023-11-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Midlands Science: Look Up for Science - an evening of astronomy! @ Lough Boora Discovery Park"
+    url: "https://www.eventbrite.ie/e/look-up-for-science-an-evening-of-astronomy-tickets-719144740277"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-17T19:00:00Z
+    end_datetime: 2023-11-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: science
+  - name: "(In-Person) itag Skillnet: A Dive into Innovative Testing Strategies @ Portersher, Galway"
+    url: "https://www.eventbrite.ie/e/a-dive-into-innovative-testing-strategies-tickets-713756915147"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-16T18:00:00Z
+    end_datetime: 2023-11-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AI and Disinformation @ Ballyroan Library"
+    url: "https://www.eventbrite.ie/e/ai-and-disinformation-tickets-745248296717"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-20T19:00:00Z
+    end_datetime: 2023-11-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Future of AI @ Ballyroan Library"
+    url: "https://www.eventbrite.ie/e/the-future-of-ai-tickets-746027607657"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-13T19:00:00Z
+    end_datetime: 2023-11-13T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Fab Lab Limerick: Intro to 3D Printing"
+    url: "https://www.eventbrite.ie/e/intro-to-3d-printing-tickets-701651106347"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-25T14:00:00Z
+    end_datetime: 2023-11-25T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) The Science of Electronic Music @ MTU North Campus"
+    url: "https://www.eventbrite.ie/e/the-science-of-electronic-music-tickets-740766010077"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-14T19:00:00Z
+    end_datetime: 2023-11-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: electronic music
+  - name: "(In-Person) Fab Lab Limerick: Intro to Laser Cutting"
+    url: "https://www.eventbrite.ie/e/intro-to-laser-cutting-tickets-701650835537"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-25T11:00:00Z
+    end_datetime: 2023-11-25T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Sustainable Paths in Computing @ Engine Collaboration Centre, Limerick"
+    url: "https://www.eventbrite.ie/e/sustainable-paths-in-computing-tickets-744147875327"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-29T10:00:00Z
+    end_datetime: 2023-11-29T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Smart Docklands Networking Event @ Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/smart-docklands-networking-event-tickets-740718718627"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-28T17:30:00Z
+    end_datetime: 2023-11-28T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UX Talks x Logitech: Designing with AI @ Logitech Ireland, Cork"
+    url: "https://www.eventbrite.ie/e/ux-talks-x-logitech-designing-with-ai-tickets-735418525607"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-23T19:00:00Z
+    end_datetime: 2023-11-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Demystifying AI - an Artificial Intelligence workshop for adults @ Lucan Library"
+    url: "https://www.eventbrite.ie/e/demystifying-ai-an-artificial-intelligence-workshop-for-adults-tickets-744446277857"
+    region: 🇮🇪
+    date_added: 2023-11-13
+    start_datetime: 2023-11-25T14:30:00Z
+    end_datetime: 2023-11-25T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
