@@ -116,3 +116,84 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Site Reliability Engineering Dublin: Away in a Pager: The December SRE Meetup @ Workday"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/297068821/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2023-12-05T19:00:00Z
+    end_datetime: 2023-12-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ProductTank Dublin: Xmas Refreshments @ J.R. MAHON'S"
+    url: "https://www.meetup.com/producttank-dublin/events/297333653/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2023-12-06T18:00:00Z
+    end_datetime: 2023-12-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Meetup - Q4 2022"
+    url: "https://www.meetup.com/dublin-data-drinks/events/294206278/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2023-12-07T19:00:00Z
+    end_datetime: 2023-12-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Software Design and Coding Gym Group: December Challenge"
+    url: "https://www.meetup.com/dublin-software-design-coding-gym-group/events/297156461/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2023-12-12T18:30:00Z
+    end_datetime: 2023-12-12T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork: Unpeeling the Onion of Uncertainty - Rob Meaney (Sponsored by Valid8Me)"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/297479543/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2023-12-06T18:00:00Z
+    end_datetime: 2023-12-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Kotlin Belfast User Group: The Best Ever KBUG Of 2023!"
+    url: "https://www.meetup.com/kotlin-belfast/events/297238681/"
+    region: 🇬🇧
+    date_added: 2023-11-21
+    start_datetime: 2023-12-05T18:00:00Z
+    end_datetime: 2023-12-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Game Dev Network: PlayMyDemo - NI Game Dev Meetup (Christmas Special)"
+    url: "https://www.meetup.com/nigamedev/events/297073520/"
+    region: 🇬🇧
+    date_added: 2023-11-21
+    start_datetime: 2023-12-08T19:00:00Z
+    end_datetime: 2023-12-08T23:55:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/297123206/"
+    region: 🇬🇧
+    date_added: 2023-11-21
+    start_datetime: 2023-12-18T18:00:00Z
+    end_datetime: 2023-12-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker

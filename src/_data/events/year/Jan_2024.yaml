@@ -11,3 +11,14 @@ eventlistings:
     desc: "<p>There's no better way to kick off the new year than to catch up with us at our Women Techmakers Belfast 2024 Launch event!</p>
     <p>Kindly hosted by ASOS Belfast, join us on Thursday 17th January for a virtual night of catching up, networking and hearing more about the work that we do and to start the hype for our 2024 IWD Conference!</p>"
     type: diversity
+
+  - name: "(In-Person) Dublin Atlassian Community Events: Unleash Agile & DevOps in Dublin @ Temple Bar Inn"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/297108292/"
+    region: 🇮🇪
+    date_added: 2023-11-21
+    start_datetime: 2024-01-18T17:00:00Z
+    end_datetime: 2024-01-18T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
