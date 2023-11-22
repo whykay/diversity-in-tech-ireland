@@ -793,3 +793,14 @@ eventlistings:
     desc: "<p>Join us on Monday 27th November to learn all about submitting to a tech conference. This virtual workshop aims to help attendees to hone their skills in public speaking and get ready to submit an abstract to a tech conference!</p>
     <p>No prior knowledge or experience is necessary; just a healthy enthusiasm and a willingness to learn about speaking in public regarding technical, business or work-related topics. New speakers are especially welcome!</p>"
     type: diversity
+
+  - name: "(Online) Dublin DevRel Meetup: November Meetup with Pachi Parra & Erin Mikail Staples"
+    url: "https://www.meetup.com/dublin-devrel/events/297136422/"
+    region: 🇮🇪
+    date_added: 2023-11-22
+    start_datetime: 2023-11-22T18:00:00Z
+    end_datetime: 2023-11-22T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
