@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2023-11-14
     start_datetime: 2023-12-02T09:00:00Z
     end_datetime: 2023-12-02T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2023-11-14
     start_datetime: 2023-12-04T19:00:00Z
     end_datetime: 2023-12-04T20:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Everyone is welcome to our December Bookclub. The only suggestion is to have read or listened to the book in advance! And of course come with an open mind ready to be inspired!</p>
     <p>Our December book has been recommended by Dr Lollie Mancey who is hosting our gathering! There will be an opportunity to hear about Dr Mancey's motivation for choosing this book and the debates it raises about technology and ethics of course to meet others from the TechFoundHer Community!</p>"
@@ -112,7 +112,7 @@ eventlistings:
     date_added: 2023-11-16
     start_datetime: 2023-12-13T12:30:00Z
     end_datetime: 2023-12-13T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -123,7 +123,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-05T19:00:00Z
     end_datetime: 2023-12-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -133,7 +133,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-06T18:00:00Z
     end_datetime: 2023-12-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -143,7 +143,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-07T19:00:00Z
     end_datetime: 2023-12-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -153,7 +153,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-12T18:30:00Z
     end_datetime: 2023-12-12T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -163,7 +163,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-06T18:00:00Z
     end_datetime: 2023-12-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -173,7 +173,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-05T18:00:00Z
     end_datetime: 2023-12-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -183,7 +183,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-08T19:00:00Z
     end_datetime: 2023-12-08T23:55:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -193,7 +193,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-12-18T18:00:00Z
     end_datetime: 2023-12-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -218,3 +218,45 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+
+  - name: "(Hybrid) First Fridays: Welcome to the Ecosystem"
+    url: "https://crowdcast.io/c/fffsdecember1st"
+    region: 🇮🇪
+    date_added: 2023-12-01
+    start_datetime: 2023-12-01T11:30:00Z
+    end_datetime: 2023-12-01T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Hybrid) First Fridays: Educate - Panel"
+    url: "https://crowdcast.io/c/fffsdecember1st"
+    region: 🇮🇪
+    date_added: 2023-12-01
+    start_datetime: 2023-12-01T13:15:00Z
+    end_datetime: 2023-12-01T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Hybrid) First Fridays: Lightning Talks"
+    url: "https://crowdcast.io/c/fffsdecember1st"
+    region: 🇮🇪
+    date_added: 2023-12-01
+    start_datetime: 2023-12-01T14:15:00Z
+    end_datetime: 2023-12-01T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups
+  - name: "(Hybrid) First Fridays: Inspire: Fireside with Patrick Walsh and Aine Kerr"
+    url: "https://crowdcast.io/c/fffsdecember1st"
+    region: 🇮🇪
+    date_added: 2023-12-01
+    start_datetime: 2023-12-01T15:00:00Z
+    end_datetime: 2023-12-01T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: startups

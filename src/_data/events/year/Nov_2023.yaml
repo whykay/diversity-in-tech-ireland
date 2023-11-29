@@ -611,7 +611,7 @@ eventlistings:
     date_added: 2023-11-16
     start_datetime: 2023-11-29T18:00:00Z
     end_datetime: 2023-11-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -622,7 +622,7 @@ eventlistings:
     date_added: 2023-11-20
     start_datetime: 2023-11-21T18:30:00Z
     end_datetime: 2023-11-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Last PyLadies Dublin meetup of 2023. We are hosted by Udemy, food sponsored by Renaissance Reinsurance.</p>
     <p>
@@ -636,7 +636,7 @@ eventlistings:
     date_added: 2023-11-20
     start_datetime: 2023-11-29T20:00:00Z
     end_datetime: 2023-11-29T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: design
@@ -646,7 +646,7 @@ eventlistings:
     date_added: 2023-11-20
     start_datetime: 2023-11-28T18:00:00Z
     end_datetime: 2023-11-28T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -656,7 +656,7 @@ eventlistings:
     date_added: 2023-11-20
     start_datetime: 2023-11-25T11:00:00Z
     end_datetime: 2023-11-25T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -666,7 +666,7 @@ eventlistings:
     date_added: 2023-11-20
     start_datetime: 2023-11-27T17:45:00Z
     end_datetime: 2023-11-27T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -687,7 +687,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-26T10:00:00Z
     end_datetime: 2023-11-26T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -697,7 +697,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-27T18:30:00Z
     end_datetime: 2023-11-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -707,7 +707,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-28T15:15:00Z
     end_datetime: 2023-11-28T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -717,7 +717,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-29T18:00:00Z
     end_datetime: 2023-11-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -727,7 +727,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-30T18:30:00Z
     end_datetime: 2023-11-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -737,7 +737,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-30T18:30:00Z
     end_datetime: 2023-11-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -777,7 +777,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-23T08:00:00Z
     end_datetime: 2023-11-23T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bytes n' Brew is a fortnightly social event, a relaxed space designed to give our community an opportunity for conversations and connections around busy/work-life schedules. Join online to make new friends in the community, ask others for career advice, coding help or mentoring.</p>
     <p>Bytes n' Brew will be hosted over Zoom. The link will be available closer to the time and only to those who sign up!</p>"
@@ -788,7 +788,7 @@ eventlistings:
     date_added: 2023-11-21
     start_datetime: 2023-11-27T18:00:00Z
     end_datetime: 2023-11-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us on Monday 27th November to learn all about submitting to a tech conference. This virtual workshop aims to help attendees to hone their skills in public speaking and get ready to submit an abstract to a tech conference!</p>
     <p>No prior knowledge or experience is necessary; just a healthy enthusiasm and a willingness to learn about speaking in public regarding technical, business or work-related topics. New speakers are especially welcome!</p>"
@@ -811,7 +811,7 @@ eventlistings:
     date_added: 2023-11-23
     start_datetime: 2023-11-29T08:00:00Z
     end_datetime: 2023-11-29T09:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
