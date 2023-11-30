@@ -10,15 +10,16 @@ eventlistings:
     desc: 
     type: tech
 
-  - name: "(Online) AwakenHub Christmas Jollies: Save The Date"
-    url: "https://www.eventbrite.co.uk/e/awakenhub-christmas-jollies-save-the-date-tickets-744723617387"
+  - name: "(Online) AwakenHub Christmas Jollies: From Start-Up To Stand-Up"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-community-event-from-start-up-to-stand-up-tickets-744723617387"
     region: 🇮🇪
     date_added: 2023-11-01
     start_datetime: 2023-12-12T17:00:00Z
     end_datetime: 2023-12-12T18:30:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>It's coming up to ho, ho, ho time and you know how much our Awakenhubbers love a bit of inspiration to keep the founder fires burning.</p>
+    <p>AwakenHub & AwakenAngels co-founder Clare McGee will be chatting to Serena Terry aka 'Mammy Banter'</p>
     <p>Permission (not that you need it) to let your hair down, celebrate the little wins and wish each other an #AwakenHug #HappyChristmas. We set the bar so low last year that there are no rules for this one with regards to outfits, rigouts, reindeer onesies:) Knock yourselves out.</p>"
     type: diversity
 
@@ -223,7 +224,7 @@ eventlistings:
   - name: "(Hybrid) First Fridays: Welcome to the Ecosystem"
     url: "https://crowdcast.io/c/fffsdecember1st"
     region: 🇮🇪
-    date_added: 2023-12-01
+    date_added: 2023-11-29
     start_datetime: 2023-12-01T11:30:00Z
     end_datetime: 2023-12-01T12:30:00Z
     new: true
@@ -233,7 +234,7 @@ eventlistings:
   - name: "(Hybrid) First Fridays: Educate - Panel"
     url: "https://crowdcast.io/c/fffsdecember1st"
     region: 🇮🇪
-    date_added: 2023-12-01
+    date_added: 2023-11-29
     start_datetime: 2023-12-01T13:15:00Z
     end_datetime: 2023-12-01T14:00:00Z
     new: true
@@ -243,7 +244,7 @@ eventlistings:
   - name: "(Hybrid) First Fridays: Lightning Talks"
     url: "https://crowdcast.io/c/fffsdecember1st"
     region: 🇮🇪
-    date_added: 2023-12-01
+    date_added: 2023-11-29
     start_datetime: 2023-12-01T14:15:00Z
     end_datetime: 2023-12-01T14:45:00Z
     new: true
@@ -253,10 +254,47 @@ eventlistings:
   - name: "(Hybrid) First Fridays: Inspire: Fireside with Patrick Walsh and Aine Kerr"
     url: "https://crowdcast.io/c/fffsdecember1st"
     region: 🇮🇪
-    date_added: 2023-12-01
+    date_added: 2023-11-29
     start_datetime: 2023-12-01T15:00:00Z
     end_datetime: 2023-12-01T15:45:00Z
     new: true
     recurring: false
     desc: 
     type: startups
+
+  - name: "(In-Person) AwakenHub Cork HoHoHos"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-cork-hohohos-tickets-763300531437"
+    region: 🇮🇪
+    date_added: 2023-11-30
+    start_datetime: 2023-12-07T18:00:00Z
+    end_datetime: 2023-12-07T20:20:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous The River Club, River Lee Hotel on 7 December.</p>
+    <p>Pop in for a drink and a chat. No agenda. Just pure 'get to know you' vibes.</p>
+    <p>Open to any women founders / investors interested in AwakenHub and/or AwakenAngels.</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub North West HoHoHos"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-north-west-hohohos-tickets-764399648927"
+    region: 🇬🇧
+    date_added: 2023-11-30
+    start_datetime: 2023-12-11T17:30:00Z
+    end_datetime: 2023-12-11T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>In collaboration with Derry City & Strabane District Council's Go Succeed Programme you're invited to join us on 11th December for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous GuildHall TapHouse.</p>
+    <p>Pop in for a drink and a chat. Hear about the new Go Succeed Programme open to businesses across NI and all things AwakenHub/AwakenAngels. There will be plenty of 'get to know you' vibes too.</p>
+    <p>Open to any women founders / investors interested in AwakenHub and/or AwakenAngels.</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub Causeway Coast & Glens HoHoHos"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-causeway-coast-glens-hohohos-tickets-764431383847"
+    region: 🇬🇧
+    date_added: 2023-11-30
+    start_datetime: 2023-12-13T19:00:00Z
+    end_datetime: 2023-12-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>In collaboration with Causeway Coast & Glens Council and the Go Succeed Programme you're invited to join us on 13th December for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous Whoosh in Coleraine (Thanks to #awakenhubber and trailblazer Thana Thammavongsa for hosting us).</p>
+    <p>Pop in for a drink and a chat. Hear about the new Go Succeed Programme open to all businesses across NI and all things AwakenHub/AwakenAngels. There will be plenty of 'get to know you' vibes too.</p>
+    <p>Open to any women founders / investors interested in AwakenHub and/or AwakenAngels.</p>"
+    type: diversity
