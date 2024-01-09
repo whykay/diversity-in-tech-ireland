@@ -25,3 +25,37 @@ conferences:
     desc: "<p>Techstars Startup Weekend is a 3 days interactive event for people who want to test/validate and explore their business ideas. You’ll meet the very best mentors, learn from workshops, work as a team and networking. Join us to learn how to Think, Work, and Build like a startup in 54 thrilling hours. You don't have to have a business idea to join.</p>"
     type: diversity
     status: active 
+
+  - name: "Security BSides Dublin 2024"
+    url: "https://www.bsidesdub.ie/"
+    region: 🇮🇪
+    date_added: 2024-01-09
+    start_datetime: 2024-05-18T09:00:00Z
+    end_datetime: 2024-05-18T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organising an independent BSides-Approved event for Ireland, in Dublin.</p>"
+    type: diversity
+    status: active 
+  - name: "ShipItCon 2024"
+    url: "https://shipitcon.com/"
+    region: 🇮🇪
+    date_added: 2024-01-09
+    start_datetime: 2024-08-30T09:00:00Z
+    end_datetime: 2024-08-30T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>An annual, community driven, not-for-profit conference about Software Delivery held in Dublin.</p>"
+    type: diversity
+    status: active 
+  - name: "RENDR 2024"
+    url: "https://www.rendrfestival.com/"
+    region: 🇬🇧
+    date_added: 2024-01-09
+    start_datetime: 2024-02-29T17:00:00Z
+    end_datetime: 2024-03-01T23:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Night-time Creativity and Tech Festival. Curated for the Hungry!</p>"
+    type: diversity
+    status: active 
