@@ -39,7 +39,7 @@ eventlistings:
     date_added: 2024-01-08
     start_datetime: 2024-01-09T18:00:00Z
     end_datetime: 2024-01-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -209,7 +209,7 @@ eventlistings:
     date_added: 2024-01-08
     start_datetime: 2024-01-09T19:00:00Z
     end_datetime: 2024-01-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -240,7 +240,29 @@ eventlistings:
     date_added: 2024-01-09
     start_datetime: 2024-01-09T17:30:00Z
     end_datetime: 2024-01-09T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) AwakenAngels Information Session"
+    url: "https://www.eventbrite.co.uk/e/awakenangels-information-session-tickets-795148981007"
+    region: 🇮🇪
+    date_added: 2024-01-10
+    start_datetime: 2024-01-15T19:00:00Z
+    end_datetime: 2024-01-15T19:30:00Z
+    new: true
+    recurring: false
+    desc: "Join an information session to understand who AwakenAngels are and their mission to democratise angel investment on the island of Ireland."
+    type: diversity
+  - name: "(Online) AwakenHub: January Community Event - Pivot to Propel"
+    url: "https://www.eventbrite.co.uk/e/january-community-event-pivot-to-propel-tickets-757882846997"
+    region: 🇮🇪
+    date_added: 2024-01-10
+    start_datetime: 2024-01-25T17:00:00Z
+    end_datetime: 2024-01-25T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>There is nothing like a New Year to think about your company’s fundamental value proposition and how startups often need to pivot, not only to survive, but to propel and to thrive.</p>
+    <p>It’s more common that you might think that early-stage start-up ideas end up on the cutting room floor and major pivots happen when real opportunity, need or demand dictates. In truth the more successful founders will embrace this and see it as part of the process. Iterate, iterate and then leap into the big pivots.</p>"
+    type: diversity
