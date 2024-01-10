@@ -59,3 +59,17 @@ conferences:
     desc: "<p>Night-time Creativity and Tech Festival. Curated for the Hungry!</p>"
     type: diversity
     status: active 
+
+  - name: "CESI 2024"
+    url: "https://www.cesi.ie/conferences/conference-2024/"
+    region: 🇮🇪
+    date_added: 2024-01-10
+    start_datetime: 2024-03-02T09:00:00Z
+    end_datetime: 2024-03-02T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 2024 annual conference of the Computers in Education Society of Ireland will take place on Saturday 2nd March at ATU Galway City.</p>
+    <p>The theme for the conference is “Navigating Digital Futures”.</p>
+    <p>The 2024 conference will highlight creative, practical, and innovation applications of digital teaching and learning across the sectors. Conference streams will cover broad themes such as computing, GenAI, and inclusion. Attendees will be afforded space and time throughout the day for networking and collaboration. The annual CESI conference is a dynamic and forward-thinking event, and the 2024 programme addresses emerging challenges throughout the sectors, as well as many hopeful opportunities.</p>"
+    type: tech
+    status: active 

@@ -62,7 +62,7 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person)  Engineering and Advanced Manufacturing Hub (FENI): Women into Industry"
+  - name: "(In-Person) Engineering and Advanced Manufacturing Hub (FENI): Women into Industry"
     url: "https://www.eventbrite.co.uk/e/women-into-industry-tickets-769670123057"
     region: 🇬🇧
     date_added: 2024-01-10
@@ -72,7 +72,7 @@ eventlistings:
     recurring: false
     desc: "Join us for an exciting event at Southern Regional College, Newry Campus. Women into Industry is a must-attend gathering for anyone, who would like to change career and learn new opportunities within local industry. Opportunity to network over a coffee and listen to others experiences."
     type: diversity
-  - name: "(In-Person)  Engineering and Advanced Manufacturing Hub (FENI): Women into Industry"
+  - name: "(In-Person) Engineering and Advanced Manufacturing Hub (FENI): Women into Industry"
     url: "https://www.eventbrite.co.uk/e/women-into-industry-tickets-770192595787"
     region: 🇬🇧
     date_added: 2024-01-10
@@ -82,3 +82,13 @@ eventlistings:
     recurring: false
     desc: "Join us for an exciting event at Southern Regional College, Newry Campus. Women into Industry is a must-attend gathering for anyone, who would like to change career and learn new opportunities within local industry. Opportunity to network over a coffee and listen to others experiences."
     type: diversity
+  - name: "(In-Person) NI Game Dev Meetup: PlayMyDemo - GGJ Special"
+    url: "https://www.meetup.com/nigamedev/events/298443404"
+    region: 🇬🇧
+    date_added: 2024-01-10
+    start_datetime: 2024-02-01T19:00:00Z
+    end_datetime: 2024-02-01T23:55:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
