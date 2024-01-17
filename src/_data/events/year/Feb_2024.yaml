@@ -103,3 +103,16 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+
+  - name: "(In-Person) Going for Growth: Inspiring Women Entrepreneurs @ TU Dublin Grangegorman"
+    url: "https://www.eventbrite.co.uk/e/inspiring-women-entrepreneurs-tickets-789122626017"
+    region: 🇮🇪
+    date_added: 2024-01-17
+    start_datetime: 2024-02-01T18:00:00Z
+    end_datetime: 2024-02-01T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Are you a woman who is considering a change in career or interested in exploring the world of entrepreneurship? Technological University Dublin is hosting an event for Inspiring Women Entrepreneurs 2024 for women who are interested in exploring the possibility of an innovative entrepreneurial career.</p>
+    <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>"
+    type: diversity

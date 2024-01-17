@@ -291,8 +291,8 @@ eventlistings:
     url: "https://www.eventbrite.co.uk/e/inspiring-women-entrepreneurs-tickets-779973952087"
     region: 🇮🇪
     date_added: 2024-01-10
-    start_datetime: 2024-01-25T17:00:00Z
-    end_datetime: 2024-01-25T18:15:00Z
+    start_datetime: 2024-01-24T12:00:00Z
+    end_datetime: 2024-01-24T13:45:00Z
     new: true
     recurring: false
     desc: "<p>Olivia Lynch, Partner, KPMG cordially invites you to attend a lunchtime talk of Inspiring Women Entrepreneurs with Paula Fitzsimons, Going for Growth. Olivia and Paula will be joined by successful female entrepreneurs Louella Morton, founder of TestReach, and Leonora O’Brien, founder and formerly CEO of Pharmapod, who will tell their inspiring stories of their entrepreneurship journeys.</p>
@@ -349,3 +349,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Global Game Jam Belfast 2024 @ Farset Labs"
+    url: "https://www.eventbrite.co.uk/e/global-game-jam-belfast-2024-tickets-768484827807"
+    region: 🇬🇧
+    date_added: 2024-01-17
+    start_datetime: 2024-01-26T17:00:00Z
+    end_datetime: 2024-01-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Galway GGJ24 @ Portershed a Dó"
+    url: "https://globalgamejam.org/jam-sites/2024/galway"
+    region: 🇮🇪
+    date_added: 2024-01-17
+    start_datetime: 2024-01-26T18:00:00Z
+    end_datetime: 2024-01-28T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+    
