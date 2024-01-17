@@ -338,3 +338,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) Codú: Web Developer Meetup | Career Advice to Kick Off the New Year! 🎉"
+    url: "https://www.meetup.com/codu-community/events/298478627"
+    region: 🇮🇪
+    date_added: 2024-01-11
+    start_datetime: 2024-01-23T18:00:00Z
+    end_datetime: 2024-01-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
