@@ -127,7 +127,6 @@ eventlistings:
     recurring: false
     desc: "<p>Save the date, check event page for more info.</p>"
     type: diversity
-
   - name: "(In-Person) Dublin Tech Talks: LeadHERship - Women Who Lead @ GEC"
     url: "https://www.eventbrite.ie/e/leadhership-women-who-lead-tickets-800654718817"
     region: 🇮🇪
@@ -139,3 +138,13 @@ eventlistings:
     desc: "<p>A morning event to celebrate the journeys, challenges, and triumphs of women in leadership roles in partnership with WITS & GEC.</p>
     <p>In a world where leadership is often equated with authority and power, we bring you a different narrative. 'LeadHERship - Women Who Lead' is a unique gathering that celebrates the journeys, challenges, and triumphs of women in leadership roles. This event isn't just about hearing success stories; it's an immersive experience into the multifaceted world of female leadership.</p>"
     type: diversity
+  - name: "(In-Person) Wicklow Technology (Tech Valley) Meet-Up @ Devils Glen Equestrian"
+    url: "https://www.meetup.com/wicklow-technology-meetup/events/298626739/"
+    region: 🇮🇪
+    date_added: 2024-01-19
+    start_datetime: 2024-02-08T07:00:00Z
+    end_datetime: 2024-02-08T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
