@@ -55,3 +55,15 @@ eventlistings:
     recurring: false
     desc: "<p>Save the date, check event page for more info.</p>"
     type: diversity
+  - name: "Women in Tech Belfast: International Women's Day 2024 Lightning Talks event 'Inspire Inclusion'"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/298653944"
+    region: 🇬🇧
+    date_added: 2024-01-19
+    start_datetime: 2024-03-05T17:30:00Z
+    end_datetime: 2024-03-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>International Women's Day 2024: Women in Tech Lightning Talks event- THEME: 'Inspire Inclusion'</p>
+    <p>Women In Tech Belfast have been holding Workshops and Lightning Talks events for many years now, with the aim of encouraging more women to give technical talks. Female speaker representation in tech events and meetups have increased as a result. We are keen to provide another event that will help female speakers practice their talks - in advance of upcoming 2024 tech events - OR just to give it a whirl anyway!</p>
+    <p>To celebrate International Women's Day 2024, we are holding the event on Tuesday 5th March 2024 at 6pm in the PA Consulting Office in Centre House on Chichester Street, Belfast City Centre. The theme for this year's IWD is 'Inspire Inclusion' - so talks that have some connection to this theme would be particularly welcomed!</p>"
+    type: diversity
