@@ -382,3 +382,13 @@ eventlistings:
     recurring: false
     desc: "Are you intrigued by the world of angel investing? Whether you're a seasoned investor looking to expand your portfolio or a newcomer eager to explore new opportunities, this information session will explain the mechanics of AwakenAngels and how you can join the first and only all island of Ireland women-led angel investment syndicate."
     type: diversity
+  - name: "(In-Person) Machine Learning Dublin Meet Up @ Tangent"
+    url: "https://www.meetup.com/Machine-Learning-Dublin/events/298651403"
+    region: 🇮🇪
+    date_added: 2024-01-19
+    start_datetime: 2024-01-29T18:00:00Z
+    end_datetime: 2024-01-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
