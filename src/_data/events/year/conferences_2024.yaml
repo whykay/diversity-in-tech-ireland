@@ -20,7 +20,7 @@ conferences:
     date_added: 2023-08-11
     start_datetime: 2024-03-22T18:00:00Z
     end_datetime: 2024-03-24T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Techstars Startup Weekend is a 3 days interactive event for people who want to test/validate and explore their business ideas. You’ll meet the very best mentors, learn from workshops, work as a team and networking. Join us to learn how to Think, Work, and Build like a startup in 54 thrilling hours. You don't have to have a business idea to join.</p>"
     type: diversity
@@ -32,7 +32,7 @@ conferences:
     date_added: 2024-01-09
     start_datetime: 2024-05-18T09:00:00Z
     end_datetime: 2024-05-18T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organising an independent BSides-Approved event for Ireland, in Dublin.</p>"
     type: diversity
@@ -43,7 +43,7 @@ conferences:
     date_added: 2024-01-09
     start_datetime: 2024-08-30T09:00:00Z
     end_datetime: 2024-08-30T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>An annual, community driven, not-for-profit conference about Software Delivery held in Dublin.</p>"
     type: diversity
@@ -54,7 +54,7 @@ conferences:
     date_added: 2024-01-09
     start_datetime: 2024-02-29T17:00:00Z
     end_datetime: 2024-03-01T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Night-time Creativity and Tech Festival. Curated for the Hungry!</p>"
     type: diversity
@@ -65,12 +65,12 @@ conferences:
     date_added: 2023-11-09
     start_datetime: 2024-03-13T09:00:00Z
     end_datetime: 2024-03-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Women in STEM Summit 2024 will bring together thought leaders, educators, policy makers, innovators, and pioneers in industry to discuss how to empower women with the technology and skills necessary for a better future. It will provide a platform where they can constructively challenge current ways of thinking and offer new perspectives.</p>"
     type: diversity
     status: active 
-    
+
   - name: "CESI 2024"
     url: "https://www.cesi.ie/conferences/conference-2024/"
     region: 🇮🇪
