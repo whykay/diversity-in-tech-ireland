@@ -158,3 +158,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) YourY Network: Brigit 2024 - Techstars Startup Weekend Women Dublin @ Huckletree"
+    url: "https://lu.ma/y9nccr6i"
+    region: 🇮🇪
+    date_added: 2024-01-20
+    start_datetime: 2024-02-02T12:30:00Z
+    end_datetime: 2024-02-02T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us to celebrate women social innovators at this Brigit week.</p>
+    <p>This Techstars Startup Weekend Women Dublin event is geared toward celebrating our community of social impact tech founders. There will be an opportunity to networking and a fireside chat with our past SWDW winners.</p>"
+    type: diversity
