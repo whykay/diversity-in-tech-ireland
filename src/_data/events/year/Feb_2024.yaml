@@ -170,3 +170,14 @@ eventlistings:
     desc: "<p>Join us to celebrate women social innovators at this Brigit week.</p>
     <p>This Techstars Startup Weekend Women Dublin event is geared toward celebrating our community of social impact tech founders. There will be an opportunity to networking and a fireside chat with our past SWDW winners.</p>"
     type: diversity
+
+  - name: "(In-Person)Amazing Data Women - ESG Themed @ KPMG Ireland"
+    url: "https://lu.ma/y9nccr6i"
+    region: 🇮🇪
+    date_added: 2024-01-23
+    start_datetime: 2024-02-19T18:30:00Z
+    end_datetime: 2024-02-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Wed Feb 21st @6:30pm (Irish Time), hosted at KPMG. We'll have ESG themed talks from amazing women. Join, ask questions and meet other folks who love data.</p>"
+    type: diversity
