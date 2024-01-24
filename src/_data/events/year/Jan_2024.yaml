@@ -392,3 +392,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person)WTM Belfast Book Club #3"
+    url: "https://gdg.community.dev/events/details/google-gdg-belfast-presents-wtm-belfast-book-club-3/"
+    region: 🇬🇧
+    date_added: 2024-01-17
+    start_datetime: 2024-01-30T17:30:00Z
+    end_datetime: 2024-01-30T19:30:00Z
+    new: false
+    recurring: false
+    desc: "This month we are reading WOLFPACK by Abby Wambach. Join us for a coffee and meet new people, chat and catch-up with friendly faces!"
+    type: diversity
