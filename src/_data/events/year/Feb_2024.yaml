@@ -181,3 +181,34 @@ eventlistings:
     recurring: false
     desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Wed Feb 21st @6:30pm (Irish Time), hosted at KPMG. We'll have ESG themed talks from amazing women. Join, ask questions and meet other folks who love data.</p>"
     type: diversity
+
+  - name: "(Online) IMIRT: Writing as Collaboration"
+    url: "https://www.eventbrite.ie/e/writing-as-collaboration-tickets-805708504827"
+    region: 🇮🇪
+    date_added: 2024-01-25
+    start_datetime: 2024-02-18T15:00:00Z
+    end_datetime: 2024-02-18T18:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) AI Tribes @ Science Gallery Dublin"
+    url: "https://techtribes.io/ai-tribes/"
+    region: 🇮🇪
+    date_added: 2024-01-25
+    start_datetime: 2024-02-23T09:30:00Z
+    end_datetime: 2024-02-23T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) An Ethics Ecosystem for AI and Big Data: Why? What? How? @ UCD"
+    url: "https://www.eventbrite.ie/e/an-ethics-ecosystem-for-ai-and-big-data-why-what-how-tickets-806723570917"
+    region: 🇮🇪
+    date_added: 2024-01-25
+    start_datetime: 2024-02-12T13:00:00Z
+    end_datetime: 2024-02-12T14:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
