@@ -212,3 +212,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) An Ethics Ecosystem for AI and Big Data: Why? What? How? @ UCD"
+    url: "https://www.eventbrite.ie/e/an-ethics-ecosystem-for-ai-and-big-data-why-what-how-tickets-806723570917"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-02-20T18:30:00Z
+    end_datetime: 2024-02-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: "First PyLadies Dublin meetup of 2024 and we are hosted by Pinterest this month! We have a couple of speakers, so come join us, listen, share and code."
+    type: diversity
