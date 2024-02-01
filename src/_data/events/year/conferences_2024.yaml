@@ -199,3 +199,15 @@ conferences:
     desc: "<p>Hosted by the Health Innovation and Research Alliance NI (HIRANI), Health Tech Spring is a two-day conference taking place in April 2024</p>"
     type: tech
     status: active
+
+  - name: "InvestHer Summit"
+    url: "https://www.investhersummit.com"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-06-19T09:00:00Z
+    end_datetime: 2024-06-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Together, Let's Get 1M Women Entrepreneurs Funded by 2030. Community is Capital</p>"
+    type: diversity
+    status: active

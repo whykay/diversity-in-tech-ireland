@@ -223,3 +223,23 @@ eventlistings:
     recurring: false
     desc: "First PyLadies Dublin meetup of 2024 and we are hosted by Pinterest this month! We have a couple of speakers, so come join us, listen, share and code."
     type: diversity
+  - name: "(In-Person) Thrive 2024 @ Google"
+    url: "https://rsvp.withgoogle.com/events/thrive2024dublin"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-02-16T16:00:00Z
+    end_datetime: 2024-02-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Thrive is more than just a conference - it's a vibrant celebration of our LGBTQ+ community. Thrive is a space to connect, learn, and celebrate the vibrant tapestry of the LGBTQ+ community. Come meet inspiring individuals, discover valuable resources, and leave feeling empowered to embrace your authentic self."
+    type: diversity
+  - name: "(In-Person) Sligo Tech Meetup: We’re Back For 2024 - Let There Be Chat!"
+    url: "https://www.meetup.com/sligotech/events/298866548/"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-02-08T18:00:00Z
+    end_datetime: 2024-02-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
