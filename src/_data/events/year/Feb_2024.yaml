@@ -243,3 +243,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) WITS Ireland: Mary Mulvihill Lecture"
+    url: "https://www.eventbrite.ie/e/mary-mulvihill-lecture-tickets-817475269537"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-02-22T18:00:00Z
+    end_datetime: 2024-02-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Technology & Science Ireland are delighted to invite you to our Bi-Annual Mary Mulvihill Lecture. This special event recognises the significant contribution Dr. Marion Palmer has made to WITS.</p>
+    <p>With an opening address from Dr. Orla Feely, President of UCD the keynote lecture will be delivered by two-time recipient of the Journalism Excellence Award from the Irish Red Cross Humanitarian Awards Maria Delaney.</p>"
+    type: diversity
+  - name: "(Online) WITS Ireland: The Power of Change: Reinventing your career throughout life!"
+    url: "https://www.eventbrite.ie/e/the-power-of-change-reinventing-your-career-throughout-life-tickets-809222645717"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-02-23T12:15:00Z
+    end_datetime: 2024-02-23T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Paula Fitzsimons and Ciara Garvan for a discussion on career longevity and the power of doing what you love!</p>
+    <p>What makes a good career and in particular what makes a good career for a woman? We know many people burnout and opt out of the corporate world in their 50’s, others struggle to re enter the workforce after stepping out due to caring opportunities and remain underemployed. How can we ensure we are all still thriving in a career for many years?</p>"
+    type: diversity
