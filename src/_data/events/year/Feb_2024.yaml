@@ -507,3 +507,13 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for an exciting lunch and learn event focused on empowering women in technology through sustainable practices.</p>"
     type: diversity
+  - name: "(In-Person) Legal Technology and the Rule of Law @ Technological University of the Shannon: Midlands Midwest"
+    url: "https://www.eventbrite.ie/e/legal-technology-and-the-rule-of-law-tickets-778492310457?aff=ebdssbdestsearch"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-12T08:00:00Z
+    end_datetime: 2024-02-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
