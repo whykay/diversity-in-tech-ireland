@@ -78,3 +78,106 @@ eventlistings:
     recurring: false
     desc: "<p>Monthly PyLadies Dublin meetup. One of the talks is 'Efficient Deployment and Debugging of a Fine-Tuned Language Model Classifier Using Python SDK & Cloud Tools' by Samira Korani. Check event page for more speaker annoucements and updates.</p>"
     type: diversity
+
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/qzwkxsygcfbrb/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-13T18:00:00Z
+    end_datetime: 2024-03-13T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyLadies Dublin Mar Meetup"
+    url: "https://www.meetup.com/pyladiesdublin/events/298930159/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-19T18:30:00Z
+    end_datetime: 2024-03-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: "We will have a couple of speakers this month, talk details - check event page for more details."
+    type: diversity
+  - name: "(In-Person) New Relic User Meetup: Dublin @ Token"
+    url: "https://www.meetup.com/new-relic-meetup-group-emea/events/298928009/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-13T14:00:00Z
+    end_datetime: 2024-03-13T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Cupán Tae Virtual Talk Series: Laura Nolan - Path Dependence: History Matters"
+    url: "https://cupantaeconf.com/cupan-tae-conf-series"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-26T13:00:00Z
+    end_datetime: 2024-02-26T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Coding Grace just launched a series of virtual events as part of new programme called Cupán Tae Conf.</p>
+    <p>Calling all Principal Software Engineers, Systems Architects, Senior Devs, Head of Engineering to join us for this deep dive into tech</p>"
+    type: diversity
+  - name: "(In-Person) Galway Game Makers Meetup! @ Portershed"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/jxjrhtygcfbhb/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-05T19:00:00Z
+    end_datetime: 2024-03-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Apache Kafka® Meetup Belfast"
+    url: "https://www.meetup.com/belfast-kafka/events/298650412/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-03-06T18:30:00Z
+    end_datetime: 2024-03-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Thrive Inclusion: Digital Inclusion: Building Bridges, Not Barriers @ LinkedIn"
+    url: "https://www.eventbrite.ie/e/digital-inclusion-building-bridges-not-barriers-tickets-802979993777?aff=ebdssbdestsearch"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-05T16:00:00Z
+    end_datetime: 2024-02-05T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Our team from ThriveInclusion has a mission of promoting equal opportunities to everyone through technology, by the conscientisation of organizations and communities.</p>
+    <p>For this free-entry discussion, we bring the theme of 'Digital Inclusion: Building Bridges, Not Barriers'.</p>"
+    type: diversity
+  - name: "(In-Person) TechBrew (Event for entrepreneurs, start ups, SMEs, tech sector & leaders) @ Tom Crean Business Centre (Kerry)"
+    url: "https://www.eventbrite.ie/e/techbrew-event-for-entrepreneurs-start-ups-smes-tech-sector-leaders-tickets-814083504677"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-26T12:00:00Z
+    end_datetime: 2024-03-26T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Engineers Week Soldering Workshop"
+    url: "https://www.eventbrite.ie/e/engineers-week-soldering-workshop-tickets-814350142197"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-03T11:00:00Z
+    end_datetime: 2024-03-03T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Diversity and Intercultural Education Network (DIEN) @ Atlantic Technological University Sligo"
+    url: "https://www.eventbrite.ie/e/diversity-and-intercultural-education-network-dien-tickets-816434747307"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-09T09:30:00Z
+    end_datetime: 2024-02-09T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Empowering Together and Sharing Best Practice.</p>"
+    type: diversity

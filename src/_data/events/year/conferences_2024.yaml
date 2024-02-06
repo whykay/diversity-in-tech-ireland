@@ -211,3 +211,15 @@ conferences:
     desc: "<p>Together, Let's Get 1M Women Entrepreneurs Funded by 2030. Community is Capital</p>"
     type: diversity
     status: active
+
+  - name: "DeeptechFest Ireland 2024"
+    url: "https://www.eventbrite.ie/e/deeptechfest-ireland-2024-tickets-790066268477"
+    region: 🇮🇪
+    date_added: 2024-02-01
+    start_datetime: 2024-03-07T08:30:00Z
+    end_datetime: 2024-03-07T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at DeeptechFest Ireland 2024, a one-day event dedicated to showcasing the incredible power of Deeptech in revolutionizing climate tech, driving sustainability goals in Europe, and fostering a dynamic ecosystem that fuels innovation across various sectors.</p>"
+    type: tech
+    status: active

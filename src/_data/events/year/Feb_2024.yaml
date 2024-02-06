@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2024-01-17
     start_datetime: 2024-02-01T18:00:00Z
     end_datetime: 2024-02-01T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Are you a woman who is considering a change in career or interested in exploring the world of entrepreneurship? Technological University Dublin is hosting an event for Inspiring Women Entrepreneurs 2024 for women who are interested in exploring the possibility of an innovative entrepreneurial career.</p>
     <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>"
@@ -123,7 +123,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-02-20T17:00:00Z
     end_datetime: 2024-02-20T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Save the date, check event page for more info.</p>"
     type: diversity
@@ -133,7 +133,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-02-06T10:00:00Z
     end_datetime: 2024-02-06T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A morning event to celebrate the journeys, challenges, and triumphs of women in leadership roles in partnership with WITS & GEC.</p>
     <p>In a world where leadership is often equated with authority and power, we bring you a different narrative. 'LeadHERship - Women Who Lead' is a unique gathering that celebrates the journeys, challenges, and triumphs of women in leadership roles. This event isn't just about hearing success stories; it's an immersive experience into the multifaceted world of female leadership.</p>"
@@ -144,7 +144,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-02-08T19:00:00Z
     end_datetime: 2024-02-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -154,7 +154,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-02-21T18:00:00Z
     end_datetime: 2024-02-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -165,19 +165,19 @@ eventlistings:
     date_added: 2024-01-20
     start_datetime: 2024-02-02T12:30:00Z
     end_datetime: 2024-02-02T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us to celebrate women social innovators at this Brigit week.</p>
     <p>This Techstars Startup Weekend Women Dublin event is geared toward celebrating our community of social impact tech founders. There will be an opportunity to networking and a fireside chat with our past SWDW winners.</p>"
     type: diversity
 
-  - name: "(In-Person)Amazing Data Women - ESG Themed @ KPMG Ireland"
-    url: "https://lu.ma/y9nccr6i"
+  - name: "(In-Person) Amazing Data Women - ESG Themed @ KPMG Ireland"
+    url: "https://www.meetup.com/her-data/events/298732897/"
     region: 🇮🇪
     date_added: 2024-01-23
-    start_datetime: 2024-02-19T18:30:00Z
-    end_datetime: 2024-02-19T20:30:00Z
-    new: true
+    start_datetime: 2024-02-21T18:30:00Z
+    end_datetime: 2024-02-21T20:30:00Z
+    new: false
     recurring: false
     desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Wed Feb 21st @6:30pm (Irish Time), hosted at KPMG. We'll have ESG themed talks from amazing women. Join, ask questions and meet other folks who love data.</p>"
     type: diversity
@@ -188,7 +188,7 @@ eventlistings:
     date_added: 2024-01-25
     start_datetime: 2024-02-18T15:00:00Z
     end_datetime: 2024-02-18T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -198,7 +198,7 @@ eventlistings:
     date_added: 2024-01-25
     start_datetime: 2024-02-23T09:30:00Z
     end_datetime: 2024-02-23T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -208,7 +208,7 @@ eventlistings:
     date_added: 2024-01-25
     start_datetime: 2024-02-12T13:00:00Z
     end_datetime: 2024-02-12T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -219,7 +219,7 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-02-20T18:30:00Z
     end_datetime: 2024-02-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "First PyLadies Dublin meetup of 2024 and we are hosted by Pinterest this month! We have a couple of speakers, so come join us, listen, share and code."
     type: diversity
@@ -229,7 +229,7 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-02-16T16:00:00Z
     end_datetime: 2024-02-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Thrive is more than just a conference - it's a vibrant celebration of our LGBTQ+ community. Thrive is a space to connect, learn, and celebrate the vibrant tapestry of the LGBTQ+ community. Come meet inspiring individuals, discover valuable resources, and leave feeling empowered to embrace your authentic self."
     type: diversity
@@ -239,7 +239,7 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-02-08T18:00:00Z
     end_datetime: 2024-02-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -249,7 +249,7 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-02-22T18:00:00Z
     end_datetime: 2024-02-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Technology & Science Ireland are delighted to invite you to our Bi-Annual Mary Mulvihill Lecture. This special event recognises the significant contribution Dr. Marion Palmer has made to WITS.</p>
     <p>With an opening address from Dr. Orla Feely, President of UCD the keynote lecture will be delivered by two-time recipient of the Journalism Excellence Award from the Irish Red Cross Humanitarian Awards Maria Delaney.</p>"
@@ -260,8 +260,250 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-02-23T12:15:00Z
     end_datetime: 2024-02-23T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join Paula Fitzsimons and Ciara Garvan for a discussion on career longevity and the power of doing what you love!</p>
     <p>What makes a good career and in particular what makes a good career for a woman? We know many people burnout and opt out of the corporate world in their 50’s, others struggle to re enter the workforce after stepping out due to caring opportunities and remain underemployed. How can we ensure we are all still thriving in a career for many years?</p>"
+    type: diversity
+
+  - name: "(In-Person) PyBelfast: Febuary Meetup"
+    url: "https://www.meetup.com/PyBelfast/events/299029717"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-21T18:00:00Z
+    end_datetime: 2024-02-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Clojure Ireland: Nix for Clojurists: Package Manager, OS, Functional Mini-Language. @ Techmeetup.space"
+    url: "https://www.meetup.com/clojure-ireland/events/298798991/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-07T18:45:00Z
+    end_datetime: 2024-02-07T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/298691695/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-10T15:00:00Z
+    end_datetime: 2024-02-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/298691695/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-10T15:00:00Z
+    end_datetime: 2024-02-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Digital Systems Design Using Microcontrollers"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/298698281/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-12T19:15:00Z
+    end_datetime: 2024-02-12T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) TOG Hackerspace: Digital Systems Design Using Microcontrollers"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/qnfljtygcdbjc/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-26T19:15:00Z
+    end_datetime: 2024-02-26T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/298691159/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-14T18:00:00Z
+    end_datetime: 2024-02-14T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork GameCraft 2024"
+    url: "https://www.gamecraft.it/events/cork-gamecraft-2024/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-16T09:30:00Z
+    end_datetime: 2024-02-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Lisp Ireland Monthly Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/lisp-ireland/events/298870465/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-15T18:30:00Z
+    end_datetime: 2024-02-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Casual Indie Hackers Coffee Chat @ The Gasworks"
+    url: "https://www.meetup.com/indie-hackers-dublin/events/298708075/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-17T12:00:00Z
+    end_datetime: 2024-02-17T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech    
+  - name: "(In-Person) PyLadies Dublin 1st in-person meetup of 2024 @ Pinterest"
+    url: "https://www.meetup.com/pyladiesdublin/events/298929924/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-20T18:30:00Z
+    end_datetime: 2024-02-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: "We are back with our first meetup of 2024! Sun is out, birds are singing, what a great time to be back at the start of spring. We will have a couple of speakers this month, talk details - check event page for more details."
+    type: diversity
+  - name: "(In-Person) Elastic Dublin Meetup: Vector Search & Security Automation @ Tines"
+    url: "https://www.meetup.com/dublin-city-elasticsearch/events/298734861/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-22T18:00:00Z
+    end_datetime: 2024-02-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Platform Engineers Dublin: 5 biggest Platform Manager fuckups"
+    url: "https://www.meetup.com/platform-engineers-dublin/events/298459699/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-22T18:00:00Z
+    end_datetime: 2024-02-22T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech  
+  - name: "(In-Person) Dublin Information Security for CISSP practitioners"
+    url: "https://www.meetup.com/dublin-information-security-for-cissp-practitioners/events/298959159/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-22T19:00:00Z
+    end_datetime: 2024-02-22T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DUB|SEC February 2024 Meetup @ Ryan's Bar"
+    url: "https://www.meetup.com/dub-sec/events/298926796/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-28T18:30:00Z
+    end_datetime: 2024-02-28T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Software Crafters: Continuous Delivery non-breaking changes exercise"
+    url: "https://www.meetup.com/cork-software-crafters/events/298859591/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-08T19:30:00Z
+    end_datetime: 2024-02-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/298637241/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-07T18:00:00Z
+    end_datetime: 2024-02-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) PlayMyDemo - GGJ Special (NI Game Dev Meetup)"
+    url: "https://www.meetup.com/nigamedev/events/298443404/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-07T19:00:00Z
+    end_datetime: 2024-02-07T23:55:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/ennis-makerspace/events/298637241/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-19T18:00:00Z
+    end_datetime: 2024-02-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) DevOps Belfast: Grafana Labs - CI/CD Observability with OpenTelemtery"
+    url: "https://www.meetup.com/devops-belfast/events/298861257/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-20T18:00:00Z
+    end_datetime: 2024-02-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PHPBelfast"
+    url: "https://www.meetup.com/phpbelfast/events/298567478/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-22T19:00:00Z
+    end_datetime: 2024-02-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women Who Code Belfast: She Rocks! Awards 2024"
+    url: "https://www.meetup.com/women-who-code-belfast/events/297909346/"
+    region: 🇬🇧
+    date_added: 2024-02-06
+    start_datetime: 2024-02-29T19:00:00Z
+    end_datetime: 2024-02-29T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Women Who Code Belfast She Rocks! Awards are back!</p>
+    <p>We believe that there is nothing better than coming together to celebrate the amazing achievements of the women in our community. Since 2017, our awards have been celebrating the women we work with, aspire to or that make a difference to our community.</p>"
+    type: diversity
+  - name: "(In-Person) Open Day on digital braille tech. and assistive tech. for vision impairment @ UCC"
+    url: "https://www.eventbrite.ie/e/open-day-on-digital-braille-tech-and-assistive-tech-for-vision-impairment-tickets-807591256187"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-14T11:00:00Z
+    end_datetime: 2024-02-14T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Please join us for an information day to learn about the latest innovations in digital braille tech & assistive tech for vision impaired.</p>"
+    type: diversity
+  - name: "(In-Person) Women in Technology United: Preparing for a Sustainable Future @ TU Dublin Aungier Street"
+    url: "https://www.eventbrite.ie/e/women-in-technology-united-preparing-for-a-sustainable-future-tickets-825043676847"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-02-27T13:00:00Z
+    end_datetime: 2024-02-27T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an exciting lunch and learn event focused on empowering women in technology through sustainable practices.</p>"
     type: diversity

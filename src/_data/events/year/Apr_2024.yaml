@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-04-16T17:00:00Z
     end_datetime: 2024-04-16T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Save the date, check event page for more info.</p>"
     type: diversity
@@ -27,7 +27,28 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-04-16T10:00:00Z
     end_datetime: 2024-04-16T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Save the date, check event page for more info like speakers, programme, and other surprises.</p>"
+    type: diversity
+
+  - name: "(Online) Dublin Accelerated Learning Technology Meetup"
+    url: "https://www.meetup.com/dublin-accelerated-learning-technology-meetup/events/qzwkxsygcgbnb/"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-04-10T18:00:00Z
+    end_datetime: 2024-04-10T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) HackforGood Hackathon"
+    url: "https://www.eventbrite.ie/e/hackforgood-hackathon-tickets-824945954557"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-04-06T09:30:00Z
+    end_datetime: 2024-04-06T19:00:00Z
+    new: true
+    recurring: false
+    desc: "The hackathon will take place at Trinity Business School on April 6th 2024 from 09:30 am until 19:00pm. This event is open to postgraduate student teams from all Irish Universities, regardless of domain or discipline, but it is important to note that there will be considerable data analysis involved. The theme of the hackathon is “Hack for Good” with a particular emphasis on fair and equitable solutions. The full challenge scope and problem with associated resources and data will be provided to competitors on the day, along with a keynote talk by the Director of Analytics at a TOP consulting firm."
     type: diversity
