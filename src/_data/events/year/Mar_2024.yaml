@@ -193,3 +193,15 @@ eventlistings:
     <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>
     <p>At this inspiring event we will be joined by the following Inspiring Women who will share their entrepreneurial storie.</p>"
     type: diversity
+
+  - name: "(In-Person) Tech Gateway presents 'Big Boost Mondays' Dublin @ KPMG"
+    url: "https://www.eventbrite.ie/e/inspiring-women-entrepreneurs-tickets-793233040377?aff=ebdssbdestsearch"
+    region: 🇮🇪
+    date_added: 2024-02-06
+    start_datetime: 2024-03-04T17:00:00Z
+    end_datetime: 2024-02-04T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for 'Big Boost Mondays' live and in-person @ KPMG Platform X, Dublin's IFSC.</p>
+    <p>To celebrate International Women/'s Week our 'Big Boost Mondays' partners are hosting events across the globe, all on Monday March 4th. In Dublin, London, New York, Montreal, and APAC. Join our inspiring speakers from across finance, technology, business and academia, sharing their personal stories and careers. A celebration of diversity, equity, inclusion and innovation.</p>"
+    type: diversity
