@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2023-11-01
     start_datetime: 2023-12-12T17:00:00Z
     end_datetime: 2023-12-12T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>It's coming up to ho, ho, ho time and you know how much our Awakenhubbers love a bit of inspiration to keep the founder fires burning.</p>
     <p>AwakenHub & AwakenAngels co-founder Clare McGee will be chatting to Serena Terry aka 'Mammy Banter'</p>
@@ -205,7 +205,7 @@ eventlistings:
     date_added: 2023-11-23
     start_datetime: 2023-12-08T18:00:00Z
     end_datetime: 2023-12-08T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -215,7 +215,7 @@ eventlistings:
     date_added: 2023-11-23
     start_datetime: 2023-12-05T18:00:00Z
     end_datetime: 2023-12-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -227,7 +227,7 @@ eventlistings:
     date_added: 2023-11-29
     start_datetime: 2023-12-01T11:30:00Z
     end_datetime: 2023-12-01T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -237,7 +237,7 @@ eventlistings:
     date_added: 2023-11-29
     start_datetime: 2023-12-01T13:15:00Z
     end_datetime: 2023-12-01T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -247,7 +247,7 @@ eventlistings:
     date_added: 2023-11-29
     start_datetime: 2023-12-01T14:15:00Z
     end_datetime: 2023-12-01T14:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -257,7 +257,7 @@ eventlistings:
     date_added: 2023-11-29
     start_datetime: 2023-12-01T15:00:00Z
     end_datetime: 2023-12-01T15:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: startups
@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2023-11-30
     start_datetime: 2023-12-07T18:00:00Z
     end_datetime: 2023-12-07T20:20:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous The River Club, River Lee Hotel on 7 December.</p>
     <p>Pop in for a drink and a chat. No agenda. Just pure 'get to know you' vibes.</p>
@@ -280,7 +280,7 @@ eventlistings:
     date_added: 2023-11-30
     start_datetime: 2023-12-11T17:30:00Z
     end_datetime: 2023-12-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>In collaboration with Derry City & Strabane District Council's Go Succeed Programme you're invited to join us on 11th December for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous GuildHall TapHouse.</p>
     <p>Pop in for a drink and a chat. Hear about the new Go Succeed Programme open to businesses across NI and all things AwakenHub/AwakenAngels. There will be plenty of 'get to know you' vibes too.</p>
@@ -292,7 +292,7 @@ eventlistings:
     date_added: 2023-11-30
     start_datetime: 2023-12-13T19:00:00Z
     end_datetime: 2023-12-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>In collaboration with Causeway Coast & Glens Council and the Go Succeed Programme you're invited to join us on 13th December for an informal couple of hours to meet with the AwakenHub/AwakenAngels co-founders in the gorgeous Whoosh in Coleraine (Thanks to #awakenhubber and trailblazer Thana Thammavongsa for hosting us).</p>
     <p>Pop in for a drink and a chat. Hear about the new Go Succeed Programme open to all businesses across NI and all things AwakenHub/AwakenAngels. There will be plenty of 'get to know you' vibes too.</p>
