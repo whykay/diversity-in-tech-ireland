@@ -216,3 +216,16 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+
+  - name: "(In-Person) Women in STEM Summit 2024 @ Croke Park"
+    url: "https://womeninstem.ie/"
+    region: 🇮🇪
+    date_added: 2024-02-19
+    start_datetime: 2024-03-13T08:00:00Z
+    end_datetime: 2024-03-13T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Summit will showcase some of Ireland’s leading companies who are creating diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>
+    <p>The Women in STEM Summit 2024 is a key event for all those championing diversity, equity and inclusion throughout their teams, organisations and industries. Everyone has a part to play in addressing the STEM shortage in Ireland to meet the needs of industry.</p>"
+    type: diversity
