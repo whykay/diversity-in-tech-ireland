@@ -529,7 +529,7 @@ conferences:
     date_added: 2023-11-08
     start_datetime: 2023-11-16T10:00:00Z
     end_datetime: 2023-11-16T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Culture Crush is a major, collaborative event for professionals working in the creative sectors, including Film, TV, Animation, Games, Music, Immersive Technologies, Visual and Performing Arts, and others.</p>"
     type: tech
@@ -541,7 +541,7 @@ conferences:
     date_added: 2023-11-13
     start_datetime: 2023-12-07T09:30:00Z
     end_datetime: 2023-12-08T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 31st Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2023) will be hosted by Atlantic Technological University (ATU) in collaboration with Ulster University. The conference will be held in-person at the Letterkenny campus of ATU Donegal. We are also honoured that IEEE UK and Ireland Computational Intelligence Chapter will provide technical sponsorship of the conference.With regular conferences dating back to 1988, the AICS Conference is Ireland’s primary forum bringing together researchers in the fields of Artificial Intelligence and Cognitive Science. The fields of Artificial Intelligence and Cognitive Science, encompassing areas such as; Data Analytics, Natural Language Processing, Information Retrieval, and Machine Learning, are now at the forefront of Irish computing research and industry. The AICS 2023 program will include presentations of high-quality theoretical and applied scientific papers and tutorials. Invited talks will describe important topics relevant to the field.</p>"
     type: tech
@@ -552,7 +552,7 @@ conferences:
     date_added: 2023-11-13
     start_datetime: 2023-12-05T18:30:00Z
     end_datetime: 2023-12-05T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Following the roaring success of our inaugural event in 2022, the International Cyber Threat Task Force is proud to present an evening that promises to outshine any cyber event you've witnessed before.</p>
     <p>Nestled amidst the enchanting Christmas ambiance, the iconic Mansion House in the heart of Dublin city opens its majestic doors to host a night of unparalleled grandeur. A confluence of historical elegance and contemporary achievements, this black-tie event is an ode to the industry's luminaries and promising trailblazers.</p>
@@ -607,7 +607,7 @@ conferences:
     date_added: 2023-11-09
     start_datetime: 2024-03-13T09:00:00Z
     end_datetime: 2024-03-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Women in STEM Summit 2024 will bring together thought leaders, educators, policy makers, innovators, and pioneers in industry to discuss how to empower women with the technology and skills necessary for a better future. It will provide a platform where they can constructively challenge current ways of thinking and offer new perspectives.</p>"
     type: diversity

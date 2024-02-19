@@ -77,7 +77,7 @@ conferences:
     date_added: 2024-01-10
     start_datetime: 2024-03-02T09:00:00Z
     end_datetime: 2024-03-02T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 2024 annual conference of the Computers in Education Society of Ireland will take place on Saturday 2nd March at ATU Galway City.</p>
     <p>The theme for the conference is “Navigating Digital Futures”.</p>
@@ -92,7 +92,7 @@ conferences:
     date_added: 2024-01-19
     start_datetime: 2024-04-16T10:00:00Z
     end_datetime: 2024-04-16T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Save the date, check event page for more info like speakers, programme, and other surprises.</p>"
     type: diversity
@@ -104,7 +104,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-04-13T09:00:00Z
     end_datetime: 2024-04-14T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Data Céilí is Ireland's newest data platform event. It's a community-lead conference with a focus on Microsoft Data Platform technologies.</p>"
     type: tech
@@ -115,7 +115,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-10-09T09:00:00Z
     end_datetime: 2024-10-11T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The conference that breaks down the barriers between Product, UX, Design and Dev so you can build better products, faster, together.</p>"
     type: tech
@@ -126,7 +126,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-10-14T09:00:00Z
     end_datetime: 2024-10-16T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>SaaStock is the world’s most impactful conference for the SaaS community. We bring together the highest concentration of SaaS decision makers from around the world, to build relationships and accelerate opportunities.</p>"
     type: tech
@@ -137,7 +137,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-09-25T09:00:00Z
     end_datetime: 2024-09-12T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A tech conference dedicated to the JavaScript community in Ireland</p>"
     type: tech
@@ -148,7 +148,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-05-29T09:00:00Z
     end_datetime: 2024-05-30T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Dublin Tech Summit 2023 will be held in person at the RDS in Dublin on 31 May-1 June 2023. There will be different talks on day 1 and 2, from a broad range of over 200 expert speakers, an exhibit area with our 50+ partners, 150 startups to discover, networking events, and of course much more!</p>"
     type: tech
@@ -159,7 +159,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-03-06T09:00:00Z
     end_datetime: 2024-03-06T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Step into Zero Day Con 2024, where the call to evolve awaits.
     As we embrace this theme of \"Evolve,\" we recognise that the only constant in cybersecurity is change itself, and through shared knowledge, collaborative solutions, and innovative insights, we equip ourselves to evolve and safeguard the digital future.</p>
@@ -172,7 +172,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-09-11T09:00:00Z
     end_datetime: 2024-09-12T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Explore the future of data privacy in AI and connect with global leaders, researchers and innovators in privacy, data, and technology.</p>"
     type: tech
@@ -183,7 +183,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-04-18T08:00:00Z
     end_datetime: 2024-04-18T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Renaissance, Ireland’s leading IT security distributor, is delighted to announce the return of Cyber Expo & Conference Ireland 2024!.</p>"
     type: tech
@@ -194,7 +194,7 @@ conferences:
     date_added: 2024-01-25
     start_datetime: 2024-04-29T14:00:00Z
     end_datetime: 2024-04-30T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Hosted by the Health Innovation and Research Alliance NI (HIRANI), Health Tech Spring is a two-day conference taking place in April 2024</p>"
     type: tech
@@ -206,7 +206,7 @@ conferences:
     date_added: 2024-02-01
     start_datetime: 2024-06-19T09:00:00Z
     end_datetime: 2024-06-21T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Together, Let's Get 1M Women Entrepreneurs Funded by 2030. Community is Capital</p>"
     type: diversity
@@ -218,7 +218,7 @@ conferences:
     date_added: 2024-02-01
     start_datetime: 2024-03-07T08:30:00Z
     end_datetime: 2024-03-07T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at DeeptechFest Ireland 2024, a one-day event dedicated to showcasing the incredible power of Deeptech in revolutionizing climate tech, driving sustainability goals in Europe, and fostering a dynamic ecosystem that fuels innovation across various sectors.</p>"
     type: tech
