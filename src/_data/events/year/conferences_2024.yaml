@@ -223,3 +223,16 @@ conferences:
     desc: "<p>Join us at DeeptechFest Ireland 2024, a one-day event dedicated to showcasing the incredible power of Deeptech in revolutionizing climate tech, driving sustainability goals in Europe, and fostering a dynamic ecosystem that fuels innovation across various sectors.</p>"
     type: tech
     status: active
+
+  - name: "FÍS Games Summit 2024"
+    url: "https://www.eventbrite.ie/e/fis-games-summit-2024-tickets-837484969087"
+    region: 🇮🇪
+    date_added: 2024-02-19
+    start_datetime: 2024-04-05T10:30:00Z
+    end_datetime: 2024-04-05T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>FÍS Games Summit 2024 is the fourth annual event hosted by Ardán, supported by Screen Ireland, Gréasán na Meán, IMIRT, WRAP, Creative Europe Media Desk Ireland and ATU.</p>
+    <p>The goal of the summit is to help foster growth and success in the Irish games development community by providing developers on the island of Ireland with a unique opportunity to engage with talks and presentations that will help them in their own careers.</p>"
+    type: tech
+    status: active
