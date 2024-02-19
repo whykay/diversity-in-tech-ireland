@@ -205,3 +205,14 @@ eventlistings:
     desc: "<p>Join us for 'Big Boost Mondays' live and in-person @ KPMG Platform X, Dublin's IFSC.</p>
     <p>To celebrate International Women/'s Week our 'Big Boost Mondays' partners are hosting events across the globe, all on Monday March 4th. In Dublin, London, New York, Montreal, and APAC. Join our inspiring speakers from across finance, technology, business and academia, sharing their personal stories and careers. A celebration of diversity, equity, inclusion and innovation.</p>"
     type: diversity
+
+  - name: "(Online) WWCode Career Mentorship Program: A Virtual Learning Experience"
+    url: "https://www.meetup.com/Women-Who-Code-Belfast/events/299283669"
+    region: 🇬🇧
+    date_added: 2024-02-19
+    start_datetime: 2024-03-13T12:00:00Z
+    end_datetime: 2024-03-13T13:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: diversity
