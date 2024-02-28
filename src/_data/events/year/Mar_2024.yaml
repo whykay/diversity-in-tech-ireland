@@ -253,3 +253,35 @@ eventlistings:
     desc: "<p>TechIreland publishes its annual Female Founder Funding Review on International Women’s Day. The publication highlights funding trends, with insights from leading women entrepreneurs, investors and stakeholders. The report will be presented at a Breakfast Event sponsored by AWS.</p>
     <p>The Female Founders & Funders Breakfast will bring female tech entrepreneurs and investors to meet, network and explore opportunities for 2024 and hear successful women entrepreneurs have built companies, raised early stage and growth rounds in 2023 - their experience, challenges and learnings from their journeys. This event is open to founders, investors and partners from the ecosystem.</p>"
     type: diversity
+  - name: "(In-Person) TUDublin: TrailblazHER™'s Launch @ The Mansion House"
+    url: "https://forms.office.com/pages/responsepage.aspx?id=yxdjdkjpX06M7Nq8ji_V2qmMvje0VD9ImzMhh5pH6t1UMlUyNUtLM1dFTUExWkFCUUdSMlExRVNRWi4u"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-07T17:30:00Z
+    end_datetime: 2024-03-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Dublin Chamber plays an important role in lobbying for greater diversity and inclusion in the workplace. We are dedicated to platforming the voices of female leaders, learning from their experiences, and collectively working towards a more inclusive future.</p>"
+    type: diversity
+  - name: "(In-Person) ElevateHER: International Women's Day Event @ BrewDog Outpost Dublin"
+    url: "https://www.eventbrite.co.uk/e/elevateher-international-womens-day-event-tickets-848172415527"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-08T18:30:00Z
+    end_datetime: 2024-03-08T21:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an evening of inspiration and connection at the ElevateHER – an empowering celebration of female leaders on the occasion of International Women's Day.</p>
+    <p>Engage in meaningful networking sessions, connect with like-minded individuals, and build valuable relationships. This is your opportunity to connect, collaborate, and celebrate the power of unity among women leaders.</p>"
+    type: diversity
+  - name: "(In-Person) Women in DevOps: Empowering Women in DevOps & AI: Breaking Biases & Embracing Advocacy @ Radisson Blu Royal Hotel"
+    url: "https://www.eventbrite.co.uk/e/empowering-women-in-devops-ai-breaking-biases-embracing-advocacy-tickets-816784683977"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-12T18:00:00Z
+    end_datetime: 2024-03-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>What does it truly mean to embrace equity in today’s world? It has recently been highlighted that the gender equity gap in technology is higher than in any other sector, with only 17% of technology roles currently being held by women (BCS, 2023). With the AI revolution already in full swing, how do we evoke positive change in today’s tech world, and help shift the current status quo? </p>
+    <p>We’ll be asking our expert panellists the biggest questions around breaking current biases, as well as becoming active advocates for positive change in tech on March 12th in collaboration with Service Now.</p>"
+    type: diversity
