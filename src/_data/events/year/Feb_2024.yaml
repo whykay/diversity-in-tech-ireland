@@ -523,7 +523,7 @@ eventlistings:
     date_added: 2024-02-19
     start_datetime: 2024-02-26T10:00:00Z
     end_datetime: 2024-02-22T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Join AwakenHub & AwakenAngels co-founder Sinead Crowley and County Ambassador Avril Power, Giyst for an informal coffee morning meetup in Cork"
     type: diversity

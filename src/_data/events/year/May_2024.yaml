@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-05-07T18:00:00Z
     end_datetime: 2024-05-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Coding Grace just launched a series of virtual events as part of new programme called Cupán Tae Conf.</p>
     <p>Calling all Principal Software Engineers, Systems Architects, Senior Devs, Head of Engineering to join us for this deep dive into tech</p>"

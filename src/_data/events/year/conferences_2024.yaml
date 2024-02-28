@@ -230,7 +230,7 @@ conferences:
     date_added: 2024-02-19
     start_datetime: 2024-04-05T10:30:00Z
     end_datetime: 2024-04-05T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>FÍS Games Summit 2024 is the fourth annual event hosted by Ardán, supported by Screen Ireland, Gréasán na Meán, IMIRT, WRAP, Creative Europe Media Desk Ireland and ATU.</p>
     <p>The goal of the summit is to help foster growth and success in the Irish games development community by providing developers on the island of Ireland with a unique opportunity to engage with talks and presentations that will help them in their own careers.</p>"

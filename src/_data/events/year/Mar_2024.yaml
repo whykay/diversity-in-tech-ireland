@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2024-01-08
     start_datetime: 2024-03-08T19:00:00Z
     end_datetime: 2024-03-09T02:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Red carpet with complimentary glass of bubbly on arrival. 3 course meal."
     type: diversity
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2024-01-17
     start_datetime: 2024-03-02T09:00:00Z
     end_datetime: 2024-03-02T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual WTM, in celebration of International Women's Day.</p>
     <p>In our 7th year, we are looking forward to WTM Belfast 2024 - a full day conference where we will hear from various speakers who will inspire, motivate, enthuse and relate to our audience of everyone, with talks highlighting the achievements of local women in tech.<p>"
@@ -39,7 +39,7 @@ eventlistings:
     date_added: 2024-01-17
     start_datetime: 2024-03-15T18:00:00Z
     end_datetime: 2024-03-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Paypal Europe Services Ltd is hosting an event for Inspiring Women Entrepreneurs 2024 for women who are interested in exploring the possibility of an innovative entrepreneurial career.</p>
     <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>"
@@ -51,7 +51,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-03-19T17:00:00Z
     end_datetime: 2024-03-19T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Save the date, check event page for more info.</p>"
     type: diversity
@@ -61,7 +61,7 @@ eventlistings:
     date_added: 2024-01-19
     start_datetime: 2024-03-05T17:30:00Z
     end_datetime: 2024-03-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>International Women's Day 2024: Women in Tech Lightning Talks event- THEME: 'Inspire Inclusion'</p>
     <p>Women In Tech Belfast have been holding Workshops and Lightning Talks events for many years now, with the aim of encouraging more women to give technical talks. Female speaker representation in tech events and meetups have increased as a result. We are keen to provide another event that will help female speakers practice their talks - in advance of upcoming 2024 tech events - OR just to give it a whirl anyway!</p>
@@ -74,7 +74,7 @@ eventlistings:
     date_added: 2024-02-01
     start_datetime: 2024-03-19T17:30:00Z
     end_datetime: 2024-03-19T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Monthly PyLadies Dublin meetup. One of the talks is 'Efficient Deployment and Debugging of a Fine-Tuned Language Model Classifier Using Python SDK & Cloud Tools' by Samira Korani. Check event page for more speaker annoucements and updates.</p>"
     type: diversity
@@ -85,7 +85,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-13T18:00:00Z
     end_datetime: 2024-03-13T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -95,7 +95,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-19T18:30:00Z
     end_datetime: 2024-03-19T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We will have a couple of speakers this month, talk details - check event page for more details."
     type: diversity
@@ -105,7 +105,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-13T14:00:00Z
     end_datetime: 2024-03-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -115,7 +115,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-26T13:00:00Z
     end_datetime: 2024-02-26T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Coding Grace just launched a series of virtual events as part of new programme called Cupán Tae Conf.</p>
     <p>Calling all Principal Software Engineers, Systems Architects, Senior Devs, Head of Engineering to join us for this deep dive into tech</p>"
@@ -126,7 +126,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-05T19:00:00Z
     end_datetime: 2024-03-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -136,7 +136,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-06T18:30:00Z
     end_datetime: 2024-03-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -146,7 +146,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-05T16:00:00Z
     end_datetime: 2024-02-05T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our team from ThriveInclusion has a mission of promoting equal opportunities to everyone through technology, by the conscientisation of organizations and communities.</p>
     <p>For this free-entry discussion, we bring the theme of 'Digital Inclusion: Building Bridges, Not Barriers'.</p>"
@@ -157,7 +157,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-26T12:00:00Z
     end_datetime: 2024-03-26T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -167,7 +167,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-03T11:00:00Z
     end_datetime: 2024-03-03T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -177,7 +177,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-09T09:30:00Z
     end_datetime: 2024-02-09T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Empowering Together and Sharing Best Practice.</p>"
     type: diversity
@@ -187,7 +187,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-05T18:30:00Z
     end_datetime: 2024-02-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Paypal Europe Services Ltd is hosting an event for Inspiring Women Entrepreneurs 2024 for women who are interested in exploring the possibility of an innovative entrepreneurial career.</p>
     <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-04T17:00:00Z
     end_datetime: 2024-02-04T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for 'Big Boost Mondays' live and in-person @ KPMG Platform X, Dublin's IFSC.</p>
     <p>To celebrate International Women/'s Week our 'Big Boost Mondays' partners are hosting events across the globe, all on Monday March 4th. In Dublin, London, New York, Montreal, and APAC. Join our inspiring speakers from across finance, technology, business and academia, sharing their personal stories and careers. A celebration of diversity, equity, inclusion and innovation.</p>"
@@ -224,7 +224,7 @@ eventlistings:
     date_added: 2024-02-19
     start_datetime: 2024-03-13T08:00:00Z
     end_datetime: 2024-03-13T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies who are creating diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>
     <p>The Women in STEM Summit 2024 is a key event for all those championing diversity, equity and inclusion throughout their teams, organisations and industries. Everyone has a part to play in addressing the STEM shortage in Ireland to meet the needs of industry.</p>"

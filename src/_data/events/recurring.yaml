@@ -99,7 +99,7 @@ events:
     date_added: 2023-11-08
     start_datetime: Every 1st Wed of the month @ 19:00 - 23:00
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: gamedev
