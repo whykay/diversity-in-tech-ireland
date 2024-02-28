@@ -89,16 +89,6 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) PyLadies Dublin Mar Meetup"
-    url: "https://www.meetup.com/pyladiesdublin/events/298930159/"
-    region: 🇮🇪
-    date_added: 2024-02-06
-    start_datetime: 2024-03-19T18:30:00Z
-    end_datetime: 2024-03-19T20:30:00Z
-    new: false
-    recurring: false
-    desc: "We will have a couple of speakers this month, talk details - check event page for more details."
-    type: diversity
   - name: "(In-Person) New Relic User Meetup: Dublin @ Token"
     url: "https://www.meetup.com/new-relic-meetup-group-emea/events/298928009/"
     region: 🇮🇪
@@ -115,8 +105,8 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-03-26T13:00:00Z
     end_datetime: 2024-02-26T15:00:00Z
-    new: false
-    recurring: false
+    new: true
+    recurring: true
     desc: "<p>Coding Grace just launched a series of virtual events as part of new programme called Cupán Tae Conf.</p>
     <p>Calling all Principal Software Engineers, Systems Architects, Senior Devs, Head of Engineering to join us for this deep dive into tech</p>"
     type: diversity
@@ -228,4 +218,38 @@ eventlistings:
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies who are creating diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>
     <p>The Women in STEM Summit 2024 is a key event for all those championing diversity, equity and inclusion throughout their teams, organisations and industries. Everyone has a part to play in addressing the STEM shortage in Ireland to meet the needs of industry.</p>"
+    type: diversity
+
+  - name: "(Hybrid) Cracking the Code - International Women's Day @ Black Shamrock"
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7168559349257207808/"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-08T11:00:00Z
+    end_datetime: 2024-03-08T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are excited to extend an invitation to you for a special event focused on employability in AAA Games, presented by Black Shamrock - A Virtuos Studio. This event aims to provide valuable insights, networking opportunities, and career guidance specifically tailored for women interested in pursuing a career in AAA game development. Of course, this event is open to anyone who wishes to attend, regardless of gender.</p>
+    <p>Kindly RSVP by March 6th to confirm your attendance and secure your spot at the event. In-person space is limited, so we encourage you to register early. CV and Portfolio review may only be conducted in-person.</p>"
+    type: diversity
+  - name: "(In-Person) TrustWorki IWD2024: Change Makers - How Can Progress be accelerated? @ Huckletree"
+    url: "https://www.eventbrite.ie/e/trustworki-iwd2024-change-makers-how-can-progress-be-accelerated-tickets-849436315887"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-05T09:00:00Z
+    end_datetime: 2024-03-05T10:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join TrustWorki and our excellent panelists, Gillian Harford, Country Head of 30% Club Ireland, Lorraine Higgins, MD of Rockwood Public Affairs, Samantha Vidal, Executive Coach & Google Ads Leader, Nordics, and an AIB Financial Advisor to hear insights on how progress can be accelerated, in Huckletree's fantastic space on Pearse Street, Dublin 1.</p>
+    <p>We will kick off at 9am with tea, coffee and pastries, and the opportunity to connect with others, followed by a panel discussion on accelerating progress which will benefit everyone!. Looking forward to seeing you there!</p>"
+    type: diversity
+  - name: "Female Founders & Funders Breakfast Event on International Women’s Day @ AWS Startup Loft"
+    url: "https://aws-startup-lofts.com/emea/e/48f62/female-founders--funders-breakfast-event-on-international-women%E2%80%99s-day"
+    region: 🇮🇪
+    date_added: 2024-02-28
+    start_datetime: 2024-03-08T08:45:00Z
+    end_datetime: 2024-03-08T10:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>TechIreland publishes its annual Female Founder Funding Review on International Women’s Day. The publication highlights funding trends, with insights from leading women entrepreneurs, investors and stakeholders. The report will be presented at a Breakfast Event sponsored by AWS.</p>
+    <p>The Female Founders & Funders Breakfast will bring female tech entrepreneurs and investors to meet, network and explore opportunities for 2024 and hear successful women entrepreneurs have built companies, raised early stage and growth rounds in 2023 - their experience, challenges and learnings from their journeys. This event is open to founders, investors and partners from the ecosystem.</p>"
     type: diversity
