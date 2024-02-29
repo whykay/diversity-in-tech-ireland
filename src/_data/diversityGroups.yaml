@@ -446,15 +446,15 @@ groups:
     date_removed:
     status: active
     type: all  
-  - name: Women in DevOps 
+  - name: Women in DevOps (Note - Back again in 2024)
     url: "https://www.womenindevops.com/events/"
     region: Dublin/Global
     date_added: 2019-11-06
     year_added: 2019
     month_added: 11
     day_added: 06
-    date_removed: 2023-08-17
-    status: retired
+    date_removed: 
+    status: active
     type: all  
   - name: Women in Tech Belfast
     url: "https://www.meetup.com/Women-In-Tech-Belfast-Lean-In/"
