@@ -236,3 +236,16 @@ conferences:
     <p>The goal of the summit is to help foster growth and success in the Irish games development community by providing developers on the island of Ireland with a unique opportunity to engage with talks and presentations that will help them in their own careers.</p>"
     type: tech
     status: active
+
+  - name: "BelTech"
+    url: "https://www.beltech.co"
+    region: 🇬🇧
+    date_added: 2024-02-19
+    start_datetime: 2024-03-07T08:30:00Z
+    end_datetime: 2024-03-08T18:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>BelTech, the most important platform for Northern Ireland’s technologists, returns in March and is extending its reach into our growing tech community.</p>
+    <p>The early Spring conference offers all tech practitioners their day in the sun, and the opportunity to learn from and network with a highly influential audience.</p>"
+    type: tech
+    status: active
