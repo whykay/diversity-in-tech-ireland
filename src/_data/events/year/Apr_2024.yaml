@@ -52,3 +52,26 @@ eventlistings:
     recurring: false
     desc: "The hackathon will take place at Trinity Business School on April 6th 2024 from 09:30 am until 19:00pm. This event is open to postgraduate student teams from all Irish Universities, regardless of domain or discipline, but it is important to note that there will be considerable data analysis involved. The theme of the hackathon is “Hack for Good” with a particular emphasis on fair and equitable solutions. The full challenge scope and problem with associated resources and data will be provided to competitors on the day, along with a keynote talk by the Director of Analytics at a TOP consulting firm."
     type: diversity
+
+
+  - name: "(In-Person) Farset Labs: 🛠 Maker Night at the Hackerspace"
+    url: "https://www.meetup.com/farsetlabs/events/299102161/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-04-15T18:00:00Z
+    end_datetime: 2024-04-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Women in Tech - Lightning Talks Event - April 2024"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/299460975/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-04-25T17:30:00Z
+    end_datetime: 2024-04-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Tech LOVE hosting a Lightning Talks Event!!</p>
+    <p>We had such a massive submission response for our March 2024 event, that we decided to run another one, the following month! This one will be on Thursday 25th April 2024 at 6pm- once again kindly hosted by the lovely PA Consulting in their fantastic Belfast City Centre office on Chichester Street.</p>"
+    type: diversity

@@ -380,3 +380,173 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) techBREK network & learn: Creating sustainable tech environments @ IBEC"
+    url: "https://ictskillnet.ie/events/techbrek-creating-sustainable-tech-environments/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-14T08:00:00Z
+    end_datetime: 2024-03-14T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Java User Group: Kafka Night"
+    url: "https://www.meetup.com/dublinjavausergroup/events/299617446/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-07T18:15:00Z
+    end_datetime: 2024-03-07T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Her+Data: Amazing Data Women - International Women's day special! @ Accenture The Dock"
+    url: "https://www.meetup.com/her-data/events/299514681/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-07T18:30:00Z
+    end_datetime: 2024-03-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Thursday, March 7th @6:30pm (Irish Time), hosted at Accenture Dock. This is a great session for women who are trying to make a switch to a career in data science or folks in the field who want advice to further their data careers. We'll have talks from two amazing leaders from Accenture along with a curated 'speed networking event' where you get to network with different data professionals and get their insights on a career in data science. Join, ask questions and meet other folks who love data.</p>"
+    type: diversity
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/298738844/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-09T15:00:00Z
+    end_datetime: 2024-03-09T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Low Code Belfast Premiere: Networking Night"
+    url: "https://www.meetup.com/low-code-belfast/events/299010471/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-03-12T17:30:00Z
+    end_datetime: 2024-03-12T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Design Behind Closed Doors III - AI and the implications for design @ House Dublin"
+    url: "https://www.meetup.com/design-behind-closed-doors/events/299036656/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-11T18:00:00Z
+    end_datetime: 2024-03-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Clojure Ireland: Clojure Izakaya Meetup @ Kyodai Izakaya"
+    url: "https://www.meetup.com/clojure-ireland/events/299610347/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-13T18:30:00Z
+    end_datetime: 2024-03-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Go Meetup: REPL Programming in Go @ Arista Networks"
+    url: "https://www.meetup.com/dublin-go-meetup/events/299508099/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-14T18:00:00Z
+    end_datetime: 2024-03-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: Serving Ads in under 300 ms & Triad of Engineering, Product, and Design @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/299361971/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-14T19:00:00Z
+    end_datetime: 2024-03-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Farset Labs: 🛠 Maker Night at the Hackerspace"
+    url: "https://www.meetup.com/farsetlabs/events/298567376/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-03-18T18:00:00Z
+    end_datetime: 2024-03-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) DevOps Belfast - March Meetup @ Firstup"
+    url: "https://www.meetup.com/devops-belfast/events/299478902/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-03-19T18:00:00Z
+    end_datetime: 2024-03-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyData Ireland Meetup @ Workday"
+    url: "https://www.meetup.com/pydataireland/events/299173763/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-20T18:30:00Z
+    end_datetime: 2024-03-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) React Dublin Spring Meetup: React Server Components & more @ MongoDB"
+    url: "https://www.meetup.com/reactjs-dublin-meetup/events/299212007/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-21T18:30:00Z
+    end_datetime: 2024-03-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast Book Club #4 @ Rapid7"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/299083138/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-03-26T17:30:00Z
+    end_datetime: 2024-03-26T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This month we are reading Women Who Run With The Wolves: Contacting the Power of the Wild Woman by Clarissa Pinkola Estes.</p>"
+    type: diversity
+  - name: "(In-Person) BelfAWSt User Group: Gunnar Grosch: Improve application resilience with chaos engineering @ LibertyIT"
+    url: "https://www.meetup.com/belfawst-meetup/events/299478618/"
+    region: 🇬🇧
+    date_added: 2024-03-06
+    start_datetime: 2024-03-26T19:00:00Z
+    end_datetime: 2024-03-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "DUB|SEC March 2024 Meetup"
+    url: "https://www.meetup.com/dub-sec/events/299610339/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-27T18:30:00Z
+    end_datetime: 2024-03-27T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Wicklow Technology Meetup - March Event @ Polo Wicklow"
+    url: "https://www.meetup.com/wicklow-technology-meetup/events/299192261/"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-28T19:00:00Z
+    end_datetime: 2024-03-28T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
