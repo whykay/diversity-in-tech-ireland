@@ -45,15 +45,15 @@ eventlistings:
     <p>The Inspiring Women Entrepreneurs initiative, which is supported by Enterprise Ireland and KPMG, is designed to introduce the possibility of an entrepreneurial career to particular groups of women that may not have considered it previously and where there is untapped entrepreneurial potential - women in senior corporate positions, those with doctoral and post-doctoral academic qualifications, professional women, women seeking a change in their life, among others.</p>"
     type: diversity
 
-  - name: "Awakenhub: March Community Event"
-    url: "https://www.eventbrite.co.uk/e/march-community-event-tickets-757890640307"
+  - name: "(Online) Awakenhub: Charting Your Course: Embrace Fearless Navigation"
+    url: "https://www.eventbrite.co.uk/e/charting-your-course-embrace-fearless-navigation-tickets-757890640307"
     region: 🇮🇪
     date_added: 2024-01-19
     start_datetime: 2024-03-19T17:00:00Z
     end_datetime: 2024-03-19T18:15:00Z
-    new: false
+    new: true
     recurring: false
-    desc: "<p>Save the date, check event page for more info.</p>"
+    desc: "<p>Register here OR the ultimate planners can pay for an AwakenHub Annual Event Pass (cheaper & easier) or go all in as an AwakenClub member with access to our private online founders community.</p>"
     type: diversity
   - name: "Women in Tech Belfast: International Women's Day 2024 Lightning Talks event 'Inspire Inclusion'"
     url: "https://www.meetup.com/women-in-tech-belfast/events/298653944"
@@ -68,15 +68,15 @@ eventlistings:
     <p>To celebrate International Women's Day 2024, we are holding the event on Tuesday 5th March 2024 at 6pm in the PA Consulting Office in Centre House on Chichester Street, Belfast City Centre. The theme for this year's IWD is 'Inspire Inclusion' - so talks that have some connection to this theme would be particularly welcomed!</p>"
     type: diversity
 
-  - name: "(In-Person) PyLadies Dublin Mar Meetup"
+  - name: "(In-Person) PyLadies Dublin Mar Meetup @ LinkedIn One Wilton Park"
     url: "https://www.meetup.com/pyladiesdublin/events/298930159/"
     region: 🇮🇪
     date_added: 2024-02-01
     start_datetime: 2024-03-19T17:30:00Z
-    end_datetime: 2024-03-19T20:30:00Z
-    new: false
+    end_datetime: 2024-03-19T19:00:00Z
+    new: true
     recurring: false
-    desc: "<p>Monthly PyLadies Dublin meetup. One of the talks is 'Efficient Deployment and Debugging of a Fine-Tuned Language Model Classifier Using Python SDK & Cloud Tools' by Samira Korani. Check event page for more speaker annoucements and updates.</p>"
+    desc: "<p>Monthly PyLadies Dublin meetup. One of the talks is 'Efficient Deployment and Debugging of a Fine-Tuned Language Model Classifier Using Python SDK & Cloud Tools' by Samira Korani.</p>"
     type: diversity
 
   - name: "(Online) Dublin Accelerated Learning Technology Meetup"
@@ -285,3 +285,98 @@ eventlistings:
     desc: "<p>What does it truly mean to embrace equity in today’s world? It has recently been highlighted that the gender equity gap in technology is higher than in any other sector, with only 17% of technology roles currently being held by women (BCS, 2023). With the AI revolution already in full swing, how do we evoke positive change in today’s tech world, and help shift the current status quo? </p>
     <p>We’ll be asking our expert panellists the biggest questions around breaking current biases, as well as becoming active advocates for positive change in tech on March 12th in collaboration with Service Now.</p>"
     type: diversity
+
+
+  - name: "(Online) WITS Ireland Webinar: Complexity and Polarities in the Workplace"
+    url: "https://www.eventbrite.ie/e/wits-ireland-webinar-complexity-and-polarities-in-the-workplace-tickets-857262413957"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-28T12:30:00Z
+    end_datetime: 2024-03-28T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Please join us for a conversation with Anne Nagle on the topic of navigating Complexity and Polarities in the workplace.</p>"
+    type: diversity
+  - name: "(In-Person) Networking Event - Post Women in STEM Summit - In partnership with SIRO"
+    url: "https://www.eventbrite.ie/e/networking-event-post-women-in-stem-summit-in-partnership-with-siro-tickets-837552350627"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-13T15:30:00Z
+    end_datetime: 2024-03-13T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Please join us for a conversation with Anne Nagle on the topic of navigating Complexity and Polarities in the workplace.</p>
+    <p>This event is free to attend, but please RSVP as soon as possible to secure your spot. Space is limited, and we want to ensure that everyone has a chance to participate.</p>"
+    type: diversity
+  - name: "(In-Person) Carelon Women in Tech Networking Event"
+    url: "https://www.eventbrite.ie/e/carelon-women-in-tech-networking-event-tickets-851502475827"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-07T18:30:00Z
+    end_datetime: 2024-03-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Adaku Okafor, Founder/CEO at PhoenixRize, in celebrating International Women's Day 2024 with a focus on 'Inspiring Inclusion'.</p>
+    <p>Adaku will be delivering a keynote address on the importance of inclusion in today's world. Following her keynote, she will facilitate a panel discussion featuring members of our DE&I team at Carelon. This insightful conversation will provide valuable perspectives on fostering diversity and inclusion in the workplace.</p>"
+    type: diversity
+  - name: "(In-Person) Global Tech Advocates - Black Women in Tech: Empowering Voices, Inspiring Change: A Celebration of Impact and Inclusion @ Accenture The Dock"
+    url: "https://www.eventbrite.ie/e/empowering-voices-inspiring-change-a-celebration-of-impact-and-inclusion-tickets-828370718117"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-21T18:00:00Z
+    end_datetime: 2024-03-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at the crossroads of innovation and inclusivity for a momentous event that celebrates the strides made by GTA Black Women in Tech in collaboration with Accenture. It’s an occasion to reflect on the milestones achieved, the barriers broken, and the voices that have risen from the shadows to lead and inspire.</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub Galway Meetup"
+    url: "https://www.eventbrite.co.uk/e/awakenhub-galway-meetup-tickets-857917443167"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-26T16:00:00Z
+    end_datetime: 2024-03-26T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Come and join us for an informal meetup with our Galway County Ambassador, Yvonne Comer, Co-founder, Rugby Smarts and some of the AwakenHub & AwakenAngels Co-founding team.</p>
+    <p>Open to women founders, startups, entrepreneurs. Limited spaces please RSVP so we know who to expect.</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub: Meath Walk & Talk Meet Up"
+    url: "https://www.eventbrite.co.uk/e/meath-walk-talk-meet-up-tickets-858074643357"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-22T11:00:00Z
+    end_datetime: 2024-03-22T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join County Ambassador Jan Carroll for an informal meetup</p>"
+    type: diversity
+  - name: "(In-Person) AwakenHub: Rebirth of Tech Northern Ireland Advocates"
+    url: "https://www.eventbrite.co.uk/e/rebirth-of-tech-northern-ireland-advocates-tickets-856201320197"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-25T18:00:00Z
+    end_datetime: 2024-03-25T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to the Rebirth of Tech Northern Ireland Advocates event! AwakenHub want to support the re-ignition of this exciting movement to help shape the future of tech in Northern Ireland.</p>"
+    type: diversity
+  - name: "(In-Person) Women in Cybersecurity: WiCyS UKI Affiliate Networking & Quick Fire Tech Talks @ Tenable"
+    url: "https://www.eventbrite.ie/e/wicys-uki-affiliate-networking-quick-fire-tech-talks-tickets-848307519627"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-19T17:30:00Z
+    end_datetime: 2024-03-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>WiCyS UK Affiliate has become WiCyS UKI continuing to support more women in cyber with an extended support group on the ground in Ireland. We welcome you to join us in getting to know other women working in cyber whilst learning a few things on the side.</p>"
+    type: diversity
+  - name: "(In-Person) Tech Talk: Cybersecurity Threats & Opportunities for the South West Region @ Munster Technological University (Cork)"
+    url: "https://www.eventbrite.ie/e/tech-talk-cybersecurity-threats-opportunities-for-the-south-west-region-tickets-825413573217"
+    region: 🇮🇪
+    date_added: 2024-03-06
+    start_datetime: 2024-03-14T07:30:00Z
+    end_datetime: 2024-03-14T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
