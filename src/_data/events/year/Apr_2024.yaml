@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-04-10T18:00:00Z
     end_datetime: 2024-04-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -48,7 +48,7 @@ eventlistings:
     date_added: 2024-02-06
     start_datetime: 2024-04-06T09:30:00Z
     end_datetime: 2024-04-06T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The hackathon will take place at Trinity Business School on April 6th 2024 from 09:30 am until 19:00pm. This event is open to postgraduate student teams from all Irish Universities, regardless of domain or discipline, but it is important to note that there will be considerable data analysis involved. The theme of the hackathon is “Hack for Good” with a particular emphasis on fair and equitable solutions. The full challenge scope and problem with associated resources and data will be provided to competitors on the day, along with a keynote talk by the Director of Analytics at a TOP consulting firm."
     type: diversity
@@ -75,3 +75,154 @@ eventlistings:
     desc: "<p>Women in Tech LOVE hosting a Lightning Talks Event!!</p>
     <p>We had such a massive submission response for our March 2024 event, that we decided to run another one, the following month! This one will be on Thursday 25th April 2024 at 6pm- once again kindly hosted by the lovely PA Consulting in their fantastic Belfast City Centre office on Chichester Street.</p>"
     type: diversity
+
+  - name: "(In-Person) Kubernetes Dublin Meetup - April 2024 @ Workday"
+    url: "https://www.meetup.com/dublin-kubernetes-meetup/events/299717634"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-02T18:00:00Z
+    end_datetime: 2024-04-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) CupánTaeConf Virtual Talks:  John Looney - Second System Effect - not a new problem"
+    url: "https://cupantaeconf.com/second-system-effect-not-a-new-problem/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-04T13:00:00Z
+    end_datetime: 2024-04-04T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Microsoft Fabric Dublin: Paul Andrew - An Engineers Guide To Realtime Data Handling And Analytics @ Accenture"
+    url: "https://www.meetup.com/microsoft-fabric-dublin/events/299569522/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-09T18:00:00Z
+    end_datetime: 2024-04-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Game Dev Meetup: PlayMyDemo - April 2024"
+    url: "https://www.meetup.com/nigamedev/events/299778800/"
+    region: 🇬🇧
+    date_added: 2024-03-27
+    start_datetime: 2024-04-10T19:00:00Z
+    end_datetime: 2024-04-10T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(Online) Dublin Linux Commuinty: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/298738847/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-13T15:00:00Z
+    end_datetime: 2024-04-13T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) BelfastJS - Supabase Launch Week 🎉"
+    url: "https://www.meetup.com/belfast-js/events/300034435/"
+    region: 🇬🇧
+    date_added: 2024-03-27
+    start_datetime: 2024-04-17T19:00:00Z
+    end_datetime: 2024-04-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin UX: Locked Out: The human impact of inaccessible design @ Morgan McKinley"
+    url: "https://www.meetup.com/dublin-ux/events/299901437/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-18T18:00:00Z
+    end_datetime: 2024-04-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) GDG Dublin: Impact the Future - International Women's Day 2024 @ Workday"
+    url: "https://www.meetup.com/gdg-dublin/events/299337454/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-18T18:00:00Z
+    end_datetime: 2024-04-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: "GDG Dublin collaborates with Workday Dublin for an evening of talks and networking. This will be a post-celebration of the International Women's Day Event on March 8th."
+    type: diversity
+  - name: "(In-Person) Intro to Munster Analytics/AI User Group"
+    url: "https://www.meetup.com/cork-big-data-meetup-group/events/299766837/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-02T18:00:00Z
+    end_datetime: 2024-04-02T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup! @ Portershed"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/299467731/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-02T19:00:00Z
+    end_datetime: 2024-04-02T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) GDG Galway: SRE, Stability and Incident Management for High Performance Software and Teams"
+    url: "https://www.meetup.com/gdggalway/events/300005339/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-04T15:30:00Z
+    end_datetime: 2024-04-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 130"
+    url: "https://www.meetup.com/corksec/events/297977023/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-09T19:00:00Z
+    end_datetime: 2024-04-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) UX Talks: Figma basics workshop: Learn to Design, Prototype, and Collaborate"
+    url: "https://www.meetup.com/ux-talks/events/299834014/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-14T11:00:00Z
+    end_datetime: 2024-04-14T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UX Network Galway - April 2024 Meetup @ Cisco"
+    url: "https://www.meetup.com/ux-network-galway/events/299906329/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-17T19:00:00Z
+    end_datetime: 2024-04-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) NGINX Community Group Cork Chapter: April Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/298929947/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-04-18T18:00:00Z
+    end_datetime: 2024-04-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

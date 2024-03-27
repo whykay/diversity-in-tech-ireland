@@ -566,9 +566,91 @@ eventlistings:
     url: "https://www.eventbrite.com/e/techstars-startup-weekend-women-dublin-tickets-666803095007"
     region: 🇮🇪
     date_added: 2024-03-19
-    start_datetime: 2024-03-28T17:30:00Z
+    start_datetime: 2024-03-22T17:30:00Z
     end_datetime: 2024-03-24T19:00:00Z
     new: false
     recurring: false
     desc: "Techstars Startup Weekend is a 3 days interactive event for people who want to test/validate and explore their business ideas. You’ll meet the very best mentors, learn from workshops, work as a team and networking. Join us to learn how to Think, Work, and Build like a startup in 54 thrilling hours. You don't have to have a business idea to join."
     type: diversity
+
+  - name: "(Hybrid) Galway Information Technology: GIT 1.2: Women in Tech"
+    url: "https://www.meetup.com/galway-information-technology/events/299898073"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-28T18:30:00Z
+    end_datetime: 2024-03-28T20:30:00Z
+    new: true
+    recurring: false
+    desc: "As it is Women's History month, we are focusing this month's meetup on Women in Tech. Galway is a vibrant and diverse city full of wild and wonderful people. While we are better known for our arts and culture, that doesn't mean our technologists don't have their own fascinating stories to tell."
+    type: diversity
+  - name: "(In-Person)Belfast Hacker Session"
+    url: "https://www.meetup.com/galway-information-technology/events/299898073"
+    region: 🇬🇧
+    date_added: 2024-03-27
+    start_datetime: 2024-03-31T15:00:00Z
+    end_datetime: 2024-03-31T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UXDX Dublin: Product Development in High Growth Environments"
+    url: "https://www.meetup.com/uxdx-dublin/events/299649642/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-27T19:00:00Z
+    end_datetime: 2024-03-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin DevRel Meetup: March Dublin DevRel Meetup with Ciara Carey & Bekah Hawrot Weigel"
+    url: "https://www.meetup.com/dublin-devrel/events/299589921/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-27T18:00:00Z
+    end_datetime: 2024-03-27T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ciara and Bekah will deliver talks of particular interest to open source developers and contributors.</p>
+    <p>Ciara Carey of Cloudsmith will talk about securely consuming Open Source, while Bekah Hawrot Weigel will discuss our Open Source SUPERPOWERS!</p>"
+    type: diversity
+  - name: "(In-Person) PyBelfast: Microbit Workshop @ Farset Labs"
+    url: "https://www.meetup.com/pybelfast/events/299973202/"
+    region: 🇬🇧
+    date_added: 2024-03-27
+    start_datetime: 2024-03-27T18:00:00Z
+    end_datetime: 2024-03-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/dublin-devrel/events/299589921/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-27T19:00:00Z
+    end_datetime: 2024-03-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/299660726/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-27T18:00:00Z
+    end_datetime: 2024-03-27T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) Limerick DotNet-Azure User Group (LDNA): Hackers are in before it exists! Protect your DevOps software supply-chain"
+    url: "https://www.meetup.com/limerick-dotnet/events/299949369/"
+    region: 🇮🇪
+    date_added: 2024-03-27
+    start_datetime: 2024-03-28T20:00:00Z
+    end_datetime: 2024-03-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
