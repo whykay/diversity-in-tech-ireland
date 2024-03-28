@@ -252,7 +252,7 @@ conferences:
 
   - name: "TechFest 2024"
     url: "https://techindustryalliance.ie/"
-    region: 
+    region: 🇮🇪
     date_added: 2024-03-06
     start_datetime: 2024-05-14T08:30:00Z
     end_datetime: 2024-05-14T18:00:00Z
@@ -261,4 +261,27 @@ conferences:
     desc: "<p>Tech for Good: Driving Deep Tech, Fostering Sustainability & Building a Better Tomorrow</p>
     <p>'The Tech for Good: Driving Deep Tech, Fostering Sustainability & Building a Better Tomorrow' conference is a groundbreaking event dedicated to exploring the pivotal role of technology in addressing global challenges and fostering a sustainable future. This conference will bring together visionaries, innovators, and thought leaders from the tech industry to delve into how deep tech can be harnessed for positive social and environmental impact.</p>"
     type: tech
+    status: active
+
+  - name: "AWS AI and Data Conference Ireland"
+    url: "https://aws.amazon.com/uki/cloud-services/aws-events/ai-and-data-conference-ireland-2024/"
+    region: 🇮🇪
+    date_added: 2024-03-28
+    start_datetime: 2024-04-10T09:00:00Z
+    end_datetime: 2024-04-10T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Harness the power of generative AI, predictive ML, and data analytics to scale and respond to customer demands. Learn from AWS experts and hear firsthand from customers about their application experiences.</p>"
+    type: tech
+    status: active
+  - name: "The SheVentures Summit"
+    url: "https://aws.amazon.com/uki/cloud-services/aws-events/ai-and-data-conference-ireland-2024/"
+    region: 🇬🇧
+    date_added: 2024-03-28
+    start_datetime: 2024-05-20T09:00:00Z
+    end_datetime: 2024-05-21T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bringing together 250+ Irish women leaders, founders, investors and their male allies for two days of inspiration, connection and empowerment, supported by the Irish Government’s Shared Island Initiative.</p>"
+    type: diversity
     status: active
