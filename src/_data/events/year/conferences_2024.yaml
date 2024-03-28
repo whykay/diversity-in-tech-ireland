@@ -282,6 +282,16 @@ conferences:
     end_datetime: 2024-05-21T18:00:00Z
     new: true
     recurring: false
-    desc: "<p>Bringing together 250+ Irish women leaders, founders, investors and their male allies for two days of inspiration, connection and empowerment, supported by the Irish Government’s Shared Island Initiative.</p>"
+    desc: "<p>Bringing together 250+ Irish women leaders, founders, investors and their male allies for two days of inspiration, connection and empowerment, supported by the Irish Government’s Shared Island Initiative. </p>"
     type: diversity
     status: active
+  - name: "The European Startup Conference 2024"
+    url: "https://www.eventbrite.ie/e/the-european-startup-conference-2024-tickets-872447362547"
+    region: 🇮🇪
+    date_added: 2024-03-28
+    start_datetime: 2024-05-16T15:00:00Z
+    end_datetime: 2024-05-16T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Hosted from Google's European Headquarters in Dublin, The European Startup Conference 2024 is a hybrid event gathering 1,500 Founders, Investors, and more. The event forms part of our full-day European AI Conference 2024.</p>"
+    type: tech
