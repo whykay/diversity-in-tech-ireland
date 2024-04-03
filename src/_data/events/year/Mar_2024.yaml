@@ -558,7 +558,7 @@ eventlistings:
     date_added: 2024-03-19
     start_datetime: 2024-03-20T16:00:00Z
     end_datetime: 2024-03-20T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We'll share latest ideas, research and plans with our TechFoundHer collective. Don't miss this opportunity to connect, learn, and grow with other women founders. Mark your calendar and be part of our TownHall gathering."
     type: diversity
@@ -579,7 +579,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-28T18:30:00Z
     end_datetime: 2024-03-28T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "As it is Women's History month, we are focusing this month's meetup on Women in Tech. Galway is a vibrant and diverse city full of wild and wonderful people. While we are better known for our arts and culture, that doesn't mean our technologists don't have their own fascinating stories to tell."
     type: diversity
@@ -589,7 +589,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-31T15:00:00Z
     end_datetime: 2024-03-31T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -599,7 +599,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-27T19:00:00Z
     end_datetime: 2024-03-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -609,7 +609,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-27T18:00:00Z
     end_datetime: 2024-03-27T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Ciara and Bekah will deliver talks of particular interest to open source developers and contributors.</p>
     <p>Ciara Carey of Cloudsmith will talk about securely consuming Open Source, while Bekah Hawrot Weigel will discuss our Open Source SUPERPOWERS!</p>"
@@ -620,7 +620,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-27T18:00:00Z
     end_datetime: 2024-03-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -630,7 +630,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-27T19:00:00Z
     end_datetime: 2024-03-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -640,7 +640,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-27T18:00:00Z
     end_datetime: 2024-03-27T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -650,7 +650,7 @@ eventlistings:
     date_added: 2024-03-27
     start_datetime: 2024-03-28T20:00:00Z
     end_datetime: 2024-03-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
