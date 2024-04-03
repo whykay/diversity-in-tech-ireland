@@ -237,3 +237,84 @@ eventlistings:
     desc: "<p>Join us as we celebrate the achievements of Black women in tech and work together to forge a brighter, more inclusive future.</p>
     <p>This event stands at the forefront of change, championing the inclusion and advancement of Black women in the ed-tech sector. This pivotal gathering is a celebration of diversity, innovation, and empowerment, aimed at breaking down the barriers that Black women face in tech and paving the way for a future where they are fully represented and empowered.</p>"
     type: diversity
+
+  - name: "(In-Person) Dublin Tech Talks: LeadHERship - Women Who Lead @ GEC"
+    url: "https://www.eventbrite.ie/e/leadhership-women-who-lead-tickets-876560103867"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-23T10:00:00Z
+    end_datetime: 2024-04-23T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>A morning event to celebrate the journeys, challenges, and triumphs of women in leadership roles in partnership with WITS & GEC.</p>"
+    type: diversity
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/300077225/"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-03T18:00:00Z
+    end_datetime: 2024-04-03T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Waterford Tech Meetup: Introduction to OpenSearch & Driving Products with Partnerships"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/300072244/"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-11T19:00:00Z
+    end_datetime: 2024-04-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/299870242/"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-04-07T15:00:00Z
+    end_datetime: 2024-04-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS Cloud Club // Back In Belfast! @ Ulster University"
+    url: "https://www.meetup.com/aws-cloud-club-ulster-university/events/300155641/"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-04-11T18:00:00Z
+    end_datetime: 2024-04-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online)) Rust Dublin: A reverse proxy with Tower and Hyperv1"
+    url: "https://www.meetup.com/rust-dublin/events/300144192/"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-16T18:15:00Z
+    end_datetime: 2024-04-16T10:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyData Ireland: Enhancing Foundation Models with Your Data @ Workday"
+    url: "https://www.meetup.com/pydataireland/events/300055290/"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-17T18:30:00Z
+    end_datetime: 2024-04-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Mechanical Keyboard Meetup @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/299131302/"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-20T15:00:00Z
+    end_datetime: 2024-04-20T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
