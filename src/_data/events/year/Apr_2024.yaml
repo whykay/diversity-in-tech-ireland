@@ -318,3 +318,65 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) IE Talks in Dublin- Tech Leaders of Tomorrow: Skilling & Leading the Future of Work @ The Samuel Hotel"
+    url: "https://www.eventbrite.ie/e/ie-talks-in-dublin-tech-leaders-of-tomorrow-skilling-leading-the-future-of-work-tickets-841391975047"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-09T19:00:00Z
+    end_datetime: 2024-04-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) CTO Craft Mixer: Dublin @ BrewDog Outpost Dublin"
+    url: "https://www.eventbrite.ie/e/cto-craft-mixer-dublin-tickets-858753333337"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-24T18:00:00Z
+    end_datetime: 2024-04-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 3D Printing Workshop for Adults @ Tallaght Library"
+    url: "https://www.eventbrite.ie/e/3d-printing-workshop-for-adults-tickets-876505791417"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-04-23T18:30:00Z
+    end_datetime: 2024-04-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Bring IT On: Tech for the Future - Lisburn @ Island Civic Centre"
+    url: "https://www.eventbrite.ie/e/tech-for-the-future-lisburn-tickets-863717039917"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-04-11T09:30:00Z
+    end_datetime: 2024-04-11T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club @ Institute of Electronics Communications & Information Technology"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-04-25T09:30:00Z
+    end_datetime: 2024-04-25T10:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) EWPN Ireland MeetUp: 'Progressing in your FinTech career.' @ fscom"
+    url: "https://www.eventbrite.ie/e/ewpn-ireland-meetup-progressing-in-your-fintech-career-tickets-866260176507"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-04-18T17:30:00Z
+    end_datetime: 2024-04-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Our lineup of female FinTech leaders will share their inspiring career journeys, valuable insights, and practical advice for success in the field. Whether you're a seasoned professional or aspiring to enter the FinTech space, this event offers a unique opportunity to learn from accomplished women who have excelled in their careers in payments and FinTech regulation.</p>"
+    type: diversity
+
+

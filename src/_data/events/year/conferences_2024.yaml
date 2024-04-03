@@ -295,3 +295,14 @@ conferences:
     recurring: false
     desc: "<p>Hosted from Google's European Headquarters in Dublin, The European Startup Conference 2024 is a hybrid event gathering 1,500 Founders, Investors, and more. The event forms part of our full-day European AI Conference 2024.</p>"
     type: tech
+
+  - name: "ARVR INNOVATE 2024 Conference and Expo"
+    url: "https://www.eventbrite.ie/e/arvr-innovate-2024-conference-and-expords-dublin-anglesea-rd-tickets-854456461277"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-05-08T09:00:00Z
+    end_datetime: 2024-05-08T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join over 300 delegates in the RDS Hall 3 & Hall 6 Anglesea Road entrance, Dublin, Ireland on Wednesday, May 8th for the 11th International ARVR Innovate Conference and Expo - where AR, VR & Spatial Computing Get Down to Business.</p>"
+    type: tech

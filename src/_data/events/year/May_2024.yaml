@@ -42,3 +42,54 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Black Girls in Tech: Technology Awards @ Dogpatch Labs"
+    url: "https://www.eventbrite.ie/e/black-girls-in-tech-technology-awards-tickets-868581930937"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-05-30T16:00:00Z
+    end_datetime: 2024-05-30T19:00:00Z
+    new: true
+    recurring: false
+    desc: "🚀Black Girls in Tech Ireland is 1!! Come celebrate the achievements of incredible Black women in the tech industry at the Technology Awards event! Join us at Dogpatch Labs for a night of recognition, inspiration, and networking."
+    type: diversity
+  - name: "(In-Person) 4WARD.VC: Climate Techies Dublin Sustainability & Networking Drinks Meetup @ Kennedy's Pub"
+    url: "https://www.eventbrite.ie/e/climate-techies-dublin-sustainability-networking-drinks-meetup-tickets-764725132457"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-05-14T17:30:00Z
+    end_datetime: 2024-05-14T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person)Bring IT On: Tech for the Future - Belfast @ Belfast City Hall"
+    url: "https://www.eventbrite.ie/e/tech-for-the-futurebe-part-of-it-belfast-tickets-809301321037"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-05-23T10:00:00Z
+    end_datetime: 2024-05-23T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cybersecurity for Technical Leaders, Belfast @ Catalyst"
+    url: "https://www.eventbrite.ie/e/cybersecurity-for-technical-leaders-belfast-registration-862791662087"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-05-03T09:30:00Z
+    end_datetime: 2024-05-03T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber: Tech & Tipples Spring Edition @ Pinsent Masons"
+    url: "https://www.eventbrite.ie/e/tech-tipples-spring-edition-tickets-828396846267"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-05-02T18:00:00Z
+    end_datetime: 2024-05-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
