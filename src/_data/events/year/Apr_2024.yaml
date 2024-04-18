@@ -379,4 +379,17 @@ eventlistings:
     desc: "<p>Our lineup of female FinTech leaders will share their inspiring career journeys, valuable insights, and practical advice for success in the field. Whether you're a seasoned professional or aspiring to enter the FinTech space, this event offers a unique opportunity to learn from accomplished women who have excelled in their careers in payments and FinTech regulation.</p>"
     type: diversity
 
+  - name: "(Online) TechFoundHer: Meet rockstar Investor Wendy Ryan featured in SHOW HER THE MONEY!"
+    url: "https://www.eventbrite.ie/e/meet-rockstar-investor-wendy-ryan-featured-in-show-her-the-money-tickets-882877790237?aff=ebdsoporgprofile"
+    region: 🇮🇪🇬🇧
+    date_added: 2024-04-18
+    start_datetime: 2024-04-19T16:00:00Z
+    end_datetime: 2024-04-19T16:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join our Q&A with Wendy Ryan - Investor and Executive Producer of SHOW HER THE MONEY. Find out about upcoming plans for Belfast and Dublin and the campaign for gender equity for women entrepreneurs. This is an opportunity to engage with Wendy and the power of investing in women. There will be an opportunity to ask her questions.</p>
+
+    <p>TechFoundHer is hosting première screenings of SHOW HER THE MONEY with panel discussions with producers, founders and investors in Belfast (22 May at The MAC ) and Dublin (24 May (at the IFI).</p>"
+    type: diversity
+
 

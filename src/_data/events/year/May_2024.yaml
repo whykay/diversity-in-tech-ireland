@@ -93,3 +93,38 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+
+
+  - name: "(In-Person) TechFoundHer AI Roadshow including première screening of SHOW HER THE MONEY (Belfast)"
+    url: "https://www.eventbrite.ie/e/techfoundher-ai-roadshow-including-premiere-screening-of-show-her-the-money-tickets-876462973347"
+    region: 🇬🇧
+    date_added: 2024-04-18
+    start_datetime: 2024-05-22T14:00:00Z
+    end_datetime: 2024-05-22T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>SHOW HER THE MONEY is coming to Belfast!!</p>
+    <p>TechFoundHer is hosting the AI Roadshow - a mini-summit which is all about connecting and getting inspired about how the power of AI tech and funding women entrepreneurs can change the world. There's an AI Revolution underway and we need to make sure women are leading as founders, innovators and thinkers.</p>"
+    type: diversity
+  - name: "(In-Person) TechFoundHer: SHOW HER THE MONEY - Dublin Movie Première and Panel Discussion"
+    url: "https://www.eventbrite.ie/e/show-her-the-money-dublin-movie-premiere-and-panel-discussion-tickets-875980530347"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-05-24T11:00:00Z
+    end_datetime: 2024-05-24T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>SHOW HER THE MONEY is coming to Dublin!! TechFoundHer is delighted to host!</p>
+    <p>The LA produced award winning movie SHOW HER THE MONEY is coming to Dublin for a special event which includes the première screening of this award winning documentary and panel discussion exploring how we close the investment gap for women founders.</p>"
+    type: diversity
+  - name: "(In-Person) SheVentures - Ireland's first all-island summit for women founders @ Lusty Beg Island"
+    url: "https://sheventures.co.uk/"
+    region: 🇬🇧
+    date_added: 2024-04-18
+    start_datetime: 2024-05-20T09:00:00Z
+    end_datetime: 2024-05-24T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>For now, all you need to know is that your two day experience (20/21 May 2024) will be packed with inspiration, opportunities to create deep connections to support your business’s growth ambitions, and the chance to pause, reflect and connect with nature in the beautiful setting of Lusty Beg Island.</p>"
+    type: diversity
