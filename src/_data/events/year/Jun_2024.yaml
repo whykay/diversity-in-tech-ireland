@@ -1,0 +1,24 @@
+---
+eventlistings:
+  - name: "(Online) June Community Event. SheGen3.0 Showcase"
+    url: "https://www.awakenhub.com/events-2/shegen3-showcase"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-06-18T18:00:00Z
+    end_datetime: 2024-06-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>🌟Join us for our Annual SheGenerate Showcase 🌟</p>
+    <p>Full details incoming but we will be selecting six of our current SheGen3.0 cohort to pitch to the attendees who will get to vote for their favourite on the night.</p>"
+    type: diversity
+  - name: "(Online) AwakenHub Legal Series Journey Map with Taylor Wessing Ireland"
+    url: "https://www.awakenhub.com/events-2/legalseries-5"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-06-18T18:00:00Z
+    end_datetime: 2024-06-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for the last in five Workshop series</p>
+    <p>Session 5: Term sheet. In depth session on the key features of a term sheet with Rachel McCausland and Ameer Gazder, Taylor Wessing Ireland.</p>"
+    type: diversity
