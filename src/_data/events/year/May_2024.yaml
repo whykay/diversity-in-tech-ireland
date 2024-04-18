@@ -128,3 +128,14 @@ eventlistings:
     recurring: false
     desc: "<p>For now, all you need to know is that your two day experience (20/21 May 2024) will be packed with inspiration, opportunities to create deep connections to support your business’s growth ambitions, and the chance to pause, reflect and connect with nature in the beautiful setting of Lusty Beg Island.</p>"
     type: diversity
+  - name: "(Online) AwakenHub Legal Series Journey Map with Taylor Wessing Ireland"
+    url: "https://www.awakenhub.com/events-2/legalseries-4"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-05-29T12:30:00Z
+    end_datetime: 2024-05-29T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for our fourth in a five Workshop series</p>
+    <p>Session 4:  Fundraising. Business plans, due diligence, raising capital, and investors with Ameer Gazder and Laura Brohan, Taylor Wessing Ireland.</p>"
+    type: diversity

@@ -391,5 +391,25 @@ eventlistings:
 
     <p>TechFoundHer is hosting première screenings of SHOW HER THE MONEY with panel discussions with producers, founders and investors in Belfast (22 May at The MAC ) and Dublin (24 May (at the IFI).</p>"
     type: diversity
-
+  - name: "(Online) AwakenHub Legal Series Journey Map with Taylor Wessing Ireland"
+    url: "https://www.awakenhub.com/events-2/legalseries-3"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-04-24T12:30:00Z
+    end_datetime: 2024-04-24T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join  us for our third in a five part Legal Workshop series</p>
+    <p>Session 3: Working with others. Supply chain, customer base and employee management with Jo Joyce and Rachel McCausland of Taylor Wessing.</p>"
+    type: diversity
+  - name: "(In-Person) IMIRT Workshop: Code Magic"
+    url: "https://www.eventbrite.ie/e/imirt-workshop-code-magic-tickets-881431183397"
+    region: 🇮🇪
+    date_added: 2024-04-18
+    start_datetime: 2024-04-22T14:30:00Z
+    end_datetime: 2024-04-22T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
 
