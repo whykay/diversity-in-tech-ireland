@@ -413,3 +413,13 @@ eventlistings:
     desc: 
     type: gamedev
 
+  - name: "(In-Person) GBTech: Modern Transformation: AI, Productivity and Storytelling"
+    url: "https://www.eventbrite.ie/e/modern-transformation-ai-productivity-and-storytelling-gbtech-tickets-882064648107"
+    region: 🇮🇪
+    date_added: 2024-04-22
+    start_datetime: 2024-04-24T18:30:00Z
+    end_datetime: 2024-04-24T22:00:00Z
+    new: true
+    recurring: false
+    desc: "In a world brimming with information on technology and artificial intelligence, it's crucial to understand how it truly functions in real-world scenarios. That's exactly what we aim to explore at our event. We're not just talking tech, we're creating a space where valuable insights and personal stories intersect in a relaxed, memorable setting."
+    type: diversity
