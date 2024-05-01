@@ -533,8 +533,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    date_removed:
-    status: active
+    date_removed: 2024-04-30
+    status: retired
     type: all   
   - name: Women Who Code Dublin
     url: "https://www.meetup.com/Women-Who-Code-Dublin/"
@@ -543,8 +543,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    date_removed:
-    status: active
+    date_removed: 2024-04-30
+    status: retired
     type: all  
   - name: Women Who Co-Work Dublin
     url: "https://www.meetup.com/Women-Who-Co-work-Dublin-Jelly"
@@ -966,7 +966,7 @@ groups:
     month_added: 01
     day_added: 26
     date_removed:
-    status: new
+    status: 
     type: all 
   - name: "Latinas in Tech - Dublin"
     url: "https://latinasintech.org/chapter/dublin/"
@@ -976,7 +976,7 @@ groups:
     month_added: 01
     day_added: 26
     date_removed:
-    status: new
+    status: 
     type: all 
 
   - name: "Black Girls in Tech Ireland"
@@ -987,7 +987,7 @@ groups:
     month_added: 04
     day_added: 28
     date_removed:
-    status: new
+    status: 
     type: all 
   - name: "Black Women in Tech Ireland"
     url: "https://theblackwomenintech.com/ireland/"
@@ -997,7 +997,7 @@ groups:
     month_added: 04
     day_added: 28
     date_removed:
-    status: new
+    status: 
     type: all 
 
   - name: "Women in Tech Academy"
@@ -1019,7 +1019,7 @@ groups:
     month_added: 06
     day_added: 10
     date_removed:
-    status: new
+    status: 
     type: all 
 
   - name: "SheStrategizes: Women in Marketing Meetup (Dublin Chapter)"
@@ -1040,6 +1040,18 @@ groups:
     year_added: 2023
     month_added: 11
     day_added: 16
+    date_removed:
+    status: new
+    type: all 
+
+# 2024
+  - name: "Women Coders Community Ireland"
+    url: "https://www.meetup.com/women-coders-comm-ireland/y"
+    region: Ireland
+    date_added: 2024-05-01
+    year_added: 2024
+    month_added: 05
+    day_added: 01
     date_removed:
     status: new
     type: all 
