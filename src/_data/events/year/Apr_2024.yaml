@@ -385,7 +385,7 @@ eventlistings:
     date_added: 2024-04-18
     start_datetime: 2024-04-19T16:00:00Z
     end_datetime: 2024-04-19T16:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join our Q&A with Wendy Ryan - Investor and Executive Producer of SHOW HER THE MONEY. Find out about upcoming plans for Belfast and Dublin and the campaign for gender equity for women entrepreneurs. This is an opportunity to engage with Wendy and the power of investing in women. There will be an opportunity to ask her questions.</p>
 
@@ -397,7 +397,7 @@ eventlistings:
     date_added: 2024-04-18
     start_datetime: 2024-04-24T12:30:00Z
     end_datetime: 2024-04-24T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join  us for our third in a five part Legal Workshop series</p>
     <p>Session 3: Working with others. Supply chain, customer base and employee management with Jo Joyce and Rachel McCausland of Taylor Wessing.</p>"
@@ -408,7 +408,7 @@ eventlistings:
     date_added: 2024-04-18
     start_datetime: 2024-04-22T14:30:00Z
     end_datetime: 2024-04-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -419,7 +419,7 @@ eventlistings:
     date_added: 2024-04-22
     start_datetime: 2024-04-24T18:30:00Z
     end_datetime: 2024-04-24T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "In a world brimming with information on technology and artificial intelligence, it's crucial to understand how it truly functions in real-world scenarios. That's exactly what we aim to explore at our event. We're not just talking tech, we're creating a space where valuable insights and personal stories intersect in a relaxed, memorable setting."
     type: diversity
@@ -429,7 +429,7 @@ eventlistings:
     date_added: 2024-04-22
     start_datetime: 2024-04-25T09:30:00Z
     end_datetime: 2024-04-25T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Career development is a journey and a lifelong process. It is not linear and is influenced by lots of factors, a lot of which are outside our control. Career development is not about the job itself. It’s about knowing yourself and honouring yourself through your work. Career development is an inside job."
     type: diversity
@@ -439,7 +439,7 @@ eventlistings:
     date_added: 2024-04-22
     start_datetime: 2024-04-26T12:15:00Z
     end_datetime: 2024-04-26T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The purpose of Women in Technology & Science Ireland is to attract, retain and grow the careers of women in STEM. However, we know that is challenge isn’t limited to our domain. This webinar, the first of a 4 part series hosted by Trustworki, will delve into the importance of gender balance in politics and explore strategies to expedite progress. Our panellists have extensive experience in Irish and European politics, and will share insights and actionable solutions to empower women in decision-making roles. We’re looking forward to exploring the similarities and differences of experience across STEM and Politics.</p>
     <p>In this inaugural event of our four-part series, we'll delve into the importance of gender balance in politics and explore strategies to expedite progress. Our esteemed panelists, with extensive experience in Irish and European politics, will share insights and actionable solutions to empower women in decision-making roles.</p>"
@@ -450,7 +450,7 @@ eventlistings:
     date_added: 2024-04-22
     start_datetime: 2024-04-25T18:00:00Z
     end_datetime: 2024-04-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -460,7 +460,7 @@ eventlistings:
     date_added: 2024-04-22
     start_datetime: 2024-04-22T19:00:00Z
     end_datetime: 2024-04-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
