@@ -423,3 +423,44 @@ eventlistings:
     recurring: false
     desc: "In a world brimming with information on technology and artificial intelligence, it's crucial to understand how it truly functions in real-world scenarios. That's exactly what we aim to explore at our event. We're not just talking tech, we're creating a space where valuable insights and personal stories intersect in a relaxed, memorable setting."
     type: diversity
+  - name: "(In-Person) WITS Coaching Series - Balancing Work and Life: Finding Your Career Path @ Workhuman"
+    url: "https://www.eventbrite.ie/e/wits-coaching-series-balancing-work-and-life-finding-your-career-path-tickets-852430331067"
+    region: 🇮🇪
+    date_added: 2024-04-22
+    start_datetime: 2024-04-25T09:30:00Z
+    end_datetime: 2024-04-25T11:30:00Z
+    new: true
+    recurring: false
+    desc: "Career development is a journey and a lifelong process. It is not linear and is influenced by lots of factors, a lot of which are outside our control. Career development is not about the job itself. It’s about knowing yourself and honouring yourself through your work. Career development is an inside job."
+    type: diversity
+  - name: "(In-Person) WITS Ireland: Accelerating Gender Balance in Politics: Lessons from Ireland & the EU"
+    url: "https://www.eventbrite.ie/e/accelerating-gender-balance-in-politics-lessons-from-ireland-the-eu-tickets-883216603637"
+    region: 🇮🇪
+    date_added: 2024-04-22
+    start_datetime: 2024-04-26T12:15:00Z
+    end_datetime: 2024-04-26T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The purpose of Women in Technology & Science Ireland is to attract, retain and grow the careers of women in STEM. However, we know that is challenge isn’t limited to our domain. This webinar, the first of a 4 part series hosted by Trustworki, will delve into the importance of gender balance in politics and explore strategies to expedite progress. Our panellists have extensive experience in Irish and European politics, and will share insights and actionable solutions to empower women in decision-making roles. We’re looking forward to exploring the similarities and differences of experience across STEM and Politics.</p>
+    <p>In this inaugural event of our four-part series, we'll delve into the importance of gender balance in politics and explore strategies to expedite progress. Our esteemed panelists, with extensive experience in Irish and European politics, will share insights and actionable solutions to empower women in decision-making roles.</p>"
+    type: diversity
+  - name: "(In-Person) Dublin Tech Talks: Ethical & Responsible AI with Professor Lionel Briand and guests"
+    url: "https://www.eventbrite.ie/e/ethical-responsible-ai-with-professor-lionel-briand-and-guests-tickets-883305218687"
+    region: 🇮🇪
+    date_added: 2024-04-22
+    start_datetime: 2024-04-25T18:00:00Z
+    end_datetime: 2024-04-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/300090139/"
+    region: 🇮🇪
+    date_added: 2024-04-22
+    start_datetime: 2024-04-22T19:00:00Z
+    end_datetime: 2024-04-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
