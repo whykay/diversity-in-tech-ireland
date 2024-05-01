@@ -22,3 +22,24 @@ eventlistings:
     desc: "<p>Join us for the last in five Workshop series</p>
     <p>Session 5: Term sheet. In depth session on the key features of a term sheet with Rachel McCausland and Ameer Gazder, Taylor Wessing Ireland.</p>"
     type: diversity
+
+  - name: "(In-Person) Elastic Dublin Meetup @ Global Payments"
+    url: "https://www.meetup.com/dublin-city-elasticsearch/events/300575260/"
+    region: 🇮🇪
+    date_added: 2024-05-01
+    start_datetime: 2024-06-06T18:00:00Z
+    end_datetime: 2024-06-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Low Code Belfast June 2024: Networking Night"
+    url: "https://www.meetup.com/low-code-belfast/events/300632269/"
+    region: 🇬🇧
+    date_added: 2024-05-01
+    start_datetime: 2024-06-12T17:30:00Z
+    end_datetime: 2024-06-12T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
