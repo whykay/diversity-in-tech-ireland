@@ -392,3 +392,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) InvestHer Summit Dublin MeetUp"
+    url: "https://www.eventbrite.ie/e/investher-summit-dublin-meetup-in-person-tickets-895168833077"
+    region: 🇮🇪
+    date_added: 2024-05-07
+    start_datetime: 2024-05-08T19:00:00Z
+    end_datetime: 2024-05-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are back at Hyde Bar in Dublin for an evening of great networking and inspiring conversation! It's the perfect opportunity to connect with like-minded individuals and learn from inspiring women and men who are serious about funding women entrepreneurs. Connect with other women founders, investors, accelerators, policyshapers, corporates serious about gender equality in funding and have a great time building your network with us in advance of InvestHer Summit, Dublin (June 19th-21st 2024).</p>"
+    type: diversity
