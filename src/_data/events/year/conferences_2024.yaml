@@ -256,7 +256,7 @@ conferences:
     date_added: 2024-03-06
     start_datetime: 2024-05-14T08:30:00Z
     end_datetime: 2024-05-14T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Tech for Good: Driving Deep Tech, Fostering Sustainability & Building a Better Tomorrow</p>
     <p>'The Tech for Good: Driving Deep Tech, Fostering Sustainability & Building a Better Tomorrow' conference is a groundbreaking event dedicated to exploring the pivotal role of technology in addressing global challenges and fostering a sustainable future. This conference will bring together visionaries, innovators, and thought leaders from the tech industry to delve into how deep tech can be harnessed for positive social and environmental impact.</p>"
@@ -269,7 +269,7 @@ conferences:
     date_added: 2024-03-28
     start_datetime: 2024-04-10T09:00:00Z
     end_datetime: 2024-04-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Harness the power of generative AI, predictive ML, and data analytics to scale and respond to customer demands. Learn from AWS experts and hear firsthand from customers about their application experiences.</p>"
     type: tech
@@ -280,7 +280,7 @@ conferences:
     date_added: 2024-03-28
     start_datetime: 2024-05-20T09:00:00Z
     end_datetime: 2024-05-21T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bringing together 250+ Irish women leaders, founders, investors and their male allies for two days of inspiration, connection and empowerment, supported by the Irish Government’s Shared Island Initiative. </p>"
     type: diversity
@@ -291,7 +291,7 @@ conferences:
     date_added: 2024-03-28
     start_datetime: 2024-05-16T15:00:00Z
     end_datetime: 2024-05-16T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Hosted from Google's European Headquarters in Dublin, The European Startup Conference 2024 is a hybrid event gathering 1,500 Founders, Investors, and more. The event forms part of our full-day European AI Conference 2024.</p>"
     type: tech
@@ -302,7 +302,29 @@ conferences:
     date_added: 2024-04-03
     start_datetime: 2024-05-08T09:00:00Z
     end_datetime: 2024-05-08T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join over 300 delegates in the RDS Hall 3 & Hall 6 Anglesea Road entrance, Dublin, Ireland on Wednesday, May 8th for the 11th International ARVR Innovate Conference and Expo - where AR, VR & Spatial Computing Get Down to Business.</p>"
+    type: tech
+
+
+  - name: "Climate Tech Conference"
+    url: "https://www.eventbrite.ie/e/climate-tech-conference-tickets-840038747507"
+    region: 🇮🇪
+    date_added: 2024-04-03
+    start_datetime: 2024-05-28T09:00:00Z
+    end_datetime: 2024-05-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to Ireland's Climate Tech Conference, where innovation meets sustainability! Our shared commitment to a greener future unites us in addressing climate challenges. Today, visionary minds converge to explore cutting-edge solutions. From renewable energy breakthroughs to carbon capture innovations, we're forging a path toward a resilient planet. Embrace discussions on sustainable agriculture, eco-friendly transportation, and smart cities. Let's amplify our impact by fostering collaboration and accelerating climate-positive technologies. Together, we'll shape a more sustainable tomorrow for Ireland and beyond. Join the conversation, inspire change, and be part of the Climate Tech revolution. Welcome to a greener, cleaner future!</p>"
+    type: tech
+  - name: "Digital DNA"
+    url: "https://digitaldna.org.uk/digital-dna-belfast-2024/belfast-tickets/"
+    region: 🇬🇧
+    date_added: 2024-04-03
+    start_datetime: 2024-05-28T09:00:00Z
+    end_datetime: 2024-05-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Digital DNA provides a space for entrepreneurs to connect with investors, mentors, and other resources to turn their ideas into successful companies. We also provide opportunities for students and professionals to learn from industry leaders and gain valuable experience.</p>"
     type: tech

@@ -43,3 +43,204 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/nhvlhtygcjbwb/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-17T18:00:00Z
+    end_datetime: 2024-06-17T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/301022299/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-03T19:00:00Z
+    end_datetime: 2024-06-03T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/sttzktygcjbwb/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-17T19:00:00Z
+    end_datetime: 2024-06-17T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Dublin Linux Community @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/299691833/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-22T15:00:00Z
+    end_datetime: 2024-06-22T17:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session @ Farset Labs"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/300283064/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-02T15:00:00Z
+    end_datetime: 2024-06-02T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session @ Farset Labs"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/300283067/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-09T15:00:00Z
+    end_datetime: 2024-06-09T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session @ Farset Labs"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/300283069/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-16T15:00:00Z
+    end_datetime: 2024-06-16T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session @ Farset Labs"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/qvtzktygcjbfc/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-23T15:00:00Z
+    end_datetime: 2024-06-23T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Hacker Session @ Farset Labs"
+    url: "https://www.meetup.com/belfast-hacker-meetup/events/qvtzktygcjbnc/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-30T15:00:00Z
+    end_datetime: 2024-06-30T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Waddling with Data | KotlinConf Recap, Dataframes and DuckDB @ Workrise"
+    url: "https://www.meetup.com/kotlin-belfast/events/300898541/"
+    region: 🇬🇧
+    date_added: 2024-05-17
+    start_datetime: 2024-06-06T19:00:00Z
+    end_datetime: 2024-06-06T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) DevOps & Platform Engineering MeetUp June 2024 @ The Academy"
+    url: "https://www.meetup.com/devops-platform-engineering-meetup/events/301033074/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-26T18:00:00Z
+    end_datetime: 2024-06-26T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) makers night @ MakerShop.ie"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsygcjbhb/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-05T18:00:00Z
+    end_datetime: 2024-06-05T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) makers night @ MakerShop.ie"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsygcjbqb/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-12T18:00:00Z
+    end_datetime: 2024-06-12T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) makers night @ MakerShop.ie"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsygcjbzb/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-19T18:00:00Z
+    end_datetime: 2024-06-19T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) makers night @ MakerShop.ie"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsygcjbjc/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-26T18:00:00Z
+    end_datetime: 2024-06-26T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Cork|Sec 132 @ The Pavilion"
+    url: "https://www.meetup.com/corksec/events/297977026/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-04T19:00:00Z
+    end_datetime: 2024-06-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup! @ The Portershed"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/301042656/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-04T19:00:00Z
+    end_datetime: 2024-06-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Cork Software Crafters: Test-Driven Development: the Mars Rover Kata @ Metric Tristarinc"
+    url: "https://www.meetup.com/cork-software-crafters/events/300940173/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-04T19:00:00Z
+    end_datetime: 2024-06-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Cloudpaging User Group Online Meetup"
+    url: "https://www.meetup.com/cloudpaging-user-group/events/300924526/"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-21T14:30:00Z
+    end_datetime: 2024-06-21T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) MISS TECH AFRICA"
+    url: "https://www.eventbrite.ie/e/miss-tech-africa-tickets-887838026437"
+    region: 🇮🇪
+    date_added: 2024-05-17
+    start_datetime: 2024-06-30T14:30:00Z
+    end_datetime: 2024-06-30T16:00:00Z
+    new: true
+    recurring: false
+    desc: <p>Miss Tech is not just a pageant; it's a movement empowering and celebrating the intellect, creativity, and leadership of women aged 18 to 35. With contestants representing diverse countries and cultures in Africa, they design impactful projects tackling pressing social issues using technology.</p>
+    type: diversity
