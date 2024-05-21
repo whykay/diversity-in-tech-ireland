@@ -364,7 +364,8 @@ groups:
     year_added: 2019
     month_added: 10
     day_added: 23
-    status: active
+    date_removed: 2024-05-21
+    status: retired
     type: all 
   - name: Tech Léi 
     url: "https://www.meetup.com/Tech-Lei"
@@ -966,7 +967,7 @@ groups:
     month_added: 01
     day_added: 26
     date_removed:
-    status: 
+    status: active
     type: all 
   - name: "Latinas in Tech - Dublin"
     url: "https://latinasintech.org/chapter/dublin/"
@@ -976,7 +977,7 @@ groups:
     month_added: 01
     day_added: 26
     date_removed:
-    status: 
+    status: active
     type: all 
 
   - name: "Black Girls in Tech Ireland"
@@ -987,7 +988,7 @@ groups:
     month_added: 04
     day_added: 28
     date_removed:
-    status: 
+    status: active
     type: all 
   - name: "Black Women in Tech Ireland"
     url: "https://theblackwomenintech.com/ireland/"
@@ -997,7 +998,7 @@ groups:
     month_added: 04
     day_added: 28
     date_removed:
-    status: 
+    status: active
     type: all 
 
   - name: "Women in Tech Academy"
@@ -1019,7 +1020,7 @@ groups:
     month_added: 06
     day_added: 10
     date_removed:
-    status: 
+    status: active
     type: all 
 
   - name: "SheStrategizes: Women in Marketing Meetup (Dublin Chapter)"
@@ -1030,7 +1031,7 @@ groups:
     month_added: 10
     day_added: 24
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Engineers Ireland: Inclusion and Diversity"
@@ -1041,7 +1042,7 @@ groups:
     month_added: 11
     day_added: 16
     date_removed:
-    status: new
+    status: active
     type: all 
 
 # 2024
