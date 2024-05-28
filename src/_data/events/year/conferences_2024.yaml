@@ -328,3 +328,24 @@ conferences:
     recurring: false
     desc: "<p>Digital DNA provides a space for entrepreneurs to connect with investors, mentors, and other resources to turn their ideas into successful companies. We also provide opportunities for students and professionals to learn from industry leaders and gain valuable experience.</p>"
     type: tech
+
+  - name: "Data Céilí"
+    url: "https://www.dataceili.ie/"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-06-13T09:00:00Z
+    end_datetime: 2024-06-14T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Data Céilí is Ireland's newest data platform event. It's a community-lead conference with a focus on Microsoft Data Platform technologies</p>"
+    type: tech
+  - name: "Fintech Ireland Summit 2024"
+    url: "https://www.eventbrite.ie/e/fintech-ireland-summit-2024-tickets-913836217727"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-11-28T08:00:00Z
+    end_datetime: 2024-11-28T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us the first Fintech Ireland Summit this November</p>"
+    type: tech

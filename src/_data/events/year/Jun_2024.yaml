@@ -224,7 +224,7 @@ eventlistings:
     recurring: false
     desc:
     type: tech
-  - name: "(In-Person) Cloudpaging User Group Online Meetup"
+  - name: "(Online) Cloudpaging User Group Online Meetup"
     url: "https://www.meetup.com/cloudpaging-user-group/events/300924526/"
     region: 🇮🇪
     date_added: 2024-05-17
@@ -244,3 +244,61 @@ eventlistings:
     recurring: false
     desc: <p>Miss Tech is not just a pageant; it's a movement empowering and celebrating the intellect, creativity, and leadership of women aged 18 to 35. With contestants representing diverse countries and cultures in Africa, they design impactful projects tackling pressing social issues using technology.</p>
     type: diversity
+
+  - name: "(In-Person) Open Co-working & Brunch Day @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/300567029/"
+    region: 🇬🇧
+    date_added: 2024-05-28
+    start_datetime: 2024-06-05T09:00:00Z
+    end_datetime: 2024-06-05T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyLadies Dublin x PyData Ireland Special Meetup @ Travelport"
+    url: "https://www.meetup.com/pyladiesdublin/events/300925477/"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-06-05T09:00:00Z
+    end_datetime: 2024-06-05T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyLadies Dublin are excited to collaborate with PyData Ireland in our June meetup - just to note it's on WEDNESDAY for this meetup.</p>
+    <p>
+    <ul>
+      <li>Talk 1: Building Intelligent Applications with LangChain by Toma Ijatomi</li>
+      <li>Talk 2: Transformers and the Attention Mechanism - The Core Components of LLMs by Tony O'Halloran</li>
+    </ul>
+    </p>"
+    type: diversity
+  - name: "(In-Person) DevOps & Platform Engineering MeetUp June 2024 @ The Academy"
+    url: "https://www.meetup.com/devops-platform-engineering-meetup/events/301033074/"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-06-26T18:00:00Z
+    end_datetime: 2024-06-26T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Test-Driven Development: the Mars Rover Kata @ Metric Tristarinc Ltd"
+    url: "https://www.meetup.com/cork-software-crafters/events/300940173/"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-06-06T18:00:00Z
+    end_datetime: 2024-06-06T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) Unlock the Future of Work: Atlassian Innovation Summit, Galway"
+    url: "https://www.meetup.com/galway-atlassian-community-events/events/301116648/"
+    region: 🇮🇪
+    date_added: 2024-05-28
+    start_datetime: 2024-06-15T09:30:00Z
+    end_datetime: 2024-06-15T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+
