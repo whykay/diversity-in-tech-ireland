@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-20T20:00:00Z
     end_datetime: 2024-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-21T18:00:00Z
     end_datetime: 2024-05-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -442,7 +442,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-25T15:00:00Z
     end_datetime: 2024-05-25T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -452,7 +452,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-27T19:00:00Z
     end_datetime: 2024-05-27T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -462,7 +462,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-30T18:00:00Z
     end_datetime: 2024-05-30T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -472,7 +472,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-22T18:00:00Z
     end_datetime: 2024-05-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -482,7 +482,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-29T18:00:00Z
     end_datetime: 2024-05-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -492,7 +492,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-21T14:00:00Z
     end_datetime: 2024-05-21T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -502,7 +502,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-30T14:00:00Z
     end_datetime: 2024-05-30T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for the Women in AI Governance meetup at the Dublin Tech Summit on May 30th in the RDS at 2PM on the balcony!</p>
     <p>After our inaugural event sold out in 24 hours, we are thrilled to invite you to another afternoon of engagement, networking, and inspiration.</p>"
@@ -513,7 +513,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-23T09:00:00Z
     end_datetime: 2024-05-23T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -523,7 +523,7 @@ eventlistings:
     date_added: 2024-05-17
     start_datetime: 2024-05-23T20:00:00Z
     end_datetime: 2024-05-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: education
@@ -534,7 +534,7 @@ eventlistings:
     date_added: 2024-05-21
     start_datetime: 2024-05-23T18:30:00Z
     end_datetime: 2024-05-23T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Technology and Science Ireland (WITS) in partnership with MTU Blackrock Castle Observatory, are delighted to invite you to ‘Reach for the Stars’, an opportunity to connect, network and explore how we can drive gender equity in STEM. Proudly sponsored by Vision Contracting, an Irish construction services company.</p>"
     type: diversity
@@ -544,7 +544,7 @@ eventlistings:
     date_added: 2024-05-21
     start_datetime: 2024-05-30T18:00:00Z
     end_datetime: 2024-05-30T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
