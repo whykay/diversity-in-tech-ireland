@@ -302,3 +302,16 @@ eventlistings:
     desc:
     type: tech
 
+  - name: "(In-Person) Women in Data Science (WiDS) Dublin Regional Conference 2024"
+    url: "https://www.eventbrite.co.uk/e/women-in-data-science-wids-dublin-regional-conference-2024-tickets-908676514917"
+    region: 🇮🇪
+    date_added: 2024-05-30
+    start_datetime: 2024-06-21T09:00:00Z
+    end_datetime: 2024-06-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>WiDS Dublin is independently organised by WiDS Ireland Ambassadors to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work.</p>
+    <p>Join us for a day filled with inspiring talks, networking opportunities, and workshops focussed on data science. The event will take place on Fri Jun 21 2024 at the O'Brien Centre for Science, UCD. Lunch is included in the ticket price and all genders are welcome!</p>
+    <p>Get ready to connect with fellow data enthusiasts and hear from leading women in the field. Don't miss out on this exciting opportunity to learn and grow in the world of data science!</p>
+    "
+    type: diversity

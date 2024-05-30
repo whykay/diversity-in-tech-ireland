@@ -349,3 +349,14 @@ conferences:
     recurring: false
     desc: "<p>Join us the first Fintech Ireland Summit this November</p>"
     type: tech
+
+  - name: "Women in Data Science (WiDS) Dublin Regional Conference 2024"
+    url: "https://www.eventbrite.co.uk/e/women-in-data-science-wids-dublin-regional-conference-2024-tickets-908676514917"
+    region: 🇮🇪
+    date_added: 2024-05-30
+    start_datetime: 2024-06-21T09:00:00Z
+    end_datetime: 2024-06-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Data Science (WiDS) aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field.</p>"
+    type: diversity
