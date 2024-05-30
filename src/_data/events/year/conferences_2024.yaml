@@ -360,7 +360,7 @@ conferences:
     recurring: false
     desc: "<p>Women in Data Science (WiDS) aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field.</p>"
     type: diversity
-  - name: "Future Talent Forum: Generative AI: Shaping the Talent Pipeline (Hype v Reality)"
+  - name: "Future Talent Forum - Generative AI: Shaping the Talent Pipeline (Hype v Reality)"
     url: "https://www.eventbrite.ie/e/future-talent-forum-2024-tickets-909723436287"
     region: 🇮🇪
     date_added: 2024-05-30
@@ -368,5 +368,5 @@ conferences:
     end_datetime: 2024-06-20T14:00:00Z
     new: true
     recurring: false
-    desc: "<pThe Enterprise Academy invites you to join talent development professionals to explore how Generative AI is shaping the talent pipeline.</p>"
+    desc: "<p>The Enterprise Academy invites you to join talent development professionals to explore how Generative AI is shaping the talent pipeline.</p>"
     type: tech
