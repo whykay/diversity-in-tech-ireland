@@ -315,3 +315,25 @@ eventlistings:
     <p>Get ready to connect with fellow data enthusiasts and hear from leading women in the field. Don't miss out on this exciting opportunity to learn and grow in the world of data science!</p>
     "
     type: diversity
+
+
+  - name: "(In-Person) ScaleXperience | Brightwater Technology @ Zambrero Hatch Street"
+    url: "https://www.eventbrite.com/e/scalexperience-brightwater-technology-tickets-911394283837"
+    region: 🇮🇪
+    date_added: 2024-06-05
+    start_datetime: 2024-06-20T16:30:00Z
+    end_datetime: 2024-06-20T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Techstars Community Meetup"
+    url: "https://lu.ma/j5ws7vwi"
+    region: 🇮🇪
+    date_added: 2024-06-06
+    start_datetime: 2024-06-06T19:30:00Z
+    end_datetime: 2024-06-06T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
