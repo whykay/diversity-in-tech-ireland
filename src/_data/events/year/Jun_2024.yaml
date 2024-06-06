@@ -327,6 +327,7 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
   - name: "(In-Person) Techstars Community Meetup"
     url: "https://lu.ma/j5ws7vwi"
     region: 🇮🇪
@@ -337,3 +338,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Zalando: 📣CALLING WOMEN IN TECH!📣"
+    url: "https://lu.ma/j5ws7vwi"
+    region: 🇮🇪
+    date_added: 2024-06-06
+    start_datetime: 2024-06-20T18:00:00Z
+    end_datetime: 2024-06-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>On Thursday June 20th Zalando is holding a Meetup with a focus on Women in Tech Leadership in our Dublin office and we’d love to invite you to join us!</p>"
+    type: diversity
