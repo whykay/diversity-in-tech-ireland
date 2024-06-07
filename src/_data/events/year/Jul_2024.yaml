@@ -177,3 +177,25 @@ eventlistings:
     recurring: false
     desc:
     type: exhibition
+
+  - name: "(In-Person) Workshop: Crafting Stories with Data | GBTech"
+    url: "https://www.gbtech.ie/events/workshop-crafting-stories-with-data-gbtech-people-of-data"
+    region: 🇮🇪
+    date_added: 2024-06-07
+    start_datetime: 2024-07-18T18:00:00Z
+    end_datetime: 2024-07-18T20:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>Have you ever wondered how data can tell a story? Whether you're looking to sharpen your data analysis skills or learn to communicate complex information effectively, you're in the right place. Our upcoming workshop \"Crafting Stories with Data\", is designed to help you turn data into decisions and stories that resonate across your organisation.</p>
+    <p>Ready to change the way you think about and use data? Get your tickets now to start turning your data into impactful stories. </p>"
+    type: diversity
+  - name: "(In-Person) NI Tech Community - Belfast Pride Parade"
+    url: "https://www.eventbrite.co.uk/e/ni-tech-community-belfast-pride-parade-tickets-909339327407?aff=oddtdtcreator"
+    region: 🇬🇧
+    date_added: 2024-06-07
+    start_datetime: 2024-07-27T12:30:00Z
+    end_datetime: 2024-07-27T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us in the celebration of diversity, acceptance, and love on July 27, 2024. We're inviting all tech communities to march with pride. Sign up now to participate in the Belfast Pride Parade!</p>"
+    type: diversity
