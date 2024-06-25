@@ -271,3 +271,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) GBTech: Crafting Stories with Data"
+    url: "https://www.eventbrite.ie/e/crafting-stories-with-data-gbtech-tickets-894293384587"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-18T18:00:00Z
+    end_datetime: 2024-07-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
