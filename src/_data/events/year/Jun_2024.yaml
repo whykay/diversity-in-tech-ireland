@@ -451,3 +451,95 @@ eventlistings:
     recurring: false
     desc: "Join Marguerite O Sullivan, STEM leader and women's advocate, as she discusses promoting diversity and innovation in tech."
     type: diversity
+
+  - name: "(In-Person) Pride in Tech at Dogpatch"
+    url: "https://lu.ma/fvncbop0?tk=xz4AMT"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-26T19:15:00Z
+    end_datetime: 2024-06-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to Pride in Tech at Dogpatch  - our unmissable, electric, Pride extravaganza exclusively designed for queer founders, entrepreneurs, and tech ecosystem folx in the LGBTQ+ community.</p>
+    <p>Our event is all about celebrating queer people in tech in the most fun and safe way possible. We'll be sharing stories in tech, networking with fellow queer entrepreneurs, and having a FABULOUS drag show featuring the sensational Victoria Secret.</p>"
+    type: diversity
+  - name: "(In-Person) Ruby Ireland: Ruby On Skis? Let's Go Alpine & Get Better Service! @ Clio"
+    url: "https://www.meetup.com/rubyireland/events/301133863/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-26T18:00:00Z
+    end_datetime: 2024-06-26T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Automation and Software Testing: Summer Meetup"
+    url: "https://www.meetup.com/belfast-automation-software-testing/events/301575233/"
+    region: 🇬🇧
+    date_added: 2024-06-25
+    start_datetime: 2024-06-26T18:00:00Z
+    end_datetime: 2024-06-26T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Amazing Data Women - June 2024 @ EY"
+    url: "https://www.meetup.com/her-data/events/301626853/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-26T18:30:00Z
+    end_datetime: 2024-06-26T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Wednesday, June 26th @6:30pm, hosted at EY. We'll have talks from three amazing women. Two women from EY along with one of our co-organisers, Ciara from Irish Life Wellbeing. Join, ask questions and meet other folks who love data.</p>"
+    type: diversity
+  - name: "(In-Person) Wexford Tech Meetup @ Scurri"
+    url: "https://www.meetup.com/wexford-tech-meetup/events/301574777/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-26T19:00:00Z
+    end_datetime: 2024-06-26T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Pizza & Web Developer Networking Night! @ The Well"
+    url: "https://www.meetup.com/codu-community/events/301783606/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-27T18:00:00Z
+    end_datetime: 2024-06-27T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) BLUG Social: Uni Quarter"
+    url: "https://www.meetup.com/belfast-lug/events/301842557/"
+    region: 🇬🇧
+    date_added: 2024-06-25
+    start_datetime: 2024-06-27T18:00:00Z
+    end_datetime: 2024-06-27T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) BrowserStack Software Testing and QA meetup @ Workday"
+    url: "https://www.meetup.com/browserstack-meetup-group-dublin/events/301555437/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-27T19:00:00Z
+    end_datetime: 2024-06-27T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork: Starting the Accessibility Journey (Sponsored by Valid8Me)"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/301626773/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-06-27T18:00:00Z
+    end_datetime: 2024-06-27T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

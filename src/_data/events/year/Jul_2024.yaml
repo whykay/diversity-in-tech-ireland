@@ -124,8 +124,8 @@ eventlistings:
     url: "https://www.meetup.com/galway-game-makers-meetup/events/jxjrhtygckbdb/"
     region: 🇮🇪
     date_added: 2024-05-17
-    start_datetime: 2024-06-04T19:00:00Z
-    end_datetime: 2024-06-04T21:00:00Z
+    start_datetime: 2024-07-02T19:00:00Z
+    end_datetime: 2024-07-02T21:00:00Z
     new: false
     recurring: false
     desc:
@@ -190,7 +190,7 @@ eventlistings:
     <p>Ready to change the way you think about and use data? Get your tickets now to start turning your data into impactful stories. </p>"
     type: diversity
   - name: "(In-Person) NI Tech Community - Belfast Pride Parade"
-    url: "https://www.eventbrite.co.uk/e/ni-tech-community-belfast-pride-parade-tickets-909339327407?aff=oddtdtcreator"
+    url: "https://www.eventbrite.co.uk/e/ni-tech-community-belfast-pride-parade-tickets-909339327407"
     region: 🇬🇧
     date_added: 2024-06-07
     start_datetime: 2024-07-27T12:30:00Z
@@ -199,3 +199,75 @@ eventlistings:
     recurring: false
     desc: "<p>Join us in the celebration of diversity, acceptance, and love on July 27, 2024. We're inviting all tech communities to march with pride. Sign up now to participate in the Belfast Pride Parade!</p>"
     type: diversity
+
+
+  - name: "(In-Person) Building My Village | You're Invited"
+    url: "https://www.eventbrite.ie/e/building-my-village-youre-invited-tickets-918744608857"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-04T16:30:00Z
+    end_datetime: 2024-07-04T8:30:00Z
+    new: true
+    recurring: false
+    desc: "Meet with other like-minded, ambitious, Black/Bipoc professionals to develop your personal network. We take a cross-industry approach as we know the the broader the connections you have, the more powerful they are. The aim for this community is to help you develop a network and give you the practical tools to succeed; so join us for a tailored experience that is unlike others."
+    type: diversity
+  - name: "(In-Person)The Games Co-Op: Juno yourself @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/301699384/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-01T19:00:00Z
+    end_datetime: 2024-07-01T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Site Reliability Engineering Dublin: The July SRE Meetup"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/301618414"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-11T19:00:00Z
+    end_datetime: 2024-07-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community"
+    url: "https://www.meetup.com/dublin-linux-community/events/298738852/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-13T15:00:00Z
+    end_datetime: 2024-07-13T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast Book Club #6 @ Rapid7"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/301730170/"
+    region: 🇬🇧
+    date_added: 2024-06-25
+    start_datetime: 2024-07-23T18:00:00Z
+    end_datetime: 2024-07-23T19:30:00Z
+    new: true
+    recurring: false
+    desc: "This month WTM Belfast are reading The Guilty Feminist by Deborah Frances-White."
+    type: diversity
+  - name: "(Online) Deploy Atlassian on Kubernetes: Quick 15-Minute Setup Guide & a special guest"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/301504524/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-25T17:30:00Z
+    end_datetime: 2024-07-25T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 133"
+    url: "https://www.meetup.com/corksec/events/297977027/"
+    region: 🇮🇪
+    date_added: 2024-06-25
+    start_datetime: 2024-07-16T19:00:00Z
+    end_datetime: 2024-07-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
