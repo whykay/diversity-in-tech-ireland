@@ -1,0 +1,100 @@
+---
+eventlistings:
+  - name: "(Online) SQL Ireland User Group"
+    url: "https://www.meetup.com/sqlireland/events/301875559/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-06T18:30:00Z
+    end_datetime: 2024-08-06T20:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Dublin Linux Community"
+    url: "https://www.meetup.com/dublin-linux-community/events/299691824/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-10T15:00:00Z
+    end_datetime: 2024-08-10T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DIY Electric Vehicle Meetup @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/301671720/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-17T14:00:00Z
+    end_datetime: 2024-08-17T17:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) PyLadies Dublin @ Fingal Makerspace (Blanchardstown Library)"
+    url: "https://www.meetup.com/pyladiesdublin/events/301056300/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-20T18:30:00Z
+    end_datetime: 2024-08-20T19:45:00Z
+    new: false
+    recurring: false
+    desc: "<p>We are excited to have Fingal Makerspace (Blanchardstown Library) who will be our host in their amazing space.</p>
+    <p>
+      <ul>
+        <li>- Find out about 3D printing, laser cutting, and other Maker activities (including Repair café, clothes repair, printmaking) at the Makerspace</li>
+        <li>- Show & Tell: Python project you want to start or work-in-progress</li>
+        <li>- Bring your laptop to work on your own projects, ask for help</li>
+        <li>- Special demo workshop with Pytch</li>
+      </ul>
+    </p>"
+    type: diversity
+  - name: "(In-Person) Team 24 of the Atlassian Community in Dublin"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/301622398"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-22T17:00:00Z
+    end_datetime: 2024-08-22T20:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Ai meet up"
+    url: "https://www.meetup.com/dublin-ai-and-society-meetup-group/events/301754903/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-25T14:00:00Z
+    end_datetime: 2024-08-25T16:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup! @ Portershed"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/301364343/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-06T19:00:00Z
+    end_datetime: 2024-08-06T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Cork|Sec 134"
+    url: "https://www.meetup.com/corksec/events/297977028/"
+    region: 🇮🇪
+    date_added: 2024-07-01
+    start_datetime: 2024-08-13T19:00:00Z
+    end_datetime: 2024-08-13T21:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2024-07-01
+    start_datetime: 2024-08-29T09:30:00Z
+    end_datetime: 2024-08-29T10:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
