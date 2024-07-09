@@ -458,7 +458,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-26T19:15:00Z
     end_datetime: 2024-06-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Welcome to Pride in Tech at Dogpatch  - our unmissable, electric, Pride extravaganza exclusively designed for queer founders, entrepreneurs, and tech ecosystem folx in the LGBTQ+ community.</p>
     <p>Our event is all about celebrating queer people in tech in the most fun and safe way possible. We'll be sharing stories in tech, networking with fellow queer entrepreneurs, and having a FABULOUS drag show featuring the sensational Victoria Secret.</p>"
@@ -469,7 +469,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-26T18:00:00Z
     end_datetime: 2024-06-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -479,7 +479,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-26T18:00:00Z
     end_datetime: 2024-06-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -489,7 +489,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-26T18:30:00Z
     end_datetime: 2024-06-26T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We're back with another in person HER+Data meetup! An evening time event on Wednesday, June 26th @6:30pm, hosted at EY. We'll have talks from three amazing women. Two women from EY along with one of our co-organisers, Ciara from Irish Life Wellbeing. Join, ask questions and meet other folks who love data.</p>"
     type: diversity
@@ -499,7 +499,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-26T19:00:00Z
     end_datetime: 2024-06-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -509,7 +509,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-27T18:00:00Z
     end_datetime: 2024-06-27T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -519,7 +519,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-27T18:00:00Z
     end_datetime: 2024-06-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -529,7 +529,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-27T19:00:00Z
     end_datetime: 2024-06-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -539,7 +539,7 @@ eventlistings:
     date_added: 2024-06-25
     start_datetime: 2024-06-27T18:00:00Z
     end_datetime: 2024-06-27T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
