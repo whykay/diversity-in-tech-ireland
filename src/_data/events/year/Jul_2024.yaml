@@ -292,3 +292,104 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
+
+  - name: "(Online) AwakenHub July Community Event - AwakenHub Turns 4!"
+    url: "https://www.awakenhub.com/events-2/happy-4th-birthday"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-09T17:00:00Z
+    end_datetime: 2024-07-09T18:15:00Z
+    new: true
+    recurring: false
+    desc: "Joining our celebration is Sinéad Crowther, Tonstix Creator and CEO of Soothing Solutions Ltd. Sinéad was announced as Enterprise Ireland's HPSU Founder of the Year 2023."
+    type: diversity
+  - name: "AwakenClub Big Sister Session - LinkedIn as a Tool - Tips and Tricks"
+    url: "https://www.awakenhub.com/events-2/bss-linkedin-as-a-tool-tips-and-tricks"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-11T17:00:00Z
+    end_datetime: 2024-07-11T18:15:00Z
+    new: true
+    recurring: false
+    desc: "As AwakenHub continues to expand it’s AwakenClub private members community we have launched our Big Sister sessions. An exclusive membership perk for our women founders. These sessions are intimate 'working sessions' limited in size to allow for active engagement over 75 minutes. They offer a unique opportunity for members to gain insights from industry experts, innovators, founders, and investors."
+    type: diversity
+  - name: "(Online) Big Sister Session: Networking  with the Media with Kelly Hoey"
+    url: "https://www.awakenhub.com/events-2/awakenclub-big-sister-session-networking-with-the-media-with-kelly-hoey"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-24T17:00:00Z
+    end_datetime: 2024-07-24T18:15:00Z
+    new: true
+    recurring: false
+    desc: "AwakenHub members are a source of newsworthy stories, industry trends, and business insights, and the bridge to connect your thought leadership to the media is networking. In this Big Sister Session, Kelly Hoey will share the networking give-give-get to create meaningful connections (and more mentions) with the media."
+    type: diversity
+  - name: "(OnIn-Person) Galway Information Technology"
+    url: "https://www.meetup.com/galway-information-technology/events/301885482/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-18T18:00:00Z
+    end_datetime: 2024-07-18T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Ladies that UX Belfast: Democratizing research - does it work? @ Rapid 7"
+    url: "https://www.meetup.com/ladies-that-ux-belfast/events/301898670/"
+    region: 🇬🇧
+    date_added: 2024-07-09
+    start_datetime: 2024-07-25T18:30:00Z
+    end_datetime: 2024-07-25T18:30:00Z
+    new: true
+    recurring: false
+    desc: "In a world where continuous discovery is as much about building the right thing as it is about building the thing right - this LTUX session asks can research genuinely be democratized to non-researchers who rely on user insights to steer the product design and build."
+    type: diversity
+  - name: "(In-Person) API Security Group in Dublin: A Best Practices Checklist For Securing Your APIs And Applications"
+    url: "https://www.meetup.com/api-security-group-in-dublin/events/301734357/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-10T10:00:00Z
+    end_datetime: 2024-07-10T11:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) GDG Dublin: Google I/O Extended 2024 @ MongoDB"
+    url: "https://www.meetup.com/gdg-dublin/events/301919804/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-30T18:00:00Z
+    end_datetime: 2024-07-30T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyData Ireland: Taming Python Dependencies for Data Science: An ActiveState Deep Dive"
+    url: "https://www.meetup.com/pydataireland/events/301978347/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-17T17:00:00Z
+    end_datetime: 2024-07-17T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Python Ireland Summer drinks"
+    url: "https://www.meetup.com/pythonireland/events/302017918/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-10T18:30:00Z
+    end_datetime: 2024-07-10T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Why July to me? @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/302114837/"
+    region: 🇮🇪
+    date_added: 2024-07-09
+    start_datetime: 2024-07-29T19:00:00Z
+    end_datetime: 2024-07-29T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
