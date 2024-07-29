@@ -129,3 +129,34 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+
+  - name: "(In-Person) Codú: Web Developer Meetup - Visualising Data for the Web"
+    url: "https://www.meetup.com/codu-community/events/302432918/"
+    region: 🇮🇪
+    date_added: 2024-07-29
+    start_datetime: 2024-08-01T18:00:00Z
+    end_datetime: 2024-08-01T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Data Science Engineering Club"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/302473069/"
+    region: 🇮🇪
+    date_added: 2024-07-29
+    start_datetime: 2024-08-03T10:00:00Z
+    end_datetime: 2024-08-03T11:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Deciphering Data Architectures (choosing Modern DW, Data Fabric, LH and Mesh)"
+    url: "https://www.meetup.com/sqlireland/events/301875559/"
+    region: 🇮🇪
+    date_added: 2024-07-29
+    start_datetime: 2024-08-06T18:30:00Z
+    end_datetime: 2024-08-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
