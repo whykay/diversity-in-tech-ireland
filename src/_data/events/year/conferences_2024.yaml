@@ -399,7 +399,7 @@ conferences:
     date_added: 2024-06-25
     start_datetime: 2024-09-25T08:30:00Z
     end_datetime: 2024-09-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>NEXUS Games Conference welcomes 300 games industry leaders to Dublin for two days of networking events, live stage content and roundtable discussions. Hear from international thought leaders discussing key industry topics and trends. </p>
           <p>The event explores the current challenges and opportunities facing the global games industry, as well as the strategies and avenues available to thrive in this fast moving sector.</p>"

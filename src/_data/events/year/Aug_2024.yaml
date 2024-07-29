@@ -105,7 +105,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-08-24T15:00:00Z
     end_datetime: 2024-08-24T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -115,7 +115,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-08-12T19:00:00Z
     end_datetime: 2024-08-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -125,7 +125,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-08-26T19:00:00Z
     end_datetime: 2024-08-26T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker

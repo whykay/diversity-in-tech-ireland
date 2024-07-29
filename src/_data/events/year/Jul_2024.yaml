@@ -299,7 +299,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-09T17:00:00Z
     end_datetime: 2024-07-09T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Joining our celebration is Sinéad Crowther, Tonstix Creator and CEO of Soothing Solutions Ltd. Sinéad was announced as Enterprise Ireland's HPSU Founder of the Year 2023."
     type: diversity
@@ -309,7 +309,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-11T17:00:00Z
     end_datetime: 2024-07-11T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "As AwakenHub continues to expand it’s AwakenClub private members community we have launched our Big Sister sessions. An exclusive membership perk for our women founders. These sessions are intimate 'working sessions' limited in size to allow for active engagement over 75 minutes. They offer a unique opportunity for members to gain insights from industry experts, innovators, founders, and investors."
     type: diversity
@@ -319,7 +319,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-24T17:00:00Z
     end_datetime: 2024-07-24T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "AwakenHub members are a source of newsworthy stories, industry trends, and business insights, and the bridge to connect your thought leadership to the media is networking. In this Big Sister Session, Kelly Hoey will share the networking give-give-get to create meaningful connections (and more mentions) with the media."
     type: diversity
@@ -329,7 +329,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-18T18:00:00Z
     end_datetime: 2024-07-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -339,7 +339,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-25T18:30:00Z
     end_datetime: 2024-07-25T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "In a world where continuous discovery is as much about building the right thing as it is about building the thing right - this LTUX session asks can research genuinely be democratized to non-researchers who rely on user insights to steer the product design and build."
     type: diversity
@@ -349,7 +349,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-10T10:00:00Z
     end_datetime: 2024-07-10T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -359,7 +359,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-30T18:00:00Z
     end_datetime: 2024-07-30T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -369,7 +369,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-17T17:00:00Z
     end_datetime: 2024-07-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -379,7 +379,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-10T18:30:00Z
     end_datetime: 2024-07-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -389,7 +389,7 @@ eventlistings:
     date_added: 2024-07-09
     start_datetime: 2024-07-29T19:00:00Z
     end_datetime: 2024-07-29T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
