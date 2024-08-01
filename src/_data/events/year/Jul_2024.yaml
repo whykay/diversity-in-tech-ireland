@@ -400,7 +400,7 @@ eventlistings:
     date_added: 2024-07-29
     start_datetime: 2024-07-31T18:30:00Z
     end_datetime: 2024-07-31T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech

@@ -1,0 +1,12 @@
+---
+eventlistings:
+  - name: "(In-Person) DevOps & Platform Engineering MeetUp - Dublin @ The Academy"
+    url: "https://diversityintechawards.online/"
+    region: 🇮🇪
+    date_added: 2024-08-01
+    start_datetime: 2024-09-19T18:00:00Z
+    end_datetime: 2024-09-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: "Welcome to the seventh edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all."
+    type: diversity
