@@ -1,0 +1,12 @@
+---
+eventlistings:
+  - name: "(In-Person) DevFest Ireland 2024!"
+    url: "https://gdg.community.dev/events/details/google-gdg-belfast-presents-devfest-ireland-2024/"
+    region: 🇬🇧
+    date_added: 2024-08-02
+    start_datetime: 2024-11-16T09:30:00Z
+    end_datetime: 2024-11-16T17:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

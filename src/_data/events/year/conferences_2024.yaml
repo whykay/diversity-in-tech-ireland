@@ -404,3 +404,16 @@ conferences:
     desc: "<p>NEXUS Games Conference welcomes 300 games industry leaders to Dublin for two days of networking events, live stage content and roundtable discussions. Hear from international thought leaders discussing key industry topics and trends. </p>
           <p>The event explores the current challenges and opportunities facing the global games industry, as well as the strategies and avenues available to thrive in this fast moving sector.</p>"
     type: gamedev
+
+
+  - name: "DevFest Ireland 2024!"
+    url: "https://gdg.community.dev/events/details/google-gdg-belfast-presents-devfest-ireland-2024/"
+    region: 🇬🇧
+    date_added: 2024-08-02
+    start_datetime: 2024-11-16T09:30:00Z
+    end_datetime: 2024-11-16T17:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us on November 16th for our 3rd annual DevFest Ireland! A conference delivered in collaboration with GDG chapters across Ireland</p>
+    <p>Call for proposals (closes 31 Aug 2024): <a href='https://sessionize.com/devfest-ireland-2024/'>https://sessionize.com/devfest-ireland-2024/</a></p>"
+    type: tech
