@@ -412,7 +412,7 @@ conferences:
     date_added: 2024-08-02
     start_datetime: 2024-11-16T09:30:00Z
     end_datetime: 2024-11-16T17:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us on November 16th for our 3rd annual DevFest Ireland! A conference delivered in collaboration with GDG chapters across Ireland</p>
     <p>Call for proposals (closes 31 Aug 2024): <a href='https://sessionize.com/devfest-ireland-2024/'>https://sessionize.com/devfest-ireland-2024/</a></p>"
