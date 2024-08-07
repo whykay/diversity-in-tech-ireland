@@ -182,3 +182,103 @@ eventlistings:
     desc: "Get ready for APNI Mixer 3.0: Summer Edition - ''Make The Move'' where we'll mix, mingle, and make connections under the sun!"
     type: diversity
 
+  - name: "(In-Person) ProductTank Belfast: The Impact of AI: Transforming Products and Product Management"
+    url: "https://www.meetup.com/producttank-belfast/events/302275723"
+    region: 🇬🇧
+    date_added: 2024-08-07
+    start_datetime: 2024-08-08T18:00:00Z
+    end_datetime: 2024-08-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Lisp Ireland August Meetup @ TCube"
+    url: "https://www.meetup.com/lisp-ireland/events/302622380/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-08T19:00:00Z
+    end_datetime: 2024-08-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Software Craftsmanship Community: Extreme Programming Series - TDD (Part 2)"
+    url: "https://www.meetup.com/belfast-software-craftsmanship-community/events/302384475/"
+    region: 🇬🇧
+    date_added: 2024-08-07
+    start_datetime: 2024-08-20T18:00:00Z
+    end_datetime: 2024-08-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS UG Dublin - Meetup @ Button Factory"
+    url: "https://www.meetup.com/awsdublin/events/254686966/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-27T18:00:00Z
+    end_datetime: 2024-08-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DUB|SEC August 2024 Meetup @ The Iveagh Garden Hotel"
+    url: "https://www.meetup.com/dub-sec/events/302648311/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-28T18:30:00Z
+    end_datetime: 2024-08-28T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech   
+  - name: "(In-Person) BelfastJS - August Meetup!"
+    url: "https://www.meetup.com/belfast-js/events/302508399/"
+    region: 🇬🇧
+    date_added: 2024-08-07
+    start_datetime: 2024-08-29T19:00:00Z
+    end_datetime: 2024-08-29T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennise Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/302578833/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-07T18:00:00Z
+    end_datetime: 2024-08-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker   
+  - name: "(In-Person) makers night @ Ennise Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/302449631/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-14T18:00:00Z
+    end_datetime: 2024-08-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker   
+  - name: "(In-Person) makers night @ Ennise Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsygclblc/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-28T18:00:00Z
+    end_datetime: 2024-08-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Galway Information Technology: GIT 1.4: Cloud Computing: Work Smarter, Not Harder"
+    url: "https://www.meetup.com/galway-information-technology/events/302439331"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-08-21T18:00:00Z
+    end_datetime: 2024-08-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech  

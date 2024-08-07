@@ -10,3 +10,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Defuse - Design for Use @ The Sugar Club"
+    url: "http://defuse.ixd.ie/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-11-11T19:00:00Z
+    end_datetime: 2024-11-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/301364350/"
+    region: 🇮🇪
+    date_added: 2024-08-07
+    start_datetime: 2024-11-01T19:00:00Z
+    end_datetime: 2024-11-01T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+
