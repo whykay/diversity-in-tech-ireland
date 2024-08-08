@@ -31,3 +31,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev   
+
+  - name: "(In-Person) The Games Co-Op: Monday Night RAWgust @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/302717124/"
+    region: 🇮🇪
+    date_added: 2024-08-08
+    start_datetime: 2024-09-02T18:00:00Z
+    end_datetime: 2024-09-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech  
