@@ -10,3 +10,24 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-773074595927"
+    region: 🇬🇧
+    date_added: 2024-08-19
+    start_datetime: 2024-10-31T09:30:00Z
+    end_datetime: 2024-10-31T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) EmpowerHER | Breaking Barriers & Elevating your Career in Tech @ NetApp"
+    url: "https://www.eventbrite.ie/e/empowerher-breaking-barriers-elevating-your-career-in-tech-tickets-998417843647"
+    region: 
+    date_added: 2024-08-19
+    start_datetime: 2024-10-03T17:30:00Z
+    end_datetime: 2024-10-03T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Women in Tech forum and NetApp for an evening of networking and inspiring talks from female engineering professionals and leaders in Cork’s thriving tech industry.</p>"
+    type: diversity

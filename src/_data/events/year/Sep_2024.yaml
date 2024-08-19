@@ -42,3 +42,136 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev  
+
+
+  - name: "(In-Person) Tech Summit 2024: An Employers Guide to Tech Apprenticeships"
+    url: "https://www.eventbrite.ie/e/tech-summit-2024-an-employers-guide-to-tech-apprenticeships-tickets-995300459467/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-19T09:00:00Z
+    end_datetime: 2024-09-19T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) GDG Galway: Magical Front End: Magical Front End @ The Portershed"
+    url: "https://www.meetup.com/GDGGalway/events/302846723"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-18T18:30:00Z
+    end_datetime: 2024-09-18T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Cork|Sec 135"
+    url: "https://www.meetup.com/corksec/events/297977030/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-03T19:00:00Z
+    end_datetime: 2024-09-03T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Diversity in Tech Awards 2024"
+    url: "https://diversityintechawards.online/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-19T18:00:00Z
+    end_datetime: 2024-09-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to the seventh edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all.</p>"
+    type: diversity
+  - name: "(In-Person) Empowering Women in Tech | Practical Strategies to Accelerate your Career"
+    url: "https://www.eventbrite.ie/e/empowering-women-in-tech-practical-strategies-to-accelerate-your-career-tickets-957297120457"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-10T17:15:00Z
+    end_datetime: 2024-09-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Okta and Women in Tech forum for an evening of networking and inspiring discussions on how to break down barriers and build a successful career in the tech industry.</p>
+    <p>Whether you’re an engineer, a consultant or a go-to-market professional, you’ll come away with practical strategies and insights on how to overcome systemic challenges and build a successful career in tech</p>"
+    type: diversity
+  - name: "(In-Person) Cyber secure roadshow - Dublin"
+    url: "https://www.eventbrite.ie/e/cyber-secure-roadshow-dublin-ireland-tickets-936295584297"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-10T08:30:00Z
+    end_datetime: 2024-09-10T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Byte-Sized Event: AI and Data @ TCube"
+    url: "https://www.eventbrite.ie/e/byte-sized-event-ai-and-data-tickets-978200733727"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-10T18:00:00Z
+    end_datetime: 2024-09-10T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) BelfAWSt AWS User Group: AWS Community Day Belfast"
+    url: "https://www.eventbrite.ie/e/aws-community-day-belfast-tickets-922858583867"
+    region: 🇬🇧
+    date_added: 2024-08-19
+    start_datetime: 2024-09-06T09:00:00Z
+    end_datetime: 2024-09-06T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-773077755377"
+    region: 🇬🇧
+    date_added: 2024-08-19
+    start_datetime: 2024-09-26T09:30:00Z
+    end_datetime: 2024-09-26T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Cyber secure roadshow - Cork"
+    url: "https://www.eventbrite.ie/e/cyber-secure-roadshow-cork-ireland-tickets-929037705787"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-05T18:00:00Z
+    end_datetime: 2024-09-05T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Tech Talk: Cloud Security"
+    url: "https://www.eventbrite.ie/e/tech-talk-cloud-security-tickets-970386400847"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-10T08:00:00Z
+    end_datetime: 2024-09-10T09:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Fab Lab Limerick: Intro to Laser Cutting"
+    url: "https://www.eventbrite.ie/e/intro-to-laser-cutting-tickets-908725962817"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-28T11:00:00Z
+    end_datetime: 2024-09-28T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Fab Lab Limerick: Intro to 3D Printing"
+    url: "https://www.eventbrite.ie/e/intro-to-3d-printing-tickets-908726263717"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-28T14:00:00Z
+    end_datetime: 2024-09-28T15:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker

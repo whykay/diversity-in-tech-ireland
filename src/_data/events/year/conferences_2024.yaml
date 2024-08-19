@@ -429,3 +429,45 @@ conferences:
     recurring: false
     desc: "We're thrilled to announce that the University of Galway is going to host Bsides Galway for the very first time - check website for more info."
     type: tech
+
+  
+  - name: "KEYTECH 2024 - 4th International Conference on Key Enabling Technologies"
+    url: "https://www.eventbrite.ie/e/keytech-2024-4th-international-conference-on-key-enabling-technologies-tickets-902235258947"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-01T09:00:00Z
+    end_datetime: 2024-09-01T17:30:00Z
+    new: true
+    recurring: false
+    desc: "Connect with top academics, researchers, and industry experts to explore cutting- edge scientific advancements and share research insights."
+    type: tech
+  - name: "Cloud AI Summit"
+    url: "https://www.eventbrite.ie/e/cloud-ai-summit-tickets-956161854847"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-18T09:00:00Z
+    end_datetime: 2024-09-18T17:30:00Z
+    new: true
+    recurring: false
+    desc: "Cloud AI Summit is bringing together the brightest minds in the industry to define the future of Artificial Intelligence."
+    type: tech
+  - name: "26th Irish Machine Vision and Image Processing Conference 2024 @ University of Limerick"
+    url: "https://www.eventbrite.ie/e/26th-irish-machine-vision-and-image-processing-conference-2024-tickets-827165774097"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-08-21T09:00:00Z
+    end_datetime: 2024-08-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "The Irish Machine Vision and Image Processing Conference (IMVIP) Conference is the annual research conference of the Irish Pattern Recognition and Classification Society. The chief objective of the society is the advancement of research and study of pattern recognition, classification and associated fields and the applications of the outcomes of research. IPRCS is a member of the International Association for Pattern Recognition (IAPR) and the International Federation of Classification Societies."
+    type: tech
+  - name: "Cyber RCI 2024 @ SETU School of Science — Carlow Campus"
+    url: "https://www.eventbrite.ie/e/cyber-rci-2024-tickets-922751493557"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-11-25T10:00:00Z
+    end_datetime: 2024-11-25T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Get ready to immerse yourself in a world of cyber innovation and cutting-edge technology. At Cyber RCI 2024, you'll experience firsthand the latest trends and advancements in cybersecurity. Network with industry experts, attend engaging sessions, and explore innovative solutions to tackle cyber threats."
+    type: tech

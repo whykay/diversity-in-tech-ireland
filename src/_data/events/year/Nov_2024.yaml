@@ -32,3 +32,13 @@ eventlistings:
     desc: 
     type: gamedev
 
+  - name: "(In-Person) NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-773079881737"
+    region: 🇬🇧
+    date_added: 2024-08-19
+    start_datetime: 2024-11-28T09:30:00Z
+    end_datetime: 2024-11-28T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
