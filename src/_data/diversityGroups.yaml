@@ -1078,3 +1078,14 @@ groups:
     date_removed:
     status: new
     type: all 
+
+  - name: "DesignOpp"
+    url: "https://www.designopp.ie/"
+    region: Ireland
+    date_added: 2024-08-19
+    year_added: 2024
+    month_added: 08
+    day_added: 19
+    date_removed:
+    status: new
+    type: all 
