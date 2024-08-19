@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2024-08-07
     start_datetime: 2024-09-03T19:00:00Z
     end_datetime: 2024-09-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev   
