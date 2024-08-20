@@ -175,3 +175,14 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+
+  - name: "(In-Person) Waterford Tech Meetup: September 2024 - PHP & Golang: the odd couple & Microservices: a decade of pain"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/302937253/"
+    region: 🇮🇪
+    date_added: 2024-08-20
+    start_datetime: 2024-09-12T19:00:00Z
+    end_datetime: 2024-09-12T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
