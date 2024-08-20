@@ -175,3 +175,23 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsygcmbpb/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-11T19:00:00Z
+    end_datetime: 2024-09-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsygcmbhc/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-09-25T19:00:00Z
+    end_datetime: 2024-09-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker

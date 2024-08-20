@@ -383,3 +383,34 @@ eventlistings:
     recurring: false
     desc: "Join our Coding Meetups to meet other women in the programming field"
     type: diversity
+
+  - name: "(Online) Wikimedia Community Ireland Monthly Meeting"
+    url: "https://www.meetup.com/wikimedia-community-ireland-meetup/events/302693012/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-08-27T17:30:00Z
+    end_datetime: 2024-08-27T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: community
+  - name: "(In-Person) DubJUG with Red Hat's Sergey Beryozkin @ TCube"
+    url: "https://www.meetup.com/dublinjavausergroup/events/302928725/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-08-27T18:00:00Z
+    end_datetime: 2024-08-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/302720330/"
+    region: 🇮🇪
+    date_added: 2024-08-19
+    start_datetime: 2024-08-28T19:00:00Z
+    end_datetime: 2024-08-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
