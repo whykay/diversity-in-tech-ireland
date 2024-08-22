@@ -52,3 +52,14 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Women in STEM Belfast @ Titanic Belfast"
+    url: "https://womeninstembelfast.co.uk"
+    region: 🇮🇪
+    date_added: 2024-08-22
+    start_datetime: 2024-10-16T09:00:00Z
+    end_datetime: 2024-10-16T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us for the Women in STEM Summit in Belfast, where we will celebrate the achievements and address the challenges faced by women in Science, Technology, Engineering, & Mathematics (STEM) fields."
+    type: diversity
