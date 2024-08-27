@@ -218,3 +218,14 @@ eventlistings:
     desc: "<p>Calling all Tech Professionals in Dublin! ServiceNow is inviting you to our Dublin office for a Women In Technology Networking Event.</p>
     <p>Join us for an evening of networking and learning. Listen to the story of our amazing female tech professionals at ServiceNow, on how they have navigated their growth in the tech industry and hear what they think about AI.</p>"
     type: diversity
+
+  - name: "(In-Person) Dublin Game Devs Day @ Against the Grain"
+    url: "https://www.eventbrite.ie/e/dublin-game-devs-day-tickets-1000143695717"
+    region: 🇮🇪
+    date_added: 2024-08-23
+    start_datetime: 2024-09-12T17:00:00Z
+    end_datetime: 2024-09-12T23:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
