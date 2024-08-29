@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2024-08-07
     start_datetime: 2024-09-03T18:30:00Z
     end_datetime: 2024-09-03T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2024-08-08
     start_datetime: 2024-09-02T18:00:00Z
     end_datetime: 2024-09-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev  
@@ -39,7 +39,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-19T09:00:00Z
     end_datetime: 2024-09-19T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -49,7 +49,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-18T18:30:00Z
     end_datetime: 2024-09-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -59,7 +59,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-03T19:00:00Z
     end_datetime: 2024-09-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -69,7 +69,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-19T18:00:00Z
     end_datetime: 2024-09-19T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Welcome to the seventh edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all.</p>"
     type: diversity
@@ -79,7 +79,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-10T17:15:00Z
     end_datetime: 2024-09-10T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join Okta and Women in Tech forum for an evening of networking and inspiring discussions on how to break down barriers and build a successful career in the tech industry.</p>
     <p>Whether you’re an engineer, a consultant or a go-to-market professional, you’ll come away with practical strategies and insights on how to overcome systemic challenges and build a successful career in tech</p>"
@@ -90,7 +90,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-10T08:30:00Z
     end_datetime: 2024-09-10T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -100,7 +100,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-10T18:00:00Z
     end_datetime: 2024-09-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -110,7 +110,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-06T09:00:00Z
     end_datetime: 2024-09-06T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-26T09:30:00Z
     end_datetime: 2024-09-26T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-05T18:00:00Z
     end_datetime: 2024-09-05T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-10T08:00:00Z
     end_datetime: 2024-09-10T09:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-28T11:00:00Z
     end_datetime: 2024-09-28T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-28T14:00:00Z
     end_datetime: 2024-09-28T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2024-08-20
     start_datetime: 2024-09-12T19:00:00Z
     end_datetime: 2024-09-12T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -181,7 +181,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-11T19:00:00Z
     end_datetime: 2024-09-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -191,7 +191,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-09-25T19:00:00Z
     end_datetime: 2024-09-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -202,7 +202,7 @@ eventlistings:
     date_added: 2024-08-21
     start_datetime: 2024-09-03T10:00:00Z
     end_datetime: 2024-09-03T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -213,7 +213,7 @@ eventlistings:
     date_added: 2024-08-21
     start_datetime: 2024-09-24T18:00:00Z
     end_datetime: 2024-09-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Calling all Tech Professionals in Dublin! ServiceNow is inviting you to our Dublin office for a Women In Technology Networking Event.</p>
     <p>Join us for an evening of networking and learning. Listen to the story of our amazing female tech professionals at ServiceNow, on how they have navigated their growth in the tech industry and hear what they think about AI.</p>"
@@ -225,7 +225,7 @@ eventlistings:
     date_added: 2024-08-23
     start_datetime: 2024-09-12T17:00:00Z
     end_datetime: 2024-09-12T23:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev

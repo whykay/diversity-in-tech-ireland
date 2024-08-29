@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2024-08-02
     start_datetime: 2024-11-16T09:30:00Z
     end_datetime: 2024-11-16T17:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2024-08-07
     start_datetime: 2024-11-11T19:00:00Z
     end_datetime: 2024-11-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2024-08-07
     start_datetime: 2024-11-01T19:00:00Z
     end_datetime: 2024-11-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2024-08-19
     start_datetime: 2024-11-28T09:30:00Z
     end_datetime: 2024-11-28T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -49,7 +49,7 @@ eventlistings:
     date_added: 2024-08-20
     start_datetime: 2024-11-06T19:00:00Z
     end_datetime: 2024-11-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -59,7 +59,7 @@ eventlistings:
     date_added: 2024-08-20
     start_datetime: 2024-11-20T19:00:00Z
     end_datetime: 2024-11-20T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker

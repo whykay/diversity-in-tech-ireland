@@ -425,7 +425,7 @@ conferences:
     date_added: 2024-08-07
     start_datetime: 2024-11-16T09:00:00Z
     end_datetime: 2024-11-16T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "We're thrilled to announce that the University of Galway is going to host Bsides Galway for the very first time - check website for more info."
     type: tech
@@ -437,7 +437,7 @@ conferences:
     date_added: 2024-08-19
     start_datetime: 2024-09-01T09:00:00Z
     end_datetime: 2024-09-01T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Connect with top academics, researchers, and industry experts to explore cutting- edge scientific advancements and share research insights."
     type: tech
@@ -447,7 +447,7 @@ conferences:
     date_added: 2024-08-19
     start_datetime: 2024-09-18T09:00:00Z
     end_datetime: 2024-09-18T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Cloud AI Summit is bringing together the brightest minds in the industry to define the future of Artificial Intelligence."
     type: tech
@@ -457,7 +457,7 @@ conferences:
     date_added: 2024-08-19
     start_datetime: 2024-08-21T09:00:00Z
     end_datetime: 2024-08-21T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "The Irish Machine Vision and Image Processing Conference (IMVIP) Conference is the annual research conference of the Irish Pattern Recognition and Classification Society. The chief objective of the society is the advancement of research and study of pattern recognition, classification and associated fields and the applications of the outcomes of research. IPRCS is a member of the International Association for Pattern Recognition (IAPR) and the International Federation of Classification Societies."
     type: tech
@@ -467,7 +467,7 @@ conferences:
     date_added: 2024-08-19
     start_datetime: 2024-11-25T10:00:00Z
     end_datetime: 2024-11-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Get ready to immerse yourself in a world of cyber innovation and cutting-edge technology. At Cyber RCI 2024, you'll experience firsthand the latest trends and advancements in cybersecurity. Network with industry experts, attend engaging sessions, and explore innovative solutions to tackle cyber threats."
     type: tech
@@ -478,7 +478,7 @@ conferences:
     date_added: 2024-08-23
     start_datetime: 2024-10-04T10:00:00Z
     end_datetime: 2024-10-05T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Luvin Letters in Design Conference, Dublin’s premier event for typography and lettering</p>
     <p>Whether you’re an experienced designer, a student or an enthusiast, this event offers inspiration and a unique opportunity to learn from industry leaders and discover the latest trends in typography and lettering.</p>"
@@ -489,7 +489,7 @@ conferences:
     date_added: 2024-08-23
     start_datetime: 2024-09-28T10:00:00Z
     end_datetime: 2024-10-01T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The ultimate celebration of our city’s dynamic and innovative tech community! Think of Belfast Tech Week as an un-conference where everyone from right across the tech ecosystem and beyond can get involved.</p>
     <p>Belfast Tech Week will play a wide variety of events ranging from insightful panel discussions, hackathons and hands-on workshops to exciting product launches, happy hour events and casual networking meetups. Each event is hosted by members of the tech community, making every day a unique experience packed with opportunities to learn, connect, and be inspired.</p>"
