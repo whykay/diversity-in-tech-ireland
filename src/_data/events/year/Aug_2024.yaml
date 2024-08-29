@@ -425,3 +425,23 @@ eventlistings:
     recurring: false
     desc: "You are invited to networking with Irish Social Innovators"
     type: diversity
+  - name: "(In-Person) Dublin Maker @ Richmond Barracks"
+    url: "https://dublinmaker.ie"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-08-31T10:00:00Z
+    end_datetime: 2024-09-01T18:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) AWS User Group Belfast @ Ormeau Baths"
+    url: "https://www.meetup.com/aws-usergroup-belfast/events/302939841/"
+    region: 🇬🇧
+    date_added: 2024-08-29
+    start_datetime: 2024-08-29T18:00:00Z
+    end_datetime: 2024-08-29T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

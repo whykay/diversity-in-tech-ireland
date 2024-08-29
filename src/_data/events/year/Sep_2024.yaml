@@ -229,3 +229,146 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "(In-Person) PyBelfast Workshop @ Farset (NI Tech Meetup Fest)"
+    url: "https://www.meetup.com/PyBelfast/events/302955055"
+    region: 🇬🇧
+    date_added: 2024-08-29
+    start_datetime: 2024-09-18T18:00:00Z
+    end_datetime: 2024-09-18T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Midlands Women in Tech: Beyond Code - Join Us for an Exciting Software Development Technical Talk! @ TUS, Athlone"
+    url: "https://www.meetup.com/PyBelfast/events/302955055"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-11T18:00:00Z
+    end_datetime: 2024-09-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are thrilled to invite you to an engaging evening of technical talks hosted by MWIT. This event is designed for software development enthusiasts and professionals eager to expand their knowledge and network with like-minded individuals.</p>"
+    type: diversity
+  - name: "(Online) CHAT - Access to Assistive Technology in Work"
+    url: "https://www.eventbrite.ie/e/chat-access-to-at-in-work-tickets-1003465732017"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-19T14:00:00Z
+    end_datetime: 2024-09-19T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Freedomtech invites you to register for the next online CHAT gathering. This Community Hub for Assistive Technology event will focus on Access to AT in Work and chat about the new Work and Access programme. We are delighted that representatives from the Department of Social Protection will join us along with the CAHT community.</p>"
+    type: diversity
+  - name: "(In-Person) Dublin Maker @ Richmond Barracks"
+    url: "https://dublinmaker.ie"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-08-31T10:00:00Z
+    end_datetime: 2024-09-01T18:00:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Data Science: And Now For Something Completely Different... @ Dogpatch Labs"
+    url: "https://www.meetup.com/dublin-data-science/events/302805595/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-02T18:30:00Z
+    end_datetime: 2024-09-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Kubernetes Dublin: Cloud Native Dublin SummerISH Meetup @ Workday"
+    url: "https://www.meetup.com/dublin-kubernetes-meetup/events/303051658/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-11T18:00:00Z
+    end_datetime: 2024-09-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Low Code Belfast September 2024: Networking Night @ Microsoft Belfast"
+    url: "https://www.meetup.com/low-code-belfast/events/302807783/"
+    region: 🇬🇧
+    date_added: 2024-08-29
+    start_datetime: 2024-09-12T17:30:00Z
+    end_datetime: 2024-09-12T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) LeadHERship - Women Who lead @ GEC"
+    url: "https://www.eventbrite.ie/e/leadhership-women-who-lead-tickets-1001231138287"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-03T10:00:00Z
+    end_datetime: 2024-09-03T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A morning event to celebrate the journeys, challenges, and triumphs of women in leadership roles in partnership with WITS & GEC.</p>
+    <p>In a world where leadership is often equated with authority and power, we bring you a different narrative. \"LeadHERship - Women Who Lead\" is a unique gathering that celebrates the journeys, challenges, and triumphs of women in leadership roles. This event isn't just about hearing success stories; it's an immersive experience into the multifaceted world of female leadership.</p>"
+    type: diversity
+  - name: "(In-Person) Belfast Linux/Libre User Group: 0AD Gaming Night @ Reboot Gaming Cafe"
+    url: "https://www.meetup.com/belfast-lug/events/302977257/"
+    region: 🇬🇧
+    date_added: 2024-08-29
+    start_datetime: 2024-09-13T19:00:00Z
+    end_datetime: 2024-09-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: social
+  - name: "(In-Person) DevOps Belfast September Social @ Farset Labs"
+    url: "https://www.meetup.com/devops-belfast/events/303040343/"
+    region: 🇬🇧
+    date_added: 2024-08-29
+    start_datetime: 2024-09-17T18:00:00Z
+    end_datetime: 2024-09-17T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyLadies Dublin back @ Pinterest"
+    url: "https://www.meetup.com/pyladiesdublin/events/302867585/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-17T18:30:00Z
+    end_datetime: 2024-09-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are delighted to back and hosted by Pinterest and this time at their new office on Dawson Street.</p>
+    <p>We have Safa Ridene talking about 'Python for Geospatial' and more TBA. Check meetup page for more info.</p>"
+    type: diversity
+  - name: "(In-Person) OpenSearch Project Dublin - second meetup @ The Dean Dublin"
+    url: "https://www.meetup.com/opensearch-project-dublin/events/301000227/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-18T18:00:00Z
+    end_datetime: 2024-09-18T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyData Ireland Meetup @ Workday"
+    url: "https://www.meetup.com/pydataireland/events/302786086/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-18T18:00:00Z
+    end_datetime: 2024-09-18T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/302851684/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-09-04T18:00:00Z
+    end_datetime: 2024-09-04T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
