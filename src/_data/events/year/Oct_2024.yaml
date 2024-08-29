@@ -70,8 +70,19 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-10-12T16:00:00Z
     end_datetime: 2024-10-12T21:00:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>Sheroes Global's MISSION is to inspire women and young individuals to reach their full potential, empower them to uplift each other, and celebrate their courage when they strive to be more.</p>
     <p>Nominations are open till August 31st.</p>"
+    type: diversity
+  - name: "(In-Person) Women in STEM Awards 2024 @ The Round Room"
+    url: "https://womeninstemawards.ie/"
+    region: 🇮🇪
+    date_added: 2024-08-29
+    start_datetime: 2024-10-24T18:30:00Z
+    end_datetime: 2024-10-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Women in STEM Awards 2024 will celebrate and recognise the incredible achievements and innovations of women in science, technology, engineering, and mathematics (STEM) in Ireland.</p>
+    <p>Nominations are open till Sep 6..</p>"
     type: diversity
