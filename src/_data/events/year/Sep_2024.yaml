@@ -372,3 +372,76 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+
+  - name: "(In-Person) Fullstack Fiesta: Ireland's Biggest Web Dev Party! @ Baseline"
+    url: "https://www.meetup.com/codu-community/events/303194835"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-27T17:30:00Z
+    end_datetime: 2024-09-27T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/302944418/"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-09T19:00:00Z
+    end_datetime: 2024-09-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/302868939/"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-23T19:00:00Z
+    end_datetime: 2024-09-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Data Science and Engineering Club: Mastering Data Engineering"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/303120347/"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-28T10:00:00Z
+    end_datetime: 2024-09-28T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/300097947/"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-28T15:00:00Z
+    end_datetime: 2024-09-28T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Elastic Dublin Meetup: ES|QL & SLOs Across the Globe @ TCube"
+    url: "https://www.meetup.com/dublin-city-elasticsearch/events/302787396/"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-29T18:45:00Z
+    end_datetime: 2024-09-29T20:45:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Engineers Ireland: Global Engineers Europe (Cork)"
+    url: "https://www.engineersireland.ie/Events/event/9771-Global-Engineers-Europe-Cork"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-09-04T17:00:00Z
+    end_datetime: 2024-09-04T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+
+  

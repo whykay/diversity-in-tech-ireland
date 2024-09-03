@@ -63,3 +63,24 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Global Engineers Asia @ Engineers Ireland"
+    url: "https://www.engineersireland.ie/Events/event/9940-Global-Engineers-Asia"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-11-27T17:00:00Z
+    end_datetime: 2024-11-27T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) 🎄🍪💻 PyLadies Dublin: BYO Bakes and Projects"
+    url: "https://dublin.pyladies.com"
+    region: 🇮🇪
+    date_added: 2024-09-03
+    start_datetime: 2024-11-19T18:30:00Z
+    end_datetime: 2024-11-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: "Let's chill at our end of year meetup. Bring your bakes, cookies, and projects. More details TBA. Check meetup for updates."
+    type: diversity
