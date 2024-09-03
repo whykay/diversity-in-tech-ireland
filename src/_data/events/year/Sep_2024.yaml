@@ -236,7 +236,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-18T18:00:00Z
     end_datetime: 2024-09-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -246,7 +246,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-11T18:00:00Z
     end_datetime: 2024-09-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are thrilled to invite you to an engaging evening of technical talks hosted by MWIT. This event is designed for software development enthusiasts and professionals eager to expand their knowledge and network with like-minded individuals.</p>"
     type: diversity
@@ -256,7 +256,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-19T14:00:00Z
     end_datetime: 2024-09-19T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Freedomtech invites you to register for the next online CHAT gathering. This Community Hub for Assistive Technology event will focus on Access to AT in Work and chat about the new Work and Access programme. We are delighted that representatives from the Department of Social Protection will join us along with the CAHT community.</p>"
     type: diversity
@@ -276,7 +276,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-02T18:30:00Z
     end_datetime: 2024-09-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -286,7 +286,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-11T18:00:00Z
     end_datetime: 2024-09-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -296,7 +296,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-12T17:30:00Z
     end_datetime: 2024-09-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -306,7 +306,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-03T10:00:00Z
     end_datetime: 2024-09-03T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A morning event to celebrate the journeys, challenges, and triumphs of women in leadership roles in partnership with WITS & GEC.</p>
     <p>In a world where leadership is often equated with authority and power, we bring you a different narrative. \"LeadHERship - Women Who Lead\" is a unique gathering that celebrates the journeys, challenges, and triumphs of women in leadership roles. This event isn't just about hearing success stories; it's an immersive experience into the multifaceted world of female leadership.</p>"
@@ -317,7 +317,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-13T19:00:00Z
     end_datetime: 2024-09-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: social
@@ -327,7 +327,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-17T18:00:00Z
     end_datetime: 2024-09-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -337,7 +337,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-17T18:30:00Z
     end_datetime: 2024-09-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are delighted to back and hosted by Pinterest and this time at their new office on Dawson Street.</p>
     <p>We have Safa Ridene talking about 'Python for Geospatial' and more TBA. Check meetup page for more info.</p>"
@@ -348,7 +348,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-18T18:00:00Z
     end_datetime: 2024-09-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -358,7 +358,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-18T18:00:00Z
     end_datetime: 2024-09-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -368,7 +368,7 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-09-04T18:00:00Z
     end_datetime: 2024-09-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
