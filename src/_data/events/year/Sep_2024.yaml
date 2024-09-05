@@ -444,4 +444,13 @@ eventlistings:
     desc:
     type: tech
 
-  
+  - name: "(Online) Awakenhub: LIMITED SPACES - Back to Business: AwakenHub's September Kickoff Event"
+    url: "https://www.awakenhub.com/events-2/back-to-business-awakenhubs-september-kickoff-event?mc_cid=b0a17930b1"
+    region: 🇮🇪
+    date_added: 2024-09-05
+    start_datetime: 2024-09-10T17:00:00Z
+    end_datetime: 2024-09-10T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a free AwakenHub Community event on 10 September, featuring a packed agenda for women founders at various stages of their entrepreneurial journey. From startup to scale-up, deep tech to breaking into the US market, this event is designed to offer valuable insights and opportunities. Spaces are limited, so be sure to secure your spot!</p>"
+    type: diversity

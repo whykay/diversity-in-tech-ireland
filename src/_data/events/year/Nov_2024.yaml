@@ -84,3 +84,14 @@ eventlistings:
     recurring: false
     desc: "Let's chill at our end of year meetup. Bring your bakes, cookies, and projects. More details TBA. Check meetup for updates."
     type: diversity
+
+  - name: "(Online) Awakenhub: Breaking Through: Navigating Medical Technology Adoption in the U.S. Healthcare System"
+    url: "https://www.awakenhub.com/events-2/us-healthcare-system"
+    region: 🇮🇪
+    date_added: 2024-09-05
+    start_datetime: 2024-11-19T17:00:00Z
+    end_datetime: 2024-11-19T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>As we prepare for our 2025 St. Brigid’s Day (week!) Trade Mission join us for a unique opportunity to gain valuable insights into the US Healthcare System.</p>"
+    type: diversity

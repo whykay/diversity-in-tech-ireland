@@ -127,3 +127,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(Online) Awakenhub: Aligning Profit with Purpose: The Rise of Social Impact Founders"
+    url: "https://www.awakenhub.com/events-2/aligning-profit-with-purpose"
+    region: 🇮🇪
+    date_added: 2024-09-05
+    start_datetime: 2024-10-22T17:00:00Z
+    end_datetime: 2024-10-22T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a very special event focussed on the rise of social impact women founders. This is an event for those with a social impact mission, social enterprises or any founder interested in developing a greater understanding of how you can build something great and do something good at the same time!</p>"
+    type: diversity
