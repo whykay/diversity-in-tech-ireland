@@ -494,4 +494,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Explore the World of Retro Computing @ TOG Hackerspace"
+    url: "https://lu.ma/5i3v6mgw"
+    region: 🇮🇪
+    date_added: 2024-09-05
+    start_datetime: 2024-09-14T14:00:00Z
+    end_datetime: 2024-09-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
 
