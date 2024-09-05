@@ -454,3 +454,44 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for a free AwakenHub Community event on 10 September, featuring a packed agenda for women founders at various stages of their entrepreneurial journey. From startup to scale-up, deep tech to breaking into the US market, this event is designed to offer valuable insights and opportunities. Spaces are limited, so be sure to secure your spot!</p>"
     type: diversity
+  - name: "(In-Person) Eirmersive: Outward @ O'Reilly Theatre"
+    url: "https://www.eventbrite.ie/e/outward-tickets-957022830047"
+    region: 🇮🇪
+    date_added: 2024-09-05
+    start_datetime: 2024-09-11T19:00:00Z
+    end_datetime: 2024-09-11T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Industry Insights #1 - Future of Animation N.I"
+    url: "https://www.eventbrite.ie/e/outward-tickets-957022830047"
+    region: 🇬🇧
+    date_added: 2024-09-05
+    start_datetime: 2024-09-26T19:00:00Z
+    end_datetime: 2024-09-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: animation
+  - name: "(In-Person) The BTW Hackathon - part of #BelfastTechWeek"
+    url: "https://lu.ma/6mox282r"
+    region: 🇬🇧
+    date_added: 2024-09-05
+    start_datetime: 2024-09-28T09:00:00Z
+    end_datetime: 2024-09-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Big Tech Feud: FDIs vs Startups - part of #BelfastTechWeek"
+    url: "https://lu.ma/5i3v6mgw"
+    region: 🇬🇧
+    date_added: 2024-09-05
+    start_datetime: 2024-09-30T17:30:00Z
+    end_datetime: 2024-09-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
