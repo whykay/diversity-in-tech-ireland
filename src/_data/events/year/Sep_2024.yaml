@@ -525,7 +525,7 @@ eventlistings:
     recurring: false
     desc: "coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome."
     type: diversity
-  - name: "(In-Person) Women in AI Ireland: WaiTUTORIALS"
+  - name: "(Online) Women in AI Ireland: WaiTUTORIALS"
     url: "https://www.eventbrite.ca/e/waitutorials-introduction-to-large-language-models-and-a-look-into-chatgpt-tickets-1009403000547"
     region: 🇮🇪
     date_added: 2024-09-06
@@ -535,4 +535,43 @@ eventlistings:
     recurring: false
     desc: 
     type: diversity
-
+  - name: "(In-Person) Introduction to 3D Printing for Beginners - Adults @ Naas Library and Cultural Centre"
+    url: "https://www.tickettailor.com/events/naaslibrary/1372264"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-16T11:00:00Z
+    end_datetime: 2024-09-16T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Introduction to 3D Printing for Beginners - Adults @ Naas Library and Cultural Centre"
+    url: "https://www.tickettailor.com/events/naaslibrary/1371596"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-17T17:45:00Z
+    end_datetime: 2024-09-17T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) An Introduction to the Laser Cutter for Adults @ Naas Library and Cultural Centre"
+    url: "https://www.tickettailor.com/events/naaslibrary/1372266"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-23T11:00:00Z
+    end_datetime: 2024-09-23T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) An Introduction to the Laser Cutter for Adults @ Naas Library and Cultural Centre"
+    url: "https://www.tickettailor.com/events/naaslibrary/1371592"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-24T17:45:00Z
+    end_datetime: 2024-09-24T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
