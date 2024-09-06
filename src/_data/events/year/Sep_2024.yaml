@@ -524,5 +524,15 @@ eventlistings:
     new: true
     recurring: false
     desc: "coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome."
-    type: diveresity
+    type: diversity
+  - name: "(In-Person) Women in AI Ireland: WaiTUTORIALS"
+    url: "https://www.eventbrite.ca/e/waitutorials-introduction-to-large-language-models-and-a-look-into-chatgpt-tickets-1009403000547"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-25T18:00:00Z
+    end_datetime: 2024-09-25T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
 
