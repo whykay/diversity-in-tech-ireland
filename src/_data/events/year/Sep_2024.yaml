@@ -504,4 +504,25 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Hacker BattleBots Build-A-Bot Day at Farset Labs!"
+    url: "https://www.eventbrite.co.uk/e/hacker-battlebots-build-a-bot-day-at-farset-labs-tickets-997697589347"
+    region: 🇬🇧
+    date_added: 2024-09-05
+    start_datetime: 2024-09-21T10:00:00Z
+    end_datetime: 2024-09-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.tog.ie/2024/08/explore-the-world-of-retro-computing/"
+    region: 🇮🇪
+    date_added: 2024-09-06
+    start_datetime: 2024-09-10T18:30:00Z
+    end_datetime: 2024-09-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: "coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome."
+    type: diveresity
 
