@@ -219,7 +219,7 @@ eventlistings:
     desc: 
     type: tech
   - name: "(In-Person) Women in Tech x Belfast Tech Week - National Record of Achievement Night!"
-    url: "https://www.meetup.com/pybelfast/events/302954992/"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/302388491/?_xtd=gqFyqTIyODIwNjE2N6Fwo2FwaQ%253D%253D&from=ref"
     region: 🇬🇧
     date_added: 2024-09-05
     start_datetime: 2024-10-03T17:30:00Z
@@ -250,15 +250,15 @@ eventlistings:
     desc: 
     type: tech
   - name: "(In-Person) #BelfastBarCamp2024"
-    url: "https://lu.ma/k2taqq4r"
+    url: "https://lu.ma/mxq3b6lw"
     region: 🇬🇧
     date_added: 2024-09-05
     start_datetime: 2024-10-04T10:00:00Z
     end_datetime: 2024-10-04T12:00:00Z
     new: true
     recurring: false
-    desc: "NOW Group Staff will offer a free session of Disability Inclusion Training focused on the Digital Sector."
-    type: diversity
+    desc: 
+    type: tech
   - name: "(In-Person) The Minorities Recognition Awards NI (MRANI)"
     url: "https://minorityawardsni.org.uk/"
     region: 🇬🇧
