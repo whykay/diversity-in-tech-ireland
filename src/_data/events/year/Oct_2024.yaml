@@ -269,3 +269,14 @@ eventlistings:
     recurring: false
     desc: "Join us on the 04th of October to recognise and celebrate talents and contribution of the ethnic minority community in Northern Ireland."
     type: diversity
+
+  - name: "(In-Person) PlayMyDemo - Oct 2024 (Meetup Fest Special)"
+    url: "https://lu.ma/9fr5ip9n"
+    region: 🇬🇧
+    date_added: 2024-09-05
+    start_datetime: 2024-10-02T19:00:00Z
+    end_datetime: 2024-10-02T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
