@@ -505,3 +505,13 @@ conferences:
     recurring: false
     desc: "<p>Security BSides” is a globally recognised, community-driven framework for building events for and by regional information security communities.There are currently no directly related, community-focused support organisations/conferences in the region, and as such the community is currently limited in its ability to meet, collaborate and share experience in a non-commercially-incentivised manner.</p>"
     type: tech
+  - name: "NIDC 2024 @ ICC Belfast"
+    url: "https://www.nidevconf.com/"
+    region: 🇬🇧
+    date_added: 2024-09-09
+    start_datetime: 2024-11-23T09:00:00Z
+    end_datetime: 2024-11-23T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>NIDC gathers enthusiasts, practitioners and those with a passing interest across the diverse disciplines of our industry from software, product, cloud, data, UX, games, infrastructure, open source, security, hardware, testing, design, AI, and everything in between.</p>"
+    type: tech
