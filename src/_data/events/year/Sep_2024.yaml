@@ -241,7 +241,7 @@ eventlistings:
     desc:
     type: tech
   - name: "(In-Person) Midlands Women in Tech: Beyond Code - Join Us for an Exciting Software Development Technical Talk! @ TUS, Athlone"
-    url: "https://www.meetup.com/PyBelfast/events/302955055"
+    url: "https://www.linkedin.com/events/midlandswomenintechevent-tus7024058123791302656/"
     region: 🇮🇪
     date_added: 2024-08-29
     start_datetime: 2024-09-11T18:00:00Z
@@ -516,7 +516,7 @@ eventlistings:
     type: maker
 
   - name: "(In-Person) Cork Female Coders - Coffee Meetup"
-    url: "https://www.tog.ie/2024/08/explore-the-world-of-retro-computing/"
+    url: "https://www.eventbrite.com/e/cork-female-coders-coffee-meetup-tickets-1009177847107"
     region: 🇮🇪
     date_added: 2024-09-06
     start_datetime: 2024-09-10T18:30:00Z
