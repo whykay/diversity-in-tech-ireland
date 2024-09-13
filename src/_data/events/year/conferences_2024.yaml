@@ -515,3 +515,16 @@ conferences:
     recurring: false
     desc: "<p>NIDC gathers enthusiasts, practitioners and those with a passing interest across the diverse disciplines of our industry from software, product, cloud, data, UX, games, infrastructure, open source, security, hardware, testing, design, AI, and everything in between.</p>"
     type: tech
+
+
+  - name: "RebelCon 2024"
+    url: "https://rebelcon.io/"
+    region: 🇮🇪
+    date_added: 2024-09-09
+    start_datetime: 2024-11-21T09:00:00Z
+    end_datetime: 2024-11-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>RebelCon is a dynamic and engaging software conference that brings hands-on practitioners together with big thinkers.</p>
+           <p>In 2024, we are focusing on sustainability and how we can build outstanding software solutions, consciously.</p>"
+    type: tech
