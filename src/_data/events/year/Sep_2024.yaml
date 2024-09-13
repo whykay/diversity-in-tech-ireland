@@ -379,7 +379,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-27T17:30:00Z
     end_datetime: 2024-09-27T20:30:00Z
-    new: true
+    
     recurring: false
     desc:
     type: tech
@@ -389,7 +389,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-09T19:00:00Z
     end_datetime: 2024-09-09T21:00:00Z
-    new: true
+    
     recurring: false
     desc:
     type: maker
@@ -399,7 +399,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-23T19:00:00Z
     end_datetime: 2024-09-09T21:00:00Z
-    new: true
+    
     recurring: false
     desc:
     type: maker
@@ -409,7 +409,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-28T10:00:00Z
     end_datetime: 2024-09-28T12:30:00Z
-    new: true
+    
     recurring: false
     desc:
     type: tech
@@ -419,7 +419,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-28T15:00:00Z
     end_datetime: 2024-09-28T17:00:00Z
-    new: true
+    
     recurring: false
     desc:
     type: tech
@@ -429,7 +429,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-29T18:45:00Z
     end_datetime: 2024-09-29T20:45:00Z
-    new: true
+    
     recurring: false
     desc:
     type: tech
@@ -439,7 +439,7 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-09-04T17:00:00Z
     end_datetime: 2024-09-04T19:00:00Z
-    new: true
+    
     recurring: false
     desc:
     type: tech
@@ -450,7 +450,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-10T17:00:00Z
     end_datetime: 2024-09-10T18:15:00Z
-    new: true
+    
     recurring: false
     desc: "<p>Join us for a free AwakenHub Community event on 10 September, featuring a packed agenda for women founders at various stages of their entrepreneurial journey. From startup to scale-up, deep tech to breaking into the US market, this event is designed to offer valuable insights and opportunities. Spaces are limited, so be sure to secure your spot!</p>"
     type: diversity
@@ -460,7 +460,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-11T19:00:00Z
     end_datetime: 2024-09-11T21:30:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: tech
@@ -470,7 +470,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-26T19:00:00Z
     end_datetime: 2024-09-26T21:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: animation
@@ -480,7 +480,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-28T09:00:00Z
     end_datetime: 2024-09-28T21:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: tech
@@ -490,7 +490,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-30T17:30:00Z
     end_datetime: 2024-09-30T20:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: tech
@@ -500,7 +500,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-14T14:00:00Z
     end_datetime: 2024-09-14T19:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: tech
@@ -510,7 +510,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-09-21T10:00:00Z
     end_datetime: 2024-09-21T17:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: maker
@@ -521,7 +521,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-10T18:30:00Z
     end_datetime: 2024-09-10T20:00:00Z
-    new: true
+    
     recurring: false
     desc: "coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome."
     type: diversity
@@ -531,7 +531,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-25T18:00:00Z
     end_datetime: 2024-09-25T19:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: diversity
@@ -541,7 +541,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-16T11:00:00Z
     end_datetime: 2024-09-16T13:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: maker
@@ -551,7 +551,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-17T17:45:00Z
     end_datetime: 2024-09-17T19:45:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: maker
@@ -561,7 +561,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-23T11:00:00Z
     end_datetime: 2024-09-23T13:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: maker
@@ -571,7 +571,7 @@ eventlistings:
     date_added: 2024-09-06
     start_datetime: 2024-09-24T17:45:00Z
     end_datetime: 2024-09-24T19:45:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: maker
@@ -609,3 +609,14 @@ eventlistings:
     desc: "<p>In today's rapidly evolving world, the importance of community cannot be overstated. Helen Keller's timeless words, \"Alone we can do so little. Together we can do so much,\" serve as a powerful reminder of the transformative potential of collective effort.</p>
     <p>This webinar delves into the vital role that community plays in both professional and personal development.</p>"
     type: diversity
+
+  - name: "(In-Person) InnerSource Gathering Dublin 2024"
+    url: "https://www.eventbrite.com/e/innersource-gathering-dublin-2024-tickets-965968476717"
+    region: 🇮🇪
+    date_added: 2024-09-13
+    start_datetime: 2024-09-20T14:00:00Z
+    end_datetime: 2024-09-20T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
