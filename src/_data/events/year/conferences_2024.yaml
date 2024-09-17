@@ -528,3 +528,16 @@ conferences:
     desc: "<p>RebelCon is a dynamic and engaging software conference that brings hands-on practitioners together with big thinkers.</p>
            <p>In 2024, we are focusing on sustainability and how we can build outstanding software solutions, consciously.</p>"
     type: tech
+
+  - name: "AWS Cloud Day Dublin @ The CCD"
+    url: "https://aws.amazon.com/events/cloud-days/dublin/"
+    region: 🇮🇪
+    date_added: 2024-09-17
+    start_datetime: 2024-10-10T09:00:00Z
+    end_datetime: 2024-10-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AWS Cloud Day Dublin attracts business and tech leaders and technologists from all industries who wish to explore the latest technologies and learn how AWS can assist them in innovating rapidly and delivering scalable, flexible, and reliable solutions.</p>
+           <p>Attend and learn from AWS, our customers and partners about how you can benefit from the cloud to your advantage and how AWS can help grow your business and career to the next level. AWS Cloud Day Dublin is a free event.</p>"
+    type: tech
+    
