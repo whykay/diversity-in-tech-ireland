@@ -582,7 +582,7 @@ eventlistings:
     date_added: 2024-09-09
     start_datetime: 2024-09-20T12:45:00Z
     end_datetime: 2024-09-20T14:00:00Z
-    new: true
+    
     recurring: false
     desc: "<p>Join us for our Dublin Innovation Lunch & Learn event that showcases how women founders from the TechFoundHer network are innovating with technology.</p>
     <p>Hosted by TechFoundHer founder Mairin Murray, Caraldine Nolan CEO and Founder (NutraVerse) and Clodagh Ryan CEO and Founder(CRAOI) showcase their recently launched products and share insights about their innovation journeys.</p>"
@@ -593,7 +593,7 @@ eventlistings:
     date_added: 2024-09-09
     start_datetime: 2024-09-30T12:30:00Z
     end_datetime: 2024-09-30T13:30:00Z
-    new: true
+    
     recurring: false
     desc: "<p>Join us for our Innovation Lunch & Learn (Belfast) event that showcases how women founders from the TechFoundHer network are innovating with technology. Embrace the future of innovation. Be inspired by game-changing demos from Medicube Health and HedgeHog Financial Wellness!</p>
     <p>Hosted by Laura McClean (Synechron) and Mairin Murray (TechFoundHer). Dr Rawa Lina Jawad (CEO and Founder) of Medicube Health and Caitlin Hafer (Founder) of HedgeHog Financial Wellness, showcase their recently launched products and share insights about their innovation journeys.</p>"
@@ -604,7 +604,7 @@ eventlistings:
     date_added: 2024-09-09
     start_datetime: 2024-09-27T12:00:00Z
     end_datetime: 2024-09-27T13:00:00Z
-    new: true
+    
     recurring: false
     desc: "<p>In today's rapidly evolving world, the importance of community cannot be overstated. Helen Keller's timeless words, \"Alone we can do so little. Together we can do so much,\" serve as a powerful reminder of the transformative potential of collective effort.</p>
     <p>This webinar delves into the vital role that community plays in both professional and personal development.</p>"
@@ -616,7 +616,7 @@ eventlistings:
     date_added: 2024-09-13
     start_datetime: 2024-09-20T14:00:00Z
     end_datetime: 2024-09-20T17:00:00Z
-    new: true
+    
     recurring: false
     desc: 
     type: tech
