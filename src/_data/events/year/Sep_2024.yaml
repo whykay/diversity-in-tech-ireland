@@ -626,10 +626,20 @@ eventlistings:
     region: 🇮🇪
     date_added: 2024-09-24
     start_datetime: 2024-9-27T12:00:00Z
-    end_datetime: 2024-9-27T13:20:00Z
+    end_datetime: 2024-9-27T13:00:00Z
     new: true
     recurring: false
     desc: "<p>In today's rapidly evolving world, the importance of community    
           cannot be overstated. Helen Keller's timeless words, 'Alone we can do so little. Together we can do so much,' serve as a powerful reminder of the transformative potential of collective effort.</p>
           <p>This webinar delves into the vital role that community plays in both professional and personal development.</p>"
+    type: diversity
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.eventbrite.ie/e/cork-female-coders-coffee-meetup-tickets-1020803419507"
+    region: 🇮🇪
+    date_added: 2024-09-24
+    start_datetime: 2024-9-24T18:30:00Z
+    end_datetime: 2024-9-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
     type: diversity

@@ -95,3 +95,14 @@ eventlistings:
     recurring: false
     desc: "<p>As we prepare for our 2025 St. Brigid’s Day (week!) Trade Mission join us for a unique opportunity to gain valuable insights into the US Healthcare System.</p>"
     type: diversity
+
+  - name: "(In-Person) CyberSecurity 101 for Startups | Lunch & Learn @ Republic of Work"
+    url: "https://www.eventbrite.ie/e/cybersecurity-101-for-startups-lunch-learn-tickets-1007533518877"
+    region: 🇮🇪
+    date_added: 2024-09-24
+    start_datetime: 2024-11-19T12:00:00Z
+    end_datetime: 2024-11-19T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
