@@ -620,3 +620,16 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) WITS Ireland: Connect Her - Cork - Members Q4 Social"
+    url: "https://www.eventbrite.ie/e/empowering-women-in-cybersecurity-through-community-and-collaboration-tickets-1010892555847"
+    region: 🇮🇪
+    date_added: 2024-09-24
+    start_datetime: 2024-9-27T12:00:00Z
+    end_datetime: 2024-9-27T13:20:00Z
+    new: true
+    recurring: false
+    desc: "<p>In today's rapidly evolving world, the importance of community    
+          cannot be overstated. Helen Keller's timeless words, 'Alone we can do so little. Together we can do so much,' serve as a powerful reminder of the transformative potential of collective effort.</p>
+          <p>This webinar delves into the vital role that community plays in both professional and personal development.</p>"
+    type: diversity
