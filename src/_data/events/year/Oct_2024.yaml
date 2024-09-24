@@ -70,7 +70,6 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-10-12T16:00:00Z
     end_datetime: 2024-10-12T21:00:00Z
-    
     recurring: false
     desc: "<p>Sheroes Global's MISSION is to inspire women and young individuals to reach their full potential, empower them to uplift each other, and celebrate their courage when they strive to be more.</p>
     <p>Nominations are open till August 31st.</p>"
@@ -81,7 +80,6 @@ eventlistings:
     date_added: 2024-08-29
     start_datetime: 2024-10-24T18:30:00Z
     end_datetime: 2024-10-24T21:00:00Z
-    
     recurring: false
     desc: "<p>The Women in STEM Awards 2024 will celebrate and recognise the incredible achievements and innovations of women in science, technology, engineering, and mathematics (STEM) in Ireland.</p>
     <p>Nominations are open till Sep 6..</p>"
@@ -93,7 +91,6 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-10-07T19:00:00Z
     end_datetime: 2024-10-07T21:00:00Z
-    
     recurring: false
     desc:
     type: maker
@@ -103,7 +100,6 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-10-21T19:00:00Z
     end_datetime: 2024-10-21T21:00:00Z
-    
     recurring: false
     desc:
     type: maker
@@ -113,7 +109,6 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-10-03T19:00:00Z
     end_datetime: 2024-10-03T21:00:00Z
-    
     recurring: false
     desc:
     type: tech
@@ -123,7 +118,6 @@ eventlistings:
     date_added: 2024-09-03
     start_datetime: 2024-10-17T17:00:00Z
     end_datetime: 2024-10-17T19:00:00Z
-    
     recurring: false
     desc:
     type: tech
@@ -134,7 +128,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-22T17:00:00Z
     end_datetime: 2024-10-22T18:15:00Z
-    
     recurring: false
     desc: "<p>Join us for a very special event focussed on the rise of social impact women founders. This is an event for those with a social impact mission, social enterprises or any founder interested in developing a greater understanding of how you can build something great and do something good at the same time!</p>"
     type: diversity
@@ -144,7 +137,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-01T09:30:00Z
     end_datetime: 2024-10-01T11:30:00Z
-    
     recurring: false
     desc: "This event will explore recruitment and retention processes to support individuals who are neurodiverse to thrive in employment focusing on the digital sector. This is an ideal event for companies who would like to increase their ESG goals.This event is a part of #BelfastTechWeek - a week of events curated by the tech community, for the tech community."
     type: diversity
@@ -154,7 +146,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-01T12:30:00Z
     end_datetime: 2024-10-01T13:30:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -164,7 +155,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-01T17:00:00Z
     end_datetime: 2024-10-01T19:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -184,7 +174,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-02T09:30:00Z
     end_datetime: 2024-10-02T14:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -194,7 +183,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-02T12:30:00Z
     end_datetime: 2024-10-02T14:30:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -204,7 +192,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-02T17:30:00Z
     end_datetime: 2024-10-02T19:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -214,7 +201,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-02T18:00:00Z
     end_datetime: 2024-10-02T20:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -224,7 +210,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-03T17:30:00Z
     end_datetime: 2024-10-03T18:30:00Z
-    
     recurring: false
     desc: "<p>As part of the upcoming Belfast Tech Week - Women in Tech Belfast presents: National Record of Achievement Night: What you and your teachers said you would do vs. what actually happened!</p>
     <p>Join us for a tongue in cheek night, as you step back in time to relive your school days and your National Record of Achievement's predictions for your future.</p>"
@@ -235,7 +220,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-03T17:45:00Z
     end_datetime: 2024-10-03T23:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -245,7 +229,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-04T10:00:00Z
     end_datetime: 2024-10-04T17:00:00Z
-    
     recurring: false
     desc: 
     type: tech
@@ -265,7 +248,6 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-04T18:00:00Z
     end_datetime: 2024-10-04T23:00:00Z
-    
     recurring: false
     desc: "Join us on the 04th of October to recognise and celebrate talents and contribution of the ethnic minority community in Northern Ireland."
     type: diversity
@@ -276,7 +258,27 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-10-02T19:00:00Z
     end_datetime: 2024-10-02T23:00:00Z
-    
     recurring: false
     desc:
     type: gamedev
+
+  - name: "(In-Person) Coding Workshop for Females @ AIM Centre, Sligo"
+    url: "https://www.eventbrite.ie/e/coding-workshop-for-females-tickets-1010359100267"
+    region: 🇮🇪
+    date_added: 2024-09-24
+    start_datetime: 2024-10-05T09:30:00Z
+    end_datetime: 2024-10-05T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an exciting in-person event where you can learn coding skills in a fun and interactive environment. Our team will guide you through hands-on activities and help you build some coding knowledge. Don't miss out on this fantastic opportunity to expand your skills and meet like-minded individuals. Sign up now!</p>"
+    type: diversity
+  - name: "(In-Person) WITS Ireland: Connect Her - Cork - Members Q4 Social"
+    url: "https://www.eventbrite.ie/e/connect-her-cork-members-q4-social-tickets-1024838488507"
+    region: 🇮🇪
+    date_added: 2024-09-24
+    start_datetime: 2024-10-03T18:30:00Z
+    end_datetime: 2024-10-03T20:20:00Z
+    new: true
+    recurring: false
+    desc: "<p>Whether you're a seasoned professional or just starting your journey in STEM, this event is the perfect opportunity to forge meaningful connections and be part of a vibrant community.</p>"
+    type: diversity
