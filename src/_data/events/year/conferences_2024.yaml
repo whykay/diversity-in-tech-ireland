@@ -540,4 +540,16 @@ conferences:
     desc: "<p>AWS Cloud Day Dublin attracts business and tech leaders and technologists from all industries who wish to explore the latest technologies and learn how AWS can assist them in innovating rapidly and delivering scalable, flexible, and reliable solutions.</p>
            <p>Attend and learn from AWS, our customers and partners about how you can benefit from the cloud to your advantage and how AWS can help grow your business and career to the next level. AWS Cloud Day Dublin is a free event.</p>"
     type: tech
+
+
+  - name: "Culture Crush @ St. Mary’s Church. RDS"
+    url: "https://www.culturecrush.ie/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-11-25T09:00:00Z
+    end_datetime: 2024-11-25T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Culture Crush... where the cultural and creative communities in Ireland come together as one to connect, share and celebrate at a critical time for our sector.</p>"
+    type: tech
     

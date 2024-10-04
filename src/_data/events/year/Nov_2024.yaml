@@ -21,12 +21,12 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) Galway Game Makers Meetup!"
+  - name: "(In-Person) Galway Game Makers Meetup! @ CREW"
     url: "https://www.meetup.com/galway-game-makers-meetup/events/301364350/"
     region: 🇮🇪
     date_added: 2024-08-07
-    start_datetime: 2024-11-01T19:00:00Z
-    end_datetime: 2024-11-01T21:00:00Z
+    start_datetime: 2024-11-05T19:00:00Z
+    end_datetime: 2024-11-05T21:00:00Z
     new: false
     recurring: false
     desc: 
@@ -106,3 +106,34 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) IDI Awards Ceremony 2024 @ RDS Concert Hall"
+    url: "https://www.eventbrite.ie/e/idi-awards-ceremony-2024-rds-concert-hall-tickets-946245113607"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-11-14T18:30:00Z
+    end_datetime: 2024-11-14T21:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Developer Meetup: Exploring Micro Front-End Architecture"
+    url: "https://www.meetup.com/dublin-web-development-meetup-group/events/303660429/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-11-21T18:00:00Z
+    end_datetime: 2024-11-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech ie: Women in Tech 2024 @ The Spencer Hotel"
+    url: "https://www.meetup.com/tech-ie/events/303553330/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-11-21T18:00:00Z
+    end_datetime: 2024-11-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Our upcoming Dublin event will focus on 𝐖𝐨𝐦𝐞𝐧 𝐢𝐧 𝐓𝐞𝐜𝐡. We will be discussing 𝐭𝐚𝐥𝐞𝐧𝐭, 𝐠𝐫𝐨𝐰𝐭𝐡 𝐚𝐧𝐝 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 which will be followed by networking and refreshments"
+    type: diversity

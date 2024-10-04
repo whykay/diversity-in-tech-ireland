@@ -282,3 +282,185 @@ eventlistings:
     recurring: false
     desc: "<p>Whether you're a seasoned professional or just starting your journey in STEM, this event is the perfect opportunity to forge meaningful connections and be part of a vibrant community.</p>"
     type: diversity
+
+  - name: "(In-Person) React Dublin Autumn Meetup"
+    url: "https://guild.host/events/react-dublin-autumn-up984j"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-10T18:00:00Z
+    end_datetime: 2024-10-10T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Green Software Foundation Dublin Summit hosted by Mastercard"
+    url: "https://www.meetup.com/green_software_ireland/events/303761355/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-08T09:00:00Z
+    end_datetime: 2024-10-08T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Dublin UX Pop-Up @ UXDX 2024"
+    url: "https://www.meetup.com/dublin-ux/events/303551834/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-09T08:25:00Z
+    end_datetime: 2024-10-09T11:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Python Ireland October 2024 Meetup @ SIG"
+    url: "https://www.meetup.com/pythonireland/events/303702805/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-09T18:30:00Z
+    end_datetime: 2024-10-09T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Meetup: Mastering CALMS with Jenga @ Bearing Point"
+    url: "https://www.meetup.com/dublin-devops-meetup-group/events/303409763/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-10T18:00:00Z
+    end_datetime: 2024-10-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: Fedora First & Sun Life's AI Innovations"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/303616986/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-10T19:00:00Z
+    end_datetime: 2024-10-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Casual Indie Hackers Coffee Chat @ The Waterbank Gastro Bar"
+    url: "https://www.meetup.com/indie-hackers-dublin/events/303616809/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-12T14:00:00Z
+    end_datetime: 2024-10-12T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Belfast - October Meetup @ Bazaarvoice"
+    url: "https://www.meetup.com/devops-belfast/events/303723762/"
+    region: 🇬🇧
+    date_added: 2024-10-04
+    start_datetime: 2024-10-15T18:00:00Z
+    end_datetime: 2024-10-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Eli5 (Explain Like I'm 5) @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/303703601/"
+    region: 🇬🇧
+    date_added: 2024-10-04
+    start_datetime: 2024-10-15T18:30:00Z
+    end_datetime: 2024-10-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyData Ireland: AI Safety Pipeline: A little more than accuracy scores @ Workday"
+    url: "https://www.meetup.com/pydataireland/events/303597779/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-16T18:30:00Z
+    end_datetime: 2024-10-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Data Science and Engineering Club: Automating Data Pipelines with Dynamic Tables & Open Table Formats with Iceberg @ Personio"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/303699813/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-23T17:45:00Z
+    end_datetime: 2024-10-23T19:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/303711466/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-26T15:00:00Z
+    end_datetime: 2024-10-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Elastic Dublin Meetup: ES|QL & SLOs Across the Globe @ TCube Dublin"
+    url: "https://www.meetup.com/dublin-city-elasticsearch/events/302787396/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-29T18:45:00Z
+    end_datetime: 2024-10-29T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🎃 PyLadies Dublin: Pytch Workshop: Learn Python by Making Your Own Pytch Game! 🎃"
+    url: "https://www.meetup.com/pyladiesdublin/events/303412702/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-29T18:45:00Z
+    end_datetime: 2024-10-29T20:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>👻 PyLadies Dublin are excited to have Pytch host and run a workshop this Halloween month.</p>
+          <p>Join us for a workshop where you’ll learn to code in Python by creating your very own Ghost Invaders game using Pytch! For aspiring programmers, and teachers and educators.</p>"
+    type: diversity
+  - name: "(In-Person) Cork|Sec 136"
+    url: "https://www.meetup.com/corksec/events/297977031/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-08T19:00:00Z
+    end_datetime: 2024-10-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/303530799/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-09T18:00:00Z
+    end_datetime: 2024-10-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/303667793/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-16T18:00:00Z
+    end_datetime: 2024-10-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) NGINX Meetup: October Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/302823640/"
+    region: 🇮🇪
+    date_added: 2024-10-04
+    start_datetime: 2024-10-24T19:00:00Z
+    end_datetime: 2024-10-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
