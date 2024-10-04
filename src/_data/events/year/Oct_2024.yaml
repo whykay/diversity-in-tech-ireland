@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2024-09-24
     start_datetime: 2024-10-05T09:30:00Z
     end_datetime: 2024-10-05T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an exciting in-person event where you can learn coding skills in a fun and interactive environment. Our team will guide you through hands-on activities and help you build some coding knowledge. Don't miss out on this fantastic opportunity to expand your skills and meet like-minded individuals. Sign up now!</p>"
     type: diversity
@@ -278,7 +278,7 @@ eventlistings:
     date_added: 2024-09-24
     start_datetime: 2024-10-03T18:30:00Z
     end_datetime: 2024-10-03T20:20:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Whether you're a seasoned professional or just starting your journey in STEM, this event is the perfect opportunity to forge meaningful connections and be part of a vibrant community.</p>"
     type: diversity
