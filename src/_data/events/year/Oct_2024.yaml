@@ -232,10 +232,6 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-
-    recurring: false
-    desc: 
-    type: tech
   - name: "(In-Person) The Minorities Recognition Awards NI (MRANI)"
     url: "https://minorityawardsni.org.uk/"
     region: 🇬🇧
