@@ -536,3 +536,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) Game Changers: The Business of Games - A Legal Perspective @ Bizhub, University of Galway"
+    url: "https://www.universityofgalway.ie/thinkingbeyond/gamechangers/#"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-14T10:00:00Z
+    end_datetime: 2024-10-14T16:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
