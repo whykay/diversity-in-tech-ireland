@@ -168,6 +168,16 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) What the Hack: Balbriggan Innovation Challenge - The EcoCore Hackathon"
+    url: "https://www.eventbrite.ie/e/balbriggan-innovation-challenge-the-ecocore-hackathon-tickets-1015211473847"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-08T08:00:00Z
+    end_datetime: 2024-11-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: hackathon
 
 
 
