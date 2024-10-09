@@ -148,3 +148,26 @@ eventlistings:
     recurring: false
     desc: "The free event is for people who are studying, or recently graduated from, a STEM related course at university and are considering different career opportunities."
     type: diversity
+  - name: "(In-Person) Beta Festival"
+    url: "https://2024.betafestival.ie/"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-01T09:00:00Z
+    end_datetime: 2024-11-17T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person)Facing the Future: Let’s Talk Facial Recognition Technology (Beta Festival)"
+    url: "https://www.eventbrite.co.uk/e/facing-the-future-lets-talk-facial-recognition-technology-beta-festival-tickets-1037730097657"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-07T18:00:00Z
+    end_datetime: 2024-11-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+
+

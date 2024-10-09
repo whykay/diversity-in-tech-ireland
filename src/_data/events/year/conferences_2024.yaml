@@ -574,3 +574,59 @@ conferences:
     recurring: false
     desc: "<p>Join our EWPN Ireland Hub, one of the key hosts of a groundbreaking experience unlike any before. This conference is dedicated to advancing and sustaining diversity and inclusion within the FinTech industry. As the sector continues to evolve at a rapid pace, this event emphasizes the vital importance of implementing sustainable diversity initiatives that contribute to long-term success and resilience.</p>"
     type: tech
+  - name: "(In-Person) IRISSCERT Annual Cybercrime Conference 2024 @ Aviva Stadium"
+    url: "https://www.eventbrite.co.uk/e/dublin-stem-women-graduate-careers-event-tickets-911397563647"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-06T09:00:00Z
+    end_datetime: 2024-11-06T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>IRISSCERT holds an annual conference is an all day conference providing attendees with an overview of the current cyber threats facing businesses in Ireland and what they can do to deal with those threats.</p>"
+    type: tech
+
+  - name: "(In-Person) Beta Festival - Conference"
+    url: "https://2024.betafestival.ie/"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-01T13:00:00Z
+    end_datetime: 2024-11-02T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Exploring the relationship between technology and power, Beta Festival’s 2024 conference explores how digital infrastructures and software have reshaped society, culture, and politics. Spanning two days, the event delves into the ways technology influences institutions, political interests, and economic and cultural practices. Bringing together artists, technologists, and researchers, the conference participants will question the forms of power and control embedded in digital infrastructures and explore strategies for redesigning these systems to meet societal demands for both individual and collective autonomy.</p>"
+    type: tech
+  - name: "(In-Person) Big Data Belfast 2024 @ ICC Belfast"
+    url: "https://www.eventbrite.co.uk/e/big-data-belfast-2024-tickets-925877092307"
+    region: 🇬🇧
+    date_added: 2024-10-09
+    start_datetime: 2024-10-23T09:00:00Z
+    end_datetime: 2024-10-23T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Big Data Belfast is a one-day data and technology conference hosted by data analytics solution provider Analytics Engines. Returning now for its 10th year, the conference has established itself as a highlight of the Northern Ireland tech events calendar.</p>"
+    type: tech
+
+
+
+
+    ## 2025
+  - name: "(In-Person) Climate Tech Conference @ RDS"
+    url: "https://www.eventbrite.co.uk/e/climate-tech-conference-tickets-944188953577"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2025-05-28T09:00:00Z
+    end_datetime: 2025-05-28T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to Ireland's Climate Tech Conference, where innovation meets sustainability! Our shared commitment to a greener future unites us in addressing climate challenges. Today, visionary minds converge to explore cutting-edge solutions. From renewable energy breakthroughs to carbon capture innovations, we're forging a path toward a resilient planet. Embrace discussions on sustainable agriculture, eco-friendly transportation, and smart cities. Let's amplify our impact by fostering collaboration and accelerating climate-positive technologies. Together, we'll shape a more sustainable tomorrow for Ireland and beyond. Join the conversation, inspire change, and be part of the Climate Tech revolution. Welcome to a greener, cleaner future!</p>"
+    type: tech
+  - name: "(In-Person) Health Tech Spring Conference @ Titanic Belfast"
+    url: "https://www.eventbrite.co.uk/e/climate-tech-conference-tickets-944188953577"
+    region:  🇬🇧
+    date_added: 2024-10-09
+    start_datetime: 2025-04-08T09:00:00Z
+    end_datetime: 2025-04-08T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Following on from a sold-out event in 2024 with 600 delegates taking part, HIRANI will again bring together their network to showcase the sector in Northern Ireland, and the part we can play on the global stage. This unique event is firmly on the conference map with feedback showing nearly 4,000 connections were made across the two-day life sciences expo.</p>"
+    type: tech

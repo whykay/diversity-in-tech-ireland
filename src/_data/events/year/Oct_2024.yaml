@@ -476,7 +476,7 @@ eventlistings:
     recurring: false
     desc: "<p>Following on from the great success of our previous meetings we are returning for the Autumn and Winter months! Our next meeting will focus on planning for the months ahead, gatehring feedback for attendees on how the group could move forward.</p>"
     type: diversity
-  - name: "Dublin Hub, European Women's Payments Network (EWPN): Annual Conference @ IDA Ireland"
+  - name: "(In-Person) Dublin Hub, European Women's Payments Network (EWPN): Annual Conference @ IDA Ireland"
     url: "https://www.eventbrite.co.uk/e/dublin-hub-european-womens-payments-network-ewpn-annual-conference-tickets-976152708027"
     region: 🇮🇪
     date_added: 2024-10-09
@@ -486,12 +486,52 @@ eventlistings:
     recurring: false
     desc: "<p>Join our EWPN Ireland Hub, one of the key hosts of a groundbreaking experience unlike any before. This conference is dedicated to advancing and sustaining diversity and inclusion within the FinTech industry. As the sector continues to evolve at a rapid pace, this event emphasizes the vital importance of implementing sustainable diversity initiatives that contribute to long-term success and resilience.</p>"
     type: diversity
-  - name: "European Law Institute and Law Society of Ireland: Artificial Intelligence and the GDPR"
+  - name: "(In-Person) European Law Institute and Law Society of Ireland: Artificial Intelligence and the GDPR"
     url: "https://www.eventbrite.co.uk/e/artificial-intelligence-and-the-gdpr-tickets-943580453537"
     region: 🇮🇪
     date_added: 2024-10-09
     start_datetime: 2024-10-09T17:00:00Z
     end_datetime: 2024-10-09T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) CTO Craft Mixer: Dublin"
+    url: "https://www.eventbrite.co.uk/e/cto-craft-mixer-dublin-tickets-1029986847387"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-17T18:00:00Z
+    end_datetime: 2024-10-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Smart D8 Showcase 2024 @ NCAD"
+    url: "https://www.eventbrite.co.uk/e/smart-d8-showcase-2024-tickets-1030975664967"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-29T09:30:00Z
+    end_datetime: 2024-10-29T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Software Crafters: Refactoring: The Import Users Kata @ Metric Tristarinc"
+    url: "https://www.meetup.com/cork-software-crafters/events/303824718/"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-24T18:00:00Z
+    end_datetime: 2024-10-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dub|Sec October Meetup"
+    url: "https://www.meetup.com/cork-software-crafters/events/303824718/"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-30T18:30:00Z
+    end_datetime: 2024-10-30T21:30:00Z
     new: true
     recurring: false
     desc: 
