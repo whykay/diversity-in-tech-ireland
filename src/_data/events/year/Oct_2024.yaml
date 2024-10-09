@@ -454,3 +454,45 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) ISACA SheLeadsTech Networking Event"
+    url: "https://www.eventbrite.co.uk/e/isaca-sheleadstech-networking-event-tickets-1026778611467"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-10T18:00:00Z
+    end_datetime: 2024-10-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Empowering Women to Shape the Future of Tech</p>
+        <p>Join us for an evening of engaging talks, panel discussions with food, drinks and Networking opportunities.</p>"
+    type: diversity
+  - name: "(In-Person) Networking Event for Self Employed LGBTQ+ Women and Non Binary Community @ Outhouse"
+    url: "https://www.eventbrite.co.uk/e/networking-event-for-self-employed-lgbtq-women-and-non-binary-community-tickets-1026904167007"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-12T13:00:00Z
+    end_datetime: 2024-10-12T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Following on from the great success of our previous meetings we are returning for the Autumn and Winter months! Our next meeting will focus on planning for the months ahead, gatehring feedback for attendees on how the group could move forward.</p>"
+    type: diversity
+  - name: "Dublin Hub, European Women's Payments Network (EWPN): Annual Conference @ IDA Ireland"
+    url: "https://www.eventbrite.co.uk/e/dublin-hub-european-womens-payments-network-ewpn-annual-conference-tickets-976152708027"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-16T12:00:00Z
+    end_datetime: 2024-10-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join our EWPN Ireland Hub, one of the key hosts of a groundbreaking experience unlike any before. This conference is dedicated to advancing and sustaining diversity and inclusion within the FinTech industry. As the sector continues to evolve at a rapid pace, this event emphasizes the vital importance of implementing sustainable diversity initiatives that contribute to long-term success and resilience.</p>"
+    type: diversity
+  - name: "European Law Institute and Law Society of Ireland: Artificial Intelligence and the GDPR"
+    url: "https://www.eventbrite.co.uk/e/artificial-intelligence-and-the-gdpr-tickets-943580453537"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-09T17:00:00Z
+    end_datetime: 2024-10-09T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

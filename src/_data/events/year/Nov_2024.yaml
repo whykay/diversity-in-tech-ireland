@@ -137,3 +137,14 @@ eventlistings:
     recurring: false
     desc: "Our upcoming Dublin event will focus on 𝐖𝐨𝐦𝐞𝐧 𝐢𝐧 𝐓𝐞𝐜𝐡. We will be discussing 𝐭𝐚𝐥𝐞𝐧𝐭, 𝐠𝐫𝐨𝐰𝐭𝐡 𝐚𝐧𝐝 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 which will be followed by networking and refreshments"
     type: diversity
+
+  - name: "(In-Person) Dublin STEM Women Graduate Careers Event @ Aviva Stadium"
+    url: "https://www.eventbrite.co.uk/e/dublin-stem-women-graduate-careers-event-tickets-911397563647"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-05T13:00:00Z
+    end_datetime: 2024-11-05T16:00:00Z
+    new: true
+    recurring: false
+    desc: "The free event is for people who are studying, or recently graduated from, a STEM related course at university and are considering different career opportunities."
+    type: diversity

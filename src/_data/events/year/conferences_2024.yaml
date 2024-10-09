@@ -553,3 +553,24 @@ conferences:
     desc: "<p>Culture Crush... where the cultural and creative communities in Ireland come together as one to connect, share and celebrate at a critical time for our sector.</p>"
     type: tech
     
+
+  - name: "Ireland's Legal Tech Conference 2024 @ Aviva Stadium"
+    url: "https://www.eventbrite.co.uk/e/irelands-legal-tech-conference-2024-tickets-1023560686567"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-11-28T09:00:00Z
+    end_datetime: 2024-11-28T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for the Legal Tech Conference in Dublin on November 28th, where we’ll explore the latest innovations transforming the legal industry From the practical applications of AI in discovery to the ethical challenges of emerging technologies, we’ve got you covered.</p>"
+    type: tech
+  - name: "Dublin Hub, European Women's Payments Network (EWPN): Annual Conference @ IDA Ireland"
+    url: "https://www.eventbrite.co.uk/e/dublin-hub-european-womens-payments-network-ewpn-annual-conference-tickets-976152708027"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2024-10-16T12:00:00Z
+    end_datetime: 2024-10-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join our EWPN Ireland Hub, one of the key hosts of a groundbreaking experience unlike any before. This conference is dedicated to advancing and sustaining diversity and inclusion within the FinTech industry. As the sector continues to evolve at a rapid pace, this event emphasizes the vital importance of implementing sustainable diversity initiatives that contribute to long-term success and resilience.</p>"
+    type: tech
