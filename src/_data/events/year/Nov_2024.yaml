@@ -220,6 +220,190 @@ eventlistings:
     desc: 
     type: tech
 
+  - name: "(In-Person) 📱Unleash Your App Power: A Gathering of Mobile Innovators!🤳 @ Zalando"
+    url: "https://www.meetup.com/en-US/zalando-dublin-tech-events/events/304163258/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-06T18:00:00Z
+    end_datetime: 2024-11-06T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Tech Talk Rehearsals - November Edition @ Instil"
+    url: "https://www.eventbrite.co.uk/e/ni-tech-talk-rehearsals-november-edition-tickets-1061936303069"
+    region: 🇬🇧
+    date_added: 2024-10-28
+    start_datetime: 2024-11-14T17:30:00Z
+    end_datetime: 2024-11-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This is an ongoing series of events, preparing new speakers to present at upcoming conferences. Including (but not limited to) NIDC and Google DevFest Ireland.</p>
+      <p>The event is for anyone who has a talk in first draft (or beyond) and would like to rehearse in front of a very friendly audience. There will be a number of highly experienced event organisers and presenters in attendance - who can offer advice on your preparation, materials and delivery.</p>"
+    type: diversity
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365495/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-11T19:00:00Z
+    end_datetime: 2024-11-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365496/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-25T19:00:00Z
+    end_datetime: 2024-11-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Ai meet up @ Rathmines Library"
+    url: "https://www.meetup.com/dublin-ai-and-society-meetup-group/events/304168686/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-13T18:30:00Z
+    end_datetime: 2024-11-13T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Mobile Developers Coffee & Code"
+    url: "https://www.meetup.com/coffee-code-mobile-developers/events/304007512"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-02T18:30:00Z
+    end_datetime: 2024-11-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) MongoDB Atlas Search and Vector Search - Hands-On Workshop @ MongoDB"
+    url: "https://www.meetup.com/dublin-mongodb-user-group/events/303997651/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-07T18:00:00Z
+    end_datetime: 2024-11-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Power Platform Ireland User Group: SAP and the Power Platform and Low-Code Plug-ins"
+    url: "https://www.meetup.com/powerplatform-usergroup-ireland/events/303844136"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-07T18:00:00Z
+    end_datetime: 2024-11-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PHP Dublin: PHP Dublin 241"
+    url: "https://www.meetup.com/php-dublin/events/304038044/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-07T18:15:00Z
+    end_datetime: 2024-11-07T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Apache Kafka® x Apache Flink® Meetup - Nov @ Rue Gilt Groupe Ireland"
+    url: "https://www.meetup.com/dublin-flink/events/304083387/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-14T18:00:00Z
+    end_datetime: 2024-11-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Test Heads: In person meet-up hosted by Workday"
+    url: "https://www.meetup.com/test-heads/events/304075395/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-14T18:00:00Z
+    end_datetime: 2024-11-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/303711467/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-23T15:00:00Z
+    end_datetime: 2024-11-23T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps & Platform Engineering MeetUp November 2024"
+    url: "https://www.meetup.com/devops-platform-engineering-meetup/events/304159149/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-27T18:00:00Z
+    end_datetime: 2024-11-27T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork: AI and Testing: A Synergy for Success (Sponsored by NetApp)"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/304198408/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-12T18:30:00Z
+    end_datetime: 2024-11-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 137"
+    url: "https://www.meetup.com/corksec/events/303031654/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-11-12T19:00:00Z
+    end_datetime: 2024-11-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Belfast Cyber Security Meetup Group: Cyber Resilience: Insights into the Future of Security"
+    url: "https://www.meetup.com/belfast-cyber-security-meetup-group/events/303901732/"
+    region: 🇬🇧
+    date_added: 2024-10-28
+    start_datetime: 2024-11-05T18:00:00Z
+    end_datetime: 2024-11-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ProductTank Belfast: There's No Such Thing as a Stupid User: Testing with Users Workshop"
+    url: "https://www.meetup.com/producttank-belfast/events/304167682/"
+    region: 🇬🇧
+    date_added: 2024-10-28
+    start_datetime: 2024-11-12T18:00:00Z
+    end_datetime: 2024-11-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Low Code Belfast November 2024: Networking Night"
+    url: "https://www.meetup.com/low-code-belfast/events/303917200/"
+    region: 🇬🇧
+    date_added: 2024-10-28
+    start_datetime: 2024-11-14T17:00:00Z
+    end_datetime: 2024-11-14T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
 
 
+
+
+ 
 

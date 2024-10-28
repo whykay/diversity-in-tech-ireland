@@ -10,3 +10,65 @@ eventlistings:
     desc: "<p>Women founders across Ireland are ruling the world when it comes to skincare & beauty and we are here for it.</p>
     <p>As we close out the year with our famous ‘Christmas Jollies’ join us for an event to celebrate the remarkable achievements of Irish women-founded companies in the beauty, skincare, and fashion industries.  Be inspired by their entrepreneurial spirit, tenacity and GRIT.</p>"
     type: diversity
+
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365497/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-09T19:00:00Z
+    end_datetime: 2024-12-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Ai meet up @ Rathmines Library"
+    url: "https://www.meetup.com/dublin-ai-and-society-meetup-group/events/krhtntygcqbpb/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-11T18:30:00Z
+    end_datetime: 2024-12-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365509/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-16T19:00:00Z
+    end_datetime: 2024-12-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365510/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-30T19:00:00Z
+    end_datetime: 2024-12-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/vdtzxsygcqblc/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-28T15:00:00Z
+    end_datetime: 2024-12-28T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Irish Geeks Presents: Annual Techie Table Quiz"
+    url: "https://irishgeeks.github.io/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-03T18:30:00Z
+    end_datetime: 2024-12-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The free charity table quiz back again this year, and hosted by Workday again!<p>
+      <p>We are still getting things together, so check back again and keep an for tickets.</p>"
+    type: diversity

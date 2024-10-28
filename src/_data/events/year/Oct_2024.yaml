@@ -546,3 +546,34 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) The Games Co-Op: Chonk-tober @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/303973989/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-10-28T19:00:00Z
+    end_datetime: 2024-10-28T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) BrowserStack QA and Software Testing Meetup - October @ Workday"
+    url: "https://www.meetup.com/browserstack-meetup-group-dublin/events/303866094"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-10-30T18:00:00Z
+    end_datetime: 2024-10-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Ai meet up @ Rathmines Library"
+    url: "https://www.meetup.com/dublin-ai-and-society-meetup-group/events/304159779/"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-10-30T18:30:00Z
+    end_datetime: 2024-10-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
