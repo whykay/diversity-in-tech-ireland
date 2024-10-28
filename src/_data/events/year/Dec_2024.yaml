@@ -72,3 +72,13 @@ eventlistings:
     desc: "<p>The free charity table quiz back again this year, and hosted by Workday again!<p>
       <p>We are still getting things together, so check back again and keep an for tickets.</p>"
     type: diversity
+  - name: "(In-Person) Dublin Java User Group: Master the Basics of Domain Driven Design"
+    url: "https://www.meetup.com/DublinJavaUserGroup/events/304254906"
+    region: 🇮🇪
+    date_added: 2024-10-28
+    start_datetime: 2024-12-08T18:15:00Z
+    end_datetime: 2024-12-08T18:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
