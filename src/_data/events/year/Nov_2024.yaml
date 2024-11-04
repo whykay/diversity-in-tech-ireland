@@ -126,7 +126,7 @@ eventlistings:
     new: false
     recurring: false
     desc: 
-    type: tech
+    type: make
   - name: "(In-Person) Tech ie: Women in Tech 2024 @ The Spencer Hotel"
     url: "https://www.meetup.com/tech-ie/events/303553330/"
     region: 🇮🇪
@@ -488,6 +488,116 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-11-21T18:00:00Z
     end_datetime: 2024-11-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) 2024 AI Awards"
+    url: "https://www.eventbrite.ie/e/2024-ai-awards-tickets-944233887977"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-26T08:30:00Z
+    end_datetime: 2024-11-26T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Mastering the Multimeter: A Beginner's Guide @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/mastering-the-multimeter-a-beginners-guide-tickets-1067874454239"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-19T19:00:00Z
+    end_datetime: 2024-11-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) IoT with Arduino Cloud: Beginner-Friendly Workshop @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/iot-with-arduino-cloud-beginner-friendly-workshop-tickets-1057903591119"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-16T16:30:00Z
+    end_datetime: 2024-11-16T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Intro to 3D Printing @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-3d-printing-tickets-1011162864347"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-30T16:00:00Z
+    end_datetime: 2024-11-30T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker 
+  - name: "(In-Person) Intro to Laser Cutting @ Fab Lab Limerick"
+    url: "https://www.eventbrite.ie/e/intro-to-laser-cutting-tickets-1011162693837"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-30T11:00:00Z
+    end_datetime: 2024-11-30T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker 
+  - name: "(In-Person) The future is now: AI, ethics, and you @ UCD"
+    url: "https://www.eventbrite.ie/e/the-future-is-now-ai-ethics-and-you-tickets-1043550717287"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-12T17:30:00Z
+    end_datetime: 2024-11-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Immersive Technology: A collision of creativity and innovation"
+    url: "https://www.eventbrite.ie/e/immersive-technology-a-collision-of-creativity-and-innovation-tickets-1059533335729"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-06T18:00:00Z
+    end_datetime: 2024-11-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Maker Residency Final Showcase @ UCD"
+    url: "https://www.eventbrite.ie/e/maker-residency-final-showcase-tickets-1064159362299"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-08T12:30:00Z
+    end_datetime: 2024-11-08T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker 
+  - name: "(In-Person) Figments: Art, Technology & Imaginationn"
+    url: "https://www.eventbrite.ie/e/figments-art-technology-imagination-tickets-1073025972569"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-12T11:00:00Z
+    end_datetime: 2024-11-12T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Figments: Art, Technology & Imaginationn"
+    url: "https://www.eventbrite.ie/e/figments-art-technology-imagination-tickets-1073026484099"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-13T11:00:00Z
+    end_datetime: 2024-11-13T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Figments: Art, Technology & Imaginationn"
+    url: "https://www.eventbrite.ie/e/figments-art-technology-imagination-tickets-1073026624519"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-14T11:00:00Z
+    end_datetime: 2024-11-14T16:00:00Z
     new: true
     recurring: false
     desc: 

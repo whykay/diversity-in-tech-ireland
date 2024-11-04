@@ -112,7 +112,7 @@ eventlistings:
     new: true
     recurring: false
     desc: 
-    type: tech
+    type: maker
 
   - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
     url: "https://www.meetup.com/farsetlabs/events/304271989/"
