@@ -402,8 +402,93 @@ eventlistings:
     desc: 
     type: tech
 
-
-
-
- 
-
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365506/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-04T19:00:00Z
+    end_datetime: 2024-11-04T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365507/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-18T19:00:00Z
+    end_datetime: 2024-11-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Java User Group: Master the Basics of Domain Driven Design"
+    url: "https://www.meetup.com/dublinjavausergroup/events/304254906/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-08T18:15:00Z
+    end_datetime: 2024-11-08T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: AI's Impact on Developer Roles & Nearform's Data and AI Journey"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/304075060/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-14T19:00:00Z
+    end_datetime: 2024-11-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/304271989/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-18T18:00:00Z
+    end_datetime: 2024-11-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Atlassian Community Events: Bitbucket Pipelines &amp; Forge From zero to hero"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/303064848/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-20T17:30:00Z
+    end_datetime: 2024-11-20T18:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Data Science and Engineering Club: Mastering Data Engineering"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/304327700"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-23T10:00:00Z
+    end_datetime: 2024-11-23T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Green Software Ireland - Scaling the sustainable software engineering mindset"
+    url: "https://www.meetup.com/green_software_ireland/events/304141340/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-27T19:00:00Z
+    end_datetime: 2024-11-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(Hybrid) NGINX Meetup (Cork): November Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/304286449/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-11-21T18:00:00Z
+    end_datetime: 2024-11-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 

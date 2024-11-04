@@ -82,3 +82,55 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365508/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-12-02T19:00:00Z
+    end_datetime: 2024-12-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365509/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-12-16T19:00:00Z
+    end_datetime: 2024-12-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Exploring Electronics Together @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365510/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-12-30T19:00:00Z
+    end_datetime: 2024-12-30T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/304271989/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-12-16T18:00:00Z
+    end_datetime: 2024-12-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Online) WTM Belfast Speaker Workshop"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/304143923/"
+    region: 🇮🇪
+    date_added: 2024-11-04
+    start_datetime: 2024-12-02T18:00:00Z
+    end_datetime: 2024-12-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us on Monday 2nd December to learn all about submitting to a tech conference. This virtual workshop aims to help attendees to hone their skills in public speaking and get ready to submit an abstract to a tech conference!</p>"
+    type: diversity
