@@ -612,3 +612,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech 
+
+  - name: "(In-Person) Women in Tech Belfast: The Evolving Paycheck: Smart Strategies for Every Career Stage"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/304269748/"
+    region: 🇬🇧
+    date_added: 2024-11-05
+    start_datetime: 2024-11-28T17:30:00Z
+    end_datetime: 2024-11-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women Techmakers Belfast and Women in Tech Belfast in collaboration.</p>
+      <p>This will be an informative event aimed at those who are moving up the career ladder and aiming to maximise their take-home pay as a result!</p>"
+    type: diversity 
