@@ -634,3 +634,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev 
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/304269748/"
+    region: 🇮🇪
+    date_added: 2024-11-05
+    start_datetime: 2024-11-19T18:30:00Z
+    end_datetime: 2024-11-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>
+      <p>We meet every 2 weeks for informal gatherings in cafe places, and every 2 months for IT-related talks in UCC.</p>"
+    type: diversity 
