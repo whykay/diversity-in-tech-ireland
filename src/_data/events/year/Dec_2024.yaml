@@ -134,3 +134,34 @@ eventlistings:
     recurring: false
     desc: "<p>Join us on Monday 2nd December to learn all about submitting to a tech conference. This virtual workshop aims to help attendees to hone their skills in public speaking and get ready to submit an abstract to a tech conference!</p>"
     type: diversity
+
+  - name: "(In-Person) Cork Game Jam 2024"
+    url: "https://ti.to/cork-game-dev-group/cork-game-jam-2024"
+    region: 🇮🇪
+    date_added: 2024-11-07
+    start_datetime: 2024-12-14T09:00:00Z
+    end_datetime: 2024-12-14T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Irish Game Dev Holiday Party - Dublin @ r.i.o.t."
+    url: "https://imirt.ie"
+    region: 🇮🇪
+    date_added: 2024-11-07
+    start_datetime: 2024-12-06T18:00:00Z
+    end_datetime: 2024-12-14T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Irish Game Dev Holiday Party - Galway @ McSwiggans"
+    url: "https://imirt.ie"
+    region: 🇮🇪
+    date_added: 2024-11-07
+    start_datetime: 2024-12-06T18:00:00Z
+    end_datetime: 2024-12-14T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
