@@ -687,3 +687,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+  - name: "(In-Person)ANiMATES: Industry Insights #2 @ The Mac, Belfast"
+    url: "https://www.animates-events.co.uk/events/p/industryinsights1-edfh5"
+    region: 🇬🇧
+    date_added: 2024-11-13
+    start_datetime: 2024-11-21T18:30:00Z
+    end_datetime: 2024-11-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: animation
+
