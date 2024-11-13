@@ -146,7 +146,7 @@ eventlistings:
     desc: 
     type: gamedev
   - name: "(In-Person) Irish Game Dev Holiday Party - Dublin @ r.i.o.t."
-    url: "https://imirt.ie"
+    url: "https://www.eventbrite.ie/e/irish-game-dev-holiday-party-dublin-tickets-1076756320139"
     region: 🇮🇪
     date_added: 2024-11-07
     start_datetime: 2024-12-06T18:00:00Z
@@ -156,10 +156,21 @@ eventlistings:
     desc: 
     type: gamedev
   - name: "(In-Person) Irish Game Dev Holiday Party - Galway @ McSwiggans"
-    url: "https://imirt.ie"
+    url: "https://www.eventbrite.ie/e/irish-game-dev-holiday-party-galway-tickets-1079459054089"
     region: 🇮🇪
     date_added: 2024-11-07
     start_datetime: 2024-12-06T18:00:00Z
+    end_datetime: 2024-12-14T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+
+  - name: "(In-Person) ​⛄️ NI Game Dev Christmas Social ⛄️"
+    url: "https://lu.ma/dkjx7eje"
+    region: 🇬🇧
+    date_added: 2024-11-07
+    start_datetime: 2024-12-06T18:30:00Z
     end_datetime: 2024-12-14T23:00:00Z
     new: true
     recurring: false
