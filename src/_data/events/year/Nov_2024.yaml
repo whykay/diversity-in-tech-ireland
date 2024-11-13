@@ -656,3 +656,34 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) Cork Game Devs Day"
+    url: "https://www.eventbrite.com/e/cork-game-devs-day-tickets-1075973127589"
+    region: 🇮🇪
+    date_added: 2024-11-13
+    start_datetime: 2024-11-25T17:00:00Z
+    end_datetime: 2024-11-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Cats Making Game Pub Meetup - Kilkenny"
+    url: "https://discord.com/events/1295370348329435177/1303744122909098076"
+    region: 🇮🇪
+    date_added: 2024-11-13
+    start_datetime: 2024-11-14T18:00:00Z
+    end_datetime: 2024-11-14T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Cats Making Games: Visual Novel Workshop - Kilkenny"
+    url: "https://discord.com/events/1295370348329435177/1303744255130472488"
+    region: 🇮🇪
+    date_added: 2024-11-13
+    start_datetime: 2024-11-28T18:00:00Z
+    end_datetime: 2024-11-28T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
