@@ -176,3 +176,64 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) Databricks Dublin Meetup"
+    url: "https://www.meetup.com/databricks-dublin-meetup-group/events/304504239/"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-12-04T17:00:00Z
+    end_datetime: 2024-12-04T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) UXDX Dublin: Navigating Trust in Human-AI Interaction: Practical Insights for Designers @ Workday"
+    url: "https://www.meetup.com/uxdx-dublin/events/304632194/"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-12-04T18:00:00Z
+    end_datetime: 2024-12-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Dublin Atlassian Community Events: Year-End Festive Gathering | Thank You 2024, Welcome 2025! @ Zambrero"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/303065000"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-12-06T16:30:00Z
+    end_datetime: 2024-12-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Capture The Flag Hackathon: A Hackathon about actually hacking @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/304037883/"
+    region: 🇬🇧
+    date_added: 2024-11-20
+    start_datetime: 2024-12-07T10:00:00Z
+    end_datetime: 2024-12-07T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Microsoft Fabric Dublin: Lightning Talks ⚡⚡ The end of year celebration!"
+    url: "https://www.meetup.com/microsoft-fabric-dublin/events/304631156/"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-12-09T18:00:00Z
+    end_datetime: 2024-12-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PHP Dublin - 242: Symfony Workflow @ TCube"
+    url: "https://www.meetup.com/php-dublin/events/304474243/"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-12-12T18:00:00Z
+    end_datetime: 2024-12-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

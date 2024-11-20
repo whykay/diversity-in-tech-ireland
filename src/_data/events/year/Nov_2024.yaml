@@ -698,3 +698,23 @@ eventlistings:
     desc: 
     type: animation
 
+  - name: "(In-Person) North by Northwest Tech Meetup: Gateway to Product Development Success event at inishowen innovation"
+    url: "https://www.meetup.com/North-by-Northwest-Tech-Meetup/events/304546603"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-11-21T17:00:00Z
+    end_datetime: 2024-11-21T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
+  - name: "(In-Person) Dublin Java User Group: Apache Causeway - How 40 of the Irish Government's System are built"
+    url: "https://www.meetup.com/dublinjavausergroup/events/304656150/"
+    region: 🇮🇪
+    date_added: 2024-11-20
+    start_datetime: 2024-11-26T18:00:00Z
+    end_datetime: 2024-11-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech 
