@@ -663,7 +663,7 @@ eventlistings:
     date_added: 2024-11-13
     start_datetime: 2024-11-25T17:00:00Z
     end_datetime: 2024-11-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -673,7 +673,7 @@ eventlistings:
     date_added: 2024-11-13
     start_datetime: 2024-11-14T18:00:00Z
     end_datetime: 2024-11-14T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -683,7 +683,7 @@ eventlistings:
     date_added: 2024-11-13
     start_datetime: 2024-11-28T18:00:00Z
     end_datetime: 2024-11-28T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -693,7 +693,7 @@ eventlistings:
     date_added: 2024-11-13
     start_datetime: 2024-11-21T18:30:00Z
     end_datetime: 2024-11-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: animation
