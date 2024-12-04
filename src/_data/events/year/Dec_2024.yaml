@@ -255,3 +255,214 @@ eventlistings:
             </p>
       "
     type: diversity
+
+  - name: "(In-Person) TechFoundHer Festive Celebration: Let's build the future @ Huckletree"
+    url: "https://www.meetup.com/php-dublin/events/304474243/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-16T12:30:00Z
+    end_datetime: 2024-12-16T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Festive meetup to celebrate our first Innovation Labs programme and showcase the progress of founders in our network.</p>"
+    type: diversity
+  - name: "(In-Person) Tech Thursday: Regional Design Renaissance & Enterprise Led Collaboration @ Mayfair Library (Kilkenny)"
+    url: "https://www.eventbrite.ie/e/tech-thursday-regional-design-renaissance-enterprise-led-collaboration-tickets-104875520404"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-12T18:45:00Z
+    end_datetime: 2024-12-12T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TechBrew: Internationalisation – Taking the First Steps @ National Software Centre (Cork)"
+    url: "https://www.eventbrite.ie/e/techbrew-internationalisation-taking-the-first-steps-tickets-1074184046399"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-10T12:00:00Z
+    end_datetime: 2024-12-10T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) FreedonTech CHAT: Express Myself: Assistive Technology for Communication - CHAT @ SJOG"
+    url: "https://www.eventbrite.ie/e/express-myself-assistive-technology-for-communication-chat-sjog-tickets-1075552990949"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-05T14:00:00Z
+    end_datetime: 2024-12-05T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for the next CHAT Community Hub gathering focused on 'Assistive Technology for Communication.'' This event brings together a community of practice dedicated to advancing accessible technology for communication, supporting independence and enhancing connection. Attendees will gain valuable insights into various communication tools, AAC, hear inspiring stories of success, and learn about inclusive design and digital literacy that maximize AT's potential for all users.</p>"
+    type: diversity
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup @ Western Gateway Building"
+    url: "https://www.eventbrite.ie/e/cork-female-coders-coffee-meetup-tickets-1072452106119"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-17T18:30:00Z
+    end_datetime: 2024-12-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
+    type: diversity
+  - name: "(In-Person) KIL|SEC - Kilkenny Cyber Security Meetup @ Cleere's Bar & Theatre"
+    url: "https://www.eventbrite.ie/e/kilsec-kilkenny-cyber-security-meetup-tickets-1097598710289"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-04T18:00:00Z
+    end_datetime: 2024-12-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Build Your Own Satellite Ground Station @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/build-your-own-satellite-ground-station-tickets-1074294516819"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-07T11:00:00Z
+    end_datetime: 2024-12-07T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/304566346/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-04T19:00:00Z
+    end_datetime: 2024-12-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/304816293/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-18T19:00:00Z
+    end_datetime: 2024-12-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365498/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-23T19:00:00Z
+    end_datetime: 2024-12-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Microsoft Fabric Dublin: Lightning Talks ⚡⚡ The end of year celebration!"
+    url: "https://www.meetup.com/microsoft-fabric-dublin/events/304631156/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-10T18:00:00Z
+    end_datetime: 2024-12-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person)Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/304861986/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-10T19:00:00Z
+    end_datetime: 2024-12-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person)Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/304798713/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-17T19:00:00Z
+    end_datetime: 2024-12-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person)Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptygcqbgc/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-24T19:00:00Z
+    end_datetime: 2024-12-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person)Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptygcqbpc/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-31T19:00:00Z
+    end_datetime: 2024-12-31T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Newry Digital: Christmas Social: AI, smart home & anything else"
+    url: "https://www.meetup.com/newry-digital/events/304761692/"
+    region: 🇬🇧
+    date_added: 2024-12-04
+    start_datetime: 2024-12-11T19:00:00Z
+    end_datetime: 2024-12-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Christmas Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/304531202/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-14T15:00:00Z
+    end_datetime: 2024-12-14T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) December Dub|Sec Social"
+    url: "https://www.meetup.com/dub-sec/events/304826200/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-18T18:00:00Z
+    end_datetime: 2024-12-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Open Social @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/304861990/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-21T19:00:00Z
+    end_datetime: 2024-12-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Cork|Sec 138"
+    url: "https://www.meetup.com/corksec/events/303031680/"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-10T19:00:00Z
+    end_datetime: 2024-12-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cats Making Games: Get Moving with Godot Workshop @ Mayfair Library (Kilkenny)"
+    url: "https://www.eventbrite.ie/e/get-moving-with-godot-tickets-1102506700219"
+    region: 🇮🇪
+    date_added: 2024-12-04
+    start_datetime: 2024-12-10T19:00:00Z
+    end_datetime: 2024-12-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
