@@ -5,7 +5,7 @@ eventlistings:
     date_added: 2024-09-05
     start_datetime: 2024-12-10T17:00:00Z
     end_datetime: 2024-12-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women founders across Ireland are ruling the world when it comes to skincare & beauty and we are here for it.</p>
     <p>As we close out the year with our famous ‘Christmas Jollies’ join us for an event to celebrate the remarkable achievements of Irish women-founded companies in the beauty, skincare, and fashion industries.  Be inspired by their entrepreneurial spirit, tenacity and GRIT.</p>"
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-09T19:00:00Z
     end_datetime: 2024-12-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-11T18:30:00Z
     end_datetime: 2024-12-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-16T19:00:00Z
     end_datetime: 2024-12-16T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-30T19:00:00Z
     end_datetime: 2024-12-30T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -57,7 +57,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-28T15:00:00Z
     end_datetime: 2024-12-28T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-03T18:30:00Z
     end_datetime: 2024-12-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The free charity table quiz back again this year, and hosted by Workday again!<p>
       <p>We are still getting things together, so check back again and keep an for tickets.</p>"
@@ -78,7 +78,7 @@ eventlistings:
     date_added: 2024-10-28
     start_datetime: 2024-12-08T18:15:00Z
     end_datetime: 2024-12-08T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-12-02T19:00:00Z
     end_datetime: 2024-12-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-12-16T19:00:00Z
     end_datetime: 2024-12-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -109,7 +109,7 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-12-30T19:00:00Z
     end_datetime: 2024-12-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-12-16T18:00:00Z
     end_datetime: 2024-12-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2024-11-04
     start_datetime: 2024-12-02T18:00:00Z
     end_datetime: 2024-12-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us on Monday 2nd December to learn all about submitting to a tech conference. This virtual workshop aims to help attendees to hone their skills in public speaking and get ready to submit an abstract to a tech conference!</p>"
     type: diversity
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2024-11-07
     start_datetime: 2024-12-14T09:00:00Z
     end_datetime: 2024-12-14T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2024-11-07
     start_datetime: 2024-12-06T18:00:00Z
     end_datetime: 2024-12-14T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2024-11-07
     start_datetime: 2024-12-06T18:00:00Z
     end_datetime: 2024-12-14T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -172,7 +172,7 @@ eventlistings:
     date_added: 2024-11-07
     start_datetime: 2024-12-06T18:30:00Z
     end_datetime: 2024-12-14T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -183,7 +183,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-04T17:00:00Z
     end_datetime: 2024-12-04T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -193,7 +193,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-04T18:00:00Z
     end_datetime: 2024-12-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech 
@@ -203,7 +203,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-06T16:30:00Z
     end_datetime: 2024-12-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech 
@@ -213,7 +213,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-07T10:00:00Z
     end_datetime: 2024-12-07T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -223,7 +223,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-09T18:00:00Z
     end_datetime: 2024-12-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -233,7 +233,25 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-12-12T18:00:00Z
     end_datetime: 2024-12-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Focusondiversity.ie: Employment and Accessibility for People with Disabilities: How Employers Can Do Better in 2025"
+    url: "https://www.meetup.com/php-dublin/events/304474243/"
+    region: 🇮🇪
+    date_added: 2024-11-21
+    start_datetime: 2024-12-05T09:00:00Z
+    end_datetime: 2024-12-05T12:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>
+            Focusondiversity.ie in partnership with Cpl to bring you this event in recognition of International Day of Persons with Disabilities, 
+            <ul>
+              <li>Panel 1: Employment for People with Disabilities in Ireland</li>
+              <li>Panel 2: The European Accessibility Act 2024 - Are Employers Ready?</li>
+            </ul>  
+            </p>
+      "
+    type: diversity

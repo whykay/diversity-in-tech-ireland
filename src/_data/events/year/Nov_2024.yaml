@@ -704,7 +704,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-11-21T17:00:00Z
     end_datetime: 2024-11-21T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech 
@@ -714,7 +714,7 @@ eventlistings:
     date_added: 2024-11-20
     start_datetime: 2024-11-26T18:00:00Z
     end_datetime: 2024-11-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech 
