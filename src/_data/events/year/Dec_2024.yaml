@@ -466,3 +466,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(Online) YourYNetwork: Christmas Gathering"
+    url: "https://www.eventbrite.ie/e/christmas-gathering-tickets-1097252284119"
+    region: 🇮🇪
+    date_added: 2024-12-05
+    start_datetime: 2024-12-10T13:00:00Z
+    end_datetime: 2024-12-10T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are excited to host our Christmas community event with a presentation geared toward applying for EU Grants as a social enterprise.</p>"
+    type: diversity
