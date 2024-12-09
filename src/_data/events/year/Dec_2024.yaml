@@ -477,3 +477,54 @@ eventlistings:
     recurring: false
     desc: "<p>We are excited to host our Christmas community event with a presentation geared toward applying for EU Grants as a social enterprise.</p>"
     type: diversity
+
+  - name: "(In-Person) Python Ireland Christmas time"
+    url: "https://www.meetup.com/pythonireland/events/304969268/"
+    region: 🇮🇪
+    date_added: 2024-12-09
+    start_datetime: 2024-12-11T18:30:00Z
+    end_datetime: 2024-12-11T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Content Designers Ireland: How to break into content design"
+    url: "https://www.meetup.com/content-designers-ireland/events/304916365/"
+    region: 🇮🇪
+    date_added: 2024-12-09
+    start_datetime: 2024-12-11T19:00:00Z
+    end_datetime: 2024-12-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Newry Digital: Christmas Social: AI, smart home & anything else"
+    url: "https://www.meetup.com/newry-digital/events/304761692/"
+    region: 🇬🇧
+    date_added: 2024-12-09
+    start_datetime: 2024-12-11T19:00:00Z
+    end_datetime: 2024-12-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Clojure Ireland Xmas Drinks, 2024"
+    url: "https://www.meetup.com/clojure-ireland/events/304951008/"
+    region: 🇮🇪
+    date_added: 2024-12-09
+    start_datetime: 2024-12-11T19:30:00Z
+    end_datetime: 2024-12-11T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Burbsec Galway - Final event of 2024!"
+    url: "https://www.meetup.com/burbsec/events/304877021/"
+    region: 🇮🇪
+    date_added: 2024-12-09
+    start_datetime: 2024-12-29T11:00:00Z
+    end_datetime: 2024-12-29T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
