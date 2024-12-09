@@ -262,7 +262,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-16T12:30:00Z
     end_datetime: 2024-12-16T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Festive meetup to celebrate our first Innovation Labs programme and showcase the progress of founders in our network.</p>"
     type: diversity
@@ -272,7 +272,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-12T18:45:00Z
     end_datetime: 2024-12-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -282,7 +282,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-10T12:00:00Z
     end_datetime: 2024-12-10T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -292,7 +292,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-05T14:00:00Z
     end_datetime: 2024-12-05T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for the next CHAT Community Hub gathering focused on 'Assistive Technology for Communication.'' This event brings together a community of practice dedicated to advancing accessible technology for communication, supporting independence and enhancing connection. Attendees will gain valuable insights into various communication tools, AAC, hear inspiring stories of success, and learn about inclusive design and digital literacy that maximize AT's potential for all users.</p>"
     type: diversity
@@ -302,7 +302,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-17T18:30:00Z
     end_datetime: 2024-12-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
     type: diversity
@@ -312,7 +312,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-04T18:00:00Z
     end_datetime: 2024-12-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -322,7 +322,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-07T11:00:00Z
     end_datetime: 2024-12-07T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -332,7 +332,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-04T19:00:00Z
     end_datetime: 2024-12-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-18T19:00:00Z
     end_datetime: 2024-12-18T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -352,7 +352,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-23T19:00:00Z
     end_datetime: 2024-12-23T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -362,7 +362,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-10T18:00:00Z
     end_datetime: 2024-12-10T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -372,7 +372,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-10T19:00:00Z
     end_datetime: 2024-12-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -382,7 +382,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-17T19:00:00Z
     end_datetime: 2024-12-17T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-24T19:00:00Z
     end_datetime: 2024-12-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-31T19:00:00Z
     end_datetime: 2024-12-31T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-11T19:00:00Z
     end_datetime: 2024-12-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-14T15:00:00Z
     end_datetime: 2024-12-14T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-18T18:00:00Z
     end_datetime: 2024-12-18T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -442,7 +442,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-21T19:00:00Z
     end_datetime: 2024-12-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -452,7 +452,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-10T19:00:00Z
     end_datetime: 2024-12-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -462,7 +462,7 @@ eventlistings:
     date_added: 2024-12-04
     start_datetime: 2024-12-10T19:00:00Z
     end_datetime: 2024-12-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
