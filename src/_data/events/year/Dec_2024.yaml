@@ -528,3 +528,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) TechFoundHer Festive Celebration: Let's build the future @ MSC Group (Belfast)"
+    url: "https://www.eventbrite.ie/e/techfoundher-festive-celebration-lets-build-the-future-tickets-1099081976779"
+    region: 🇬🇧
+    date_added: 2024-12-09
+    start_datetime: 2024-12-17T12:30:00Z
+    end_datetime: 2024-12-17T14:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us for a festive celebration for women founders in tech, future founders, allies and cheer leaders! This special gathering will feature reflections from special guests, who will share their wins, highlights, and surprises from the past year."
+    type: diversity
