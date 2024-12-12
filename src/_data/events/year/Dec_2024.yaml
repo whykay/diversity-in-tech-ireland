@@ -473,7 +473,7 @@ eventlistings:
     date_added: 2024-12-05
     start_datetime: 2024-12-10T13:00:00Z
     end_datetime: 2024-12-10T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are excited to host our Christmas community event with a presentation geared toward applying for EU Grants as a social enterprise.</p>"
     type: diversity
@@ -484,7 +484,7 @@ eventlistings:
     date_added: 2024-12-09
     start_datetime: 2024-12-11T18:30:00Z
     end_datetime: 2024-12-11T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -494,7 +494,7 @@ eventlistings:
     date_added: 2024-12-09
     start_datetime: 2024-12-11T19:00:00Z
     end_datetime: 2024-12-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -504,7 +504,7 @@ eventlistings:
     date_added: 2024-12-09
     start_datetime: 2024-12-11T19:00:00Z
     end_datetime: 2024-12-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -514,7 +514,7 @@ eventlistings:
     date_added: 2024-12-09
     start_datetime: 2024-12-11T19:30:00Z
     end_datetime: 2024-12-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -524,7 +524,7 @@ eventlistings:
     date_added: 2024-12-09
     start_datetime: 2024-12-29T11:00:00Z
     end_datetime: 2024-12-29T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
