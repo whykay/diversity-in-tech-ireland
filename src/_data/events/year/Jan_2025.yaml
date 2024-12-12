@@ -162,3 +162,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Waterford Tech Meetup: January 2025: The Journey of Structure101 & Breaking Through the Rusty Cage"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/305038065"
+    region: 🇮🇪
+    date_added: 2024-12-12
+    start_datetime: 2024-01-09T19:00:00Z
+    end_datetime: 2024-01-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
