@@ -384,3 +384,63 @@ eventlistings:
     recurring: false
     desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
     type: diversity
+  - name: "(Hybrid) Kilkenny - Cats Making Games - GGJ 2025 @ Mayfair Library"
+    url: "https://globalgamejam.org/jam-sites/2025/kilkenny-cats-making-games"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-23T18:00:00Z
+    end_datetime: 2025-01-25T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(Remote) Writing for Video Games with Charlene Putney (4 weeks)"
+    url: " https://irishwriterscentre.ie/courses/writing-for-video-games-with-charlene-putney-2/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-15T18:30:00Z
+    end_datetime: 2025-02-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Galway Global Game Jam 2025 @ PorterShed a Dó"
+    url: "https://globalgamejam.org/jam-sites/2025/galway-global-game-jam-2025"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-24T18:00:00Z
+    end_datetime: 2025-01-26T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) MS Garage Dublin GGJ25"
+    url: "https://globalgamejam.org/jam-sites/2025/ms-garage-dublin-ggj25"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-24T16:00:00Z
+    end_datetime: 2025-01-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) SETU Carlow GGJ25"
+    url: "https://globalgamejam.org/jam-sites/2025/setu-carlow-ggj25"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-24T16:00:00Z
+    end_datetime: 2025-01-26T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) IADT GGJ25"
+    url: "https://globalgamejam.org/jam-sites/2025/iadt"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-24T09:00:00Z
+    end_datetime: 2025-01-25T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
