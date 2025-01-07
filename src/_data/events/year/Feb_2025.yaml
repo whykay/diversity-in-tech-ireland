@@ -1,0 +1,72 @@
+---
+eventlistings:
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/305359302/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-08T15:00:00Z
+    end_datetime: 2025-02-08T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lznlptyhcdbnb/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-10T19:00:00Z
+    end_datetime: 2025-02-10T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lznlptyhcdbgc/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-24T19:00:00Z
+    end_datetime: 2025-02-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhcdbqb/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-12T19:00:00Z
+    end_datetime: 2025-02-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhcdbjc/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-26T19:00:00Z
+    end_datetime: 2025-02-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/nhvlhtyhcdbwb/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-17T18:00:00Z
+    end_datetime: 2025-02-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/304783221/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-22T15:00:00Z
+    end_datetime: 2025-02-22T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

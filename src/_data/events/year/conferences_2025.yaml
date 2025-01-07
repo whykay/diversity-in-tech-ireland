@@ -1,0 +1,113 @@
+---
+conferences:
+  - name: "(In-Person) Climate Tech Conference @ RDS"
+    url: "https://www.eventbrite.co.uk/e/climate-tech-conference-tickets-944188953577"
+    region: 🇮🇪
+    date_added: 2024-10-09
+    start_datetime: 2025-05-28T09:00:00Z
+    end_datetime: 2025-05-28T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Welcome to Ireland's Climate Tech Conference, where innovation meets sustainability! Our shared commitment to a greener future unites us in addressing climate challenges. Today, visionary minds converge to explore cutting-edge solutions. From renewable energy breakthroughs to carbon capture innovations, we're forging a path toward a resilient planet. Embrace discussions on sustainable agriculture, eco-friendly transportation, and smart cities. Let's amplify our impact by fostering collaboration and accelerating climate-positive technologies. Together, we'll shape a more sustainable tomorrow for Ireland and beyond. Join the conversation, inspire change, and be part of the Climate Tech revolution. Welcome to a greener, cleaner future!</p>"
+    type: tech
+  - name: "(In-Person) Health Tech Spring Conference @ Titanic Belfast"
+    url: "https://www.eventbrite.co.uk/e/climate-tech-conference-tickets-944188953577"
+    region:  🇬🇧
+    date_added: 2024-10-09
+    start_datetime: 2025-04-08T09:00:00Z
+    end_datetime: 2025-04-08T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Following on from a sold-out event in 2024 with 600 delegates taking part, HIRANI will again bring together their network to showcase the sector in Northern Ireland, and the part we can play on the global stage. This unique event is firmly on the conference map with feedback showing nearly 4,000 connections were made across the two-day life sciences expo.</p>"
+    type: tech
+  - name: "(In-Person) BSides Galway @ University of Galway"
+    url: "https://bsidesgalway.com"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-02-22T09:00:00Z
+    end_datetime: 2025-02-22T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We're thrilled to announce that the first Bsides Galway will be hosted at the University of Galway</p>"
+    type: tech
+  - name: "(In-Person) BSides Dublin @ TCD"
+    url: "https://www.bsidesdub.ie"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-05-24T09:00:00Z
+    end_datetime: 2025-05-24T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members.</p>"
+    type: tech
+  - name: "(In-Person) Dublin Tech Summit 2025 @ RDS"
+    url: "https://dublintechsummit.tech"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-05-28T09:00:00Z
+    end_datetime: 2025-05-29T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Dublin Tech Summit is proud to be part of a city-wide celebration of innovation, creativity, and collaboration.</p>"
+    type: tech
+  - name: "(In-Person) zerodaycon @ CCD"
+    url: "https://www.zerodaycon.com"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-03-11T09:00:00Z
+    end_datetime: 2025-03-11T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Discover the future of security at Zero Day Con 'Converge' in Dublin, where AI meets Cybersecurity, Resilience, and Data Security. Join industry leaders as they explore groundbreaking strategies for a safer digital world.</p>"
+    type: tech
+  - name: "(In-Person) ShipItCon 2025"
+    url: "https://shipitcon.com"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-08-29T09:00:00Z
+    end_datetime: 2025-08-29T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>An annual, community driven, not-for-profit conference about Software Delivery held in Dublin, Ireland.</p>"
+    type: tech
+  - name: "(In-Person) CESI 2025 @ Gaelcholáiste Luimnigh"
+    url: "https://www.cesi.ie/conferences/conference-2025/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-03-01T09:00:00Z
+    end_datetime: 2025-03-01T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The annual conference of the Computers in Education Society of Ireland.</p>
+    <p>Theme - 'Navigating Digital Futures', in 2025. Consider this a 2.0 programme!</p>"
+    type: tech
+  - name: "(In-Person) SaaStock 2025 @ RDS"
+    url: "https://saastock-europe.com"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-10-14T09:00:00Z
+    end_datetime: 2025-10-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We’re back for 2025 with a bigger, better, and redefined event experience. As the SaaS industry moves up-market, so are we.</p>"
+    type: tech
+  - name: "(In-Person) DjangoCon Europe 2025 @ Talbot Hotel Stillorgan"
+    url: "https://2025.djangocon.eu"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-04-23T09:00:00Z
+    end_datetime: 2025-04-27T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This is the 17th edition of the Conference and it is organized by a team made up of Django practitioners from all levels. We welcome people from all over the world.</p>"
+    type: tech
+  - name: "(In-Person) Dublin Tech Week 2025 @ Various"
+    url: "https://dublintechweek.com"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-05-23T09:00:00Z
+    end_datetime: 2025-05-30T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A Collaborative Celebration Of Innovation In Dublin</p>"
+    type: tech

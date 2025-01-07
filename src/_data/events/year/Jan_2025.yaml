@@ -15,9 +15,9 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhccbcb/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-01T19:00:00Z
-    end_datetime: 2024-01-01T21:00:00Z
-    new: true
+    start_datetime: 2025-01-01T19:00:00Z
+    end_datetime: 2025-01-01T21:00:00Z
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -25,8 +25,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhccbtb/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-15T19:00:00Z
-    end_datetime: 2024-01-15T21:00:00Z
+    start_datetime: 2025-01-15T19:00:00Z
+    end_datetime: 2025-01-15T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -35,8 +35,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhccbmc/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-29T19:00:00Z
-    end_datetime: 2024-01-29T21:00:00Z
+    start_datetime: 2025-01-29T19:00:00Z
+    end_datetime: 2025-01-29T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -45,9 +45,9 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365499/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-06T19:00:00Z
-    end_datetime: 2024-01-06T21:00:00Z
-    new: true
+    start_datetime: 2025-01-06T19:00:00Z
+    end_datetime: 2025-01-06T21:00:00Z
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -55,8 +55,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/303365500/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-20T19:00:00Z
-    end_datetime: 2024-01-20T21:00:00Z
+    start_datetime: 2025-01-20T19:00:00Z
+    end_datetime: 2025-01-20T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -65,8 +65,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptyhccbkb/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-07T19:00:00Z
-    end_datetime: 2024-01-20T21:00:00Z
+    start_datetime: 2025-01-07T19:00:00Z
+    end_datetime: 2025-01-07T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -75,8 +75,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptyhccbsb/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-14T19:00:00Z
-    end_datetime: 2024-01-14T21:00:00Z
+    start_datetime: 2025-01-14T19:00:00Z
+    end_datetime: 2025-01-14T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -85,8 +85,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptyhccbcc/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-21T19:00:00Z
-    end_datetime: 2024-01-21T21:00:00Z
+    start_datetime: 2025-01-21T19:00:00Z
+    end_datetime: 2025-01-21T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -95,8 +95,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/hxncptyhccblc/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-28T19:00:00Z
-    end_datetime: 2024-01-28T21:00:00Z
+    start_datetime: 2025-01-28T19:00:00Z
+    end_datetime: 2025-01-28T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -105,8 +105,8 @@ eventlistings:
     url: "https://www.meetup.com/dublin-linux-community/events/304783218/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-25T15:00:00Z
-    end_datetime: 2024-01-25T17:00:00Z
+    start_datetime: 2025-01-25T15:00:00Z
+    end_datetime: 2025-01-25T17:00:00Z
     new: true
     recurring: false
     desc: 
@@ -115,8 +115,8 @@ eventlistings:
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/qxcmktyhccbxb/"
     region: 🇮🇪
     date_added: 2024-12-04
-    start_datetime: 2024-01-18T19:00:00Z
-    end_datetime: 2024-01-18T21:00:00Z
+    start_datetime: 2025-01-18T19:00:00Z
+    end_datetime: 2025-01-18T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -126,8 +126,8 @@ eventlistings:
     url: "https://www.meetup.com/galway-game-makers-meetup/events/303648982/"
     region: 🇮🇪
     date_added: 2024-12-09
-    start_datetime: 2024-01-07T19:00:00Z
-    end_datetime: 2024-01-07T21:00:00Z
+    start_datetime: 2025-01-07T19:00:00Z
+    end_datetime: 2025-01-07T21:00:00Z
     new: true
     recurring: false
     desc: 
@@ -136,18 +136,8 @@ eventlistings:
     url: "https://www.eventbrite.ie/e/insight-galway-lecture-series-on-data-science-ai-registration-1091025870749"
     region: 🇮🇪
     date_added: 2024-12-09
-    start_datetime: 2024-01-21T14:00:00Z
-    end_datetime: 2024-01-21T15:00:00Z
-    new: true
-    recurring: false
-    desc: 
-    type: tech
-  - name: "(In-Person) Tech Talk: Innovating Together - Cutting Edge Technologies for Industry @ UCC"
-    url: "https://www.eventbrite.ie/e/tech-talk-innovating-together-cutting-edge-technologies-for-industry-tickets-1074270374609"
-    region: 🇮🇪
-    date_added: 2024-12-09
-    start_datetime: 2024-01-28T08:00:00Z
-    end_datetime: 2024-01-28T10:00:00Z
+    start_datetime: 2025-01-21T14:00:00Z
+    end_datetime: 2025-01-21T15:00:00Z
     new: true
     recurring: false
     desc: 
@@ -156,8 +146,8 @@ eventlistings:
     url: "https://www.eventbrite.ie/e/itags-cyber-forum-future-proofing-your-business-nis2-cyber-insurance-tickets-1109139438919"
     region: 🇮🇪
     date_added: 2024-12-09
-    start_datetime: 2024-01-28T16:30:00Z
-    end_datetime: 2024-01-28T19:30:00Z
+    start_datetime: 2025-01-28T16:30:00Z
+    end_datetime: 2025-01-28T19:30:00Z
     new: true
     recurring: false
     desc: 
@@ -167,9 +157,230 @@ eventlistings:
     url: "https://www.meetup.com/waterford-tech-meetup/events/305038065"
     region: 🇮🇪
     date_added: 2024-12-12
-    start_datetime: 2024-01-09T19:00:00Z
-    end_datetime: 2024-01-09T21:00:00Z
+    start_datetime: 2025-01-09T19:00:00Z
+    end_datetime: 2025-01-09T21:00:00Z
     new: true
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) IT Social Europe Data Technology Cybersecurity: IT Social Dublin | Data, Technology, Cybersecurity, IT @ Davy Byrnes"
+    url: "https://www.meetup.com/it-social-europe-data-technology-cybersecurity/events/305200417"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-10T17:30:00Z
+    end_datetime: 2025-01-10T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) IT Social Europe Data Technology Cybersecurity: IT Social Dublin | Data, Technology, Cybersecurity, IT @ Davy Byrnes"
+    url: "https://www.meetup.com/it-social-europe-data-technology-cybersecurity/events/305300659"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-17T17:30:00Z
+    end_datetime: 2025-01-17T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) IT Social Europe Data Technology Cybersecurity: IT Social Dublin | Data, Technology, Cybersecurity, IT @ Davy Byrnes"
+    url: "https://www.meetup.com/it-social-europe-data-technology-cybersecurity/events/305362048"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-24T17:30:00Z
+    end_datetime: 2025-01-24T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) IT Social Europe Data Technology Cybersecurity: IT Social Dublin | Data, Technology, Cybersecurity, IT @ Davy Byrnes"
+    url: "https://www.meetup.com/it-social-europe-data-technology-cybersecurity/events/305434013"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-31T17:30:00Z
+    end_datetime: 2025-01-31T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/304799724/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-08T15:00:00Z
+    end_datetime: 2025-01-08T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/305203299/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-13T19:00:00Z
+    end_datetime: 2025-01-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lznlptyhccbkc/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-27T19:00:00Z
+    end_datetime: 2025-01-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Dublin Atlassian Community Events: Accelerating with DORA and More!"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/305378699/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-14T17:30:00Z
+    end_datetime: 2025-01-14T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Stripe meetup Dublin January 2025 @ Stripe"
+    url: "https://www.meetup.com/stripe-dublin/events/304546397/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-16T18:30:00Z
+    end_datetime: 2025-01-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/305349026/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-20T18:00:00Z
+    end_datetime: 2025-01-20T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Remote) Test Heads: Code without caution: AI's path to the next digital disaster"
+    url: "https://www.meetup.com/test-heads/events/305150805/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-22T18:15:00Z
+    end_datetime: 2025-01-22T19:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Data Science and Engineering Club: Mastering Data Engineering"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/305461634/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-25T10:00:00Z
+    end_datetime: 2025-01-25T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Hackerspace Meetup + Tech Swap Shop @ TOG Hackerspace"
+    url: "https://www.meetup.com/dublin-linux-community/events/305449557/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-25T15:00:00Z
+    end_datetime: 2025-01-25T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) CHAI Dublin (Chatbot & AI) Meetup: Hands on Tutorial: Vector Search with Python & MongoDB @ TCube"
+    url: "https://www.meetup.com/chai-dublin-chatbot-ai-meetup/events/305029600/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-28T18:00:00Z
+    end_datetime: 2025-01-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dub|Sec January 2025 Meetup"
+    url: "https://www.meetup.com/dub-sec/events/305417611/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-29T18:30:00Z
+    end_datetime: 2025-01-29T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 139"
+    url: "https://www.meetup.com/corksec/events/303031681/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-14T19:00:00Z
+    end_datetime: 2025-01-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Meetup: January 2025 Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/304902432/"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-30T18:00:00Z
+    end_datetime: 2025-01-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast 2025 Launch!"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/304634556/"
+    region: 🇬🇧
+    date_added: 2024-01-07
+    start_datetime: 2025-01-15T18:00:00Z
+    end_datetime: 2025-01-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Come along to find out more about the Women Techmakers initiative, what we do in Belfast and speaking at our annual IWD conference. You'll also hear from a panel of local women in tech on our 2025 IWD theme - \"Redefine Possible\" and of course, have an opportunity to network prior to the conference so you'll have buddies to go with!</p>"
+    type: diversity
+  - name: "(In-Person) BelAWSt User Group: Community AWS re:Invent re:Cap @ Instil"
+    url: "https://www.meetup.com/belfawst-meetup/events/305065056/"
+    region: 🇬🇧
+    date_added: 2024-01-07
+    start_datetime: 2025-01-22T18:00:00Z
+    end_datetime: 2025-01-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club @ A&L Goodbody"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2024-01-07
+    start_datetime: 2025-01-30T09:30:00Z
+    end_datetime: 2025-01-30T11:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Female Coders - Our first Coffee Meetup of 2025!"
+    url: "https://www.eventbrite.com/e/cork-female-coders-our-first-coffee-meetup-of-2025-tickets-1134684956249"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-14T18:30:00Z
+    end_datetime: 2025-01-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
+    type: diversity
+  - name: "(In-Person) Cork Female Coders - Our first Coffee Meetup of 2025!"
+    url: "https://www.eventbrite.com/e/cork-female-coders-coffee-meetup-january-28th-tickets-1134715347149"
+    region: 🇮🇪
+    date_added: 2024-01-07
+    start_datetime: 2025-01-28T18:30:00Z
+    end_datetime: 2025-01-28T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>coffee.coders() is a community of women who practice and learn programming together to overcome gender bias. All backgrounds, ages and levels of experience are welcome.</p>"
+    type: diversity
