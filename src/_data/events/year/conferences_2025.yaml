@@ -5,7 +5,7 @@ conferences:
     region: 🇮🇪
     date_added: 2024-10-09
     start_datetime: 2025-05-28T09:00:00Z
-    end_datetime: 2025-05-28T16:30:00Z
+    end_datetime: 2025-05-29T16:30:00Z
     new: true
     recurring: false
     desc: "<p>Welcome to Ireland's Climate Tech Conference, where innovation meets sustainability! Our shared commitment to a greener future unites us in addressing climate challenges. Today, visionary minds converge to explore cutting-edge solutions. From renewable energy breakthroughs to carbon capture innovations, we're forging a path toward a resilient planet. Embrace discussions on sustainable agriculture, eco-friendly transportation, and smart cities. Let's amplify our impact by fostering collaboration and accelerating climate-positive technologies. Together, we'll shape a more sustainable tomorrow for Ireland and beyond. Join the conversation, inspire change, and be part of the Climate Tech revolution. Welcome to a greener, cleaner future!</p>"
@@ -119,5 +119,46 @@ conferences:
     end_datetime: 2025-01-10T18:00:00Z
     new: true
     recurring: false
-    desc: "<p>BOUNCE is more than just another design event—it's a unique opportunity to immerse yourself in design at the cutting edge of technology and craft. Taking place over two inspiring days at Trinity College Dublin, BOUNCE brings together a curated lineup of both international and Irish designers, including pioneers and fresh voices redefining design today. </p>"
+    desc: "<p>BOUNCE is more than just another design event—it's a unique opportunity to immerse yourself in design at the cutting edge of technology and craft. Taking place over two inspiring days at Trinity College Dublin, BOUNCE brings together a curated lineup of both international and Irish designers, including pioneers and fresh voices redefining design today.</p>"
+    type: tech
+
+  - name: "(In-Person) World Data Symposium (WDS) @ CCD"
+    url: "https://www.iata.org/en/events/all/world-data-symposium/"
+    region: 🇮🇪
+    date_added: 2024-01-08
+    start_datetime: 2025-02-26T09:00:00Z
+    end_datetime: 2025-02-27T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The IATA World Data Symposium (WDS) is an exclusive event designed to showcase the forefront of data, technology, and cybersecurity within aviation, fostering collaboration and driving transformative change.</p>"
+    type: tech
+  - name: "(In-Person) Data Leaders Summit (Wexford)"
+    url: "https://summit.castlebridge.info"
+    region: 🇮🇪
+    date_added: 2024-01-08
+    start_datetime: 2025-03-13T09:00:00Z
+    end_datetime: 2025-03-14T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Building on last year’s critically acclaimed Data Leaders’ Summit, Castlebridge invites the global data management community to Wexford again for a two-day intensive event digging deeply into critical topics for today’s data leaders.</p>"
+    type: tech
+  - name: "(In-Person) The Digital Transformation Conference 2025 @ RDS"
+    url: "https://www.eventbrite.ie/e/the-digital-transformation-conference-2025-tickets-944193697767"
+    region: 🇮🇪
+    date_added: 2024-01-08
+    start_datetime: 2025-05-28T09:00:00Z
+    end_datetime: 2025-05-29T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Digital Transformation Conference brings together key executives from the Ireland's leading companies that are interested in implementing a digital transformation strategy in order to improve their manufacturing processes and develop new capabilities and business models.</p>"
+    type: tech
+  - name: "(In-Person) Data Céilí @ TCD"
+    url: "https://www.dataceili.ie"
+    region: 🇮🇪
+    date_added: 2024-01-08
+    start_datetime: 2025-06-12T09:00:00Z
+    end_datetime: 2025-06-13T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Data Céilí is a free annual two-day conference all about Microsoft data platform technologies. We combine full-day training sessions with a choice of 24 one-hour sessions where you can pick up some new skills, or deep dive into existing skills.</p>"
     type: tech
