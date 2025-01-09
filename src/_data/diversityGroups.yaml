@@ -1058,7 +1058,7 @@ groups:
     month_added: 05
     day_added: 01
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Coding Black Females"
@@ -1069,7 +1069,7 @@ groups:
     month_added: 06
     day_added: 06
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Cork Female Coders./"
@@ -1080,7 +1080,7 @@ groups:
     month_added: 06
     day_added: 18
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "DesignOpp"
@@ -1091,5 +1091,5 @@ groups:
     month_added: 08
     day_added: 19
     date_removed:
-    status: new
+    status: active
     type: all 
