@@ -173,3 +173,14 @@ conferences:
     recurring: false
     desc: "<p>Discover the role of open source in transforming innovation at the National Open Source Summit 2025, with perspectives from government, industry, and academia. This is the must attend event f or innovators leveraging open source to accelerate ideas into action</p>"
     type: tech
+  - name: "(In-Person) FÍS Games Summit 2024 @ Portershed a Dó"
+    url: "https://summit.openirelandnetwork.com"
+    region: 🇮🇪
+    date_added: 2024-01-16
+    start_datetime: 2025-04-05T10:00:00Z
+    end_datetime: 2025-04-05T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>FÍS Games Summit 2024 is the fourth annual event hosted by Ardán, supported by Screen Ireland, Gréasán na Meán, IMIRT, WRAP, Creative Europe Media Desk Ireland, ATU Galway, and Northern Ireland Screen.</p>
+    <p>The goal of the summit is to help foster growth and success in the Irish games development community by providing developers on the island of Ireland with a unique opportunity to engage with talks and presentations that will help them in their own careers.</p>"
+    type: gamedev
