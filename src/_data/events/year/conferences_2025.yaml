@@ -6,7 +6,7 @@ conferences:
     date_added: 2024-10-09
     start_datetime: 2025-05-28T09:00:00Z
     end_datetime: 2025-05-29T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Welcome to Ireland's Climate Tech Conference, where innovation meets sustainability! Our shared commitment to a greener future unites us in addressing climate challenges. Today, visionary minds converge to explore cutting-edge solutions. From renewable energy breakthroughs to carbon capture innovations, we're forging a path toward a resilient planet. Embrace discussions on sustainable agriculture, eco-friendly transportation, and smart cities. Let's amplify our impact by fostering collaboration and accelerating climate-positive technologies. Together, we'll shape a more sustainable tomorrow for Ireland and beyond. Join the conversation, inspire change, and be part of the Climate Tech revolution. Welcome to a greener, cleaner future!</p>"
     type: tech
@@ -16,7 +16,7 @@ conferences:
     date_added: 2024-10-09
     start_datetime: 2025-04-08T09:00:00Z
     end_datetime: 2025-04-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Following on from a sold-out event in 2024 with 600 delegates taking part, HIRANI will again bring together their network to showcase the sector in Northern Ireland, and the part we can play on the global stage. This unique event is firmly on the conference map with feedback showing nearly 4,000 connections were made across the two-day life sciences expo.</p>"
     type: tech
@@ -26,7 +26,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-02-22T09:00:00Z
     end_datetime: 2025-02-22T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We're thrilled to announce that the first Bsides Galway will be hosted at the University of Galway</p>"
     type: tech
@@ -36,7 +36,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-05-24T09:00:00Z
     end_datetime: 2025-05-24T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members.</p>"
     type: tech
@@ -46,7 +46,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-05-28T09:00:00Z
     end_datetime: 2025-05-29T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Dublin Tech Summit is proud to be part of a city-wide celebration of innovation, creativity, and collaboration.</p>"
     type: tech
@@ -56,7 +56,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-03-11T09:00:00Z
     end_datetime: 2025-03-11T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Discover the future of security at Zero Day Con 'Converge' in Dublin, where AI meets Cybersecurity, Resilience, and Data Security. Join industry leaders as they explore groundbreaking strategies for a safer digital world.</p>"
     type: tech
@@ -66,7 +66,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-08-29T09:00:00Z
     end_datetime: 2025-08-29T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>An annual, community driven, not-for-profit conference about Software Delivery held in Dublin, Ireland.</p>"
     type: tech
@@ -76,7 +76,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-03-01T09:00:00Z
     end_datetime: 2025-03-01T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The annual conference of the Computers in Education Society of Ireland.</p>
     <p>Theme - 'Navigating Digital Futures', in 2025. Consider this a 2.0 programme!</p>"
@@ -87,7 +87,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-10-14T09:00:00Z
     end_datetime: 2025-10-16T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We’re back for 2025 with a bigger, better, and redefined event experience. As the SaaS industry moves up-market, so are we.</p>"
     type: tech
@@ -97,7 +97,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-04-23T09:00:00Z
     end_datetime: 2025-04-27T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This is the 17th edition of the Conference and it is organized by a team made up of Django practitioners from all levels. We welcome people from all over the world.</p>"
     type: tech
@@ -107,7 +107,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-05-23T09:00:00Z
     end_datetime: 2025-05-30T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A Collaborative Celebration Of Innovation In Dublin</p>"
     type: tech
@@ -117,7 +117,7 @@ conferences:
     date_added: 2024-01-07
     start_datetime: 2025-01-09T09:00:00Z
     end_datetime: 2025-01-10T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>BOUNCE is more than just another design event—it's a unique opportunity to immerse yourself in design at the cutting edge of technology and craft. Taking place over two inspiring days at Trinity College Dublin, BOUNCE brings together a curated lineup of both international and Irish designers, including pioneers and fresh voices redefining design today.</p>"
     type: tech
@@ -128,7 +128,7 @@ conferences:
     date_added: 2024-01-08
     start_datetime: 2025-02-26T09:00:00Z
     end_datetime: 2025-02-27T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The IATA World Data Symposium (WDS) is an exclusive event designed to showcase the forefront of data, technology, and cybersecurity within aviation, fostering collaboration and driving transformative change.</p>"
     type: tech
@@ -138,7 +138,7 @@ conferences:
     date_added: 2024-01-08
     start_datetime: 2025-03-13T09:00:00Z
     end_datetime: 2025-03-14T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Building on last year’s critically acclaimed Data Leaders’ Summit, Castlebridge invites the global data management community to Wexford again for a two-day intensive event digging deeply into critical topics for today’s data leaders.</p>"
     type: tech
@@ -148,7 +148,7 @@ conferences:
     date_added: 2024-01-08
     start_datetime: 2025-05-28T09:00:00Z
     end_datetime: 2025-05-29T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Digital Transformation Conference brings together key executives from the Ireland's leading companies that are interested in implementing a digital transformation strategy in order to improve their manufacturing processes and develop new capabilities and business models.</p>"
     type: tech
@@ -158,7 +158,7 @@ conferences:
     date_added: 2024-01-08
     start_datetime: 2025-06-12T09:00:00Z
     end_datetime: 2025-06-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Data Céilí is a free annual two-day conference all about Microsoft data platform technologies. We combine full-day training sessions with a choice of 24 one-hour sessions where you can pick up some new skills, or deep dive into existing skills.</p>"
     type: tech
