@@ -184,3 +184,14 @@ conferences:
     desc: "<p>FÍS Games Summit 2024 is the fourth annual event hosted by Ardán, supported by Screen Ireland, Gréasán na Meán, IMIRT, WRAP, Creative Europe Media Desk Ireland, ATU Galway, and Northern Ireland Screen.</p>
     <p>The goal of the summit is to help foster growth and success in the Irish games development community by providing developers on the island of Ireland with a unique opportunity to engage with talks and presentations that will help them in their own careers.</p>"
     type: gamedev
+
+  - name: "(In-Person) Cyber Leaders Conference Belfast @ Titanic Belfast"
+    url: "https://www.eventbrite.ie/e/cyber-leaders-conference-belfast-tickets-1107884806279"
+    region: 🇬🇧
+    date_added: 2024-01-21
+    start_datetime: 2025-02-13T09:00:00Z
+    end_datetime: 2025-02-13T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at Titanic Belfast for the Cyber Leaders Conference, where industry experts from PWC, Microsoft and Check Point will share insights on the latest trends and strategies in cybersecurity. This in-person event is a fantastic opportunity to network with fellow professionals and gain valuable knowledge to stay ahead in the ever-evolving cyber landscape.</p>"
+    type: tech

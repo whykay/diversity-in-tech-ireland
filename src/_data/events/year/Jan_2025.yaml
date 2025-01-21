@@ -497,3 +497,64 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(Online) Testheads: Code without caution: AI's path to the next digital disaster"
+    url: "https://www.meetup.com/test-heads/events/305150805/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-01-22T18:15:00Z
+    end_datetime: 2025-01-22T19:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Newry Digital: Demystifying Vulnerability Assessments with Tenable Nessus & Security Center"
+    url: "https://www.meetup.com/newry-digital/events/305583879/"
+    region: 🇬🇧
+    date_added: 2024-01-21
+    start_datetime: 2025-01-22T19:00:00Z
+    end_datetime: 2025-01-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Design Brew: Speaker Event"
+    url: "https://www.meetup.com/designbrew-design-meetup-events/events/305616929/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-01-24T18:30:00Z
+    end_datetime: 2025-01-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: design
+  - name: "(In-Person) Jan 2025: Wexford Tech Meetup @ Scurri"
+    url: "https://www.meetup.com/wexford-tech-meetup/events/305588461/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-01-29T19:00:00Z
+    end_datetime: 2025-01-29T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) SRE Dublin: The January SRE Meetup @ Google Docks"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/305645284/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-01-30T19:00:00Z
+    end_datetime: 2025-01-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) WITS Ireland: Leading the Change: Empowering Women in STEM to Revolutionise FemTech"
+    url: "https://www.eventbrite.ie/e/leading-the-change-empowering-women-in-stem-to-revolutionise-femtech-tickets-1214949108489"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-01-31T12:00:00Z
+    end_datetime: 2025-01-31T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Leading the Change: Empowering Women in STEM to Revolutionise FemTech and Close the Health Gap</p>"
+    type: diversity

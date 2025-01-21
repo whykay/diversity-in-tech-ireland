@@ -91,3 +91,44 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) The Games Co-Op: Ka-Blamuary @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/305716025/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-02-03T19:00:00Z
+    end_datetime: 2025-02-03T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) TEDx Dublin Salon @ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/305652640/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-02-07T18:00:00Z
+    end_datetime: 2025-02-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Atlassian Community Events: Saint Valentine’s Atlassian Fest: Love for Tech in Dublin"
+    url: "https://www.meetup.com/dublin-atlassian-community-events/events/305378700/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-02-13T16:30:00Z
+    end_datetime: 2025-02-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyLadies Dublin Special Event @ JP Morgan"
+    url: "https://www.meetup.com/pyladiesdublin/"
+    region: 🇮🇪
+    date_added: 2024-01-21
+    start_datetime: 2025-02-13T16:30:00Z
+    end_datetime: 2025-02-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: <p>Up for a mini-hackathon? Bring your laptop along and join us at JP Morgan's. Details coming soon, check meetup page for latest info.</p>
+    type: diversity
