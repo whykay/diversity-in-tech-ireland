@@ -20,3 +20,14 @@ eventlistings:
     recurring: false
     desc: "<p>Our 8th Annual Women Techmakers conference will take place on Saturday, 8th March 2025.  Find out all the details at our <a href=\"https://gdg.community.dev/events/details/google-gdg-belfast-presents-wtm-belfast-2025-launch/\">WTM2025 Launch Event</a> on January 15th.</p>"
     type: diversity
+
+  - name: "(In-Person) International Women's Day Event: Accelerate Your Influence @ Udemy"
+    url: "https://iwdcelebrationeventacceleratey.splashthat.com/ "
+    region: 🇮🇪
+    date_added: 2024-01-27
+    start_datetime: 2025-03-05T09:30:00Z
+    end_datetime: 2025-03-05T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This year’s event, “Accelerate Your Influence: Mastering the Power of Self-Advocacy,” aligns with the global International Women’s Day (IWD) theme of “Accelerate Action.” Our event is designed to inspire and empower women to overcome workplace barriers, amplify their voices, and unlock their full potential.</p>"
+    type: diversity
