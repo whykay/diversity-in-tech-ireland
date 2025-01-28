@@ -224,3 +224,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) Cats Making Games February Meet Up @ Brewery Corner (Kilkenny)" 
+    url: "https://www.eventbrite.ie/e/cmg-february-meet-up-tickets-1119024364999"
+    region: 🇮🇪
+    date_added: 2024-01-28
+    start_datetime: 2025-02-13T18:00:00Z
+    end_datetime: 2025-02-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
