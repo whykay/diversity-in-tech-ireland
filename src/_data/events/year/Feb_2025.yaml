@@ -234,17 +234,6 @@ eventlistings:
     new: false
     recurring: false
     desc:
-    type: gamedev
-
-  - name: "GDG Athlone: Flutter Best Practices: Build Beautiful, Performant Apps"
-    url: "https://gdg.community.dev/events/details/google-gdg-athlone-presents-flutter-best-practices-build-beautiful-performant-apps/"
-    region: 🇮🇪
-    date_added: 2024-02-10
-    start_datetime: 2025-02-15T18:00:00Z
-    end_datetime: 2025-02-15T19:00:00Z
-    new: true
-    recurring: false
-    desc:
     type: tech
   - name: "(In-Person) Python Ireland February 2025 Meetup"
     url: "https://www.meetup.com/pythonireland/events/306018583/"
