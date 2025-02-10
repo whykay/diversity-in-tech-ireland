@@ -130,7 +130,7 @@ eventlistings:
     end_datetime: 2025-02-13T20:30:00Z
     new: false
     recurring: false
-    desc: <p>Up for a mini-hackathon? Bring your laptop along and join us at JP Morgan's. Details coming soon, check meetup page for latest info.</p>
+    desc: <p>JP Morgan will host a coding quiz where attendees will be divided into small teams of four. Together, you'll tackle challenging questions and collaborate on innovative solutions.</p>
     type: diversity
 
   - name: "(In-Person) Waterford Tech Meetup: An insight into the IoT & Taking OpenShift to the Edge"
@@ -213,7 +213,7 @@ eventlistings:
     new: false
     recurring: false
     desc:
-    type: gamedev
+    type: gamedev, maker, creative, music, audio, art
   - name: "(In-Person) Cork|Sec 140 @ The Pavilion"
     url: "https://www.meetup.com/corksec/events/303031682/"
     region: 🇮🇪
@@ -235,3 +235,184 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "GDG Athlone: Flutter Best Practices: Build Beautiful, Performant Apps"
+    url: "https://gdg.community.dev/events/details/google-gdg-athlone-presents-flutter-best-practices-build-beautiful-performant-apps/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-15T18:00:00Z
+    end_datetime: 2025-02-15T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Python Ireland February 2025 Meetup"
+    url: "https://www.meetup.com/pythonireland/events/306018583/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-12T18:30:00Z
+    end_datetime: 2025-02-12T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Clojure Ireland Meetup @ Kyodai Izakaya"
+    url: "https://www.meetup.com/clojure-ireland/events/306048450/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-19T19:30:00Z
+    end_datetime: 2025-02-19T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Fabric Data Engineer Masterclass - Session 1"
+    url: "https://www.meetup.com/sqlireland/events/305571530/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-14T12:00:00Z
+    end_datetime: 2025-02-14T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) A Day to Finish What You Started - Finish-a-thon @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/305969248/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-15T10:30:00Z
+    end_datetime: 2025-02-15T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Dublin Linux Tech Talks + Swap Shop @ TOG Hackerspace"
+    url: "https://www.meetup.com/dublin-linux-community/events/305925849/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-16T15:00:00Z
+    end_datetime: 2025-02-16T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) PyBelfast Febuary @ Slice"
+    url: "https://www.meetup.com/pybelfast/events/305876933/"
+    region: 🇬🇧
+    date_added: 2024-02-10
+    start_datetime: 2025-02-19T18:00:00Z
+    end_datetime: 2025-02-19T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Women in Tech Belfast - Lightning Talks Event - February 2025"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/305571517/"
+    region: 🇬🇧
+    date_added: 2024-02-10
+    start_datetime: 2025-02-20T17:30:00Z
+    end_datetime: 2025-02-20T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Kicking off 2025 with the ever-popular Women in Tech Belfast Lightning Talks event! Lightning talks are short and punchy at 3 to 5 minutes!</p>"
+    type: diversity
+  - name: "(In-Person) Coffee & Code Mobile Developers: Episode 2 - Costa Coffee @ College Green"
+    url: "https://www.meetup.com/coffee-code-mobile-developers/events/306068057"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-22T11:00:00Z
+    end_datetime: 2025-02-22T12:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) AWS Dublin - Dive into DSQL & More! - Reinvent Recap @ Button Factory"
+    url: "https://www.meetup.com/awsdublin/events/305794837"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-25T17:30:00Z
+    end_datetime: 2025-02-25T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dub|Sec February 2025 Meetup @ The Camden Court Hotel"
+    url: "https://www.meetup.com/dub-sec/events/306013879/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-26T18:30:00Z
+    end_datetime: 2025-02-26T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) DubJUG 254 - Author and C4 Creator Simon Brown"
+    url: "https://www.meetup.com/dublinjavausergroup/events/305990274/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-27T17:45:00Z
+    end_datetime: 2025-02-27T20:45:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) SQL Ireland User Group: Fabric Data Engineer 2 - Effortless Data Processing with Fabric Python Notebooks"
+    url: "https://www.meetup.com/sqlireland/events/305571799/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-28T10:00:00Z
+    end_datetime: 2025-02-28T11:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Letterkenny HashiCorp User Group Meetup #2"
+    url: "https://www.meetup.com/letterkenny-hashicorp-user-group/events/305897697/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-13T17:00:00Z
+    end_datetime: 2025-02-13T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) IoT Belfast 27: Reflections & Innovations for 2025 @ Ulster University"
+    url: "https://www.meetup.com/iotbelfast/events/305715246/"
+    region: 🇬🇧
+    date_added: 2024-02-10
+    start_datetime: 2025-02-20T18:30:00Z
+    end_datetime: 2025-02-20T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Low Code Belfast February 2025: Networking Night @ Aflac Northern Ireland"
+    url: "https://www.meetup.com/low-code-belfast/events/305755232/"
+    region: 🇬🇧
+    date_added: 2024-02-10
+    start_datetime: 2025-02-27T17:30:00Z
+    end_datetime: 2025-02-27T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Galway Information Technology 2.1 Edge Computing"
+    url: "https://www.meetup.com/galway-information-technology/events/305887313/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-13T18:30:00Z
+    end_datetime: 2025-02-13T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Ministry of Testing Cork: Pair Programming with AI: My Playwright Testing Journey @ Poppulo"
+    url: "https://www.meetup.com/ministry-of-testing-cork/events/306032008/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-02-26T18:00:00Z
+    end_datetime: 2025-02-26T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

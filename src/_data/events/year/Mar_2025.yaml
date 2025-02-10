@@ -41,3 +41,75 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+
+  - name: "(In-Person) Women Techmakers Dublin: Redefine Possible - International Women's Day 2025 @ Workday"
+    url: "https://gdg.community.dev/events/details/google-gdg-dublin-presents-redefine-possible-international-womens-day-2025/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-25T18:00:00Z
+    end_datetime: 2025-03-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: "\"Redefine Possible\" is a bold declaration that challenges the boundaries of what technology can achieve and reimagines who shapes its future."
+    type: diversity
+  - name: "(In-Person) Engineers Week Soldering Workshop @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/305751785/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-01T11:00:00Z
+    end_datetime: 2025-03-01T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Test Heads meetup @ Workday"
+    url: "https://www.meetup.com/test-heads/events/305846187/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-05T18:00:00Z
+    end_datetime: 2025-03-05T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Ladies that UX Belfast: AI and Using It More Effectively @ ESO "
+    url: "https://www.meetup.com/ladies-that-ux-belfast/events/305926862/"
+    region: 🇬🇧
+    date_added: 2024-02-10
+    start_datetime: 2025-03-05T18:00:00Z
+    end_datetime: 2025-03-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: "Come along for some pizza, beer and some really interesting talks."
+    type: diversity
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/305869846/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-08T15:00:00Z
+    end_datetime: 2025-03-08T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup! @ CREW"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/303648989/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-04T19:00:00Z
+    end_datetime: 2025-03-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(Hybrid) NGINX Meetup Group: Cork Chapter"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/305162623/"
+    region: 🇮🇪
+    date_added: 2024-02-10
+    start_datetime: 2025-03-06T18:00:00Z
+    end_datetime: 2025-03-06T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
