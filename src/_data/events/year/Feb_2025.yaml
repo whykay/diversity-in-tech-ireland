@@ -98,7 +98,7 @@ eventlistings:
     date_added: 2024-01-21
     start_datetime: 2025-02-03T19:00:00Z
     end_datetime: 2025-02-03T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -108,7 +108,7 @@ eventlistings:
     date_added: 2024-01-21
     start_datetime: 2025-02-07T18:00:00Z
     end_datetime: 2025-02-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -118,7 +118,7 @@ eventlistings:
     date_added: 2024-01-21
     start_datetime: 2025-02-13T16:30:00Z
     end_datetime: 2025-02-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -128,7 +128,7 @@ eventlistings:
     date_added: 2024-01-21
     start_datetime: 2025-02-13T16:30:00Z
     end_datetime: 2025-02-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: <p>Up for a mini-hackathon? Bring your laptop along and join us at JP Morgan's. Details coming soon, check meetup page for latest info.</p>
     type: diversity
@@ -139,7 +139,7 @@ eventlistings:
     date_added: 2024-01-23
     start_datetime: 2025-02-13T19:00:00Z
     end_datetime: 2025-02-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-27T15:00:00Z
     end_datetime: 2025-02-27T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We're turning hiring on its head. Join us for an exciting afternoon where 10-15 women-led startups will pitch to a room of engineers (that's YOU) eager to join startups as co-founders or hires!</p>"
     type: diversity
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-05T18:30:00Z
     end_datetime: 2025-02-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-11T19:00:00Z
     end_datetime: 2025-02-11T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-15T19:00:00Z
     end_datetime: 2025-02-15T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-15T17:30:00Z
     end_datetime: 2025-02-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Kicking off 2025 with the ever-popular Women in Tech Belfast Lightning Talks event! Lightning talks are short and punchy at 3 to 5 minutes!</p>"
     type: diversity
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-04T19:00:00Z
     end_datetime: 2025-02-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-15T09:00:00Z
     end_datetime: 2025-02-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2024-01-27
     start_datetime: 2025-02-11T19:00:00Z
     end_datetime: 2025-02-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2024-01-28
     start_datetime: 2025-02-13T18:00:00Z
     end_datetime: 2025-02-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
