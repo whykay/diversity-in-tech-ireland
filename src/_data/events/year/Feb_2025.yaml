@@ -123,11 +123,11 @@ eventlistings:
     desc: 
     type: tech
   - name: "(In-Person) PyLadies Dublin Special Event @ JP Morgan"
-    url: "https://www.meetup.com/pyladiesdublin/"
+    url: "https://www.meetup.com/pyladiesdublin/events/305791617/"
     region: 🇮🇪
     date_added: 2024-01-21
-    start_datetime: 2025-02-13T16:30:00Z
-    end_datetime: 2025-02-13T20:30:00Z
+    start_datetime: 2025-02-18T18:30:00Z
+    end_datetime: 2025-02-18T20:30:00Z
     new: false
     recurring: false
     desc: <p>JP Morgan will host a coding quiz where attendees will be divided into small teams of four. Together, you'll tackle challenging questions and collaborate on innovative solutions.</p>
@@ -427,3 +427,13 @@ eventlistings:
     recurring: false
     desc: "<p>This month WTM Belfast are reading The Gifts of Imperfection by Brene Brown. With thanks to our host Rapid7, we will be in their ground floor cafe at the Rapid7 office<p>"
     type: diversity
+  - name: "(In-Person) Liffey Sensing Workshop @ CHQ Dublin"
+    url: "https://www.eventbrite.ie/e/liffey-sensing-workshop-tickets-1245170280829"
+    region: 🇮🇪
+    date_added: 2024-02-11
+    start_datetime: 2025-02-18T17:00:00Z
+    end_datetime: 2025-02-18T18:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
