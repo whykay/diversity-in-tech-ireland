@@ -123,3 +123,15 @@ eventlistings:
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
+
+  - name: "(In-Person) Ladies that UX Belfast @ ESO"
+    url: "https://www.meetup.com/ladies-that-ux-belfast/events/305926862/"
+    region: 🇬🇧
+    date_added: 2024-02-03
+    start_datetime: 2025-03-05T18:00:00Z
+    end_datetime: 2025-03-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Call for speakers as we’re excited to announce that the upcoming Ladies that UX event in March will explore the fascinating topic of ‘AI and Using It More Effectively within the UX space’.</p>
+    <p>Check page for latest info.</p>"
+    type: diversity

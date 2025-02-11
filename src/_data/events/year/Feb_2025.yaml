@@ -406,14 +406,14 @@ eventlistings:
     desc:
     type: tech
 
-  - name: "(In-Person) Ladies that UX Belfast @ ESO"
-    url: "https://www.meetup.com/ladies-that-ux-belfast/events/305926862/"
+  - name: "(In-Person) TechFoundHer Brunch Meetup @ The Foundry, Belfast"
+    url: "https://www.eventbrite.ie/e/techfoundher-brunch-meetup-tickets-1237022360179"
     region: 🇬🇧
-    date_added: 2024-02-03
-    start_datetime: 2025-03-05T18:00:00Z
-    end_datetime: 2025-03-05T20:00:00Z
+    date_added: 2024-02-11
+    start_datetime: 2025-02-15T11:00:00Z
+    end_datetime: 2025-02-15T13:00:00Z
     new: true
     recurring: false
-    desc: "<p>Call for speakers as we’re excited to announce that the upcoming Ladies that UX event in March will explore the fascinating topic of ‘AI and Using It More Effectively within the UX space’.</p>
-    <p>Check page for latest info.</p>"
+    desc: "<p>Welcome to the TechFoundHer Brunch Meetup! Hard to believe that TechFoundHer is one year old!! What a year's it has been.<p>
+    <p>A great excuse to come together to meet up, share ideas, and support each other. Whether you're a seasoned pro or just starting out in the tech industry, this meetup is the perfect place to connect with like-minded individuals.</p>"
     type: diversity
