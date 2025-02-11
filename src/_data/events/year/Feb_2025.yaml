@@ -417,3 +417,13 @@ eventlistings:
     desc: "<p>Welcome to the TechFoundHer Brunch Meetup! Hard to believe that TechFoundHer is one year old!! What a year's it has been.<p>
     <p>A great excuse to come together to meet up, share ideas, and support each other. Whether you're a seasoned pro or just starting out in the tech industry, this meetup is the perfect place to connect with like-minded individuals.</p>"
     type: diversity
+  - name: "(Hybrid) Technology Powering Sustainable Public Transport: What goes into running Bikeshare.ie @ Rochestown Park Hotel (Cork) & Zoom"
+    url: "https://www.engineersireland.ie/Events/event/10261"
+    region: 🇮🇪
+    date_added: 2024-02-11
+    start_datetime: 2025-02-25T19:00:00Z
+    end_datetime: 2025-02-25T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
