@@ -417,3 +417,13 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) WTM Belfast Book Club #8 @ Rapid7"
+    url: "https://gdg.community.dev/events/details/google-gdg-belfast-presents-wtm-belfast-book-club-8/"
+    region: 🇬🇧
+    date_added: 2024-02-11
+    start_datetime: 2025-02-25T18:30:00Z
+    end_datetime: 2025-02-25T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This month WTM Belfast are reading The Gifts of Imperfection by Brene Brown. With thanks to our host Rapid7, we will be in their ground floor cafe at the Rapid7 office<p>"
+    type: diversity
