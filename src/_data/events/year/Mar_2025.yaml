@@ -135,3 +135,14 @@ eventlistings:
     desc: "<p>Call for speakers as we’re excited to announce that the upcoming Ladies that UX event in March will explore the fascinating topic of ‘AI and Using It More Effectively within the UX space’.</p>
     <p>Check page for latest info.</p>"
     type: diversity
+
+  - name: "(In-Person) Network Ireland: All Island International Women's Day 2025 @ Croke Park"
+    url: "https://womeninstem.ie/"
+    region: 🇮🇪
+    date_added: 2024-02-11
+    start_datetime: 2025-03-08T12:00:00Z
+    end_datetime: 2025-03-08T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Be part of history at the first-ever All-Island International Women’s Day celebration! Join women from across the island of Ireland for an inspiring and motivational celebration on International Women’s Day 2025. Hear from trailblazing speakers like Dr. Norah Patten, connect with leaders and innovators, and leave motivated to break barriers in your own journey. This is a unique opportunity to learn, network, and celebrate the power of women in business, leadership, and beyond!</p>"
+    type: diversity
