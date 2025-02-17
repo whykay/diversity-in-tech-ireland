@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-12T18:30:00Z
     end_datetime: 2025-02-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -241,7 +241,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-19T19:30:00Z
     end_datetime: 2025-02-19T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -251,7 +251,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-14T12:00:00Z
     end_datetime: 2025-02-14T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -261,7 +261,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-15T10:30:00Z
     end_datetime: 2025-02-15T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -271,7 +271,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-16T15:00:00Z
     end_datetime: 2025-02-16T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -281,7 +281,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-19T18:00:00Z
     end_datetime: 2025-02-19T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -291,7 +291,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-20T17:30:00Z
     end_datetime: 2025-02-20T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Kicking off 2025 with the ever-popular Women in Tech Belfast Lightning Talks event! Lightning talks are short and punchy at 3 to 5 minutes!</p>"
     type: diversity
@@ -301,7 +301,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-22T11:00:00Z
     end_datetime: 2025-02-22T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -311,7 +311,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-25T17:30:00Z
     end_datetime: 2025-02-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -321,7 +321,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-26T18:30:00Z
     end_datetime: 2025-02-26T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -331,7 +331,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-27T17:45:00Z
     end_datetime: 2025-02-27T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -341,7 +341,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-28T10:00:00Z
     end_datetime: 2025-02-28T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -351,7 +351,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-13T17:00:00Z
     end_datetime: 2025-02-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -361,7 +361,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-20T18:30:00Z
     end_datetime: 2025-02-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -371,7 +371,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-27T17:30:00Z
     end_datetime: 2025-02-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -381,7 +381,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-13T18:30:00Z
     end_datetime: 2025-02-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -391,7 +391,7 @@ eventlistings:
     date_added: 2024-02-10
     start_datetime: 2025-02-26T18:00:00Z
     end_datetime: 2025-02-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2024-02-11
     start_datetime: 2025-02-15T11:00:00Z
     end_datetime: 2025-02-15T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Welcome to the TechFoundHer Brunch Meetup! Hard to believe that TechFoundHer is one year old!! What a year's it has been.<p>
     <p>A great excuse to come together to meet up, share ideas, and support each other. Whether you're a seasoned pro or just starting out in the tech industry, this meetup is the perfect place to connect with like-minded individuals.</p>"
@@ -413,7 +413,7 @@ eventlistings:
     date_added: 2024-02-11
     start_datetime: 2025-02-25T19:00:00Z
     end_datetime: 2025-02-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -423,7 +423,7 @@ eventlistings:
     date_added: 2024-02-11
     start_datetime: 2025-02-25T18:30:00Z
     end_datetime: 2025-02-25T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This month WTM Belfast are reading The Gifts of Imperfection by Brene Brown. With thanks to our host Rapid7, we will be in their ground floor cafe at the Rapid7 office<p>"
     type: diversity
@@ -433,7 +433,7 @@ eventlistings:
     date_added: 2024-02-11
     start_datetime: 2025-02-18T17:00:00Z
     end_datetime: 2025-02-18T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
