@@ -124,18 +124,6 @@ eventlistings:
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
 
-  - name: "(In-Person) Ladies that UX Belfast @ ESO"
-    url: "https://www.meetup.com/ladies-that-ux-belfast/events/305926862/"
-    region: 🇬🇧
-    date_added: 2024-02-03
-    start_datetime: 2025-03-05T18:00:00Z
-    end_datetime: 2025-03-05T20:00:00Z
-    new: true
-    recurring: false
-    desc: "<p>Call for speakers as we’re excited to announce that the upcoming Ladies that UX event in March will explore the fascinating topic of ‘AI and Using It More Effectively within the UX space’.</p>
-    <p>Check page for latest info.</p>"
-    type: diversity
-
   - name: "(In-Person) Network Ireland: All Island International Women's Day 2025 @ Croke Park"
     url: "https://womeninstem.ie/"
     region: 🇮🇪
@@ -145,4 +133,25 @@ eventlistings:
     new: true
     recurring: false
     desc: "<p>Be part of history at the first-ever All-Island International Women’s Day celebration! Join women from across the island of Ireland for an inspiring and motivational celebration on International Women’s Day 2025. Hear from trailblazing speakers like Dr. Norah Patten, connect with leaders and innovators, and leave motivated to break barriers in your own journey. This is a unique opportunity to learn, network, and celebrate the power of women in business, leadership, and beyond!</p>"
+    type: diversity
+
+  - name: "(In-Person) TechIreland Female Founder Funding Review 2025 Launch @ 2 Charlemont Square. D2"
+    url: "https://aws.amazon.com/startups/events/techireland-female-founder-funding-review-2025-launch"
+    region: 🇮🇪
+    date_added: 2024-02-17
+    start_datetime: 2025-03-07T09:30:00Z
+    end_datetime: 2025-03-07T11:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>AWS are delighted to host the launch of the annual TechIreland Female Founder Funding Review Report on Friday 7th of March. The publication highlights funding trends, with insights from leading women entrepreneurs, investors and stakeholders. The report will be presented at a Breakfast Event sponsored by AWS, who for many years have championed women tech founders. </p>"
+    type: diversity
+  - name: "(In-Person) TechFoundHer: Entrepreneurship as Activism @ HuckleTree"
+    url: "https://www.eventbrite.ie/e/entrepreneurship-as-activism-tickets-1248555937419"
+    region: 🇮🇪
+    date_added: 2024-02-17
+    start_datetime: 2025-03-06T11:00:00Z
+    end_datetime: 2025-03-06T12:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>Entrepreneurship as Activism: Let's be the change. Join us on     Thursday, 6th March at Huckletree as we gather in solidarity to mark International Women’s Day. The theme for our event is entrepreneurship as activism!</p>"
     type: diversity

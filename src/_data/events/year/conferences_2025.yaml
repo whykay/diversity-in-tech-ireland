@@ -226,3 +226,14 @@ conferences:
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
+
+  - name: "(In-Person) The Innovators Festival @ The Foundry (Google)"
+    url: "https://innovatorsfestival.ie/"
+    region: 🇮🇪
+    date_added: 2024-02-17
+    start_datetime: 2025-03-20T09:30:00Z
+    end_datetime: 2025-03-20T16:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
