@@ -214,7 +214,8 @@ groups:
     year_added: 2017
     month_added: 11
     day_added: 27
-    status: active
+    date_removed: 2025-02-20
+    status: retired
     type: all 
   - name: Intertech Ireland 
     url: "http://www.intertech.ie/"
@@ -571,153 +572,6 @@ groups:
     date_removed:
     status: active
     type: all 
-
-# THIRD LEVEL
-  - name: CIT / WiSTEM
-    url: "https://societies.mtu.ie/societies/cork/wistem"
-    instagram: MTUCorkWiSTEM
-    twitter: MTUCorkWiSTEM
-    facebook: "https://www.facebook.com/MTUCorkWiSTEM"
-    region: Cork
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student
-  - name: DCU / GalSTEM
-    url: "https://dcuclubsandsocs.ie/society/galstem"
-    instagram: galstem.dcu
-    twitter: 
-    facebook: 
-    region: Dublin
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student
-  - name: Maynooth University / Women in STEM society
-    url: "https://dcuclubsandsocs.ie/society/galstem"
-    instagram: mu_womeninstem 
-    twitter: mu_womeninstem
-    facebook: "https://www.facebook.com/NUIMwomeninstem"
-    region: Maynooth
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student
-  - name: Institute of Technology Carlow / Women in Technology
-    url: "https://twitter.com/WITcarlowSETU"
-    instagram: 
-    twitter: 
-    facebook: 
-    region: Carlow
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student
-  - name: NUIG / WiSTEM
-    url: "https://socs.nuigalway.ie/societies/wistem"
-    instagram: 
-    twitter: 
-    facebook: 
-    region: Galway
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
-  - name: TU Dublin / FemSTEM
-    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE3MQ=="
-    instagram: 
-    twitter: 
-    facebook: "https://www.facebook.com/femstem.tudublin.9"
-    region: Dublin
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
-  - name: TU Dublin / ESTeEM
-    url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/projects/esteem/"
-    instagram: 
-    twitter: 
-    facebook: "https://www.dit.ie/edi/projects/esteem/"
-    region: Dublin
-    date_added: 2021-01-21
-    year_added: 2021
-    month_added: 01
-    day_added: 21
-    status: active
-    credit:
-    type: student  
-  - name: UCC / WiSTEM
-    url: "https://linktr.ee/WiSTEMSocietyUCC"
-    instagram: wistemsocietyucc
-    twitter: wistemucc
-    facebook: "https://www.facebook.com/UCCWiSTEM/"
-    region: Cork
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
-  - name: UCD / Women+ in STEM
-    url: "https://www.ucd.ie/wits/"
-    instagram: womeninstem_ucd
-    twitter: womeninstem_ucd
-    facebook: "https://www.facebook.com/ucdwomeninstem"
-    region: Dublin
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
-  - name: UL / WiSTEM2D
-    url: "https://www.ucd.ie/wits/"
-    instagram: wistemsoc.ul
-    twitter: ulwistem2d
-    facebook: "https://www.facebook.com/wistem2dsoc.ul/"
-    region: Limerick
-    date_added: 2020-11-19
-    year_added: 2020
-    month_added: 11
-    day_added: 19
-    status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
-  - name: TU Dublin (Tallaght) / WiSTEM Society
-    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE5Ng=="
-    instagram: tudublinwistemsoctc
-    twitter: WistemT
-    facebook:
-    region: Dublin
-    date_added: 2022-12-08
-    year_added: 2022
-    month_added: 12
-    day_added: 08
-    status: active
-    credit:  
-    type: student  
-
-
 
   - name: BAME Tech (Drogheda)
     url: "https://www.facebook.com/BameTech/"
@@ -1093,3 +947,203 @@ groups:
     date_removed:
     status: active
     type: all 
+
+# 2025
+  - name: "Women in Engineering Group"
+    url: "https://www.engineersireland.ie/Women-in-Engineering-Group"
+    region: Ireland
+    date_added: 2025-02-20
+    year_added: 2025
+    month_added: 02
+    day_added: 20
+    date_removed:
+    status: new
+    type: all 
+  - name: "Women in CyberSecurity (WiCyS) UK & Ireland"
+    url: "https://www.linkedin.com/company/wicysuk"
+    region: Ireland
+    date_added: 2025-02-20
+    year_added: 2025
+    month_added: 02
+    day_added: 20
+    date_removed:
+    status: new
+    type: all 
+
+###
+# THIRD LEVEL
+###
+  - name: MTU / WiSTEM
+    url: "https://societies.mtu.ie/societies/cork/wistem"
+    instagram: 
+    twitter: MTUCorkWiSTEM
+    facebook: "https://www.facebook.com/MTUCorkWiSTEM"
+    region: Cork
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student
+  - name: DCU / GalSTEM
+    url: "https://dcuclubsandsocs.ie/society/galstem"
+    instagram: galstem.dcu
+    twitter: 
+    facebook: 
+    region: Dublin
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: retired
+    date_removed: 2025-02-20
+    credit: Lauren from GalStem (DCU) 
+    type: student
+  - name: Maynooth University / Women in STEM society
+    url: "https://mulife.ie/society/women-in-stem"
+    instagram: mu_womeninstem 
+    twitter: mu_womeninstem
+    facebook: "https://www.facebook.com/NUIMwomeninstem"
+    region: Maynooth
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student
+  - name: Institute of Technology Carlow / Women in Technology
+    url: "https://twitter.com/WITcarlowSETU"
+    instagram: 
+    twitter: 
+    facebook: 
+    region: Carlow
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: retired
+    date_removed: 2025-02-20
+    credit: Lauren from GalStem (DCU) 
+    type: student
+  - name: NUIG / WiSTEM
+    url: "https://socs.nuigalway.ie/societies/wistem"
+    instagram: 
+    twitter: 
+    facebook: 
+    region: Galway
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student  
+  - name: TU Dublin / FemSTEM
+    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE3MQ=="
+    instagram: 
+    twitter: 
+    facebook: "https://www.facebook.com/femstem.tudublin.9"
+    region: Dublin
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: retired
+    date_removed: 2025-02-20
+    credit: Lauren from GalStem (DCU) 
+    type: student  
+  - name: TU Dublin / ESTeEM
+    url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/projects/esteem/"
+    instagram: 
+    twitter: 
+    facebook: "https://www.dit.ie/edi/projects/esteem/"
+    region: Dublin
+    date_added: 2021-01-21
+    year_added: 2021
+    month_added: 01
+    day_added: 21
+    status: retired
+    date_removed: 2025-02-20
+    credit:
+    type: student  
+  - name: UCC / WiSTEM
+    url: "https://linktr.ee/WiSTEMSocietyUCC"
+    instagram: wistemsocietyucc
+    twitter: wistemucc
+    facebook: "https://www.facebook.com/UCCWiSTEM/"
+    region: Cork
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student  
+  - name: UCD / Women+ in STEM
+    url: "https://www.ucd.ie/wits/"
+    instagram: womeninstem_ucd
+    twitter: womeninstem_ucd
+    facebook: "https://www.facebook.com/ucdwomeninstem"
+    region: Dublin
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student  
+  - name: UL / WiSTEM2D
+    url: "https://www.ul.ie/courses/johnson-and-johnson-wistem2d-programme"
+    instagram: wistemsoc.ul
+    twitter: ulwistem2d
+    facebook: "https://www.facebook.com/wistem2dsoc.ul/"
+    region: Limerick
+    date_added: 2020-11-19
+    year_added: 2020
+    month_added: 11
+    day_added: 19
+    status: active
+    credit: Lauren from GalStem (DCU) 
+    type: student  
+  - name: TU Dublin (Tallaght) / WiSTEM Society
+    url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE5Ng=="
+    instagram: tudublinwistemsoctc
+    twitter: WistemT
+    facebook:
+    region: Dublin
+    date_added: 2022-12-08
+    year_added: 2022
+    month_added: 12
+    day_added: 08
+    status: retired
+    date_removed: 2025-02-20
+    credit:  
+    type: student  
+  - name: TU Dublin (Blanchardstown Campus) / WiSTEM Society
+    url: "https://societies.tudublin.ie/societies/wistemsociety(blanchardstown)"
+    instagram: 
+    twitter: 
+    facebook:
+    region: Dublin
+    date_added: 2025-02-20
+    year_added: 2025
+    month_added: 02
+    day_added: 20
+    status: new
+    credit:  
+    type: student  
+  - name: TU Dublin / Women in Tech United (WITU)
+    url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/edi-initiatives-in-tu-dublin/witu/"
+    instagram: witu_dublin
+    twitter: witu_Dublin
+    facebook:
+    region: Dublin
+    date_added: 2025-02-20
+    year_added: 2025
+    month_added: 02
+    day_added: 20
+    status: new
+    credit:  
+    type: student  
