@@ -443,8 +443,19 @@ eventlistings:
     region: 🇮🇪
     date_added: 2024-02-17
     start_datetime: 2025-02-26T19:00:00Z
-    end_datetime: 2025-02-26T32:00:00Z
-    new: true
+    end_datetime: 2025-02-26T21:00:00Z
+    new: false
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Cat Making Games: Making Games Sound @ Mayfair Library (Kilkenny)"
+    url: "hhttps://www.eventbrite.ie/e/making-games-sound-tickets-1244855850359"
+    region: 🇮🇪
+    date_added: 2024-02-17
+    start_datetime: 2025-02-27T18:00:00Z
+    end_datetime: 2025-02-27T19:30:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+    

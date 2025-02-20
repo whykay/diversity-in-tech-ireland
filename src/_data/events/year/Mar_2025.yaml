@@ -155,3 +155,23 @@ eventlistings:
     recurring: false
     desc: "<p>Entrepreneurship as Activism: Let's be the change. Join us on     Thursday, 6th March at Huckletree as we gather in solidarity to mark International Women’s Day. The theme for our event is entrepreneurship as activism!</p>"
     type: diversity
+  - name: "(In-Person) The Games Co-Op: Game Set March!"
+    url: "https://www.meetup.com/the-games-co-op/events/306222249/"
+    region: 🇮🇪
+    date_added: 2024-02-17
+    start_datetime: 2025-03-10T19:00:00Z
+    end_datetime: 2025-03-10T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) AniMates #8 @ The Belfast Barge"
+    url: "https://www.animates-events.co.uk/events/p/animates8"
+    region: 🇬🇧
+    date_added: 2024-02-17
+    start_datetime: 2025-03-08T18:30:00Z
+    end_datetime: 2025-03-08T23:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev, animation
