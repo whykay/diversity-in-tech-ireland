@@ -449,7 +449,7 @@ eventlistings:
     desc:
     type: tech
   - name: "(In-Person) Cat Making Games: Making Games Sound @ Mayfair Library (Kilkenny)"
-    url: "hhttps://www.eventbrite.ie/e/making-games-sound-tickets-1244855850359"
+    url: "https://www.eventbrite.ie/e/making-games-sound-tickets-1244855850359"
     region: 🇮🇪
     date_added: 2024-02-17
     start_datetime: 2025-02-27T18:00:00Z
@@ -459,3 +459,24 @@ eventlistings:
     desc:
     type: tech
     
+  - name: "(In-Person) LEO Galway: Design Mingle: Weaving Connections, Crafting Inspirations @ CREW, Galway)"
+    url: "https://galwayleo.clr.events/event/137670:design-mingle-weaving-connections-crafting-inspirations-on-friday-21-february-2025"
+    region: 🇮🇪
+    date_added: 2024-02-20
+    start_datetime: 2025-02-21T10:30:00Z
+    end_datetime: 2025-02-21T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "(In-Person) Women in Engineering Walking Group: Donadea Forest Park"
+    url: "https://www.engineersireland.ie/Events/event/10284"
+    region: 🇮🇪
+    date_added: 2024-02-20
+    start_datetime: 2025-02-22T12:00:00Z
+    end_datetime: 2025-02-22T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Donadea Forest Park includes Donadea Castle and estate, the former home of the Aylmer family up until 1935. There are many historical features including the remains of the castle and walled gardens, St. Peter’s church, an ice house and boat house.</p>
+      <p> The event is open to women in all professions associated with engineering and construction for a morning of conversation and friendship building. </p>"
+    type: diversity
