@@ -1,0 +1,12 @@
+---
+eventlistings:
+  - name: "AWS - Spring Technology Insight Day"
+    url: "https://app.brazenconnect.com/events/28lEl"
+    region: 🇮🇪 
+    date_added: 2025-02-26
+    start_datetime: 2025-04-24T08:00:00Z
+    end_datetime: 2025-04-24T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>This event will host top Computer Science students from across Ireland to participate in an exciting upskilling and networking event alongside some of Amazon's best Software Developers.</p>"
+    type: diversity
