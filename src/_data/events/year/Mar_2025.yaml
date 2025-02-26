@@ -218,3 +218,25 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for an exciting in-person event where you can learn coding skills in a fun and interactive environment. Our team will guide you through hands-on activities and help you build some coding knowledge. Don't miss out on this fantastic opportunity to expand your skills and meet like-minded individuals, taking place in the Beyond Inc., Finisklin, Sligo. Sign up now!</p>"
     type: diversity
+  - name: "(In-Person) First Social of 2025 @ Connollys"
+    url: "https://www.meetup.com/sligotech/events/306418353/"
+    region: 🇮🇪
+    date_added: 2025-02-26
+    start_datetime: 2025-03-06T18:00:00Z
+    end_datetime: 2025-03-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in STEM @ Croke Park"
+    url: "https://womeninstem.ie/"
+    region: 🇮🇪
+    date_added: 2025-02-26
+    start_datetime: 2025-03-13T08:00:00Z
+    end_datetime: 2025-03-13T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
+    type: diversity
+
+    
