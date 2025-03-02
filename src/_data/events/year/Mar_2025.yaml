@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-01-07
     start_datetime: 2025-03-21T17:30:00Z
     end_datetime: 2025-03-23T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Techstars Startup Weekend is a 3 days interactive event for people who want to test/validate and explore their business ideas. You’ll meet the very best mentors, learn from workshops, work as a team and networking. Join us to learn how to Think, Work, and Build like a startup in 54 thrilling hours. You don't have to have a business idea to join.</p>"
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2025-01-07
     start_datetime: 2025-03-08T09:00:00Z
     end_datetime: 2025-03-08T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our 8th Annual Women Techmakers conference will take place on Saturday, 8th March 2025.  Find out all the details at our <a href=\"https://gdg.community.dev/events/details/google-gdg-belfast-presents-wtm-belfast-2025-launch/\">WTM2025 Launch Event</a> on January 15th.</p>"
     type: diversity
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2025-01-27
     start_datetime: 2025-03-05T09:30:00Z
     end_datetime: 2025-03-05T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This year’s event, “Accelerate Your Influence: Mastering the Power of Self-Advocacy,” aligns with the global International Women’s Day (IWD) theme of “Accelerate Action.” Our event is designed to inspire and empower women to overcome workplace barriers, amplify their voices, and unlock their full potential.</p>"
     type: diversity
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2025-01-27
     start_datetime: 2025-03-22T09:30:00Z
     end_datetime: 2025-03-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -49,7 +49,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-25T18:00:00Z
     end_datetime: 2025-03-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "\"Redefine Possible\" is a bold declaration that challenges the boundaries of what technology can achieve and reimagines who shapes its future."
     type: diversity
@@ -59,7 +59,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-01T11:00:00Z
     end_datetime: 2025-03-01T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -69,7 +69,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-05T18:00:00Z
     end_datetime: 2025-03-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -79,7 +79,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-05T18:00:00Z
     end_datetime: 2025-03-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Come along for some pizza, beer and some really interesting talks."
     type: diversity
@@ -89,7 +89,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-08T15:00:00Z
     end_datetime: 2025-03-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-04T19:00:00Z
     end_datetime: 2025-03-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -109,7 +109,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-06T18:00:00Z
     end_datetime: 2025-03-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -119,7 +119,7 @@ eventlistings:
     date_added: 2025-02-10
     start_datetime: 2025-03-13T08:30:00Z
     end_datetime: 2025-03-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2025-02-11
     start_datetime: 2025-03-08T12:00:00Z
     end_datetime: 2025-03-08T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Be part of history at the first-ever All-Island International Women’s Day celebration! Join women from across the island of Ireland for an inspiring and motivational celebration on International Women’s Day 2025. Hear from trailblazing speakers like Dr. Norah Patten, connect with leaders and innovators, and leave motivated to break barriers in your own journey. This is a unique opportunity to learn, network, and celebrate the power of women in business, leadership, and beyond!</p>"
     type: diversity
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2025-02-17
     start_datetime: 2025-03-07T09:30:00Z
     end_datetime: 2025-03-07T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>AWS are delighted to host the launch of the annual TechIreland Female Founder Funding Review Report on Friday 7th of March. The publication highlights funding trends, with insights from leading women entrepreneurs, investors and stakeholders. The report will be presented at a Breakfast Event sponsored by AWS, who for many years have championed women tech founders. </p>"
     type: diversity
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2025-02-17
     start_datetime: 2025-03-06T11:00:00Z
     end_datetime: 2025-03-06T12:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Entrepreneurship as Activism: Let's be the change. Join us on     Thursday, 6th March at Huckletree as we gather in solidarity to mark International Women’s Day. The theme for our event is entrepreneurship as activism!</p>"
     type: diversity
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2025-02-17
     start_datetime: 2025-03-10T19:00:00Z
     end_datetime: 2025-03-10T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2025-02-17
     start_datetime: 2025-03-08T18:30:00Z
     end_datetime: 2025-03-08T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev, animation
@@ -182,7 +182,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-08T15:00:00Z
     end_datetime: 2025-03-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are bringing back our social get togethers, and it will be in KC Peaches (Dame Street)</p>
           <p>✨ Fun Fact: Did you know that our host was also where we had our very first PyLadies Dublin meetup back in 2013!</p>
@@ -194,7 +194,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-06T13:30:00Z
     end_datetime: 2025-03-06T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -204,7 +204,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-21T16:00:00Z
     end_datetime: 2025-03-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -214,7 +214,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-08T09:30:00Z
     end_datetime: 2025-03-08T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an exciting in-person event where you can learn coding skills in a fun and interactive environment. Our team will guide you through hands-on activities and help you build some coding knowledge. Don't miss out on this fantastic opportunity to expand your skills and meet like-minded individuals, taking place in the Beyond Inc., Finisklin, Sligo. Sign up now!</p>"
     type: diversity
@@ -224,7 +224,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-06T18:00:00Z
     end_datetime: 2025-03-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -234,7 +234,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-13T08:00:00Z
     end_datetime: 2025-03-13T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
@@ -244,7 +244,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-04T19:00:00Z
     end_datetime: 2025-03-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-03T18:00:00Z
     end_datetime: 2025-03-03T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -264,7 +264,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-13T18:30:00Z
     end_datetime: 2025-03-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -274,7 +274,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-14T12:00:00Z
     end_datetime: 2025-03-14T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -284,7 +284,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-15T19:00:00Z
     end_datetime: 2025-03-15T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -294,7 +294,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-18T19:00:00Z
     end_datetime: 2025-03-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-22T15:00:00Z
     end_datetime: 2025-03-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -314,7 +314,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-26T17:00:00Z
     end_datetime: 2025-03-26T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -324,7 +324,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-27T18:00:00Z
     end_datetime: 2025-03-27T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -334,7 +334,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-28T12:00:00Z
     end_datetime: 2025-03-28T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -344,7 +344,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-11T19:00:00Z
     end_datetime: 2025-03-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -354,7 +354,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-05T18:00:00Z
     end_datetime: 2025-03-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -364,7 +364,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-12T18:00:00Z
     end_datetime: 2025-03-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -374,7 +374,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-19T18:00:00Z
     end_datetime: 2025-03-19T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -384,7 +384,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-03-26T18:00:00Z
     end_datetime: 2025-03-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
