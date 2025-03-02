@@ -388,3 +388,124 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Women in AI Ireland: Accelerating Action: Driving Inclusion, Empowering Women Through Technology"
+    url: "https://www.eventbrite.ie/e/accelerating-action-driving-inclusion-empowering-women-through-technology-tickets-1262576693879"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-03-06T18:00:00Z
+    end_datetime: 2025-03-06T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Women in AI Ireland as we celebrate International Women's Day 2025 with an inspiring event focused on 'Accelerating Action: Driving Inclusion and Empowering Women Through Technology & Leadership.'</p>"
+    type: diversity
+  - name: "(In-Person) From Hubble to Webb - Revealing the Cosmos, A Talk by Kevin Nolan @ Tallaght Library"
+    url: "https://www.eventbrite.ie/e/from-hubble-to-webb-revealing-the-cosmos-a-talk-by-kevin-nolan-tickets-1256384352419"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-03-05T18:30:00Z
+    end_datetime: 2025-03-05T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in eDiscovery Dublin - Future-Proofing Discovery in Ireland"
+    url: "https://www.eventbrite.ie/e/women-in-ediscovery-dublin-future-proofing-discovery-in-ireland-tickets-1235808328979"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-03-27T08:30:00Z
+    end_datetime: 2025-03-27T10:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Women in eDiscovery Dublin and A&L Goodbody for an informative and fascinating look at current disclosure guidelines in Ireland, where challenges may arise in the future, and try your hand at writing your very own practice notes for emerging challenges in disclosure!</p>"
+    type: diversity
+  - name: "(In-Person) CHAT@Disrupt-The Role of Assistive Technology in Art: Empowering Creativity @ Project Arts Centre"
+    url: "https://www.eventbrite.ie/e/chatdisrupt-the-role-of-assistive-technology-in-art-empowering-creativity-tickets-1261147087889"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-03-07T14:00:00Z
+    end_datetime: 2025-03-07T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Empowering Creativity: The Role of Assistive Technology in Art CHAT by FreedomTech, Enable Ireland, Disability Federation of Ireland. Moderated by Sinéad Burke</p>"
+    type: diversity
+  - name: "(In-Person) Midlands ICT Network presents Let's Talk About Tech"
+    url: "https://www.eventbrite.ie/e/midlands-ict-network-presents-lets-talk-about-tech-tickets-1252918546099"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-03-11T10:00:00Z
+    end_datetime: 2025-03-11T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Lyra McKee Symposium: AI and Journalism - Threats or Opportunities?"
+    url: "https://www.eventbrite.ie/e/lyra-mckee-symposium-ai-and-journalism-threats-or-opportunities-tickets-1200513130089"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-28T19:00:00Z
+    end_datetime: 2025-03-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Northern Ireland Raspberry Jam @ Queens Univeresity"
+    url: "https://www.eventbrite.ie/e/northern-ireland-raspberry-jam-march-2025-tickets-1250002825099"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-15T13:00:00Z
+    end_datetime: 2025-03-15T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!</p>"
+    type: diversity
+  - name: "(In-Person) The Quantum Threat to Cryptography @ Deloitte LLP (Belfast)"
+    url: "https://www.eventbrite.ie/e/the-quantum-threat-to-cryptography-tickets-1262601768879"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-07T13:00:00Z
+    end_datetime: 2025-03-07T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cyber NI Week: Cracking Passwords: Techniques, Risks, and Defences @ Innovation Factory (Belfast)"
+    url: "https://www.eventbrite.ie/e/cracking-passwords-techniques-risks-and-defences-tickets-1098659011679"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-03T14:00:00Z
+    end_datetime: 2025-03-03T14:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cyber NI Week: The Path to Compromise: A Simple App’s Threat to GitHub @ Innovation Factory (Belfast)"
+    url: "https://www.eventbrite.ie/e/cracking-passwords-techniques-risks-and-defences-tickets-1098659011679"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-03T15:00:00Z
+    end_datetime: 2025-03-03T15:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Northern Ireland’s Bletchley Connections"
+    url: "https://www.eventbrite.ie/e/northern-irelands-bletchley-connections-tickets-1117701698869"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-20T13:00:00Z
+    end_datetime: 2025-03-20T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) HER-STEM: Breaking Barriers, Building Futures @ Ulster University"
+    url: "https://www.eventbrite.ie/e/her-stem-breaking-barriers-building-futures-tickets-1262551558699"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-19T17:00:00Z
+    end_datetime: 2025-03-19T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This engaging session, \"HER-STEM: Breaking Barriers, Building Futures,\" will feature a panel of accomplished professionals in STEM who will share their personal journeys, insights on the evolving role of women in technical advancements, and strategies to overcome challenges in academia and industry.</p>"
+    type: diversity

@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-04-24T08:00:00Z
     end_datetime: 2025-04-24T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This event will host top Computer Science students from across Ireland to participate in an exciting upskilling and networking event alongside some of Amazon's best Software Developers.</p>"
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-04-26T09:30:00Z
     end_datetime: 2025-04-26T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Free *in-person* programming workshop for women. Beginner-friendly. Places are limited, register your interest today!</p>"
     type: diversity
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-04-26T15:00:00Z
     end_datetime: 2025-04-26T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -36,7 +36,38 @@ eventlistings:
     date_added: 2025-02-26
     start_datetime: 2025-04-19T19:00:00Z
     end_datetime: 2025-04-19T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Dublin UX: Inclusive Design: Crafting experiences for Every 'User' @ Workday"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/305617719/"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-04-19T19:00:00Z
+    end_datetime: 2025-04-19T23:59:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: design
+  - name: "(Online) Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/305869850/"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-04-12T15:00:00Z
+    end_datetime: 2025-04-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) NGINX Community Group (Cork): April 2025 Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/306458688"
+    region: 🇮🇪
+    date_added: 2025-03-02
+    start_datetime: 2025-04-03T19:00:00Z
+    end_datetime: 2025-04-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
