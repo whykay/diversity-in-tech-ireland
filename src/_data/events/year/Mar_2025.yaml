@@ -500,3 +500,144 @@ eventlistings:
     recurring: false
     desc: "<p>This engaging session, \"HER-STEM: Breaking Barriers, Building Futures,\" will feature a panel of accomplished professionals in STEM who will share their personal journeys, insights on the evolving role of women in technical advancements, and strategies to overcome challenges in academia and industry.</p>"
     type: diversity
+
+  - name: "(In-Person) Cats Making Games: Designing an Idle Game @ Mayfair Library (Kilkenny)"
+    url: "https://www.eventbrite.ie/e/designing-an-idle-game-tickets-1277523008709"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-27T18:00:00Z
+    end_datetime: 2025-03-27T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Eli5 (Explain Like I'm 5) - 'Transition' @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/306663035/"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-25T18:30:00Z
+    end_datetime: 2025-03-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/306521637/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-24T19:00:00Z
+    end_datetime: 2025-03-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Ruby Ireland & Elixir Dublin Social – March Meetup @ Duke Bar"
+    url: "https://www.meetup.com/rubyireland/events/306578949/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-26T18:15:00Z
+    end_datetime: 2025-03-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DubSec - March 2025 Meetup @ The Camden Court Hotel"
+    url: "https://www.meetup.com/dub-sec/events/306510303/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-26T18:30:00Z
+    end_datetime: 2025-03-26T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Green Software Ireland - March meetup"
+    url: "https://www.meetup.com/green_software_ireland/events/306466710/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-26T19:00:00Z
+    end_datetime: 2025-03-26T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/306577532/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-26T19:00:00Z
+    end_datetime: 2025-03-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) March 2025: Wexford Tech Meetup @ Scurri"
+    url: "https://www.meetup.com/wexford-tech-meetup/events/306699943/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-26T19:00:00Z
+    end_datetime: 2025-03-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Kubernetes Dublin: Getting Ready for Kubecon! @ Workday"
+    url: "https://www.meetup.com/dublin-kubernetes-meetup/events/306572712/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-27T18:00:00Z
+    end_datetime: 2025-03-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The March SRE Meetup. @ Datadog Dublin"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/306664209/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-27T19:00:00Z
+    end_datetime: 2025-03-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Data Science and Engineering Club: Mastering Data Engineering"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/306736674"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-29T10:00:00Z
+    end_datetime: 2025-03-29T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Dev: An Introduction to Graphics Programming for the Web @ Culture City"
+    url: "https://www.meetup.com/corkdevs/events/306809937/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-29T11:00:00Z
+    end_datetime: 2025-03-29T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) InfoSec NI: Movie Night - The Imitation Game @ Farset Labs"
+    url: "https://www.meetup.com/infosec-ni/events/306688507/"
+    region: 🇬🇧
+    date_added: 2025-03-02
+    start_datetime: 2025-03-27T19:00:00Z
+    end_datetime: 2025-03-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(Online) Letterkenny HashiCorp User Group Meetup #5"
+    url: "https://www.meetup.com/letterkenny-hashicorp-user-group/events/306591520/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-03-28T17:00:00Z
+    end_datetime: 2025-03-28T17:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

@@ -71,3 +71,234 @@ eventlistings:
     recurring: false
     desc: 
     type: design
+
+  - name: "(In-Person) Women in Data & Systems @ Personio"
+    url: "https://www.linkedin.com/events/womenindata-systems7306262682628714497/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-02T18:00:00Z
+    end_datetime: 2025-04-02T21:00:00Z
+    new: true
+    recurring: false
+    desc: "During this evening we will host 4 panelists that share insights into the lead to cash pipeline with the help of Data & Systems."
+    type: diversity
+  - name: "(In-Person) Reset/Reform - Industry Talks & Roundtable Discussions! @ Ulster University"
+    url: "https://www.linkedin.com/events/womenindata-systems7306262682628714497/"
+    region: 🇬🇧
+    date_added: 2025-03-24
+    start_datetime: 2025-04-08T19:00:00Z
+    end_datetime: 2025-04-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Book Launch & Networking: DEI Ambassadors Workbook by Diversein @ Huckletree"
+    url: "https://www.eventbrite.com/e/book-launch-networking-dei-ambassadors-workbook-by-diversein-tickets-1297591062799"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-11T15:30:00Z
+    end_datetime: 2025-04-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Join us for a fun evening of celebrating a new book release and mingling with fellow Diversity & Inclusion Ambassadors!"
+    type: diversity
+  - name: "(In-Person) DIGRA Ireland Inaugural Conference @ East Quad TU Dublin"
+    url: "https://www.eventbrite.com/e/digra-ireland-inaugural-conference-tickets-1254588511009"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-17T10:00:00Z
+    end_datetime: 2025-04-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/306792996/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-07T19:00:00Z
+    end_datetime: 2025-04-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lznlptyhcgbcc/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-21T19:00:00Z
+    end_datetime: 2025-04-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/306832300/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-09T19:00:00Z
+    end_datetime: 2025-04-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhcgbfc/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-23T19:00:00Z
+    end_datetime: 2025-04-23T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) UX Belfast: Better products, better designers - the DesignOps effect"
+    url: "https://www.meetup.com/uxbelfast/events/306690166/"
+    region: 🇬🇧
+    date_added: 2025-03-24
+    start_datetime: 2025-04-02T18:00:00Z
+    end_datetime: 2025-04-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS User Group Dublin: AWS ARCHITECTS of AI @ Button Factory"
+    url: "https://www.meetup.com/awsdublin/events/306534395/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-08T15:30:00Z
+    end_datetime: 2025-04-08T20:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Códú: Workshop: Semantic AI Agents for Real-World Applications @ Baseline"
+    url: "https://www.meetup.com/codu-community/events/306815818/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-08T18:00:00Z
+    end_datetime: 2025-04-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ProductTank Dublin: How to Sustain Yourself Across a Career in Tech @ Zalando"
+    url: "https://www.meetup.com/producttank-dublin/events/306866086/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-10T18:00:00Z
+    end_datetime: 2025-04-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Waterford Tech Meetup: Baby's first eGPU crunches Open Data & Adventures in Remote Sensing"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/306831316/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-10T19:00:00Z
+    end_datetime: 2025-04-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ☕️ PyLadies Dublin Tea & Coffee Social ☕️  @ KC Peaches (Dame St)"
+    url: "https://www.meetup.com/pyladiesdublin/events/306663493/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-12T15:00:00Z
+    end_datetime: 2025-04-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: "Our last Tea & Coffee Social was a lot of fun chatting and sharing with folks, so we are running another Tea & Coffee Social. "
+    type: diversity
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/305869850/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-12T15:00:00Z
+    end_datetime: 2025-04-12T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsyhcgbdb/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-02T18:00:00Z
+    end_datetime: 2025-04-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsyhcgbmb/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-09T18:00:00Z
+    end_datetime: 2025-04-09T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsyhcgbvb/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-16T18:00:00Z
+    end_datetime: 2025-04-16T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsyhcgbfc/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-23T18:00:00Z
+    end_datetime: 2025-04-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/mfzhzsyhcgbnc/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-30T18:00:00Z
+    end_datetime: 2025-04-30T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Galway Game Makers Meetup! @ Portershed"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/306570282/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-01T19:00:00Z
+    end_datetime: 2025-04-01T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Cork|Sec 142 @ The Pavilion"
+    url: "https://www.meetup.com/corksec/events/303031685/"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-08T19:00:00Z
+    end_datetime: 2025-04-08T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Accessibility Ireland: Looking Ahead: What's next for Digital Accessibility?"
+    url: "https://www.eventbrite.ie/e/looking-ahead-whats-next-for-digital-accessibility-tickets-1267016042089"
+    region: 🇮🇪
+    date_added: 2025-03-24
+    start_datetime: 2025-04-03T19:45:00Z
+    end_datetime: 2025-04-03T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
