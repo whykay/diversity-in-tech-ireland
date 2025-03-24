@@ -386,7 +386,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-06T18:00:00Z
     end_datetime: 2025-03-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join Women in AI Ireland as we celebrate International Women's Day 2025 with an inspiring event focused on 'Accelerating Action: Driving Inclusion and Empowering Women Through Technology & Leadership.'</p>"
     type: diversity
@@ -396,7 +396,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-05T18:30:00Z
     end_datetime: 2025-03-05T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -406,7 +406,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-27T08:30:00Z
     end_datetime: 2025-03-27T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join Women in eDiscovery Dublin and A&L Goodbody for an informative and fascinating look at current disclosure guidelines in Ireland, where challenges may arise in the future, and try your hand at writing your very own practice notes for emerging challenges in disclosure!</p>"
     type: diversity
@@ -416,7 +416,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-07T14:00:00Z
     end_datetime: 2025-03-07T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Empowering Creativity: The Role of Assistive Technology in Art CHAT by FreedomTech, Enable Ireland, Disability Federation of Ireland. Moderated by Sinéad Burke</p>"
     type: diversity
@@ -426,7 +426,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-11T10:00:00Z
     end_datetime: 2025-03-11T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -436,7 +436,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-28T19:00:00Z
     end_datetime: 2025-03-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -446,7 +446,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-15T13:00:00Z
     end_datetime: 2025-03-15T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Come one, come all to the Northern Ireland Raspberry Jam! In collaboration with the School of Maths and Physics at Queen's University!</p>"
     type: diversity
@@ -456,7 +456,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-07T13:00:00Z
     end_datetime: 2025-03-07T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -466,7 +466,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-03T14:00:00Z
     end_datetime: 2025-03-03T14:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -476,7 +476,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-03T15:00:00Z
     end_datetime: 2025-03-03T15:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -486,7 +486,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-20T13:00:00Z
     end_datetime: 2025-03-20T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -496,7 +496,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-19T17:00:00Z
     end_datetime: 2025-03-19T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This engaging session, \"HER-STEM: Breaking Barriers, Building Futures,\" will feature a panel of accomplished professionals in STEM who will share their personal journeys, insights on the evolving role of women in technical advancements, and strategies to overcome challenges in academia and industry.</p>"
     type: diversity
