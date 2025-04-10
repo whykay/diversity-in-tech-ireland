@@ -507,7 +507,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-27T18:00:00Z
     end_datetime: 2025-03-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -517,7 +517,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-25T18:30:00Z
     end_datetime: 2025-03-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -527,7 +527,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-24T19:00:00Z
     end_datetime: 2025-03-24T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -537,7 +537,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-26T18:15:00Z
     end_datetime: 2025-03-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -547,7 +547,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-26T18:30:00Z
     end_datetime: 2025-03-26T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -557,7 +557,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-26T19:00:00Z
     end_datetime: 2025-03-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -567,7 +567,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-26T19:00:00Z
     end_datetime: 2025-03-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -577,7 +577,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-26T19:00:00Z
     end_datetime: 2025-03-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -587,7 +587,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-27T18:00:00Z
     end_datetime: 2025-03-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -597,7 +597,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-27T19:00:00Z
     end_datetime: 2025-03-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -607,7 +607,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-29T10:00:00Z
     end_datetime: 2025-03-29T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -617,7 +617,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-29T11:00:00Z
     end_datetime: 2025-03-29T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -627,7 +627,7 @@ eventlistings:
     date_added: 2025-03-02
     start_datetime: 2025-03-27T19:00:00Z
     end_datetime: 2025-03-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -637,7 +637,7 @@ eventlistings:
     date_added: 2025-03-24
     start_datetime: 2025-03-28T17:00:00Z
     end_datetime: 2025-03-28T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
