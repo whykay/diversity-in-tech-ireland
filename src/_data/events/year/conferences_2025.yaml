@@ -247,3 +247,24 @@ conferences:
     recurring: false
     desc: "<p>Join us at Summit 2025 to explore and seize new opportunities as our sector unites to connect and collaborate. A host of experts will be sharing their knowledge and insights, while charities, community groups and social enterprises will tell their inspiring stories and facilitate break-out sessions to discuss our shared issues, challenges and opportunities.  </p>"
     type: social
+
+  - name: "(In-Person) TechFest 2025: Tech, AI & Humanity – Shaping Our Future @ Rochestown Park Hotel (Cork)"
+    url: "https://www.eventbrite.ie/e/techfest-2025-tech-ai-humanity-shaping-our-future-tickets-1254651659889"
+    region: 🇮🇪
+    date_added: 2025-04-10
+    start_datetime: 2025-05-15T09:00:00Z
+    end_datetime: 2025-05-15T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This highly engaging business & technology event will include keynotes and expert speakers, panel discussions, networking, plus much more.</p>"
+    type: tech
+  - name: "(In-Person) Dublin Tech Connect"
+    url: "https://www.eventbrite.ie/e/dublin-tech-connect-tickets-1135009155939"
+    region: 🇮🇪
+    date_added: 2025-04-10
+    start_datetime: 2025-11-13T09:00:00Z
+    end_datetime: 2025-11-13T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Meet top tech companies and teams in Dublin and network with professionals!</p>"
+    type: tech

@@ -302,3 +302,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) TechFoundHer: Belfast Town Hall - Runway to Summit 2025"
+    url: "https://www.eventbrite.ie/e/belfast-town-hall-runway-to-summit-2025-tickets-1317185811219"
+    region: 🇬🇧
+    date_added: 2025-04-10
+    start_datetime: 2025-0416T13:00:00Z
+    end_datetime: 2025-04-16T14:00:00Z
+    new: true
+    recurring: false
+    desc: "Women Innovators Rise - Runway to Summit 2025 - get the lowdown on the programme, speakers and plans and how to get invvolved"
+    type: diversity
