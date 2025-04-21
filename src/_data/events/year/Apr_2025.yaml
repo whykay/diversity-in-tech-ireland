@@ -324,3 +324,93 @@ eventlistings:
     recurring: false
     desc: "<p>This collaboration is aimed at creating an increased presence online for womxn artists whose stories are currently underrepresented on the Wikimedia platforms. We are inviting interested people to come and join us for a morning to receive training in how to contribute to Wikimedia pages and then use the Library & Archives resources to research specific female artists and update their information so that they have an increased and accurate online presence.</p>"
     type: diversity
+  - name: "(In-Person) Go Ireland Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/307390711/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-24T18:00:00Z
+    end_datetime: 2025-04-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: A-Okaypril! @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/306921504/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-21T19:00:00Z
+    end_datetime: 2025-04-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) C++ Meetup @ Anseo (upstairs)"
+    url: "https://www.meetup.com/cppdug/events/307373433/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-28T19:00:00Z
+    end_datetime: 2025-04-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Content Designers Ireland: The transformative effect of storytelling"
+    url: "https://www.meetup.com/content-designers-ireland/events/307335936/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-29T19:00:00Z
+    end_datetime: 2025-04-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: design
+  - name: "(In-Person) Dublin Dataviz: Data visualisation and interaction for cities and the built environment @ The Digital Hub"
+    url: "https://www.meetup.com/dublin-dataviz/events/306952565/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-30T18:30:00Z
+    end_datetime: 2025-04-30T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dub|Sec - April 2025 Meetup @ The Camden Court Hotel"
+    url: "https://www.meetup.com/dub-sec/events/307165900/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-30T18:30:00Z
+    end_datetime: 2025-04-30T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Data Science: A Bayesian Approach to Buy-Till-You-Die and Customer Lifetime Value Models"
+    url: "https://www.meetup.com/dublin-data-science/events/307319110/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-30T18:30:00Z
+    end_datetime: 2025-04-30T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Wexford Tech Meetup @ Scurri"
+    url: "https://www.meetup.com/wexford-tech-meetup/events/307286114/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-30T19:00:00Z
+    end_datetime: 2025-04-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.meetup.com/coffee-coders/events/307070408/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-22T18:30:00Z
+    end_datetime: 2025-04-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity

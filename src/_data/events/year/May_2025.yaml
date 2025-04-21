@@ -21,3 +21,123 @@ eventlistings:
     desc: "<p>Join us on May 8, 2025, for NCAD Director's Spotlight: 'In Response to EDI Backlash'. Panelists include Dr. Vikram Visana (he/him), Lecturer in Political Theory at the University of Leicester,  Dr. Jye O'Sullivan (NCAD, and Vessy Tasheva (she/they), psychotherapist and former CEO of Vessy.com, a global EDI consultancy.
       Chaired by Dean O'Reilly (EDI & Sexual Violence Prevention/Response), the event will explore panelists' experiences working on EDI initiatives and how they have encountered and responded to backlash.</p>"
     type: diversity
+  - name: "(In-Person) Dublin Java User Group Meetup @ TechMeetup.space"
+    url: "https://www.meetup.com/techmeetupspace/events/307390792/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-22T18:15:00Z
+    end_datetime: 2025-05-22T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307261056/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-06T19:00:00Z
+    end_datetime: 2025-05-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307384585/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-13T19:00:00Z
+    end_datetime: 2025-05-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307384587/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-20T19:00:00Z
+    end_datetime: 2025-05-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup (virtual)"
+    url: "https://www.meetup.com/dublin-linux-community/events/307385448/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-10T15:00:00Z
+    end_datetime: 2025-05-10T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Remote) 📖 The UX Book Club Book 📖 The Art of Design Strategy"
+    url: "https://www.meetup.com/theuxbookclub/events/307185620/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-13T08:00:00Z
+    end_datetime: 2025-05-13T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: design
+  - name: "(In-Person) Python Ireland May 2025 Meetup @ Dogpatch Labs"
+    url: "https://www.meetup.com/pythonireland/events/307254342/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-14T18:30:00Z
+    end_datetime: 2025-05-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Stripe meetup Dublin May 2025"
+    url: "https://www.meetup.com/stripe-dublin/events/306804307/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-15T18:30:00Z
+    end_datetime: 2025-05-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.meetup.com/coffee-coders/events/307323147/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-06T18:30:00Z
+    end_datetime: 2025-05-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) Cork Female Coders - Coffee Meetup"
+    url: "https://www.meetup.com/coffee-coders/events/cqcmqtyhchbbc/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-20T18:30:00Z
+    end_datetime: 2025-05-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) Cork|Sec 143"
+    url: "https://www.meetup.com/corksec/events/303031690/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-06T19:00:00Z
+    end_datetime: 2025-05-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/305998404/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-05-06T19:00:00Z
+    end_datetime: 2025-05-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
