@@ -280,3 +280,13 @@ conferences:
     desc: "<p>Join the Engineers Ireland Women in Engineering Group on Friday, 20th June in the iconic Round Room at The Mansion House, Dublin, for a special day of celebration, connection and inspiration.</p>
       <p>In line with this year’s theme for International Women in Engineering Day, #TogetherWeEngineer, this event will spotlight the power of community and collaboration in engineering. Expect a full programme of impactful talks, personal stories, and big-picture ideas from a lineup of exceptional speakers (to be announced soon).</p>"
     type: diversity
+  - name: "(In-Person) MojoFest 2025"
+    url: "https://mojofest.eu/#rec803017096"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-06-28T09:00:00Z
+    end_datetime: 2025-06-29T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Festival of mobile content creators</p>"
+    type: creatives

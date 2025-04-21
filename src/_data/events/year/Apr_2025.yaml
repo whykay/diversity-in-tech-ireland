@@ -307,9 +307,20 @@ eventlistings:
     url: "https://www.eventbrite.ie/e/belfast-town-hall-runway-to-summit-2025-tickets-1317185811219"
     region: 🇬🇧
     date_added: 2025-04-10
-    start_datetime: 2025-0416T13:00:00Z
+    start_datetime: 2025-04-16T13:00:00Z
     end_datetime: 2025-04-16T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "Women Innovators Rise - Runway to Summit 2025 - get the lowdown on the programme, speakers and plans and how to get invvolved"
+    type: diversity
+
+  - name: "(In-Person) Wikimedia Community Ireland is Bringing Art+Feminism to the National Gallery of Ireland"
+    url: "https://wikimedia.ie/2025/04/16/wikimedia-community-ireland-is-bringing-artfeminism-to-the-national-gallery-of-ireland-on-april-30th/"
+    region: 🇮🇪 
+    date_added: 2025-04-21
+    start_datetime: 2025-04-30T10:00:00Z
+    end_datetime: 2025-04-30T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This collaboration is aimed at creating an increased presence online for womxn artists whose stories are currently underrepresented on the Wikimedia platforms. We are inviting interested people to come and join us for a morning to receive training in how to contribute to Wikimedia pages and then use the Library & Archives resources to research specific female artists and update their information so that they have an increased and accurate online presence.</p>"
     type: diversity
