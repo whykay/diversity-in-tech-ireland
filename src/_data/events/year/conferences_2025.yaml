@@ -169,7 +169,7 @@ conferences:
     date_added: 2025-01-16
     start_datetime: 2025-02-07T09:00:00Z
     end_datetime: 2025-02-07T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Discover the role of open source in transforming innovation at the National Open Source Summit 2025, with perspectives from government, industry, and academia. This is the must attend event f or innovators leveraging open source to accelerate ideas into action</p>"
     type: tech
@@ -179,7 +179,7 @@ conferences:
     date_added: 2025-01-21
     start_datetime: 2025-02-13T09:00:00Z
     end_datetime: 2025-02-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at Titanic Belfast for the Cyber Leaders Conference, where industry experts from PWC, Microsoft and Check Point will share insights on the latest trends and strategies in cybersecurity. This in-person event is a fantastic opportunity to network with fellow professionals and gain valuable knowledge to stay ahead in the ever-evolving cyber landscape.</p>"
     type: tech
@@ -190,7 +190,7 @@ conferences:
     date_added: 2025-02-10
     start_datetime: 2025-03-01T08:00:00Z
     end_datetime: 2025-03-01T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>#DataWeekender is an online conference that hosts talks on all things to do with Microsoft Data Technologies.</p>"
     type: tech
@@ -200,7 +200,7 @@ conferences:
     date_added: 2025-02-10
     start_datetime: 2025-03-27T08:30:00Z
     end_datetime: 2025-03-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for the third annual DeeptechFest Ireland, the premier event that unites industry leaders, cutting-edge startups, investors and innovators driving transformative technologies.</p>"
     type: tech
@@ -210,7 +210,7 @@ conferences:
     date_added: 2025-02-10
     start_datetime: 2025-03-13T08:30:00Z
     end_datetime: 2025-03-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will showcase some of Ireland’s leading companies in financial services, healthcare, technology, manufacturing, construction, transport and energy, who are supercharging their efforts to create diverse, equitable and inclusive workplaces that allow every employee to thrive, regardless of their background. Expert speakers will discuss the next steps for businesses and employers and how best they can embrace equity to inspire all future women of STEM including those with disabilities, members of the LGBTQIA+ community, ethnic and religious groups as well as those from less well-off socio-economic backgrounds.</p>"
     type: diversity
@@ -221,7 +221,7 @@ conferences:
     date_added: 2025-02-17
     start_datetime: 2025-03-20T09:30:00Z
     end_datetime: 2025-03-20T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -232,7 +232,7 @@ conferences:
     date_added: 2025-02-18
     start_datetime: 2025-04-11T09:00:00Z
     end_datetime: 2025-04-11T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -243,7 +243,7 @@ conferences:
     date_added: 2025-02-26
     start_datetime: 2025-05-28T09:00:00Z
     end_datetime: 2025-05-28T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at Summit 2025 to explore and seize new opportunities as our sector unites to connect and collaborate. A host of experts will be sharing their knowledge and insights, while charities, community groups and social enterprises will tell their inspiring stories and facilitate break-out sessions to discuss our shared issues, challenges and opportunities.  </p>"
     type: social
@@ -254,7 +254,7 @@ conferences:
     date_added: 2025-04-10
     start_datetime: 2025-05-15T09:00:00Z
     end_datetime: 2025-05-15T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This highly engaging business & technology event will include keynotes and expert speakers, panel discussions, networking, plus much more.</p>"
     type: tech
@@ -264,7 +264,7 @@ conferences:
     date_added: 2025-04-10
     start_datetime: 2025-11-13T09:00:00Z
     end_datetime: 2025-11-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Meet top tech companies and teams in Dublin and network with professionals!</p>"
     type: tech
@@ -275,7 +275,7 @@ conferences:
     date_added: 2025-04-21
     start_datetime: 2025-06-20T09:00:00Z
     end_datetime: 2025-06-20T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join the Engineers Ireland Women in Engineering Group on Friday, 20th June in the iconic Round Room at The Mansion House, Dublin, for a special day of celebration, connection and inspiration.</p>
       <p>In line with this year’s theme for International Women in Engineering Day, #TogetherWeEngineer, this event will spotlight the power of community and collaboration in engineering. Expect a full programme of impactful talks, personal stories, and big-picture ideas from a lineup of exceptional speakers (to be announced soon).</p>"
@@ -286,7 +286,50 @@ conferences:
     date_added: 2025-04-21
     start_datetime: 2025-06-28T09:00:00Z
     end_datetime: 2025-06-29T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Festival of mobile content creators</p>"
     type: creatives
+
+  - name: "(In-Person) TechFoundHer Summit 2025 - Women Innovators Rise @ The Round Room"
+    url: "https://www.eventbrite.ie/e/techfoundher-summit-2025-women-innovators-rise-tickets-1279071570499"
+    region: 🇮🇪 
+    date_added: 2025-05-01
+    start_datetime: 2025-05-14T09:30:00Z
+    end_datetime: 2025-05-14T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The TechFoundHer Summit returns for its third year, bringing together ambitious founders, tech leaders, and advocates for inclusive innovation. This is more than an event — it’s a movement. We’re on a mission to unlock the potential of women tech founders and innovators, making their ideas and impact impossible to ignore.</p>
+      <p>Promo code: NETWORK5</p>"
+    type: diversity
+  - name: "(In-Person) AtlanTec Festival 2025 @ Various (Galway)"
+    url: "https://www.eventbrite.ie/e/atlantec-festival-2025-tickets-1324289257819"
+    region: 🇮🇪 
+    date_added: 2025-05-01
+    start_datetime: 2025-05-19T16:30:00Z
+    end_datetime: 2025-05-29T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Events will revolve around this year’s theme - ‘Shaping the Future of Technology Innovation’ exploring the major breakthroughs defining what’s next in tech.</p>
+      <p>Come join us for tech innovative workshops, inspiring speakers, and networking opportunities galore. Whether you're a seasoned pro or just starting out in the tech world, there's something here for everyone.</p>"
+    type: tech
+  - name: "(In-Person) Women in Data Science (WiDS) Dublin Regional Conference 2025"
+    url: "https://www.eventbrite.ie/e/women-in-data-science-wids-dublin-regional-conference-2025-tickets-1338517996359"
+    region: 🇮🇪 
+    date_added: 2025-05-11
+    start_datetime: 2025-06-25T09:15:00Z
+    end_datetime: 2025-06-25T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The central theme of this year's conference is 'Data for All: UN Sustainable Development Goals'. Join us for a day filled with inspiring talks, Q&A, networking opportunities, and a hands-on lab focused on data science. Don't forget to bring your laptop for this interactive lab!</p>"
+    type: diversity
+  - name: "(Online) AI Crush - Free Online Conference"
+    url: "https://www.crushconf.com/"
+    region: 🇮🇪 
+    date_added: 2025-05-11
+    start_datetime: 2025-05-09T11:00:00Z
+    end_datetime: 2025-05-09T15:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
