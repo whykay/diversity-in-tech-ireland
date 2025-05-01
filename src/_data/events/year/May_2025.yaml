@@ -164,3 +164,13 @@ eventlistings:
     recurring: false
     desc: "<p>Hosted by itag’s Digital Women’s Forum, this event will delve into fostering adaptability and collaboration in teams facing disruption, with a focus on change management principles that drive agility, performance, and innovation. Key themes include building trust, psychological safety, and making data-driven decisions, alongside the role of inclusive leadership in strengthening resilience and promoting sustainable growth. The lineup features a keynote by Elaine Murphy of Signify Health Ireland on leading high-performing tech teams, followed by a panel discussion with Eimear Coffey (Fidelity Investments), Julie Dowling (AIM Centre), and Florence Higgins (Smartbear).</p>"
     type: diversity
+  - name: "(In-Person) Cork Female Coders: An Introduction to APIs by Carrie O'Sullivan (Kinsale)"
+    url: "https://www.eventbrite.com/e/an-introduction-to-apis-by-carrie-osullivan-tickets-1265707197299"
+    region: 🇮🇪 
+    date_added: 2025-05-01
+    start_datetime: 2025-05-17T15:00:00Z
+    end_datetime: 2025-05-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Cork Female Coders are hosting their spring IT Talk in sunny Kinsale. This time, Carrie will introduce us to the fundamentals of web APIs.</p>"
+    type: diversity
