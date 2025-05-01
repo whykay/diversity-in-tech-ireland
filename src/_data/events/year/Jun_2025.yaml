@@ -62,3 +62,14 @@ eventlistings:
     recurring: false
     desc: "<p>The central theme of this year's conference is 'Data for All: UN Sustainable Development Goals'. Join us for a day filled with inspiring talks, Q&A, networking opportunities, and a hands-on lab focused on data science. Don't forget to bring your laptop for this interactive lab!</p>"
     type: diversity
+  - name: "(In-Person) Diversein: Dine & Learn: Culture, Connection & Inclusive Leadership-Turkish Culture"
+    url: "https://www.eventbrite.com/e/dine-learn-culture-connection-inclusive-leadership-turkish-culture-tickets-1348393835259"
+    region: 🇮🇪 
+    date_added: 2025-05-11
+    start_datetime: 2025-06-05T19:30:00Z
+    end_datetime: 2025-06-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Pull up a seat at The Dine & Learn — a unique dinner experience where inclusive leaders come together to explore culture, connection, and leadership in the most human way: through food.</p>
+      <p>Whether you’re an HR professional, team leader, DEI champion, or someone who simply believes in leading with empathy, this is your space to connect, reflect, and grow — one dish, one story, one conversation at a time.</p>"
+    type: diversity
