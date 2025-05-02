@@ -174,3 +174,236 @@ eventlistings:
     recurring: false
     desc: "<p>Cork Female Coders are hosting their spring IT Talk in sunny Kinsale. This time, Carrie will introduce us to the fundamentals of web APIs.</p>"
     type: diversity
+
+  - name: "(In-Person) React Dublin Spring Meetup @ Workday"
+    url: "https://www.meetup.com/reactjs-dublin-meetup/events/307602298/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-27T18:00:00Z
+    end_datetime: 2025-05-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyData Ireland: Trading Games as Data Engines: Rethinking & Innovating Financial Data Products"
+    url: "https://www.meetup.com/pydataireland/events/307541309/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-29T18:00:00Z
+    end_datetime: 2025-05-29T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: This Could've Been and e-May-l @ The Black Sheep"
+    url: "https://www.meetup.com/the-games-co-op/events/307584552/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-19T19:00:00Z
+    end_datetime: 2025-05-19T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/304783274/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-24T15:00:00Z
+    end_datetime: 2025-05-24T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307170694/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-07T19:00:00Z
+    end_datetime: 2025-05-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307170695/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-21T19:00:00Z
+    end_datetime: 2025-05-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307261056/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-06T19:00:00Z
+    end_datetime: 2025-05-06T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307384585/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-13T19:00:00Z
+    end_datetime: 2025-05-13T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Arduino Physical Computing Course @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307384587/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-20T19:00:00Z
+    end_datetime: 2025-05-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Build Your Own Satellite Ground Station @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307260739/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-25T11:00:00Z
+    end_datetime: 2025-05-25T13:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Explain Like I’m 5 (ELI5) – 'Progress' @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/307108653"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-27T18:30:00Z
+    end_datetime: 2025-05-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Battlebots Monthly Meet @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/307490266/"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-07T18:30:00Z
+    end_datetime: 2025-05-07T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) NGINX Community Group: Cork Chapter Meetup: May 2025 Community Evening"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/307563749/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-22T18:00:00Z
+    end_datetime: 2025-05-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 143"
+    url: "https://www.meetup.com/corksec/events/303031690/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-06T19:00:00Z
+    end_datetime: 2025-05-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) makers night @ Ennis Makerspace"
+    url: "https://www.meetup.com/ennis-makerspace/events/307589405/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-07T18:00:00Z
+    end_datetime: 2025-05-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) OOPS The Outage Ops and Incident Response Group: Incident Groundhog Day"
+    url: "https://www.meetup.com/oops-the-it-incident-outage-meetup/events/307308826/"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-21T17:00:00Z
+    end_datetime: 2025-05-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) ProductTank Belfast: Transformation - People, process, technology combined with uncertainty & craic!"
+    url: "https://www.meetup.com/producttank-belfast/events/307315235/"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-15T18:00:00Z
+    end_datetime: 2025-05-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) CTO Craft Mixer: Belfast @ The Garrick"
+    url: "https://www.meetup.com/cto-craft/events/307435935/"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-07T18:00:00Z
+    end_datetime: 2025-05-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast Book Club #9 @ Rapid7"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/307031522/"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-06T18:00:00Z
+    end_datetime: 2025-05-06T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This month WTM Belfast are reading The Let Them Theory by Mel Robnins</p>"
+    type: diversity
+  - name: "(Online) Awakenhub: Navigating the Funding Landscape in Northern Ireland"
+    url: "https://www.awakenhub.com/events-2/funding-northernireland"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-22T12:00:00Z
+    end_datetime: 2025-05-22T12:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>Members only event. Join us for a combined session with British Business Bank, StartUp Loans and the Investment Fund for Northern Ireland if you are based in. or are looking to have a base in Northern Ireland.</p>"
+    type: diversity
+  - name: "(Online) Awakenhub: Ditch the Pitch!"
+    url: "https://www.awakenhub.com/events-2/ditch-the-pitch"
+    region: 🇬🇧
+    date_added: 2025-05-02
+    start_datetime: 2025-05-29T12:00:00Z
+    end_datetime: 2025-05-29T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a very special session with Kelly Hoey on transforming your 60 second pitch to 6 words. Limited spaces. </p>"
+    type: diversity
+  - name: "(In-Person) The Irish Women Lawyers Association and Simple Probate: Scroll, Click, Comply: The Future of Law and Technology @ Dogpatch Labs"
+    url: "https://www.eventbrite.com/e/scroll-click-comply-the-future-of-law-and-technology-tickets-1335651412329"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-15T18:00:00Z
+    end_datetime: 2025-05-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join Simple Probate and the Irish Women Lawyers Association (IWLA) at Dogpatch Labs for an engaging event that explores the intersection of law and technology</p>
+      <p>Our speakers will share their career journeys, trends in Legal Tech and Technology Law including Data Protection and AI literacy, advice on how to leverage technology for your career and why we should care about this rapidly growing discipline.</p>"
+    type: diversity
+  - name: "(In-Person) TechFoundHer: Wendy Ryan presents: Your Leadership Story Workshop"
+    url: "https://www.eventbrite.com/e/wendy-ryan-presents-your-leadership-story-workshop-tickets-1291232303579"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-15T08:30:00Z
+    end_datetime: 2025-05-15T11:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Invite only leaders workshop with visiting business leader, author and investor Wendy Ryan. This very special event is cohosted by TechFoundHer and WITS Ireland.</p>"
+    type: diversity
+

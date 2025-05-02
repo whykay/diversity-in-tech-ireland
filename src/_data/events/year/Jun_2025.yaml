@@ -73,3 +73,34 @@ eventlistings:
     desc: "<p>Pull up a seat at The Dine & Learn — a unique dinner experience where inclusive leaders come together to explore culture, connection, and leadership in the most human way: through food.</p>
       <p>Whether you’re an HR professional, team leader, DEI champion, or someone who simply believes in leading with empathy, this is your space to connect, reflect, and grow — one dish, one story, one conversation at a time.</p>"
     type: diversity
+
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhcjbgb"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-06-04T19:00:00Z
+    end_datetime: 2025-06-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/zfsrxsyhcjbxb/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-06-18T19:00:00Z
+    end_datetime: 2025-06-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Women Founders in Health Tech @ Portershed"
+    url: "https://lu.ma/e01jq5rk"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-06-13T10:30:00Z
+    end_datetime: 2025-06-13T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>​If you’re a woman building a health‑tech startup and you want momentum, this is your room.</p>"
+    type: diversity
