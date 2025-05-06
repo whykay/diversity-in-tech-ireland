@@ -406,4 +406,13 @@ eventlistings:
     recurring: false
     desc: "<p>Invite only leaders workshop with visiting business leader, author and investor Wendy Ryan. This very special event is cohosted by TechFoundHer and WITS Ireland.</p>"
     type: diversity
-
+  - name: "(In-Person) Galway IT 2.3: Home Assistant Community Day"
+    url: "https://www.meetup.com/galway-information-technology/events/307591010/"
+    region: 🇮🇪 
+    date_added: 2025-05-02
+    start_datetime: 2025-05-24T14:00:00Z
+    end_datetime: 2025-05-24T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

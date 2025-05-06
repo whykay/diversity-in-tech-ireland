@@ -316,7 +316,7 @@ conferences:
   - name: "(In-Person) Women in Data Science (WiDS) Dublin Regional Conference 2025"
     url: "https://www.eventbrite.ie/e/women-in-data-science-wids-dublin-regional-conference-2025-tickets-1338517996359"
     region: 🇮🇪 
-    date_added: 2025-05-11
+    date_added: 2025-05-01
     start_datetime: 2025-06-25T09:15:00Z
     end_datetime: 2025-06-25T17:00:00Z
     new: true
@@ -326,10 +326,21 @@ conferences:
   - name: "(Online) AI Crush - Free Online Conference"
     url: "https://www.crushconf.com/"
     region: 🇮🇪 
-    date_added: 2025-05-11
+    date_added: 2025-05-01
     start_datetime: 2025-05-09T11:00:00Z
     end_datetime: 2025-05-09T15:30:00Z
     new: true
     recurring: false
     desc: 
+    type: tech
+
+  - name: "(In-Person) ServerlessDays Belfast"
+    url: "https://serverlessdaysbelfast.com/"
+    region: 🇬🇧
+    date_added: 2025-05-06
+    start_datetime: 2025-05-15T09:00:00Z
+    end_datetime: 2025-05-15T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>ServerlessDays Belfast, the software community conference focused on the industry’s movement towards serverless and modern cloud technology, returns on Thursday 15th May 2025. Set in the historic Drawing Offices at Titanic Hotel Belfast, this year’s theme, “Serverless is Serving,” highlights how serverless technology empowers engineers, businesses, and communities by removing operational burdens and enabling faster, more efficient solutions.</p>"
     type: tech
