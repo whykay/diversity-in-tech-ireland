@@ -416,3 +416,15 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Women in Tech: Celebrating Diversity and Culture @ Huckletree"
+    url: "https://www.eventbrite.ie/e/women-in-tech-celebrating-diversity-and-culture-tickets-1345437312219"
+    region: 🇮🇪 
+    date_added: 2025-05-07
+    start_datetime: 2025-05-30T15:00:00Z
+    end_datetime: 2025-05-30T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>'Women in Tech: Celebrating Diversity and Culture' will bring together trailblazing professionals, founders, investors, thought leaders, and emerging talent for a powerful exchange of stories and insights. Through engaging presentations and networking opportunities, we’ll explore how inclusion fuels innovation and how diverse perspectives are driving change across every sector of tech.</p>
+      <p>Whether you're an industry veteran, a startup founder, investor, a student, or simply passionate about equality in tech, this event offers a welcoming space to connect, learn, and be inspired.</p>"
+    type: diversity
