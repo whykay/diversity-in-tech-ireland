@@ -428,3 +428,25 @@ eventlistings:
     desc: "<p>'Women in Tech: Celebrating Diversity and Culture' will bring together trailblazing professionals, founders, investors, thought leaders, and emerging talent for a powerful exchange of stories and insights. Through engaging presentations and networking opportunities, we’ll explore how inclusion fuels innovation and how diverse perspectives are driving change across every sector of tech.</p>
       <p>Whether you're an industry veteran, a startup founder, investor, a student, or simply passionate about equality in tech, this event offers a welcoming space to connect, learn, and be inspired.</p>"
     type: diversity
+  - name: "(In-Person) Mary Mulvihill Award 2025 and Science@Culture annual talk @ DIAS"
+    url: "https://www.eventbrite.ie/e/mary-mulvihill-award-2025-and-scienceculture-annual-talk-tickets-1356302410019"
+    region: 🇮🇪 
+    date_added: 2025-05-07
+    start_datetime: 2025-05-22T18:00:00Z
+    end_datetime: 2025-05-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Mary Muvihill Award, set up in 2017 to commemorate Mary and continue her legacy of the science writing and outreach, is now in it's 9th year. The theme for this year's award is 'Life'</p>
+      <p>The 2025 award ceremony will be held in conjunction with this year's science@culture talk (title to follow), which will be given this year by in conjunction with this year's Science@culture talk, to be given by Dr Juliana Adelman, School of History and Geography, Dublin City University.</p>"
+    type: diversity
+  - name: "(In-Person) Immersive Futures Workshop - Mullingar"
+    url: "https://www.eventbrite.ie/e/immersive-futures-workshop-mullingar-tickets-1356303603589"
+    region: 🇮🇪 
+    date_added: 2025-05-07
+    start_datetime: 2025-05-28T10:00:00Z
+    end_datetime: 2025-05-28T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
