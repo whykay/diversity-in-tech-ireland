@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-06-20T09:00:00Z
     end_datetime: 2025-06-20T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join the Engineers Ireland Women in Engineering Group on Friday, 20th June in the iconic Round Room at The Mansion House, Dublin, for a special day of celebration, connection and inspiration.</p>
       <p>In line with this year’s theme for International Women in Engineering Day, #TogetherWeEngineer, this event will spotlight the power of community and collaboration in engineering. Expect a full programme of impactful talks, personal stories, and big-picture ideas from a lineup of exceptional speakers (to be announced soon).</p>"
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-06-14T15:00:00Z
     end_datetime: 2025-06-14T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-06-03T18:30:00Z
     end_datetime: 2025-06-03T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-06-17T18:30:00Z
     end_datetime: 2025-06-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-06-03T19:00:00Z
     end_datetime: 2025-06-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2025-05-11
     start_datetime: 2025-06-25T09:15:00Z
     end_datetime: 2025-06-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The central theme of this year's conference is 'Data for All: UN Sustainable Development Goals'. Join us for a day filled with inspiring talks, Q&A, networking opportunities, and a hands-on lab focused on data science. Don't forget to bring your laptop for this interactive lab!</p>"
     type: diversity
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2025-05-11
     start_datetime: 2025-06-05T19:30:00Z
     end_datetime: 2025-06-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Pull up a seat at The Dine & Learn — a unique dinner experience where inclusive leaders come together to explore culture, connection, and leadership in the most human way: through food.</p>
       <p>Whether you’re an HR professional, team leader, DEI champion, or someone who simply believes in leading with empathy, this is your space to connect, reflect, and grow — one dish, one story, one conversation at a time.</p>"
@@ -80,7 +80,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-06-04T19:00:00Z
     end_datetime: 2025-06-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -90,7 +90,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-06-18T19:00:00Z
     end_datetime: 2025-06-18T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -100,7 +100,48 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-06-13T10:30:00Z
     end_datetime: 2025-06-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>​If you’re a woman building a health‑tech startup and you want momentum, this is your room.</p>"
+    type: diversity
+
+  - name: "(In-Person) Northern Ireland Raspberry Jam - June 2025 @ Queens"
+    url: "https://www.eventbrite.co.uk/e/northern-ireland-raspberry-jam-june-2025-tickets-1361459143949"
+    region: 🇬🇧
+    date_added: 2025-05-13
+    start_datetime: 2025-06-14T13:00:00Z
+    end_datetime: 2025-06-14T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) DubJUG 258 - Simon Ritter (and a visit to SQUARESPACE HQ)"
+    url: "https://www.meetup.com/dublinjavausergroup/events/307786983/"
+    region: 🇮🇪
+    date_added: 2025-05-13
+    start_datetime: 2025-06-24T18:00:00Z
+    end_datetime: 2025-06-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Awaken Angels & Women in Tech - Angel Investing Masterclass Evening"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/307772605/"
+    region: 🇬🇧
+    date_added: 2025-05-13
+    start_datetime: 2025-06-14T17:30:00Z
+    end_datetime: 2025-06-14T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Tech Belfast are delighted to collaborate with AwakenHub / AwakenAngels in delivering this event. The event is very kindly hosted by the Ulster Bank Accelerator programme in the Ulster Bank building on Donegall Square East. Food and refreshments, including a range of alcoholic and non-alcoholic drinks, will be provided. Doors will open at 5.30pm and the Masterclass will begin at 6pm. Please come to the back door of the Ulster Bank - located on Upper Arthur Street, next door to Oh Donuts!</p>"
+    type: diversity
+  - name: "(In-Person) PyLadies Dublin June Meetup @ Optum"
+    url: "https://dublin.pyladies.com"
+    region: 🇮🇪 
+    date_added: 2025-05-13
+    start_datetime: 2025-06-17T18:30:00Z
+    end_datetime: 2025-06-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are back at Optum after a couple of years, and it will be an evening of lightning talks, activities and networking. Please check meetup for more info.</p>"
     type: diversity

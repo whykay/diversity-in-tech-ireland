@@ -344,3 +344,14 @@ conferences:
     recurring: false
     desc: "<p>ServerlessDays Belfast, the software community conference focused on the industry’s movement towards serverless and modern cloud technology, returns on Thursday 15th May 2025. Set in the historic Drawing Offices at Titanic Hotel Belfast, this year’s theme, “Serverless is Serving,” highlights how serverless technology empowers engineers, businesses, and communities by removing operational burdens and enabling faster, more efficient solutions.</p>"
     type: tech
+  
+  - name: "(In-Person) Creative Careers Summit 2025 @ Radisson (Golden Lane)"
+    url: "https://mindingcreativeminds.ie/ccs/"
+    region: 🇮🇪 
+    date_added: 2025-05-13
+    start_datetime: 2025-05-20T09:00:00Z
+    end_datetime: 2025-05-20T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Get ready to ignite your creativity, expand your network, and shape the future of the creative sector! Launched in 2023, this dynamic summit was born from deep engagement with artists, arts workers, creatives, live events crew and industry professionals, bringing together a vibrant mix of voices from across Ireland’s creative landscape. From the entire creative village including musicians, Dramaturgs, Directors, Photographers, painters, Storymakers,  writers to producers, event organisers, and below-the-line workers, this gathering highlights the essential role of Ireland’s Creative Sector & Arts in driving innovation, enriching communities, and strengthening Ireland’s economy.</p>"
+    type: tech
