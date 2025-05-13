@@ -297,7 +297,7 @@ conferences:
     date_added: 2025-05-01
     start_datetime: 2025-05-14T09:30:00Z
     end_datetime: 2025-05-14T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The TechFoundHer Summit returns for its third year, bringing together ambitious founders, tech leaders, and advocates for inclusive innovation. This is more than an event — it’s a movement. We’re on a mission to unlock the potential of women tech founders and innovators, making their ideas and impact impossible to ignore.</p>
       <p>Promo code: NETWORK5</p>"
@@ -308,7 +308,7 @@ conferences:
     date_added: 2025-05-01
     start_datetime: 2025-05-19T16:30:00Z
     end_datetime: 2025-05-29T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Events will revolve around this year’s theme - ‘Shaping the Future of Technology Innovation’ exploring the major breakthroughs defining what’s next in tech.</p>
       <p>Come join us for tech innovative workshops, inspiring speakers, and networking opportunities galore. Whether you're a seasoned pro or just starting out in the tech world, there's something here for everyone.</p>"
@@ -319,7 +319,7 @@ conferences:
     date_added: 2025-05-01
     start_datetime: 2025-06-25T09:15:00Z
     end_datetime: 2025-06-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The central theme of this year's conference is 'Data for All: UN Sustainable Development Goals'. Join us for a day filled with inspiring talks, Q&A, networking opportunities, and a hands-on lab focused on data science. Don't forget to bring your laptop for this interactive lab!</p>"
     type: diversity
@@ -329,7 +329,7 @@ conferences:
     date_added: 2025-05-01
     start_datetime: 2025-05-09T11:00:00Z
     end_datetime: 2025-05-09T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -340,7 +340,7 @@ conferences:
     date_added: 2025-05-06
     start_datetime: 2025-05-15T09:00:00Z
     end_datetime: 2025-05-15T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>ServerlessDays Belfast, the software community conference focused on the industry’s movement towards serverless and modern cloud technology, returns on Thursday 15th May 2025. Set in the historic Drawing Offices at Titanic Hotel Belfast, this year’s theme, “Serverless is Serving,” highlights how serverless technology empowers engineers, businesses, and communities by removing operational burdens and enabling faster, more efficient solutions.</p>"
     type: tech

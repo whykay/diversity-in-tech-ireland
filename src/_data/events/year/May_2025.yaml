@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-08T19:00:00Z
     end_datetime: 2025-05-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at the stylish Saba in Dublin for a relaxed evening of delicious food, inspiring chats, and meaningful networking with like-minded women. Whether you're seeking fresh inspiration, new collaborations, or simply great company, this is your space to just be, no agendas, just authentic connection.</p>"
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-08T17:00:00Z
     end_datetime: 2025-05-08T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us on May 8, 2025, for NCAD Director's Spotlight: 'In Response to EDI Backlash'. Panelists include Dr. Vikram Visana (he/him), Lecturer in Political Theory at the University of Leicester,  Dr. Jye O'Sullivan (NCAD, and Vessy Tasheva (she/they), psychotherapist and former CEO of Vessy.com, a global EDI consultancy.
       Chaired by Dean O'Reilly (EDI & Sexual Violence Prevention/Response), the event will explore panelists' experiences working on EDI initiatives and how they have encountered and responded to backlash.</p>"
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-22T18:15:00Z
     end_datetime: 2025-05-22T21:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-06T19:00:00Z
     end_datetime: 2025-05-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-13T19:00:00Z
     end_datetime: 2025-05-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -57,7 +57,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-20T19:00:00Z
     end_datetime: 2025-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -67,7 +67,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-10T15:00:00Z
     end_datetime: 2025-05-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -77,7 +77,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-13T08:00:00Z
     end_datetime: 2025-05-13T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: design
@@ -87,7 +87,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-14T18:30:00Z
     end_datetime: 2025-05-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -97,7 +97,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-15T18:30:00Z
     end_datetime: 2025-05-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -107,7 +107,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-06T18:30:00Z
     end_datetime: 2025-05-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -117,7 +117,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-20T18:30:00Z
     end_datetime: 2025-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -127,7 +127,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-06T19:00:00Z
     end_datetime: 2025-05-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -137,7 +137,7 @@ eventlistings:
     date_added: 2025-04-21
     start_datetime: 2025-05-06T19:00:00Z
     end_datetime: 2025-05-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -148,7 +148,7 @@ eventlistings:
     date_added: 2025-05-01
     start_datetime: 2025-05-14T09:30:00Z
     end_datetime: 2025-05-14T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The TechFoundHer Summit returns for its third year, bringing together ambitious founders, tech leaders, and advocates for inclusive innovation. This is more than an event — it’s a movement. We’re on a mission to unlock the potential of women tech founders and innovators, making their ideas and impact impossible to ignore.</p>
       <p>Promo code: NETWORK5</p>"
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2025-05-01
     start_datetime: 2025-05-22T15:00:00Z
     end_datetime: 2025-05-22T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Hosted by itag’s Digital Women’s Forum, this event will delve into fostering adaptability and collaboration in teams facing disruption, with a focus on change management principles that drive agility, performance, and innovation. Key themes include building trust, psychological safety, and making data-driven decisions, alongside the role of inclusive leadership in strengthening resilience and promoting sustainable growth. The lineup features a keynote by Elaine Murphy of Signify Health Ireland on leading high-performing tech teams, followed by a panel discussion with Eimear Coffey (Fidelity Investments), Julie Dowling (AIM Centre), and Florence Higgins (Smartbear).</p>"
     type: diversity
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2025-05-01
     start_datetime: 2025-05-17T15:00:00Z
     end_datetime: 2025-05-17T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Cork Female Coders are hosting their spring IT Talk in sunny Kinsale. This time, Carrie will introduce us to the fundamentals of web APIs.</p>"
     type: diversity
@@ -181,7 +181,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-27T18:00:00Z
     end_datetime: 2025-05-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -191,7 +191,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-29T18:00:00Z
     end_datetime: 2025-05-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -201,7 +201,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-19T19:00:00Z
     end_datetime: 2025-05-19T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -211,7 +211,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-24T15:00:00Z
     end_datetime: 2025-05-24T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-07T19:00:00Z
     end_datetime: 2025-05-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-21T19:00:00Z
     end_datetime: 2025-05-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -241,7 +241,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-06T19:00:00Z
     end_datetime: 2025-05-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -251,7 +251,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-13T19:00:00Z
     end_datetime: 2025-05-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -261,7 +261,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-20T19:00:00Z
     end_datetime: 2025-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -271,7 +271,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-25T11:00:00Z
     end_datetime: 2025-05-25T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -281,7 +281,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-27T18:30:00Z
     end_datetime: 2025-05-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -291,7 +291,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-07T18:30:00Z
     end_datetime: 2025-05-07T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -301,7 +301,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-22T18:00:00Z
     end_datetime: 2025-05-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -311,7 +311,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-06T19:00:00Z
     end_datetime: 2025-05-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -321,7 +321,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-07T18:00:00Z
     end_datetime: 2025-05-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -331,7 +331,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-21T17:00:00Z
     end_datetime: 2025-05-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -341,7 +341,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-15T18:00:00Z
     end_datetime: 2025-05-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -351,7 +351,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-07T18:00:00Z
     end_datetime: 2025-05-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -361,7 +361,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-06T18:00:00Z
     end_datetime: 2025-05-06T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This month WTM Belfast are reading The Let Them Theory by Mel Robnins</p>"
     type: diversity
@@ -371,7 +371,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-22T12:00:00Z
     end_datetime: 2025-05-22T12:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Members only event. Join us for a combined session with British Business Bank, StartUp Loans and the Investment Fund for Northern Ireland if you are based in. or are looking to have a base in Northern Ireland.</p>"
     type: diversity
@@ -381,7 +381,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-29T12:00:00Z
     end_datetime: 2025-05-29T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for a very special session with Kelly Hoey on transforming your 60 second pitch to 6 words. Limited spaces. </p>"
     type: diversity
@@ -391,7 +391,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-15T18:00:00Z
     end_datetime: 2025-05-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join Simple Probate and the Irish Women Lawyers Association (IWLA) at Dogpatch Labs for an engaging event that explores the intersection of law and technology</p>
       <p>Our speakers will share their career journeys, trends in Legal Tech and Technology Law including Data Protection and AI literacy, advice on how to leverage technology for your career and why we should care about this rapidly growing discipline.</p>"
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-15T08:30:00Z
     end_datetime: 2025-05-15T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Invite only leaders workshop with visiting business leader, author and investor Wendy Ryan. This very special event is cohosted by TechFoundHer and WITS Ireland.</p>"
     type: diversity
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2025-05-02
     start_datetime: 2025-05-24T14:00:00Z
     end_datetime: 2025-05-24T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -423,7 +423,7 @@ eventlistings:
     date_added: 2025-05-07
     start_datetime: 2025-05-30T15:00:00Z
     end_datetime: 2025-05-30T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>'Women in Tech: Celebrating Diversity and Culture' will bring together trailblazing professionals, founders, investors, thought leaders, and emerging talent for a powerful exchange of stories and insights. Through engaging presentations and networking opportunities, we’ll explore how inclusion fuels innovation and how diverse perspectives are driving change across every sector of tech.</p>
       <p>Whether you're an industry veteran, a startup founder, investor, a student, or simply passionate about equality in tech, this event offers a welcoming space to connect, learn, and be inspired.</p>"
@@ -434,7 +434,7 @@ eventlistings:
     date_added: 2025-05-07
     start_datetime: 2025-05-22T18:00:00Z
     end_datetime: 2025-05-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Mary Muvihill Award, set up in 2017 to commemorate Mary and continue her legacy of the science writing and outreach, is now in it's 9th year. The theme for this year's award is 'Life'</p>
       <p>The 2025 award ceremony will be held in conjunction with this year's science@culture talk (title to follow), which will be given this year by in conjunction with this year's Science@culture talk, to be given by Dr Juliana Adelman, School of History and Geography, Dublin City University.</p>"
@@ -445,7 +445,7 @@ eventlistings:
     date_added: 2025-05-07
     start_datetime: 2025-05-28T10:00:00Z
     end_datetime: 2025-05-28T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
