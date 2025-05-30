@@ -456,7 +456,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-15T18:00:00Z
     end_datetime: 2025-05-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -466,7 +466,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-27T18:30:00Z
     end_datetime: 2025-05-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -476,7 +476,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-29T18:00:00Z
     end_datetime: 2025-05-29T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -486,7 +486,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-22T18:30:00Z
     end_datetime: 2025-05-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -496,7 +496,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-21T19:00:00Z
     end_datetime: 2025-05-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -506,7 +506,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-05-20T18:30:00Z
     end_datetime: 2025-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are back at Pinterest EMEA office with two speakers followed by networking. Food will be provided.</p>"
     type: diversity
