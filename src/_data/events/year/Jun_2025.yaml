@@ -145,3 +145,65 @@ eventlistings:
     recurring: false
     desc: "<p>We are back at Optum after a couple of years, and it will be an evening of lightning talks, activities and networking. Please check meetup for more info.</p>"
     type: diversity
+
+  - name: "(In-Person) Meet the Maker – MariaDB Meetup on Innovation & Community @ AWS"
+    url: "https://www.meetup.com/mariadb-dublin-meetup-group/events/307581175/"
+    region: 🇮🇪
+    date_added: 2025-05-30
+    start_datetime: 2025-06-05T17:00:00Z
+    end_datetime: 2025-06-05T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307826409/"
+    region: 🇮🇪
+    date_added: 2025-05-30
+    start_datetime: 2025-06-03T19:00:00Z
+    end_datetime: 2025-06-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307807999/"
+    region: 🇮🇪
+    date_added: 2025-05-30
+    start_datetime: 2025-06-02T19:00:00Z
+    end_datetime: 2025-06-02T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/307986370/"
+    region: 🇮🇪
+    date_added: 2025-05-30
+    start_datetime: 2025-06-16T19:00:00Z
+    end_datetime: 2025-06-16T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lznlptyhcjbnc/"
+    region: 🇮🇪
+    date_added: 2025-05-30
+    start_datetime: 2025-06-30T19:00:00Z
+    end_datetime: 2025-06-30T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Awaken Angels & Women in Tech - Angel Investing Masterclass Evening @ Ulster Bank (Belfast)"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/307772605/"
+    region: 🇬🇧
+    date_added: 2025-05-30
+    start_datetime: 2025-06-04T17:30:00Z
+    end_datetime: 2025-06-04T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AwakenAngels' 90-minute Angel Investing Masterclass is your perfect intro!</p>
+      <p>Women in Tech Belfast are delighted to collaborate with AwakenHub / AwakenAngels in delivering this event. The event is very kindly hosted by the Ulster Bank Accelerator programme in the Ulster Bank building on Donegall Square East. </p>"
+    type: diversity
