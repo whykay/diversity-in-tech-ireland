@@ -207,3 +207,15 @@ eventlistings:
     desc: "<p>AwakenAngels' 90-minute Angel Investing Masterclass is your perfect intro!</p>
       <p>Women in Tech Belfast are delighted to collaborate with AwakenHub / AwakenAngels in delivering this event. The event is very kindly hosted by the Ulster Bank Accelerator programme in the Ulster Bank building on Donegall Square East. </p>"
     type: diversity
+
+  - name: "(In-Person) CHAT@Trinity: Access to STEM: AT supporting Inclusive Classrooms"
+    url: "https://www.eventbrite.ie/e/chattrinity-access-to-stem-at-supporting-inclusive-classrooms-tickets-1381119107429"
+    region: 🇮🇪
+    date_added: 2025-06-03
+    start_datetime: 2025-06-06T14:00:00Z
+    end_datetime: 2025-06-06T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for CHAT@Trinity: Access to STEM – AT Supporting Inclusive Classrooms, a live event exploring how Assistive Technology (AT) supports access to STEM learning in inclusive primary and secondary school settings.</p>
+      <p>Anyone involved or interested in Assistive Technology, including users, practitioners, educators, developers, and advocates. This is a welcoming space to explore solutions, exchange experiences, and connect with others in the AT sector.</p>"
+    type: diversity
