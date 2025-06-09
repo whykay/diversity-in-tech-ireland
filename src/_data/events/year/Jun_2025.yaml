@@ -219,3 +219,25 @@ eventlistings:
     desc: "<p>Join us for CHAT@Trinity: Access to STEM – AT Supporting Inclusive Classrooms, a live event exploring how Assistive Technology (AT) supports access to STEM learning in inclusive primary and secondary school settings.</p>
       <p>Anyone involved or interested in Assistive Technology, including users, practitioners, educators, developers, and advocates. This is a welcoming space to explore solutions, exchange experiences, and connect with others in the AT sector.</p>"
     type: diversity
+
+  - name: "(In-Person) Fierce Belfast | Accelerating Women Founders in Tech"
+    url: "https://lu.ma/o4pjo1c3"
+    region: 🇬🇧
+    date_added: 2025-06-09
+    start_datetime: 2025-06-19T14:00:00Z
+    end_datetime: 2025-06-19T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an afternoon of hands-on sessions, real problems, practical takeaways. We'll cover everything from fundraising, to customer traction, optimising on AI and more. You'll hear directly from the founders who have gone before you, the investors looking to invest in you and the operators who have worked with hundreds of startups.</p>
+      <p>​​If you’re a woman building an early-stage tech startup - this is for you!</p>"
+    type: diversity
+  - name: "(In-Person) Belfast Ruby: Marco Roth & John Gallagher"
+    url: "https://lu.ma/nfivv402"
+    region: 🇬🇧
+    date_added: 2025-06-09
+    start_datetime: 2025-06-10T18:00:00Z
+    end_datetime: 2025-06-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
