@@ -351,7 +351,7 @@ conferences:
     date_added: 2025-05-13
     start_datetime: 2025-05-20T09:00:00Z
     end_datetime: 2025-05-20T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Get ready to ignite your creativity, expand your network, and shape the future of the creative sector! Launched in 2023, this dynamic summit was born from deep engagement with artists, arts workers, creatives, live events crew and industry professionals, bringing together a vibrant mix of voices from across Ireland’s creative landscape. From the entire creative village including musicians, Dramaturgs, Directors, Photographers, painters, Storymakers,  writers to producers, event organisers, and below-the-line workers, this gathering highlights the essential role of Ireland’s Creative Sector & Arts in driving innovation, enriching communities, and strengthening Ireland’s economy.</p>"
     type: tech

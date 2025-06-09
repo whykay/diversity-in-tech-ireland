@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-06-14T13:00:00Z
     end_datetime: 2025-06-14T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -121,7 +121,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-06-24T18:00:00Z
     end_datetime: 2025-06-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -131,7 +131,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-06-14T17:30:00Z
     end_datetime: 2025-06-14T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Tech Belfast are delighted to collaborate with AwakenHub / AwakenAngels in delivering this event. The event is very kindly hosted by the Ulster Bank Accelerator programme in the Ulster Bank building on Donegall Square East. Food and refreshments, including a range of alcoholic and non-alcoholic drinks, will be provided. Doors will open at 5.30pm and the Masterclass will begin at 6pm. Please come to the back door of the Ulster Bank - located on Upper Arthur Street, next door to Oh Donuts!</p>"
     type: diversity
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2025-05-13
     start_datetime: 2025-06-17T18:30:00Z
     end_datetime: 2025-06-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are back at Optum after a couple of years, and it will be an evening of lightning talks, activities and networking. Please check meetup for more info.</p>"
     type: diversity
@@ -152,7 +152,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-05T17:00:00Z
     end_datetime: 2025-06-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -162,7 +162,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-03T19:00:00Z
     end_datetime: 2025-06-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -172,7 +172,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-02T19:00:00Z
     end_datetime: 2025-06-02T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -182,7 +182,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-16T19:00:00Z
     end_datetime: 2025-06-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -192,7 +192,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-30T19:00:00Z
     end_datetime: 2025-06-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -202,7 +202,7 @@ eventlistings:
     date_added: 2025-05-30
     start_datetime: 2025-06-04T17:30:00Z
     end_datetime: 2025-06-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>AwakenAngels' 90-minute Angel Investing Masterclass is your perfect intro!</p>
       <p>Women in Tech Belfast are delighted to collaborate with AwakenHub / AwakenAngels in delivering this event. The event is very kindly hosted by the Ulster Bank Accelerator programme in the Ulster Bank building on Donegall Square East. </p>"
@@ -214,7 +214,7 @@ eventlistings:
     date_added: 2025-06-03
     start_datetime: 2025-06-06T14:00:00Z
     end_datetime: 2025-06-06T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for CHAT@Trinity: Access to STEM – AT Supporting Inclusive Classrooms, a live event exploring how Assistive Technology (AT) supports access to STEM learning in inclusive primary and secondary school settings.</p>
       <p>Anyone involved or interested in Assistive Technology, including users, practitioners, educators, developers, and advocates. This is a welcoming space to explore solutions, exchange experiences, and connect with others in the AT sector.</p>"
