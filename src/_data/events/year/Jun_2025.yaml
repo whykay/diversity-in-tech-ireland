@@ -241,3 +241,24 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Women in AI Leadership @ Citi (D1)"
+    url: "https://www.eventbrite.co.uk/e/women-in-ai-leadership-tickets-1401533316879"
+    region: 🇮🇪
+    date_added: 2025-06-16
+    start_datetime: 2025-06-19T18:00:00Z
+    end_datetime: 2025-06-19T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
+  - name: "(In-Person) Ladies that UX Dublin: Building an Accessibility Culture and Eliminating Bias in UX Decisions @ Baseline"
+    url: "https://www.eventbrite.ie/e/building-an-accessibility-culture-and-eliminating-bias-in-ux-decisions-tickets-1401460779919"
+    region: 🇮🇪
+    date_added: 2025-06-16
+    start_datetime: 2025-06-25T18:00:00Z
+    end_datetime: 2025-06-25T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: diversity
