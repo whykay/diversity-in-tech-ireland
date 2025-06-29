@@ -226,7 +226,7 @@ eventlistings:
     date_added: 2025-06-09
     start_datetime: 2025-06-19T14:00:00Z
     end_datetime: 2025-06-19T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an afternoon of hands-on sessions, real problems, practical takeaways. We'll cover everything from fundraising, to customer traction, optimising on AI and more. You'll hear directly from the founders who have gone before you, the investors looking to invest in you and the operators who have worked with hundreds of startups.</p>
       <p>​​If you’re a woman building an early-stage tech startup - this is for you!</p>"
@@ -237,7 +237,7 @@ eventlistings:
     date_added: 2025-06-09
     start_datetime: 2025-06-10T18:00:00Z
     end_datetime: 2025-06-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -248,7 +248,7 @@ eventlistings:
     date_added: 2025-06-16
     start_datetime: 2025-06-19T18:00:00Z
     end_datetime: 2025-06-19T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -258,7 +258,7 @@ eventlistings:
     date_added: 2025-06-16
     start_datetime: 2025-06-25T18:00:00Z
     end_datetime: 2025-06-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: diversity
@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2025-06-16
     start_datetime: 2025-06-18T18:00:00Z
     end_datetime: 2025-06-18T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>On Neurodiversity Pride Day, we as neurodivergents take a moment to reflect on what we are proud of in our own lives, the love we bring to our families and friends, the value we add to teams and the everyday courage it takes to be yourself.Neurodiversity Pride Day is the annual day of pride for neurodivergent people, and a day for celebrating the differentness of all types of minds; neurodiversity.Join the Ireland inaugural celebrations as we bring together a collection of stories and experiences from an impactful group of individuals such as:-Sean Fay, Dublin city’s first disability ambassador</p>"
     type: diversity
