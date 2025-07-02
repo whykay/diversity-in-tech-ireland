@@ -355,3 +355,24 @@ conferences:
     recurring: false
     desc: "<p>Get ready to ignite your creativity, expand your network, and shape the future of the creative sector! Launched in 2023, this dynamic summit was born from deep engagement with artists, arts workers, creatives, live events crew and industry professionals, bringing together a vibrant mix of voices from across Ireland’s creative landscape. From the entire creative village including musicians, Dramaturgs, Directors, Photographers, painters, Storymakers,  writers to producers, event organisers, and below-the-line workers, this gathering highlights the essential role of Ireland’s Creative Sector & Arts in driving innovation, enriching communities, and strengthening Ireland’s economy.</p>"
     type: tech
+
+  - name: "(In-Person) PyCon Ireland 2025"
+    url: "https://pycon.ie/"
+    region: 🇮🇪 
+    date_added: 2025-07-01
+    start_datetime: 2025-11-15T09:00:00Z
+    end_datetime: 2025-11-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyCon Ireland 2025 will run on Saturday and Sunday, featuring two talk tracks and two workshop tracks on both days. Your conference ticket grants access to all activities (see T&Cs for details) and includes a light breakfast and lunch on Saturday and Sunday. Join us on Saturday evening for a fun and relaxed entertainment night, perfect for networking, unwinding and experience a bit of Irish culture. 🎤🍽️</p>"
+    type: tech
+  - name: "(In-Person) NIDC 2025"
+    url: "https://www.nidevconf.com/"
+    region: 🇬🇧
+    date_added: 2025-07-01
+    start_datetime: 2025-11-08T09:00:00Z
+    end_datetime: 2025-11-08T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>NIDC gathers enthusiasts, practitioners and those with a passing interest across the diverse disciplines of our industry from software, product, cloud, data, UX, games, infrastructure, open source, security, hardware, testing, design, AI, and everything in between.</p>"
+    type: tech
