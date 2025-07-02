@@ -991,6 +991,18 @@ groups:
     status: new
     type: all 
 
+  - name: "Women In Cybersecurity Community Association IE"
+    url: "https://www.meetup.com/wicca-ie/"
+    region: Ireland
+    date_added: 2025-07-02
+    year_added: 2025
+    month_added: 07
+    day_added: 02
+    date_removed:
+    status: new
+    type: all 
+
+
 
 ###
 # THIRD LEVEL
