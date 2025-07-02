@@ -10,3 +10,154 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for our Frontier Tech Session to explore the latest tech trends and the emerging tech opportunities.</p>"
     type: diversity
+
+  - name: "(In-Person) Stripe meetup Dublin July 2025"
+    url: "https://www.meetup.com/stripe-dublin/events/308080589/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-17T18:30:00Z
+    end_datetime: 2025-07-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech, corporate
+  - name: "(In-Person) Python Ireland July 2025 Meetup @ Workday"
+    url: "https://www.meetup.com/pythonireland/events/308517255/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-07T18:30:00Z
+    end_datetime: 2025-07-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Google I/O Extended 2025 @ Google"
+    url: "https://www.meetup.com/gdg-dublin/events/308500282/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-30T17:30:00Z
+    end_datetime: 2025-07-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ember.js Dublin: Modern Ember Upgrade Workshop @ Phorest Salon Software"
+    url: "https://www.meetup.com/emberjsdublin/events/308331468/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-30T18:45:00Z
+    end_datetime: 2025-07-30T21:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Women in Cybersecurity Community Association IE: Psst… there's a new cyber witch in town!"
+    url: "https://www.meetup.com/wicca-ie/events/308595638/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-30T18:00:00Z
+    end_datetime: 2025-07-30T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>WICCA is coming to Dublin! Starting over or starting anew? One way or another, the circle grows. We're calling all women working in or curious about cybersecurity to join us in the heart of Dublin (Temple Bar Area) to get some drinks, talk about cool hacks, cyber passions and make bad crypto jokes.</p>"
+    type: diversity
+  - name: "(In-Person) The Games Co-Op: I like big games and I Cannot (Ju-)Lie @ The Belfry"
+    url: "https://www.meetup.com/the-games-co-op/events/308689703/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-21T19:00:00Z
+    end_datetime: 2025-07-21T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/308133322/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-12T15:00:00Z
+    end_datetime: 2025-07-17T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/308598695/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-26T15:00:00Z
+    end_datetime: 2025-07-26T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/308739500/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-07T19:00:00Z
+    end_datetime: 2025-07-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/fxdtdtyhckbcc/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-21T19:00:00Z
+    end_datetime: 2025-07-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Sligo Tech Meetup: When Tech Meets Creativity - Thursday 10th July - The Building Block @ The Building Block"
+    url: "https://www.meetup.com/sligotech/events/308786097/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-10T18:00:00Z
+    end_datetime: 2025-07-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/308793340/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-21T18:00:00Z
+    end_datetime: 2025-07-21T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Cork|Sec 145"
+    url: "https://www.meetup.com/corksec/events/303031692/"
+    region: 🇮🇪 
+    date_added: 2025-07-02
+    start_datetime: 2025-07-08T18:15:00Z
+    end_datetime: 2025-07-08T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DevOps Belfast✖️NI Tech Community - Belfast Pride Parade 🌈"
+    url: "https://www.meetup.com/devops-belfast/events/308786116/"
+    region: 🇬🇧
+    date_added: 2025-07-02
+    start_datetime: 2025-07-26T12:30:00Z
+    end_datetime: 2025-07-26T14:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech, social
+  - name: "(In-Person) Belfast Linux/Libre User Group: BLUG: Black Mountain Family Hill Walk"
+    url: "https://www.meetup.com/belfast-lug/events/308691807"
+    region: 🇬🇧
+    date_added: 2025-07-02
+    start_datetime: 2025-07-27T14:30:00Z
+    end_datetime: 2025-07-27T17:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech, social
