@@ -1,0 +1,52 @@
+---
+eventlistings:
+  - name: "(In-Person) Belfast Linux/Libre User Group: BLUG: Debian Birthday & CHERI"
+    url: "https://www.meetup.com/belfast-lug/events/308691852/"
+    region: 🇬🇧
+    date_added: 2025-07-02
+    start_datetime: 2025-08-13T19:00:00Z
+    end_datetime: 2025-08-13T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Cork|Sec 146"
+    url: "https://www.meetup.com/corksec/events/303031693/"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-12T19:00:00Z
+    end_datetime: 2025-08-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/308711653/"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-05T19:00:00Z
+    end_datetime: 2025-08-05T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Build Your Own RISC-V Computer – Olimex RVPC Workshop @ Tog Hackerspace"
+    url: "https://www.eventbrite.ie/e/build-your-own-risc-v-computer-olimex-rvpc-workshop-tog-hackerspace-tickets-1446556703039"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-16T10:00:00Z
+    end_datetime: 2025-08-16T12:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) DIY Electric Vehicle Meetup @ Tog Hackerspace"
+    url: "https://www.eventbrite.ie/e/diy-electric-vehicle-meetup-tickets-1349692810529"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-16T15:00:00Z
+    end_datetime: 2025-08-16T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
