@@ -50,3 +50,23 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+  - name: "(In-Person) PyLadies Dublin Tea/Coffee"
+    url: "https://dublin.pyladies.com"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-09T15:00:00Z
+    end_datetime: 2025-08-09T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We will have an informal tea/coffee chats in the area outisde Starbucks/Dogpatch Labs (entrance at George's Dock LUAS stop. We will confirm details on meetup.</p>"
+    type: diversity
+  - name: "(In-Person) PyLadies Dublin && dub|sec Special Event"
+    url: "https://dublin.pyladies.com"
+    region: 🇮🇪
+    date_added: 2025-07-02
+    start_datetime: 2025-08-30T10:00:00Z
+    end_datetime: 2025-08-30T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We will be partnering with dub|sec for a cybersecurity day of talks and activities. More details will be posted on meetup soon.</p>"
+    type: diversity
