@@ -161,3 +161,44 @@ eventlistings:
     recurring: false
     desc: 
     type: tech, social
+
+  - name: "(In-Person) Dub|Sec Summer Social @ Underdog"
+    url: "https://www.meetup.com/dub-sec/events/308816188/"
+    region: 🇮🇪 
+    date_added: 2025-07-08
+    start_datetime: 2025-07-30T18:30:00Z
+    end_datetime: 2025-07-30T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/308863532/"
+    region: 🇮🇪 
+    date_added: 2025-07-08
+    start_datetime: 2025-07-19T19:00:00Z
+    end_datetime: 2025-07-30T23:59:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) TOG Open House"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/308863528/"
+    region: 🇮🇪 
+    date_added: 2025-07-08
+    start_datetime: 2025-07-08T19:00:00Z
+    end_datetime: 2025-07-08T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) ❄️ Snowflake User Group – Belfast Launch 🎉 @ ESO"
+    url: "https://www.meetup.com/snowflake-belfast-user-group/events/308862135/7"
+    region: 🇬🇧
+    date_added: 2025-07-08
+    start_datetime: 2025-07-24T18:00:00Z
+    end_datetime: 2025-07-24T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
