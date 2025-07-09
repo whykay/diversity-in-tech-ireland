@@ -202,3 +202,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Assemble for Change: An Interactive Adventure in Sustainable Game Design @ CREW Hub (Galway)"
+    url: "https://www.eventbrite.ie/e/assemble-for-change-an-interactive-adventure-in-sustainable-game-design-tickets-1473951120479"
+    region: 🇮🇪 
+    date_added: 2025-07-09
+    start_datetime: 2025-07-21T14:00:00Z
+    end_datetime: 2025-07-21T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
