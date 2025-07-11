@@ -70,3 +70,14 @@ eventlistings:
     recurring: false
     desc: "<p>We will be partnering with dub|sec for a cybersecurity day of talks and activities. More details will be posted on meetup soon.</p>"
     type: diversity
+
+  - name: "(In-Person) NI Cyber x Danske Bank UK Women in Cyber Summer Social"
+    url: "https://dublin.pyladies.com"
+    region: 🇬🇧
+    date_added: 2025-07-11
+    start_datetime: 2025-08-07T17:00:00Z
+    end_datetime: 2025-08-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an evening of networking, learning, and fun with like-minded individuals in the local cyber industry.</p>"
+    type: diversity
