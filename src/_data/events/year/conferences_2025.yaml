@@ -86,7 +86,7 @@ conferences:
     region: 🇮🇪
     date_added: 2025-01-07
     start_datetime: 2025-10-14T09:00:00Z
-    end_datetime: 2025-10-16T18:00:00Z
+    end_datetime: 2025-10-15T18:00:00Z
     new: false
     recurring: false
     desc: "<p>We’re back for 2025 with a bigger, better, and redefined event experience. As the SaaS industry moves up-market, so are we.</p>"
@@ -375,4 +375,36 @@ conferences:
     new: true
     recurring: false
     desc: "<p>NIDC gathers enthusiasts, practitioners and those with a passing interest across the diverse disciplines of our industry from software, product, cloud, data, UX, games, infrastructure, open source, security, hardware, testing, design, AI, and everything in between.</p>"
+    type: tech
+
+  - name: "(In-Person) SRECon Europe 2025"
+    url: "https://www.usenix.org/conference/srecon25emea"
+    region: 🇮🇪 
+    date_added: 2025-07-13
+    start_datetime: 2025-10-07T09:00:00Z
+    end_datetime: 2025-10-09T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>SREcon25 Europe/Middle East/Africa is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. SREcon strives to challenge both those new to the profession as well as those who have been involved in it for decades. The conference has a culture of critical thought, deep technical insights, continuous improvement, and innovation.</p>
+      <p>Grant Applications due Monday, 11 August, 2025</p>"
+    type: tech
+  - name: "(In-Person) HEAnet Conference 2025"
+    url: "https://www.conference.heanet.ie/"
+    region: 🇮🇪 
+    date_added: 2025-07-13
+    start_datetime: 2025-11-05T09:00:00Z
+    end_datetime: 2025-11-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ireland’s Premier Event for Connecting Education and Empowering Research</p>"
+    type: tech
+  - name: "(In-Person) RebelCon 2025"
+    url: "https://rebelcon.io/"
+    region: 🇮🇪 
+    date_added: 2025-07-13
+    start_datetime: 2025-10-16T09:00:00Z
+    end_datetime: 2025-10-16T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A practitioner-led software conference, driving real change.</p>"
     type: tech

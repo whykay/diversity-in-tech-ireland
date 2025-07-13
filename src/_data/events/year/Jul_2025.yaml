@@ -213,3 +213,14 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) Women in AI Ireland: Summer Soiree @ eBay HQ"
+    url: "https://www.eventbrite.co.uk/e/wai-ireland-summer-soiree-tickets-1463905935059"
+    region: 🇮🇪 
+    date_added: 2025-07-11
+    start_datetime: 2025-07-23T18:00:00Z
+    end_datetime: 2025-07-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join the Women in AI Ireland community for a relaxed and inspiring summer evening of storytelling, life journey mapping, and meaningful connection at eBay’s beautiful Dublin HQ.Whether you're already working in AI or just curious about the space, this is an open, inclusive opportunity to meet like-minded women and allies, share your path, and get to know the growing WAI community in Ireland.</p>"
+    type: diversity
