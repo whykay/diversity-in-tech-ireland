@@ -420,3 +420,14 @@ conferences:
     recurring: false
     desc: "<p>NEXUS Games Summit welcomes 300 games industry leaders to Dublin for two days of networking events, live stage content and roundtable discussions. Hear from international thought leaders discussing key industry topics and trends. </p>"
     type: gamedev
+
+  - name: "(In-Person) DevFest Ireland 2025"
+    url: "https://devfestireland.com"
+    region: 🇮🇪 
+    date_added: 2025-08-01
+    start_datetime: 2025-12-06T09:00:00Z
+    end_datetime: 2025-12-06T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join developers, tech enthusiasts, and community leaders from across Ireland for a day of learning, networking, and inspiration. Whether you’re a seasoned pro or just starting your journey, DevFest Ireland is the place to be! </p>"
+    type: tech
