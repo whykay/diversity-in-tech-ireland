@@ -362,7 +362,7 @@ conferences:
     date_added: 2025-07-01
     start_datetime: 2025-11-15T09:00:00Z
     end_datetime: 2025-11-16T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyCon Ireland 2025 will run on Saturday and Sunday, featuring two talk tracks and two workshop tracks on both days. Your conference ticket grants access to all activities (see T&Cs for details) and includes a light breakfast and lunch on Saturday and Sunday. Join us on Saturday evening for a fun and relaxed entertainment night, perfect for networking, unwinding and experience a bit of Irish culture. 🎤🍽️</p>"
     type: tech
@@ -372,7 +372,7 @@ conferences:
     date_added: 2025-07-01
     start_datetime: 2025-11-08T09:00:00Z
     end_datetime: 2025-11-08T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>NIDC gathers enthusiasts, practitioners and those with a passing interest across the diverse disciplines of our industry from software, product, cloud, data, UX, games, infrastructure, open source, security, hardware, testing, design, AI, and everything in between.</p>"
     type: tech
@@ -383,7 +383,7 @@ conferences:
     date_added: 2025-07-13
     start_datetime: 2025-10-07T09:00:00Z
     end_datetime: 2025-10-09T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>SREcon25 Europe/Middle East/Africa is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. SREcon strives to challenge both those new to the profession as well as those who have been involved in it for decades. The conference has a culture of critical thought, deep technical insights, continuous improvement, and innovation.</p>
       <p>Grant Applications due Monday, 11 August, 2025</p>"
@@ -394,7 +394,7 @@ conferences:
     date_added: 2025-07-13
     start_datetime: 2025-11-05T09:00:00Z
     end_datetime: 2025-11-07T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Ireland’s Premier Event for Connecting Education and Empowering Research</p>"
     type: tech
@@ -404,7 +404,7 @@ conferences:
     date_added: 2025-07-13
     start_datetime: 2025-10-16T09:00:00Z
     end_datetime: 2025-10-16T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A practitioner-led software conference, driving real change.</p>"
     type: tech
@@ -416,7 +416,7 @@ conferences:
     date_added: 2025-07-22
     start_datetime: 2025-10-01T09:00:00Z
     end_datetime: 2025-10-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>NEXUS Games Summit welcomes 300 games industry leaders to Dublin for two days of networking events, live stage content and roundtable discussions. Hear from international thought leaders discussing key industry topics and trends. </p>"
     type: gamedev
@@ -429,5 +429,5 @@ conferences:
     end_datetime: 2025-12-06T17:00:00Z
     new: true
     recurring: false
-    desc: "<p>Join developers, tech enthusiasts, and community leaders from across Ireland for a day of learning, networking, and inspiration. Whether you’re a seasoned pro or just starting your journey, DevFest Ireland is the place to be! </p>"
+    desc: "<p>Join developers, tech enthusiasts, and community leaders from across Ireland for a day of learning, networking, and inspiration. Whether you're a seasoned pro or just starting your journey, DevFest Ireland is the place to be! </p>"
     type: tech
