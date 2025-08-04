@@ -41,6 +41,11 @@ cancelled:
     status: new
 
 opportunities:
+  - name: "WiCyS Mentorship Program"
+    desc: "<p>This is your sign to pursue a new, career changing opportunity as a mentor or mentee with the 9 month WiCyS Mentorship Program, designed to elevate women in cybersecurity through enhanced skills in influence, negotiation, leadership, work/life harmony, and communication.</p>
+     <p>⏳ August 27, 2025: Applications Close at 5PM CT</p>"
+    url: "https://www.wicys.org/initiatives/mentor/mentor-mentee-program"
+    status: new
   - name: "TWi And Tech Writers Without Borders And You"
     desc: "Professional writers are ready to volunteer. TWi and Tech Writers Without Borders are partnering to bring technical writers to your not for profit COVID-19 related projects."
     url: "https://www.technicallywriteit.com/volunteer-writing-support/"
