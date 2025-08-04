@@ -92,3 +92,14 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Latinas in Tech Dublin @ Toast"
+    url: "https://latinasintech.org/events/level-up-your-brand-how-to-use-ai-to-shape-your-professional-identity"
+    region: 🇮🇪
+    date_added: 2025-08-04
+    start_datetime: 2025-08-04T17:30:00Z
+    end_datetime: 2025-08-04T19:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an empowering evening with Latinas in Tech - Dublin Chapter featuring speaker Casandra López and hosted by Toast Ireland</p>"
+    type: diversity
