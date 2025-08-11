@@ -10,3 +10,14 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "(In-Person) Diversity in Tech Awards @ The Gibson Hotel"
+    url: "https://diversityintechawards.online/"
+    region: 🇮🇪
+    date_added: 2025-08-11
+    start_datetime: 2025-09-17T18:00:00Z
+    end_datetime: 2025-09-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: <p>The eight edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all.</p>
+    type: diversity
