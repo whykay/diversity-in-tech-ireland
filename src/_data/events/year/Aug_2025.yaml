@@ -182,7 +182,7 @@ eventlistings:
     date_added: 2025-08-11
     start_datetime: 2025-08-13T17:30:00Z
     end_datetime: 2025-08-13T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This event is more than just a talk it’s a launchpad. You’ll walk away with actionable insights on how to harness the power of AI to shape and elevate your personal and professional brand.</p>"
     type: diversity
