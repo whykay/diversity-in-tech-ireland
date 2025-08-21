@@ -103,3 +103,54 @@ events:
     recurring: true
     desc: 
     type: gamedev
+
+  - name: "(In-Person) IT Social Dublin Friday | Data, Technology, Cybersecurity, IT @ The Bath Pub"
+    url: "https://www.eventbrite.ie/e/it-social-dublin-friday-data-technology-cybersecurity-it-tickets-1116444729239"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: Every Fri of the month @ 17:30
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Data Science & Analytics meetup and chat Dublin Friday @ The Bath Pub"
+    url: "https://www.eventbrite.ie/e/data-science-analytics-meetup-and-chat-dublin-friday-tickets-1116445351099"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: Every Fri of the month @ 17:30
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club @ Titanic Hotel Belfast"
+    url: "https://www.eventbrite.ie/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2025-08-21
+    start_datetime: Every last Thu of the month @ 10:30
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310562159/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: Every Fri of the month (except 1st Friday) @ 19:00 - 21:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310412993/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: Every second Wed of the month @ 19:00 - 21:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: 
+    type: maker

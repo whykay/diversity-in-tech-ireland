@@ -21,3 +21,74 @@ eventlistings:
     recurring: false
     desc: <p>The eight edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all.</p>
     type: diversity
+
+  - name: "(In-Person) GTA Networking Night - Ireland"
+    url: "https://www.eventbrite.co.uk/e/gta-networking-night-ireland-tickets-1612196887289"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-18T18:00:00Z
+    end_datetime: 2025-09-18T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for GTA Networking Nights, a relaxed, free monthly meetup designed to bring our incredible community together.</p>"
+    type: diversity
+  - name: "(In-Person) Stripe meetup Dublin September 2025"
+    url: "https://www.meetup.com/stripe-dublin/events/310229901/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-18T18:30:00Z
+    end_datetime: 2025-09-18T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) 🎉 ReWriting The Code x PyLadies Dublin: How to Secure a Role in Tech (Ireland Edition!) 🎉"
+    url: "https://www.meetup.com/pyladiesdublin/events/310426710/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-24T18:30:00Z
+    end_datetime: 2025-09-24T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>✨ PyLadies Dublin thrilled to be teaming up with Rewriting the Code & The Digital Hub to bring our empowering and practical workshop “How to Secure a Role in Tech” to Ireland — and you’re invited!</p>"
+    type: diversity
+  - name: "(In-Person) Discovering Databricks hosted by Mastercard"
+    url: "https://www.meetup.com/databricks-ireland-pros-user-group/events/307541739/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-17T17:30:00Z
+    end_datetime: 2025-09-17T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) MUG Night: For the Love of Databases, DevOps & Design @ MongoDB"
+    url: "https://www.meetup.com/dublin-mongodb-user-group/events/310525844/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-04T18:00:00Z
+    end_datetime: 2025-09-04T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Learning to Run with Data: The Data Science behind Marathons @ Baseline"
+    url: "https://www.eventbrite.ie/e/learning-to-run-with-data-the-data-science-behind-marathons-tickets-1573716461299"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-09-04T19:30:00Z
+    end_datetime: 2025-09-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Official Launch of the Centre for Legal Technology @ Ulster University"
+    url: "https://www.eventbrite.ie/e/official-launch-of-the-centre-for-legal-technology-tickets-1431626957769"
+    region: 🇬🇧
+    date_added: 2025-08-21
+    start_datetime: 2025-09-18T17:30:00Z
+    end_datetime: 2025-09-18T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

@@ -182,7 +182,49 @@ eventlistings:
     date_added: 2025-08-11
     start_datetime: 2025-08-13T17:30:00Z
     end_datetime: 2025-08-13T18:30:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>This event is more than just a talk it’s a launchpad. You’ll walk away with actionable insights on how to harness the power of AI to shape and elevate your personal and professional brand.</p>"
     type: diversity
+  - name: "(In-Person) Dublin Maker @ Leopardstown Racecourse"
+    url: "https://dublinmaker.ie/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-08-30T10:00:00Z
+    end_datetime: 2025-08-31T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Dublin Maker takes the form of a “show and tell” experience where inventors/makers sourced through an open call, will have an opportunity to showcase their creations at individual booths in a carnival atmosphere.</p>
+      <p>It is a family friendly showcase of invention, creativity and resourcefulness, and a celebration of the maker movement. It’s a place where people show what they are making and share what they are learning.</p>"
+    type: diversity
+  - name: "(In-Person) Ruby Ireland: The Last Wheel You Will Ever Reinvent"
+    url: "https://www.meetup.com/rubyireland/events/310536751/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-08-27T18:30:00Z
+    end_datetime: 2025-08-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ruby Ireland: The Last Wheel You Will Ever Reinvent"
+    url: "https://www.meetup.com/rubyireland/events/310536751/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-08-27T18:30:00Z
+    end_datetime: 2025-08-27T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Test Heads: Building a Team Strategy for Quality @ Workday"
+    url: "https://www.meetup.com/test-heads/events/310128056/"
+    region: 🇮🇪
+    date_added: 2025-08-21
+    start_datetime: 2025-08-27T18:00:00Z
+    end_datetime: 2025-08-27T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+
