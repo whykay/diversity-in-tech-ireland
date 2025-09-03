@@ -93,17 +93,6 @@ events:
     desc: 
     type: gamedev
 
-  - name: "(In-Person) Playtest Dublin - Board Game Designer Meetup @ Against the Grain"
-    url: "https://www.eventbrite.ie/o/board-game-designers-ireland-50800701983"
-    region: 🇮🇪
-    date_added: 2023-11-08
-    start_datetime: Every 1st Wed of the month @ 19:00 - 23:00
-    end_datetime: 
-    new: false
-    recurring: true
-    desc: 
-    type: gamedev
-
   - name: "(In-Person) IT Social Dublin Friday | Data, Technology, Cybersecurity, IT @ The Bath Pub"
     url: "https://www.eventbrite.ie/e/it-social-dublin-friday-data-technology-cybersecurity-it-tickets-1116444729239"
     region: 🇮🇪
