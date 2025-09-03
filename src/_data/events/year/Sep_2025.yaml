@@ -385,3 +385,14 @@ eventlistings:
     desc: "<p>Women in Tech Lightning Talks @ Belfast Tech Week: 'What I Wish I'd Known' - in collaboration with Innovation Factory and Payroc</p>
      <p>As part of Belfast Tech Week, Women in Tech are holding our ever popular Lightning Talks event, this time with the theme 'What I Wish I'd Known' on Monday 22nd September 2025 at 6pm.</p>"
     type: diversity
+  - name: "(Online) Techstars Startup Weekend Social Innovation Dublin"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/310859003/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-26T17:00:00Z
+    end_datetime: 2025-09-28T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Learn how to pitch and validate your business idea within a weekend</p>
+     <p>Our Theme: We are all about UN Sustainable Development Goals and Social Innovation (Tech For Good)</p>"
+    type: diversity
