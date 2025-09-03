@@ -374,3 +374,14 @@ eventlistings:
     desc: "<p>Join us for our Innovation Lunch & Learn (Belfast) event that showcases how women founders from the TechFoundHer network are innovating with technology. </p>
      <p>Let’s shape the future! You know how we do it—amplifying, showcasing, celebrating incredible women tech founders and innovators from across the island.</p>"
     type: diversity
+  - name: "(In-Person) WiT Belfast x Belfast Tech Week - Lightning Talks Event"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/310859003/"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-22T17:30:00Z
+    end_datetime: 2025-09-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Tech Lightning Talks @ Belfast Tech Week: 'What I Wish I'd Known' - in collaboration with Innovation Factory and Payroc</p>
+     <p>As part of Belfast Tech Week, Women in Tech are holding our ever popular Lightning Talks event, this time with the theme 'What I Wish I'd Known' on Monday 22nd September 2025 at 6pm.</p>"
+    type: diversity
