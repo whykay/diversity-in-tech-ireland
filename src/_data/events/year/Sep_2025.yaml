@@ -352,3 +352,25 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+  - name: "(In-Person) Awaken Angels Fireside Chat with Women in Tech and Catalyst x Belfast Tech Week"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/310859283/"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-24T12:00:00Z
+    end_datetime: 2025-09-24T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Fireside Chat: How Angel Investing is Changing the Position of Irish Women in Tech (part of #BelfastTechWeek)</p>
+     <p>AwakenAngels, in collaboration with Women in Tech Belfast and Catalyst, invite you to an inspiring fireside chat exploring how angel investing is transforming opportunities for Irish women in tech.</p>"
+    type: diversity
+  - name: "(In-Person) TechFoundHer Innovation Showcase - Belfast Tech Week"
+    url: "https://techfoundher.com"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-26T12:00:00Z
+    end_datetime: 2025-09-26T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for our Innovation Lunch & Learn (Belfast) event that showcases how women founders from the TechFoundHer network are innovating with technology. </p>
+     <p>Let’s shape the future! You know how we do it—amplifying, showcasing, celebrating incredible women tech founders and innovators from across the island.</p>"
+    type: diversity
