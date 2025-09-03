@@ -110,7 +110,7 @@ events:
     date_added: 2025-08-21
     start_datetime: Every Fri of the month @ 17:30
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -120,7 +120,7 @@ events:
     date_added: 2025-08-21
     start_datetime: Every Fri of the month @ 17:30
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -130,7 +130,7 @@ events:
     date_added: 2025-08-21
     start_datetime: Every last Thu of the month @ 10:30
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -140,7 +140,7 @@ events:
     date_added: 2025-08-21
     start_datetime: Every Fri of the month (except 1st Friday) @ 19:00 - 21:00
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -150,7 +150,7 @@ events:
     date_added: 2025-08-21
     start_datetime: Every second Wed of the month @ 19:00 - 21:00
     end_datetime: 
-    new: true
+    new: false
     recurring: true
     desc: 
     type: maker
