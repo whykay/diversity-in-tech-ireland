@@ -42,7 +42,7 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
-  - name: "(In-Person) 🎉 ReWriting The Code x PyLadies Dublin: How to Secure a Role in Tech (Ireland Edition!) 🎉"
+  - name: "(In-Person) 🎉 PyLadies Dublin x ReWriting The Code: How to Secure a Role in Tech (Ireland Edition!) 🎉"
     url: "https://www.meetup.com/pyladiesdublin/events/310426710/"
     region: 🇮🇪
     date_added: 2025-08-21
@@ -50,7 +50,7 @@ eventlistings:
     end_datetime: 2025-09-24T20:30:00Z
     new: true
     recurring: false
-    desc: "<p>✨ PyLadies Dublin thrilled to be teaming up with Rewriting the Code & The Digital Hub to bring our empowering and practical workshop “How to Secure a Role in Tech” to Ireland — and you’re invited!</p>"
+    desc: "<p>PyLadies Dublin thrilled to be teaming up with Rewriting the Code & The Digital Hub to bring our empowering and practical workshop “How to Secure a Role in Tech” to Ireland — and you’re invited!</p>"
     type: diversity
   - name: "(In-Person) Discovering Databricks hosted by Mastercard"
     url: "https://www.meetup.com/databricks-ireland-pros-user-group/events/307541739/"
@@ -92,3 +92,263 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  
+  - name: "(Online) CHAT: Exploring the European Accessibility Act in Ireland"
+    url: "https://www.eventbrite.ie/e/chat-exploring-the-european-accessibility-act-in-ireland-tickets-1636405295289"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-12T11:00:00Z
+    end_datetime: 2025-09-12T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>FreedomTech are delighted to be joined by the team at the National Disability Authority (NDA), who will help the CHAT community understand the EAA through real-life scenarios and offer practical signposts to the relevant regulators.</p>"
+    type: diversity
+  - name: "(In-Person) WiT / Belfast Tech Week: Women x AI: Driving Innovation: hosted by Reward"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/310783150/"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-22T12:00:00Z
+    end_datetime: 2025-09-22T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a dynamic lunchtime (12pm-2pm) event on Monday 22nd September, hosted at the offices of Reward and held in collaboration with Women in Tech as part of Belfast Tech Week.</p>"
+    type: diversity
+  - name: "(In-Person) BelfastRuby x PyBelfast at TeamFeePay - Belfast Tech Week"
+    url: "https://luma.com/ppyuhvwz"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-10T18:00:00Z
+    end_datetime: 2025-09-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) IoT Belfast: 29 IoT innovation in Telecoms - Belfast Tech Week"
+    url: "https://www.meetup.com/iotbelfast/events/310726210/"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-25T18:30:00Z
+    end_datetime: 2025-09-25T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) WTM Belfast Book Club #10 @ Rapid7"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/310212072/"
+    region: 🇬🇧
+    date_added: 2025-09-03
+    start_datetime: 2025-09-25T12:00:00Z
+    end_datetime: 2025-09-25T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This month WTM Belfast are reading Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear</p>"
+    type: diversity
+  - name: "(In-Person) Python Ireland September 2025 Meetup"
+    url: "https://www.meetup.com/pythonireland/events/310781136/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-10T18:30:00Z
+    end_datetime: 2025-09-10T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) OWASP Dublin - September Meetup"
+    url: "https://www.meetup.com/owasp-dublin/events/310746205/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-18T18:00:00Z
+    end_datetime: 2025-09-18T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) dbt Dublin September Meetup: All About Analytics Engineering"
+    url: "https://www.meetup.com/dublin-dbt-meetup/events/308526748/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-04T17:30:00Z
+    end_datetime: 2025-09-04T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) DesignBrew- Fireside Chat @ Baseline"
+    url: "https://www.meetup.com/designbrew-design-meetup-events/events/310526059/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-13T16:00:00Z
+    end_datetime: 2025-09-13T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "(In-Person) DubJUG 2510 - Open JDBC & Jakarta 11 and 12 @ TCube"
+    url: "https://www.meetup.com/dublinjavausergroup/events/310812318/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-25T18:00:00Z
+    end_datetime: 2025-09-25T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+  - name: "(In-Person) Dublin Dataviz open mic - show us what you're working on! @ The Digital Hub"
+    url: "https://www.meetup.com/dublin-dataviz/events/310516049"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-17T18:30:00Z
+    end_datetime: 2025-09-17T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dublin Linux Community - Windows 10 End of Life install fest @ TOG Hackerspace"
+    url: "https://www.meetup.com/dublin-linux-community/events/305751148/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-13T11:00:00Z
+    end_datetime: 2025-09-13T16:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Mr. Septambourine Man @ The Belfry"
+    url: "https://www.meetup.com/the-games-co-op/events/310734450/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-22T19:00:00Z
+    end_datetime: 2025-09-22T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Dublin Linux Community - Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/310337788/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-27T15:00:00Z
+    end_datetime: 2025-09-27T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Open Social @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/308863556/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-20T19:00:00Z
+    end_datetime: 2025-09-20T23:59:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310525615/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-08T19:00:00Z
+    end_datetime: 2025-09-08T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Beginners Practical Electronics @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310837071/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-22T19:00:00Z
+    end_datetime: 2025-09-22T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Learn to Wire a Plug @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310646745/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-25T19:00:00Z
+    end_datetime: 2025-09-25T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310573643"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-05T19:00:00Z
+    end_datetime: 2025-09-05T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310573644/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-12T19:00:00Z
+    end_datetime: 2025-09-12T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310573645/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-19T19:00:00Z
+    end_datetime: 2025-09-19T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310573646/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-26T19:00:00Z
+    end_datetime: 2025-09-26T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310525630/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-15T19:00:00Z
+    end_datetime: 2025-09-15T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310525635/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-29T19:00:00Z
+    end_datetime: 2025-09-29T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310525620/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-10T19:00:00Z
+    end_datetime: 2025-09-10T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310525629/"
+    region: 🇮🇪
+    date_added: 2025-09-03
+    start_datetime: 2025-09-24T19:00:00Z
+    end_datetime: 2025-09-24T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker

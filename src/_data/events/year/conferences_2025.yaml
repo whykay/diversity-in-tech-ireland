@@ -442,3 +442,14 @@ conferences:
     recurring: false
     desc: "<p>Explore the future of data privacy in AI and connect with global leaders, researchers and innovators in privacy, data, and technology.</p>"
     type: tech
+
+  - name: "(In-Person) BSides Belfast 2025 @ Europa Hotel"
+    url: "https://ti.to/bsides-belfast/bsides-belfast-2025"
+    region: 🇬🇧 
+    date_added: 2025-09-03
+    start_datetime: 2025-09-11T09:00:00Z
+    end_datetime: 2025-09-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>BSides Belfast is a locally organised information security conference with talks from the best local talent and some big names from across the world. This is a conference by the security community for the security community, with no sales pitches but plenty of amazing stories. Come along and make us part of yours.</p>"
+    type: tech
