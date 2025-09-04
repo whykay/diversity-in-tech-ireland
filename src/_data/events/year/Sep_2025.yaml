@@ -396,3 +396,15 @@ eventlistings:
     desc: "<p>Learn how to pitch and validate your business idea within a weekend</p>
      <p>Our Theme: We are all about UN Sustainable Development Goals and Social Innovation (Tech For Good)</p>"
     type: diversity
+
+  - name: "(Online) Frontier Founder: Meet the Founder Susie Kilcoyne"
+    url: "https://techfound-her.mn.co/share/hRkeEBIZlicDp8jn?utm_source=manual"
+    region: 🇮🇪
+    date_added: 2025-09-04
+    start_datetime: 2025-09-05T14:00:00Z
+    end_datetime: 2025-09-05T14:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>The next broadcast in our Founder Frontline series: Real-time stories from women founders in our network.</p>
+     <p>Susie Kilcoyne is Founder of Locket - Redefining loyalty & retention with emotional intelligence + agentic AI | Talking churn, consumer behaviour (the modern version), digital consumer activations, scalable connection.</p>"
+    type: diversity
