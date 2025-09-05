@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-04T18:00:00Z
     end_datetime: 2025-09-04T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -78,7 +78,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-04T19:30:00Z
     end_datetime: 2025-09-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -169,7 +169,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-04T17:30:00Z
     end_datetime: 2025-09-04T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -403,8 +403,20 @@ eventlistings:
     date_added: 2025-09-04
     start_datetime: 2025-09-05T14:00:00Z
     end_datetime: 2025-09-05T14:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The next broadcast in our Founder Frontline series: Real-time stories from women founders in our network.</p>
      <p>Susie Kilcoyne is Founder of Locket - Redefining loyalty & retention with emotional intelligence + agentic AI | Talking churn, consumer behaviour (the modern version), digital consumer activations, scalable connection.</p>"
     type: diversity
+  
+
+  - name: "(In-Person) Waterford Tech Meetup: Wind Turbine Failures & The Secret Tech Life of Spraoi"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/310597312/"
+    region: 🇮🇪
+    date_added: 2025-09-05
+    start_datetime: 2025-09-11T19:00:00Z
+    end_datetime: 2025-09-11T21:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
