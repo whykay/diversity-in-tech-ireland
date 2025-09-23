@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-08-05
     start_datetime: 2025-09-27T10:00:00Z
     end_datetime: 2025-09-04T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2025-08-11
     start_datetime: 2025-09-17T18:00:00Z
     end_datetime: 2025-09-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: <p>The eight edition of the Diversity in Tech Awards (DITA), a unique celebration of diversity and female achievement within the tech industry. Our mission is to further dialogue around equality and to inspire ongoing commitment, transparency, and collaboration across the sector in order to drive meaningful change that will foster a more diverse and inclusive workplace for all.</p>
     type: diversity
@@ -28,7 +28,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-18T18:00:00Z
     end_datetime: 2025-09-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for GTA Networking Nights, a relaxed, free monthly meetup designed to bring our incredible community together.</p>"
     type: diversity
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-18T18:30:00Z
     end_datetime: 2025-09-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -48,7 +48,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-24T18:30:00Z
     end_datetime: 2025-09-24T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyLadies Dublin thrilled to be teaming up with Rewriting the Code & The Digital Hub to bring our empowering and practical workshop “How to Secure a Role in Tech” to Ireland — and you’re invited!</p>"
     type: diversity
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-17T17:30:00Z
     end_datetime: 2025-09-17T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -88,7 +88,7 @@ eventlistings:
     date_added: 2025-08-21
     start_datetime: 2025-09-18T17:30:00Z
     end_datetime: 2025-09-18T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-12T11:00:00Z
     end_datetime: 2025-09-12T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>FreedomTech are delighted to be joined by the team at the National Disability Authority (NDA), who will help the CHAT community understand the EAA through real-life scenarios and offer practical signposts to the relevant regulators.</p>"
     type: diversity
@@ -109,7 +109,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-22T12:00:00Z
     end_datetime: 2025-09-22T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for a dynamic lunchtime (12pm-2pm) event on Monday 22nd September, hosted at the offices of Reward and held in collaboration with Women in Tech as part of Belfast Tech Week.</p>"
     type: diversity
@@ -119,7 +119,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-10T18:00:00Z
     end_datetime: 2025-09-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -129,7 +129,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-25T18:30:00Z
     end_datetime: 2025-09-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -139,7 +139,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-25T12:00:00Z
     end_datetime: 2025-09-25T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This month WTM Belfast are reading Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear</p>"
     type: diversity
@@ -149,7 +149,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-10T18:30:00Z
     end_datetime: 2025-09-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -159,7 +159,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-18T18:00:00Z
     end_datetime: 2025-09-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -179,7 +179,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-13T16:00:00Z
     end_datetime: 2025-09-13T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -189,7 +189,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-25T18:00:00Z
     end_datetime: 2025-09-25T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
   - name: "(In-Person) Dublin Dataviz open mic - show us what you're working on! @ The Digital Hub"
@@ -198,7 +198,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-17T18:30:00Z
     end_datetime: 2025-09-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -208,7 +208,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-13T11:00:00Z
     end_datetime: 2025-09-13T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -218,7 +218,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-22T19:00:00Z
     end_datetime: 2025-09-22T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -228,7 +228,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-27T15:00:00Z
     end_datetime: 2025-09-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -238,7 +238,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-20T19:00:00Z
     end_datetime: 2025-09-20T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -248,7 +248,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-08T19:00:00Z
     end_datetime: 2025-09-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -258,7 +258,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-22T19:00:00Z
     end_datetime: 2025-09-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -268,7 +268,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-25T19:00:00Z
     end_datetime: 2025-09-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -278,7 +278,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-05T19:00:00Z
     end_datetime: 2025-09-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -288,7 +288,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-12T19:00:00Z
     end_datetime: 2025-09-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -298,7 +298,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-19T19:00:00Z
     end_datetime: 2025-09-19T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -308,7 +308,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-26T19:00:00Z
     end_datetime: 2025-09-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -318,7 +318,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-15T19:00:00Z
     end_datetime: 2025-09-15T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -328,7 +328,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-29T19:00:00Z
     end_datetime: 2025-09-29T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -338,7 +338,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-10T19:00:00Z
     end_datetime: 2025-09-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -348,7 +348,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-24T19:00:00Z
     end_datetime: 2025-09-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -358,7 +358,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-24T12:00:00Z
     end_datetime: 2025-09-24T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Fireside Chat: How Angel Investing is Changing the Position of Irish Women in Tech (part of #BelfastTechWeek)</p>
      <p>AwakenAngels, in collaboration with Women in Tech Belfast and Catalyst, invite you to an inspiring fireside chat exploring how angel investing is transforming opportunities for Irish women in tech.</p>"
@@ -369,7 +369,7 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-26T12:00:00Z
     end_datetime: 2025-09-26T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for our Innovation Lunch & Learn (Belfast) event that showcases how women founders from the TechFoundHer network are innovating with technology. </p>
      <p>Let’s shape the future! You know how we do it—amplifying, showcasing, celebrating incredible women tech founders and innovators from across the island.</p>"
@@ -380,18 +380,18 @@ eventlistings:
     date_added: 2025-09-03
     start_datetime: 2025-09-22T17:30:00Z
     end_datetime: 2025-09-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Tech Lightning Talks @ Belfast Tech Week: 'What I Wish I'd Known' - in collaboration with Innovation Factory and Payroc</p>
      <p>As part of Belfast Tech Week, Women in Tech are holding our ever popular Lightning Talks event, this time with the theme 'What I Wish I'd Known' on Monday 22nd September 2025 at 6pm.</p>"
     type: diversity
   - name: "(Online) Techstars Startup Weekend Social Innovation Dublin"
-    url: "https://www.meetup.com/women-in-tech-belfast/events/310859003/"
+    url: "https://www.eventbrite.com/e/techstars-startup-weekend-social-innovation-dublin-tickets-1373993715189"
     region: 🇮🇪
     date_added: 2025-09-03
     start_datetime: 2025-09-26T17:00:00Z
     end_datetime: 2025-09-28T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Learn how to pitch and validate your business idea within a weekend</p>
      <p>Our Theme: We are all about UN Sustainable Development Goals and Social Innovation (Tech For Good)</p>"
@@ -416,7 +416,38 @@ eventlistings:
     date_added: 2025-09-05
     start_datetime: 2025-09-11T19:00:00Z
     end_datetime: 2025-09-11T21:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) NI Tech Awards 2025"
+    url: "https://www.nitechawards.com/"
+    region: 🇬🇧
+    date_added: 2025-09-05
+    start_datetime: 2025-09-25T19:00:00Z
+    end_datetime: 2025-09-25T21:30:00Z
+    new: false
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women in AI Ireland: WaiTUTORIALS: Unlocking PowerPoint’s Native AI Tools"
+    url: "https://www.eventbrite.co.uk/e/waitutorials-unlocking-powerpoints-native-ai-tools-tickets-1652947944799"
+    region: 🇮🇪
+    date_added: 2025-09-05
+    start_datetime: 2025-09-16T18:00:00Z
+    end_datetime: 2025-09-16T14:18:45Z
+    new: false
+    recurring: false
+    desc: "<p>🚀 Learn how to make PowerPoint work smarter for you!</p>"
+    type: diversity
+
+  - name: "(In-Person) Women+ in Physics: Launch and Coffee Catch-up"
+    url: "https://www.eventbrite.com/e/women-in-physics-launch-and-coffee-catch-up-tickets-1581703932039"
+    region: 🇮🇪
+    date_added: 2025-09-23
+    start_datetime: 2025-09-30T11:30:00Z
+    end_datetime: 2025-09-30T14:00:45Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for the launch of Women+ in the School of Physics, a welcoming space for gender minorities, open to all staff and students!</p>"
+    type: diversity
