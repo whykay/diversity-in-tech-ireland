@@ -245,3 +245,13 @@ eventlistings:
     desc: "<p>Irish STEM Lives: Spotlighting Ireland’s contribution to Science, Technology, Engineering and Mathematics</p>
      <p>Irish STEM Lives (September 2025, Royal Irish Academy) celebrates the diversity of STEM in Ireland through a selection of 46 lives from the Dictionary of Irish Biography, taking us from the development of the ‘scientific method’ in the circle surrounding Robert Boyle through to the large-scale particle physics experiments undertaken by John Stewart Bell and Anne Kernan at CERN.</p>"
     type: diversity
+  - name: "(In-Person) Cats Making Games: Library Meet up @ Mayfair Library"
+    url: "https://www.eventbrite.ie/e/cmg-library-meet-up-tickets-1743641902869"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-30T18:00:00Z
+    end_datetime: 2025-10-30T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
