@@ -136,7 +136,7 @@ eventlistings:
     region: 🇮🇪
     date_added: 2025-09-23
     start_datetime: 2025-10-13T11:00:00Z
-    end_datetime: 2025-10-13T17:00:45Z
+    end_datetime: 2025-10-13T17:00:00Z
     new: true
     recurring: false
     desc: "<p>Try out our technology solutions for people who are blind or have low vision. Options for work, study and home</p>"
@@ -146,8 +146,39 @@ eventlistings:
     region: 🇮🇪
     date_added: 2025-09-23
     start_datetime: 2025-10-04T10:00:00Z
-    end_datetime: 2025-10-04T17:00:45Z
+    end_datetime: 2025-10-04T17:00:00Z
     new: true
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) HackAthlone 2025: The NASA Space Apps Challenge @ TUS Athlone"
+    url: "https://gdg.community.dev/events/details/google-gdg-athlone-presents-hackathlone-2025-the-nasa-space-apps-challenge/"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-03T18:00:00Z
+    end_datetime: 2025-10-05T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Latinas in Tech Dublin: '6 Steps to Success: Entrepreneurship Inside and Outside the Workplace in Ireland.'"
+    url: "https://latinasintech.org/events/6-steps-to-success-entrepreneurship-inside-and-outside-the-workplace-in-ireland"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-08T18:00:00Z
+    end_datetime: 2025-10-08T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This event offers a dynamic roadmap for aspiring entrepreneurs and intrapreneurs navigating both traditional workplaces and independent ventures.</p>"
+    type: diversity
+  - name: "(Online) Awakenhub: The Business Owner's Guide to Building Digital Projects"
+    url: "https://www.awakenhub.com/events-2/business-owners-guide-to-building-digital-projects"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-21T17:00:00Z
+    end_datetime: 2025-10-21T18:15:00Z
+    new: true
+    recurring: false
+    desc: "<p>This practical mini-course, led by Galvia Digital, will give you the insider knowledge to avoid the common pitfalls of software development. Based on years of experience (and more than a few horror stories), Martin Naughton will walk you through the six essential stages of building a successful digital project—from scope and stakeholder mapping to designs, testing, and handover.</p>"
+    type: diversity

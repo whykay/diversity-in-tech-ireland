@@ -10,3 +10,14 @@ eventlistings:
     recurring: false
     desc: <p>Join us to celebrate the trailblazers - women and allies who are breaking barriers, challenging norms, and setting new standards of excellence, impact and inclusion. Their achievements will be centre stage, their voices amplified, and their contributions recognised as catalysts for lasting change.</p>
     type: diversity
+
+  - name: "(Online) Awakenhub: The Business Owner's Guide to Building Digital Projects"
+    url: "https://www.awakenhub.com/events-2/the-shopify-playbook-scaling-smarter-with-seamless-customer-experience"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-11-25T17:00:00Z
+    end_datetime: 2025-11-25T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Are you struggling to take your ecommerce business to the next level? In this exclusive AwakenHub session, Jo-Anne Morgan, Senior Merchant Success Manager at Shopify, will share the strategies and insights that power some of the world’s biggest online brands—including Gymshark and Boden. </p>"
+    type: diversity

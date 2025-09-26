@@ -451,3 +451,14 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for the launch of Women+ in the School of Physics, a welcoming space for gender minorities, open to all staff and students!</p>"
     type: diversity
+
+  - name: "(Online) Awakenhub: Nail Your Raise: What To Know Before Tou Pitch"
+    url: "https://www.awakenhub.com/events-2/nail-your-raise-what-to-know-before-you-pitch"
+    region: 🇮🇪
+    date_added: 2025-09-23
+    start_datetime: 2025-09-30T17:30:00Z
+    end_datetime: 2025-09-30T18:45:45Z
+    new: true
+    recurring: false
+    desc: "<p>Join Jessica Rasmussen founder of Two Magnolias Chief Executive Officer and Co-Founding Partner and  Denise McQuaid Director of Investor Relations and cofounder of AwakenAngels to learn everything you need to know to prepare for fundraising. This session will give founders a unique opportunity to ask questions and develop a real world  understanding of the pathway to an investor yes.</p>"
+    type: diversity
