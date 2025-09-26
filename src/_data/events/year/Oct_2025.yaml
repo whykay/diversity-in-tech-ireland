@@ -265,3 +265,13 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+  - name: "(In-Person) CHAT - AI and Accessibility: Innovation & Inclusion @ TU Dublin"
+    url: "https://www.eventbrite.ie/e/chat-ai-and-accessibility-innovation-inclusion-tickets-1747903058099"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-13T13:30:00Z
+    end_datetime: 2025-10-13T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Explore how AI supports accessibility at CHAT @ TU Dublin on October 13th, from communication to independence and inclusion.</p>"
+    type: diversity
