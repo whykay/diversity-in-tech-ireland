@@ -224,3 +224,24 @@ eventlistings:
     recurring: false
     desc:
     type: STEM
+  - name: "(In-Person) Cats Making Games: Pub Social @ Brewery Corner"
+    url: "https://www.eventbrite.ie/e/cmg-pub-social-tickets-1743603979439"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-05T18:00:00Z
+    end_datetime: 2025-10-05T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Dublin Festival of History | Irish STEM lives: Spotlighting Ireland’s contribution to STEM @ Royal Irish Academy"
+    url: "https://www.tickettailor.com/events/royalirishacademy/1804403"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-08T18:00:00Z
+    end_datetime: 2025-10-08T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Irish STEM Lives: Spotlighting Ireland’s contribution to Science, Technology, Engineering and Mathematics</p>
+     <p>Irish STEM Lives (September 2025, Royal Irish Academy) celebrates the diversity of STEM in Ireland through a selection of 46 lives from the Dictionary of Irish Biography, taking us from the development of the ‘scientific method’ in the circle surrounding Robert Boyle through to the large-scale particle physics experiments undertaken by John Stewart Bell and Anne Kernan at CERN.</p>"
+    type: diversity
