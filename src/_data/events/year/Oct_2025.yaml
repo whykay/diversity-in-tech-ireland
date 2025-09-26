@@ -182,3 +182,45 @@ eventlistings:
     recurring: false
     desc: "<p>This practical mini-course, led by Galvia Digital, will give you the insider knowledge to avoid the common pitfalls of software development. Based on years of experience (and more than a few horror stories), Martin Naughton will walk you through the six essential stages of building a successful digital project—from scope and stakeholder mapping to designs, testing, and handover.</p>"
     type: diversity
+  - name: "(In-Person) Women in AI Ireland x PyData Ireland"
+    url: "https://www.eventbrite.co.uk/e/intelligent-software-infrastructure-design-decision-in-an-ai-era-tickets-1691532903449"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-02T18:00:00Z
+    end_datetime: 2025-10-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Are you curious about how Artificial Intelligence is shaping the future of software infrastructure design?</p>
+     <p>Join us for a lively discussion with industry experts at our in-person event. Learn about the latest trends, best practices, and real-world applications in this exciting field. Don't miss out on this opportunity to network with like-minded professionals and gain valuable insights.</p>"
+    type: diversity
+  - name: "(In-Person) Women in AI Ireland: WAIWorkshop"
+    url: "https://www.eventbrite.co.uk/e/waiworkshop-building-llm-chatbots-tickets-1737233976589"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-15T18:00:00Z
+    end_datetime: 2025-10-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This is a technical workshop event and please bring your own laptops for the workshop as you will be coding alongside the instructor.</p>
+     <p>We’re thrilled to have Shweta Soni and Toma Ijatomi leading this session! With their combined expertise in AI, digital tools, and hands-on learning, they’ll guide you step by step in bringing your very own chatbot to life.</p>"
+    type: diversity
+  - name: "(In-Person) Scaling Tech: Lessons in Growth, Talent and Innovation @ QUB"
+    url: "https://www.eventbrite.co.uk/e/scaling-tech-lessons-in-growth-talent-and-innovation-tickets-1730916962229"
+    region: 🇮🇪
+    date_added: 2025-09-26
+    start_datetime: 2025-10-16T12:00:00Z
+    end_datetime: 2025-10-16T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Open Science and Copyright Law"
+    url: "https://www.eventbrite.co.uk/e/open-science-and-copyright-law-tickets-1674497500099"
+    region: 🇬🇧
+    date_added: 2025-09-26
+    start_datetime: 2025-10-01T12:00:00Z
+    end_datetime: 2025-10-01T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: STEM
