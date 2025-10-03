@@ -497,7 +497,7 @@ conferences:
     type: tech
 
   - name: "(In-Person) Culture Crush 2025 @ Royal Irish Academy of Music"
-    url: "https://www.culturecrush.ie/"
+    url: "https://techtides.co"
     region: 🇮🇪 
     date_added: 2025-10-01
     start_datetime: 2025-11-26T09:30:00Z
@@ -506,6 +506,17 @@ conferences:
     recurring: false
     desc: "<p>Culture Crush... where the cultural and creative communities in Ireland come together as one to connect, share and celebrate at a critical time for our sector.</p>
      <p>The theme this year is 'Voice'. From finding your voice, to breaking through the noise, from supporting under-represented voices to celebrating authentic voices.</p>"
+    type: tech
+
+  - name: "(In-Person) TechTides @ Millennium Forum, Derry"
+    url: "https://www.culturecrush.ie/"
+    region: 🇬🇧 
+    date_added: 2025-10-03
+    start_datetime: 2025-11-18T09:30:00Z
+    end_datetime: 2025-11-18T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join a vibrant mix of business professionals, technologists, students, and entrepreneurs from across NI and Ireland at the Millennium Forum in Derry.</p>"
     type: tech
 
 #
