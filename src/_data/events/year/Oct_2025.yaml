@@ -137,7 +137,7 @@ eventlistings:
     date_added: 2025-09-23
     start_datetime: 2025-10-13T11:00:00Z
     end_datetime: 2025-10-13T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Try out our technology solutions for people who are blind or have low vision. Options for work, study and home</p>"
     type: diversity
@@ -147,7 +147,7 @@ eventlistings:
     date_added: 2025-09-23
     start_datetime: 2025-10-04T10:00:00Z
     end_datetime: 2025-10-04T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -158,7 +158,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-03T18:00:00Z
     end_datetime: 2025-10-05T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -168,7 +168,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-08T18:00:00Z
     end_datetime: 2025-10-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This event offers a dynamic roadmap for aspiring entrepreneurs and intrapreneurs navigating both traditional workplaces and independent ventures.</p>"
     type: diversity
@@ -178,7 +178,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-21T17:00:00Z
     end_datetime: 2025-10-21T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This practical mini-course, led by Galvia Digital, will give you the insider knowledge to avoid the common pitfalls of software development. Based on years of experience (and more than a few horror stories), Martin Naughton will walk you through the six essential stages of building a successful digital project—from scope and stakeholder mapping to designs, testing, and handover.</p>"
     type: diversity
@@ -188,7 +188,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-02T18:00:00Z
     end_datetime: 2025-10-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Are you curious about how Artificial Intelligence is shaping the future of software infrastructure design?</p>
      <p>Join us for a lively discussion with industry experts at our in-person event. Learn about the latest trends, best practices, and real-world applications in this exciting field. Don't miss out on this opportunity to network with like-minded professionals and gain valuable insights.</p>"
@@ -199,7 +199,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-15T18:00:00Z
     end_datetime: 2025-10-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This is a technical workshop event and please bring your own laptops for the workshop as you will be coding alongside the instructor.</p>
      <p>We’re thrilled to have Shweta Soni and Toma Ijatomi leading this session! With their combined expertise in AI, digital tools, and hands-on learning, they’ll guide you step by step in bringing your very own chatbot to life.</p>"
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-16T12:00:00Z
     end_datetime: 2025-10-16T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-01T12:00:00Z
     end_datetime: 2025-10-01T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: STEM
@@ -230,7 +230,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-05T18:00:00Z
     end_datetime: 2025-10-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -240,7 +240,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-08T18:00:00Z
     end_datetime: 2025-10-08T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Irish STEM Lives: Spotlighting Ireland’s contribution to Science, Technology, Engineering and Mathematics</p>
      <p>Irish STEM Lives (September 2025, Royal Irish Academy) celebrates the diversity of STEM in Ireland through a selection of 46 lives from the Dictionary of Irish Biography, taking us from the development of the ‘scientific method’ in the circle surrounding Robert Boyle through to the large-scale particle physics experiments undertaken by John Stewart Bell and Anne Kernan at CERN.</p>"
@@ -251,7 +251,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-30T18:00:00Z
     end_datetime: 2025-10-30T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -261,7 +261,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-06T16:00:00Z
     end_datetime: 2025-10-06T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -271,7 +271,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-10-13T13:30:00Z
     end_datetime: 2025-10-13T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Explore how AI supports accessibility at CHAT @ TU Dublin on October 13th, from communication to independence and inclusion.</p>"
     type: diversity
