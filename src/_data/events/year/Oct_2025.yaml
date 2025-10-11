@@ -275,3 +275,236 @@ eventlistings:
     recurring: false
     desc: "<p>Explore how AI supports accessibility at CHAT @ TU Dublin on October 13th, from communication to independence and inclusion.</p>"
     type: diversity
+
+  - name: "(In-Person) Codú: Hacktoberfest Meetup"
+    url: "https://www.meetup.com/codu-community/events/311470666/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-16T18:00:00Z
+    end_datetime: 2025-10-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) ☕️ PyLadies Dublin Tea & Coffee Social @ The CHQ Building ☕️y"
+    url: "https://www.meetup.com/pyladiesdublin/events/311306893/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-11T15:00:00Z
+    end_datetime: 2025-10-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Bring along your fav beverage and join us for a chat.</p><p>We will meet at the public seating area inside CHQ building (near where Starbucks and Dogpatch Labs are located). We will have a small sign.</p>"
+    type: diversity
+  - name: "(In-Person) PyLadies Dublin x PyData Ireland @ Workday"
+    url: "https://www.meetup.com/pyladiesdublin/events/311309050/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-21T18:30:00Z
+    end_datetime: 2025-10-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>🙌 PyLadies Dublin are delighted to collab with PyData Ireland again and our event is kindly hosted by Workday.</p>"
+    type: diversity
+  - name: "(In-Person) AWS COMMUNITY DAY 2025"
+    url: "https://www.meetup.com/awsdublin/events/310729922/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-22T09:00:00Z
+    end_datetime: 2025-10-22T16:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) OWASP Dublin - October Meetup @ Amazon"
+    url: "https://www.meetup.com/owasp-dublin/events/311346670/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-30T18:30:00Z
+    end_datetime: 2025-10-30T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dub|Sec: October Meetup"
+    url: "https://www.meetup.com/dub-sec/events/311409394/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-29T18:30:00Z
+    end_datetime: 2025-10-29T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) C++ talk : Thomas PK Healy @ Anseo"
+    url: "https://www.meetup.com/cppdug/events/311320900/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-28T19:00:00Z
+    end_datetime: 2025-10-28T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Hybrid) UXDX Community: In-Person and Live-streamed from Dublin"
+    url: "https://uxdx.com/community/community-dublin-2025-10-15/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-15T18:30:00Z
+    end_datetime: 2025-10-15T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "(In-Person) TouchDesigner Meetup Dublin @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/311313532/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-22T19:00:00Z
+    end_datetime: 2025-10-22T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Octo-Bear with us @ The Belfry"
+    url: "https://www.meetup.com/the-games-co-op/events/311424584/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-20T19:00:00Z
+    end_datetime: 2025-10-20T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Monthly Meetup in the pub @ The South Strand"
+    url: "https://www.meetup.com/dublin-linux-community/events/310337789/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-25T15:00:00Z
+    end_datetime: 2025-10-25T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) October Repair Cafe @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/311303005/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-18T14:00:00Z
+    end_datetime: 2025-10-18T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer at TOG"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/310877393/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-13T19:00:00Z
+    end_datetime: 2025-10-13T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Hack The Space (Accessibility Edition) @ Farset Labs, Belfast"
+    url: "https://www.meetup.com/farsetlabs/events/311442116/"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-11T14:00:00Z
+    end_datetime: 2025-10-11T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Sligo Tech Meetup: And........ We're Back!"
+    url: "https://www.meetup.com/sligotech/events/311420121/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-16T18:00:00Z
+    end_datetime: 2025-10-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Tullamore Repair Café @ Tullamore Library"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/311209950/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-11T10:00:00Z
+    end_datetime: 2025-10-11T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) DevOps Belfast x Oops Meetup: AI in Incident Response"
+    url: "https://www.meetup.com/devops-belfast/events/311404554/"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-21T18:00:00Z
+    end_datetime: 2025-10-21T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) WTM Belfast: Professional Women Breakfast Networking Meetup @ Liberty IT"
+    url: "https://www.meetup.com/google-developer-group-belfast/events/311120387/"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-14T08:00:00Z
+    end_datetime: 2025-10-14T09:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Kick off your day with a fun, relaxed morning of connection and conversation! Our Women’s Breakfast Speed Networking event is all about bringing together women from different fields to share stories, swap advice, and build new friendships. You’ll get the chance to chat with like-minded women, make meaningful connections, and maybe even find a mentor or two. Whether you're looking to expand your circle or just want to meet some inspiring people, this event is all about creating a supportive, empowering space for women to connect and grow together. Don’t miss out—it’s the perfect way to start your day!</p>"
+    type: diversity
+  - name: "(In-Person) BelfAWSt User Group: October Event"
+    url: "https://www.meetup.com/belfawst-meetup/events/311320833/"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-27T18:00:00Z
+    end_datetime: 2025-10-27T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Introduction to Amazon Web Services @ Queen's University"
+    url: "https://www.meetup.com/aws-cloud-club-at-queens-university-belfast/events/311419772/"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-21T17:00:00Z
+    end_datetime: 2025-10-21T18:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) NI Cyber x Danske Bank UK Women in Cyber"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-x-danske-bank-uk-women-in-cyber-tickets-1747910911589"
+    region: 🇬🇧
+    date_added: 2025-10-11
+    start_datetime: 2025-10-17T10:00:00Z
+    end_datetime: 2025-10-17T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at Danske Bank UK for networking, learning and knowledge sharing with peers working in risk, infosec and cyber security with Jennifer Cox (Director of Wicys UK & Ireland), Lauren Glencross (Senior HR Business Partner, Danske Bank UK), Judith Millar (Director of Operations, CSIT), Brónagh Massey (Managed Services Manager, Smarttech247), Stacy Mallon (Site Lead - Wolfspeed)</p>"
+    type: diversity
+  - name: "(In-Person) WITS Ireland: Building Tomorrow: Shaping Ireland's STEM Future @ MOLI"
+    url: "https://www.eventbrite.ie/e/building-tomorrow-shaping-irelands-stem-future-tickets-1618513791319"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-14T18:30:00Z
+    end_datetime: 2025-10-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us to mark Ada Lovelace Day for an evening of wine and canapés as we celebrate 35 years of Women in Technology & Science Ireland (WITS)</p>"
+    type: diversity
+  - name: "(In-Person) ICT in Education: STEAM Evening"
+    url: "https://ictedu.ie/conference-25/s-t-e-a-m-evening-25/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-10-17T19:00:00Z
+    end_datetime: 2025-10-17T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+
+  

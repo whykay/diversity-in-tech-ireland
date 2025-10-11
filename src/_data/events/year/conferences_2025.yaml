@@ -519,6 +519,29 @@ conferences:
     desc: "<p>Join a vibrant mix of business professionals, technologists, students, and entrepreneurs from across NI and Ireland at the Millennium Forum in Derry.</p>"
     type: tech
 
+  - name: "(In-Person) ICT in Education Conference @ TUS (Thurles)"
+    url: "https://ictedu.ie/conference-25/"
+    region: 🇮🇪 
+    date_added: 2025-10-01
+    start_datetime: 2025-10-18T09:30:00Z
+    end_datetime: 2025-10-18T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>This year we celebrate our 21st birthday and we would love for you to join us.  Our theme is Lifespan Learning and to reflect this we have presentations throughout the day from educators across the spectrum from early years through primary, secondary, third level and further education. </p>"
+    type: tech
+  - name: "(In-Person) WEB DATA EXTRACT SUMMIT 2025 @ The Gibson Hotel"
+    url: "https://www.extractsummit.io/dublin-ireland"
+    region: 🇮🇪 
+    date_added: 2025-10-01
+    start_datetime: 2025-11-05T09:30:00Z
+    end_datetime: 2025-11-06T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us in Dublin for two focused days of technical deep dives, hands-on workshops, and real-world insights from leaders shaping the future of web scraping and data.</p>"
+    type: tech
+
+
+
 #
 # 2026
 #

@@ -21,3 +21,14 @@ eventlistings:
     recurring: false
     desc: "<p>Are you struggling to take your ecommerce business to the next level? In this exclusive AwakenHub session, Jo-Anne Morgan, Senior Merchant Success Manager at Shopify, will share the strategies and insights that power some of the world’s biggest online brands—including Gymshark and Boden. </p>"
     type: diversity
+
+  - name: "(Online) Writing for Video Games with Charlene Putney (Thu - 5 weeks)"
+    url: "https://irishwriterscentre.ie/courses/writing-for-video-games-with-charlene-putney-5/"
+    region: 🇮🇪
+    date_added: 2025-10-11
+    start_datetime: 2025-11-06T19:00:00Z
+    end_datetime: 2025-12-04T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
