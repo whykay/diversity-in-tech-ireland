@@ -32,3 +32,44 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev
+
+  - name: "(In-Person) NWC Report Launch: When Women Lead - Evidence from Ireland"
+    url: "https://luma.com/ps0u98ss"
+    region: 🇮🇪
+    date_added: 2025-10-16
+    start_datetime: 2025-11-05T11:00:00Z
+    end_datetime: 2025-11-05T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us to a report launch and panel discussion on how women’s presence in politics is transforming democracy and representation in Ireland.</p>"
+    type: diversity
+  - name: "(In-Person) UX Belfast: Beyond the interface - systems thinking for designers @ Slice"
+    url: "https://www.meetup.com/uxbelfast/events/311503708/"
+    region: 🇬🇧
+    date_added: 2025-10-16
+    start_datetime: 2025-11-12T18:15:00Z
+    end_datetime: 2025-11-12T20:15:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: design  
+  - name: "(In-Person) Zero Latency @ TCube"
+    url: "https://www.eventbrite.ie/e/zero-latency-tickets-1755623460029"
+    region: 🇮🇪
+    date_added: 2025-10-16
+    start_datetime: 2025-11-06T17:00:00Z
+    end_datetime: 2025-11-06T18:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) PyLadies Dublin: Pytch Workshop: Learn Python by Making Your Own Pytch Game! @ Unit 18 (TCD)"
+    url: "https://www.meetup.com/pyladiesdublin/events/311564355/"
+    region: 🇮🇪
+    date_added: 2025-10-16
+    start_datetime: 2025-11-17T18:30:00Z
+    end_datetime: 2025-11-17T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a workshop where you’ll learn to code in Python by creating your very own Winter themed game using Pytch!</p>"
+    type: diversity

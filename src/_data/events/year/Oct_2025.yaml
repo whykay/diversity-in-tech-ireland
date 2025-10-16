@@ -282,7 +282,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-16T18:00:00Z
     end_datetime: 2025-10-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -292,7 +292,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-11T15:00:00Z
     end_datetime: 2025-10-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Bring along your fav beverage and join us for a chat.</p><p>We will meet at the public seating area inside CHQ building (near where Starbucks and Dogpatch Labs are located). We will have a small sign.</p>"
     type: diversity
@@ -302,7 +302,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-21T18:30:00Z
     end_datetime: 2025-10-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>🙌 PyLadies Dublin are delighted to collab with PyData Ireland again and our event is kindly hosted by Workday.</p>"
     type: diversity
@@ -312,7 +312,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-22T09:00:00Z
     end_datetime: 2025-10-22T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -322,7 +322,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-30T18:30:00Z
     end_datetime: 2025-10-30T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -332,7 +332,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-29T18:30:00Z
     end_datetime: 2025-10-29T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-28T19:00:00Z
     end_datetime: 2025-10-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -352,7 +352,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-15T18:30:00Z
     end_datetime: 2025-10-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -362,7 +362,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-22T19:00:00Z
     end_datetime: 2025-10-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -372,7 +372,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-20T19:00:00Z
     end_datetime: 2025-10-20T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -382,7 +382,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-25T15:00:00Z
     end_datetime: 2025-10-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-18T14:00:00Z
     end_datetime: 2025-10-18T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-13T19:00:00Z
     end_datetime: 2025-10-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-11T14:00:00Z
     end_datetime: 2025-10-11T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-16T18:00:00Z
     end_datetime: 2025-10-16T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-11T10:00:00Z
     end_datetime: 2025-10-11T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -442,7 +442,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-21T18:00:00Z
     end_datetime: 2025-10-21T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -452,7 +452,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-14T08:00:00Z
     end_datetime: 2025-10-14T09:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Kick off your day with a fun, relaxed morning of connection and conversation! Our Women’s Breakfast Speed Networking event is all about bringing together women from different fields to share stories, swap advice, and build new friendships. You’ll get the chance to chat with like-minded women, make meaningful connections, and maybe even find a mentor or two. Whether you're looking to expand your circle or just want to meet some inspiring people, this event is all about creating a supportive, empowering space for women to connect and grow together. Don’t miss out—it’s the perfect way to start your day!</p>"
     type: diversity
@@ -462,7 +462,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-27T18:00:00Z
     end_datetime: 2025-10-27T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -472,7 +472,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-21T17:00:00Z
     end_datetime: 2025-10-21T18:15:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -482,7 +482,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-17T10:00:00Z
     end_datetime: 2025-10-17T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at Danske Bank UK for networking, learning and knowledge sharing with peers working in risk, infosec and cyber security with Jennifer Cox (Director of Wicys UK & Ireland), Lauren Glencross (Senior HR Business Partner, Danske Bank UK), Judith Millar (Director of Operations, CSIT), Brónagh Massey (Managed Services Manager, Smarttech247), Stacy Mallon (Site Lead - Wolfspeed)</p>"
     type: diversity
@@ -492,7 +492,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-14T18:30:00Z
     end_datetime: 2025-10-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us to mark Ada Lovelace Day for an evening of wine and canapés as we celebrate 35 years of Women in Technology & Science Ireland (WITS)</p>"
     type: diversity
@@ -502,9 +502,28 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-10-17T19:00:00Z
     end_datetime: 2025-10-17T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
 
-  
+  - name: "(In-Person) Haqqathon Dublin"
+    url: "https://luma.com/ps0u98ss"
+    region: 🇮🇪
+    date_added: 2025-10-16
+    start_datetime: 2025-10-18T09:00:00Z
+    end_datetime: 2025-10-18T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) GIT x Product Management : Open Source @ Portershed (Galway)"
+    url: "https://www.meetup.com/galway-information-technology/events/311526998/"
+    region: 🇮🇪
+    date_added: 2025-10-16
+    start_datetime: 2025-10-24T17:30:00Z
+    end_datetime: 2025-10-24T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
