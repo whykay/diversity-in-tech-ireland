@@ -173,16 +173,7 @@ conferences:
     recurring: false
     desc: "<p>Discover the role of open source in transforming innovation at the National Open Source Summit 2025, with perspectives from government, industry, and academia. This is the must attend event f or innovators leveraging open source to accelerate ideas into action</p>"
     type: tech
-  - name: "(In-Person) Cyber Leaders Conference Belfast @ Titanic Belfast"
-    url: "https://www.eventbrite.ie/e/cyber-leaders-conference-belfast-tickets-1107884806279"
-    region: 🇬🇧
-    date_added: 2025-01-21
-    start_datetime: 2025-02-13T09:00:00Z
-    end_datetime: 2025-02-13T18:00:00Z
-    new: false
-    recurring: false
-    desc: "<p>Join us at Titanic Belfast for the Cyber Leaders Conference, where industry experts from PWC, Microsoft and Check Point will share insights on the latest trends and strategies in cybersecurity. This in-person event is a fantastic opportunity to network with fellow professionals and gain valuable knowledge to stay ahead in the ever-evolving cyber landscape.</p>"
-    type: tech
+
 
   - name: "(Online) #DataWeekender7.0"
     url: "https://www.meetup.com/dataweekender/events/305384709/"
