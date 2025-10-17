@@ -533,7 +533,7 @@ conferences:
     type: tech
 
   - name: "(In-Person) HealthTech Ireland - 'Transforming Healthcare, Together' @ Croke Park"
-    url: "https://www.eventbrite.ie/e/healthtech-ireland-transforming-healthcare-together-tickets-1376018160359?aff=ebdssbdestsearch"
+    url: "https://www.eventbrite.ie/e/healthtech-ireland-transforming-healthcare-together-tickets-1376018160359"
     region: 🇮🇪 
     date_added: 2025-10-16
     start_datetime: 2025-11-22T09:30:00Z
@@ -542,6 +542,19 @@ conferences:
     recurring: false
     desc: "<p>Join us at HealthTech Ireland to explore the future of healthcare tech and how we can revolutionize the industry together.</p>"
     type: tech
+
+  - name: "(In-Person) Beta Festival Conference"
+    url: "https://2025.betafestival.ie/conferences"
+    region: 🇮🇪 
+    date_added: 2025-10-17
+    start_datetime: 2025-11-07T09:30:00Z
+    end_datetime: 2025-11-08T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 2-day conference at Beta Festival brings together artists, researchers, policymakers and technologists to explore how art can shape - and be shaped by - our technological and ecological realities. This year’s edition, Fluid States, dives into ideas of flow and transformation across quantum, digital, and ecological systems.</p>
+     <p>Find out more about the festival's events and exhibition taking place from Nov 7 - 23 at <a href=\"https://betafestival.ie/\">betafestival.ie/</p>"
+    type: tech
+
 
 #
 # 2026
@@ -563,7 +576,27 @@ conferences:
     date_added: 2025-10-17
     start_datetime: 2026-03-06T09:30:00Z
     end_datetime: 2026-03-06T16:30:00Z
-    new: false
+    new: true
     recurring: false
     desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>"
     type: diversity
+  - name: "(In-Person) The Irish Startup Conference 2026 @ TCD"
+    url: "https://www.eventbrite.ie/e/the-irish-startup-conference-2026-tickets-1351586494589"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2026-01-22T09:30:00Z
+    end_datetime: 2026-01-22T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Irish Startup Conference 2026 will gather Startup Founders, CXOs, Investors, and more, from across Ireland.</p>"
+    type: startups
+  - name: "(In-Person) Zero Day Con 2026 - Amplify @ Dublin Royal Convention Centre"
+    url: "https://www.eventbrite.ie/e/zero-day-con-2026-amplify-tickets-1737961121499"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2026-04-29T09:30:00Z
+    end_datetime: 2026-04-29T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Zero Day Con 2026: Where leaders cut through cyber noise to scale resilience, trust & collaboration in the age of AI-driven threats.</p>"
+    type: tech

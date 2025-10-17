@@ -73,3 +73,74 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for a workshop where you’ll learn to code in Python by creating your very own Winter themed game using Pytch!</p>"
     type: diversity
+
+  - name: "(In-Person) Data Chats In A Pub @ The Lord Edwards"
+    url: "https://www.eventbrite.ie/e/data-chats-in-a-pub-tickets-1798536804999"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-07T18:30:00Z
+    end_datetime: 2025-11-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beta: 3D Scanning Workshop @ The Digital Depot"
+    url: "https://www.eventbrite.ie/e/3d-scanning-workshop-tickets-1801565824879"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-14T14:00:00Z
+    end_datetime: 2025-11-14T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Beta: Workshop: Electro-Agriculture and the Invisible Fields by IoLT"
+    url: "https://www.eventbrite.ie/e/workshop-electro-agriculture-and-the-invisible-fields-by-iolt-tickets-1813788743959"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-20T14:00:00Z
+    end_datetime: 2025-11-20T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beta: The Ethics Studio @ The Digital Depot (Open Wed-Sun)"
+    url: "https://2025.betafestival.ie/exhibitions/ethics-studio/Ethics%20Studio"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-07T12:00:00Z
+    end_datetime: 2025-11-23T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Beta: Festivals as Experimentation Spaces for an Acceptable AI"
+    url: "https://www.eventbrite.ie/e/panel-festivals-as-experimentation-spaces-for-an-acceptable-ai-tickets-1813792525269"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-18T18:00:00Z
+    end_datetime: 2025-11-18T19:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Coding for beginners with Micro:bit @ Tallaght Library"
+    url: "https://www.eventbrite.ie/e/coding-for-beginners-with-microbit-tickets-1781794959689"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2025-11-14T10:00:00Z
+    end_datetime: 2025-11-14T12:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) RE[sponsible] AI for Climate Action"
+    url: "https://www.eventbrite.ie/e/responsible-ai-for-climate-action-tickets-1759527928399"
+    region: 🇬🇧
+    date_added: 2025-10-17
+    start_datetime: 2025-11-13T12:30:00Z
+    end_datetime: 2025-11-13T14:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
