@@ -556,3 +556,14 @@ conferences:
     recurring: false
     desc: "<p>Hosted by the Health Innovation and Research Alliance NI (HIRANI), Health Tech Spring is taking place in Belfast on 23rd and 24th April 2026</p>"
     type: tech
+
+  - name: "(In-Person) IoD NI Women's Leadership Conference 2026 @ Crowne Plaza Belfast"
+    url: "https://www.eventbrite.ie/e/iod-ni-womens-leadership-conference-2026-tickets-1765856206449"
+    region: 🇬🇧
+    date_added: 2025-10-17
+    start_datetime: 2026-03-06T09:30:00Z
+    end_datetime: 2026-03-06T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>"
+    type: diversity
