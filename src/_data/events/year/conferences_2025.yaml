@@ -538,7 +538,7 @@ conferences:
     date_added: 2025-10-16
     start_datetime: 2025-11-22T09:30:00Z
     end_datetime: 2025-11-22T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at HealthTech Ireland to explore the future of healthcare tech and how we can revolutionize the industry together.</p>"
     type: tech
@@ -549,7 +549,7 @@ conferences:
     date_added: 2025-10-17
     start_datetime: 2025-11-07T09:30:00Z
     end_datetime: 2025-11-08T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 2-day conference at Beta Festival brings together artists, researchers, policymakers and technologists to explore how art can shape - and be shaped by - our technological and ecological realities. This year’s edition, Fluid States, dives into ideas of flow and transformation across quantum, digital, and ecological systems.</p>
      <p>Find out more about the festival's events and exhibition taking place from Nov 7 - 23 at <a href=\"https://betafestival.ie/\">betafestival.ie/</p>"
@@ -576,7 +576,7 @@ conferences:
     date_added: 2025-10-17
     start_datetime: 2026-03-06T09:30:00Z
     end_datetime: 2026-03-06T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>"
     type: diversity
@@ -586,7 +586,7 @@ conferences:
     date_added: 2025-10-17
     start_datetime: 2026-01-22T09:30:00Z
     end_datetime: 2026-01-22T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Irish Startup Conference 2026 will gather Startup Founders, CXOs, Investors, and more, from across Ireland.</p>"
     type: startups
@@ -596,7 +596,7 @@ conferences:
     date_added: 2025-10-17
     start_datetime: 2026-04-29T09:30:00Z
     end_datetime: 2026-04-29T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Zero Day Con 2026: Where leaders cut through cyber noise to scale resilience, trust & collaboration in the age of AI-driven threats.</p>"
     type: tech
