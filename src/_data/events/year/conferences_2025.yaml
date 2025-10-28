@@ -600,3 +600,14 @@ conferences:
     recurring: false
     desc: "<p>Zero Day Con 2026: Where leaders cut through cyber noise to scale resilience, trust & collaboration in the age of AI-driven threats.</p>"
     type: tech
+
+  - name: "(In-Person) Women in STEM Summit 2026 @ Croke Park"
+    url: "https://womeninstem.ie/"
+    region: 🇮🇪
+    date_added: 2025-10-28
+    start_datetime: 2026-03-10T09:30:00Z
+    end_datetime: 2026-03-10T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Summit will explore how diversity, equity and inclusion are not just moral imperatives but catalysts for digital transformation and innovation. Despite progress, women remain underrepresented across STEM roles and leadership positions, creating barriers that hold back talent, creativity, and growth.</p>"
+    type: tech
