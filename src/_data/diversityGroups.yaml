@@ -265,14 +265,14 @@ groups:
     status: active
     type: all 
   - name: Ladies that UX Dublin
-    url: "https://twitter.com/ladiesthatuxdub"
+    url: "https://www.linkedin.com/company/ladiesthatux-dublin"
     region: Dublin
     date_added: 2017-02-26
     year_added: 2017
     month_added: 02
     day_added: 26
-    date_removed: 2022-12-07
-    status: retired
+    date_removed: 
+    status: active #was removed in 2022, now back in 2025
     type: all 
   - name: Lesbians Who Tech Dublin
     url: "https://www.facebook.com/lesbianswhotech/"
