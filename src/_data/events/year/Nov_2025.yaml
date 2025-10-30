@@ -437,3 +437,14 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Shaping the Future of Inclusion: Ireland’s Accessibility Evolution"
+    url: "https://www.eventbrite.ie/e/shaping-the-future-of-inclusion-irelands-accessibility-evolution-tickets-1862566218699"
+    region: 🇮🇪
+    date_added: 2025-10-30
+    start_datetime: 2025-11-12T18:00:00Z
+    end_datetime: 2025-11-12T20:45:00Z
+    new: true
+    recurring: false
+    desc: "<p>Accessibility Ireland, in collaboration with the Irish Accessibility Networking Group (IANG), are proud to present “Shaping the Future of Inclusion: Ireland’s Accessibility Evolution”. We are excited to invite and welcome you along to our fifth live and in-person digital accessibility event with thanks to, Workhuman, Morgan McKinley and TU Dublin.</p>"
+    type: diversity
