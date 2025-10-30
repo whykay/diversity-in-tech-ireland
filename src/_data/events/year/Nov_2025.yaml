@@ -448,3 +448,13 @@ eventlistings:
     recurring: false
     desc: "<p>Accessibility Ireland, in collaboration with the Irish Accessibility Networking Group (IANG), are proud to present “Shaping the Future of Inclusion: Ireland’s Accessibility Evolution”. We are excited to invite and welcome you along to our fifth live and in-person digital accessibility event with thanks to, Workhuman, Morgan McKinley and TU Dublin.</p>"
     type: diversity
+  - name: "(In-Person) TechFoundHer Hacky Hour - Build Club: Galway"
+    url: "https://www.eventbrite.ie/e/techfoundher-hacky-hour-build-club-galway-no-code-high-vibes-tickets-1917700988279"
+    region: 🇮🇪
+    date_added: 2025-10-30
+    start_datetime: 2025-11-06T13:00:00Z
+    end_datetime: 2025-11-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Calling all Women Join us for a No Code Hacky Hour Forget happy hours. Forget book clubs. This is a build club — the new women’s circle!</p>"
+    type: diversity
