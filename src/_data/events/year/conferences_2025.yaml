@@ -552,9 +552,29 @@ conferences:
     new: false
     recurring: false
     desc: "<p>The 2-day conference at Beta Festival brings together artists, researchers, policymakers and technologists to explore how art can shape - and be shaped by - our technological and ecological realities. This year’s edition, Fluid States, dives into ideas of flow and transformation across quantum, digital, and ecological systems.</p>
-     <p>Find out more about the festival's events and exhibition taking place from Nov 7 - 23 at <a href=\"https://betafestival.ie/\">betafestival.ie/</p>"
+     <p>Find out more about the festival's events and exhibition taking place from Nov 7 - 23 at <a href=\"https://betafestival.ie/\">betafestival.ie/</a></p>"
     type: tech
 
+  - name: "(In-Person) fintech Ireland Summit 2025"
+    url: "https://www.eventbrite.ie/e/fintech-ireland-summit-2025-tickets-1526773995119"
+    region: 🇮🇪 
+    date_added: 2025-11-03
+    start_datetime: 2025-11-27T09:00:00Z
+    end_datetime: 2025-11-27T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Fintech Ireland Summit 2025 will provide attendees with insights from leading experts in central banking, regulation, digital assets, cyber-security, payments, AI, open banking, fintech education and more, covering the continuously evolving Fintech sector.</p>"
+    type: tech
+  - name: "(In-Person) WOMEN IN MEDIA BELFAST ANNUAL IRELAND AND BRITAIN MEDIA SUMMIT"
+    url: "https://www.eventbrite.ie/e/women-in-media-belfast-annual-ireland-and-britain-media-summit-tickets-1757553713469"
+    region: 🇬🇧
+    date_added: 2025-11-03
+    start_datetime: 2025-11-18T09:30:00Z
+    end_datetime: 2025-11-18T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women in Media Belfast CIC returns to the beautiful Queen’s University Belfast Great Hall for its annual Ireland and Britain media summit.Our ‘Future Focused’ themed event will be of interest to a wide range of sectors, workers and students. All are welcome.</p>"
+    type: diversity
 
 #
 # 2026

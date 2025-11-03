@@ -9,3 +9,34 @@ eventlistings:
     recurring: false
     desc: "<p>Join AwakenHub & AwakenAngels Co-founder Sinead Crowley and Cork County Ambassadors Avril Power,  Giyst and Breda O'Regan, Lia Eyecare for an informal meet-up and drinks to wrap up the year on 10 December 2025.</p>"
     type: diversity
+
+  - name: "(In-Person) APNI Awards and Gala Night"
+    url: "https://www.eventbrite.ie/e/apni-awards-and-gala-night-tickets-1839426497169"
+    region: 🇮🇪
+    date_added: 2025-11-03
+    start_datetime: 2025-12-13T18:00:00Z
+    end_datetime: 2025-12-13T21:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The APNI Awards and Gala Night aims to celebrate the achievements of Black/African professionals, entrepreneurs, and leaders in Ireland and spotlight the exceptional contributions of companies that create inclusive workplace for Black/African talents in Ireland. The event will serve as a platform to recognise excellence, strengthen professional networks, and promote diversity & inclusion in the Irish business and corporate landscape."
+    type: diversity
+  - name: "(In-Person) Network One: Fintech Founders & Finance Innovators Meetup Belfast"
+    url: "https://www.eventbrite.ie/e/network-one-healthtech-founders-innovators-meetup-belfast-tickets-1845335571369"
+    region: 🇬🇧
+    date_added: 2025-11-03
+    start_datetime: 2025-12-04T18:00:00Z
+    end_datetime: 2025-12-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A relaxed networking event in Belfast for fintech founders, developers, and finance professionals to explore the future of finance tech.</p>"
+    type: diversity
+  - name: "(In-Person) Network One: Fintech Founders & Finance Innovators Meetup Belfast"
+    url: "https://www.eventbrite.ie/e/network-one-healthtech-founders-innovators-meetup-belfast-tickets-1845343986539"
+    region: 🇬🇧
+    date_added: 2025-11-03
+    start_datetime: 2025-12-11T18:00:00Z
+    end_datetime: 2025-12-11T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A relaxed networking event in Belfast for fintech founders, developers, and finance professionals to explore the future of finance tech.</p>"
+    type: diversity
