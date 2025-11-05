@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2025-08-11
     start_datetime: 2025-11-06T18:00:00Z
     end_datetime: 2025-11-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: <p>Join us to celebrate the trailblazers - women and allies who are breaking barriers, challenging norms, and setting new standards of excellence, impact and inclusion. Their achievements will be centre stage, their voices amplified, and their contributions recognised as catalysts for lasting change.</p>
     type: diversity
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2025-09-26
     start_datetime: 2025-11-25T17:00:00Z
     end_datetime: 2025-11-25T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Are you struggling to take your ecommerce business to the next level? In this exclusive AwakenHub session, Jo-Anne Morgan, Senior Merchant Success Manager at Shopify, will share the strategies and insights that power some of the world’s biggest online brands—including Gymshark and Boden. </p>"
     type: diversity
@@ -28,7 +28,7 @@ eventlistings:
     date_added: 2025-10-11
     start_datetime: 2025-11-06T19:00:00Z
     end_datetime: 2025-12-04T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -39,7 +39,7 @@ eventlistings:
     date_added: 2025-10-16
     start_datetime: 2025-11-05T11:00:00Z
     end_datetime: 2025-11-05T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us to a report launch and panel discussion on how women’s presence in politics is transforming democracy and representation in Ireland.</p>"
     type: diversity
@@ -49,7 +49,7 @@ eventlistings:
     date_added: 2025-10-16
     start_datetime: 2025-11-12T18:15:00Z
     end_datetime: 2025-11-12T20:15:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: design  
@@ -59,7 +59,7 @@ eventlistings:
     date_added: 2025-10-16
     start_datetime: 2025-11-06T17:00:00Z
     end_datetime: 2025-11-06T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -69,7 +69,7 @@ eventlistings:
     date_added: 2025-10-16
     start_datetime: 2025-11-17T18:30:00Z
     end_datetime: 2025-11-17T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for a workshop where you’ll learn to code in Python by creating your very own Winter themed game using Pytch!</p>"
     type: diversity
@@ -80,7 +80,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-07T18:30:00Z
     end_datetime: 2025-11-07T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -90,7 +90,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-14T14:00:00Z
     end_datetime: 2025-11-14T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -100,7 +100,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-20T14:00:00Z
     end_datetime: 2025-11-20T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -110,7 +110,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-07T12:00:00Z
     end_datetime: 2025-11-23T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-18T18:00:00Z
     end_datetime: 2025-11-18T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-14T10:00:00Z
     end_datetime: 2025-11-14T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-13T12:30:00Z
     end_datetime: 2025-11-13T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-05T18:00:00Z
     end_datetime: 2025-11-05T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-13T18:30:00Z
     end_datetime: 2025-11-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-27T18:30:00Z
     end_datetime: 2025-11-27T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2025-10-17
     start_datetime: 2025-11-24T17:00:00Z
     end_datetime: 2025-11-24T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -191,7 +191,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-27T09:30:00Z
     end_datetime: 2025-11-27T11:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>An open house session to keep the cluster members, partners, stakeholders up to date on NI Cyber and each other's business.</p>"
     type: diversity
@@ -202,7 +202,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-11T19:00:00Z
     end_datetime: 2025-11-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -212,7 +212,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-06T18:00:00Z
     end_datetime: 2025-11-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -222,7 +222,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-04T19:00:00Z
     end_datetime: 2025-11-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -232,7 +232,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-26T17:30:00Z
     end_datetime: 2025-11-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We’ve heard your requests, and we’re excited to bring you a Women in Tech Belfast event focused on Leadership.</p>"
     type: diversity
@@ -242,7 +242,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-10T15:00:00Z
     end_datetime: 2025-11-10T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -252,7 +252,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-06T17:30:00Z
     end_datetime: 2025-11-06T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -262,7 +262,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-05T18:30:00Z
     end_datetime: 2025-11-05T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -272,7 +272,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-08T15:00:00Z
     end_datetime: 2025-11-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We will meet at the public seating area inside CHQ building (near where Starbucks and Dogpatch Labs are located).</p>
      <p>There's coffee shops nearby as well, so grab a cuppa. Kristina will be your host this month.</p>"
@@ -283,7 +283,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-12T17:30:00Z
     end_datetime: 2025-11-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -293,7 +293,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-05T17:30:00Z
     end_datetime: 2025-11-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -303,7 +303,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-06T19:00:00Z
     end_datetime: 2025-11-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -313,7 +313,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-18T09:00:00Z
     end_datetime: 2025-11-18T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -323,7 +323,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-12T18:00:00Z
     end_datetime: 2025-11-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -333,7 +333,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-11T18:00:00Z
     end_datetime: 2025-11-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: design
@@ -343,7 +343,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-12T18:00:00Z
     end_datetime: 2025-11-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -353,7 +353,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-08T15:00:00Z
     end_datetime: 2025-11-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -363,7 +363,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-22T15:00:00Z
     end_datetime: 2025-11-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -373,7 +373,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-07T19:00:00Z
     end_datetime: 2025-11-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -383,7 +383,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-15T19:00:00Z
     end_datetime: 2025-11-15T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -393,7 +393,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-14T19:00:00Z
     end_datetime: 2025-11-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -403,7 +403,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-10T19:00:00Z
     end_datetime: 2025-11-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -413,7 +413,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-10T19:00:00Z
     end_datetime: 2025-11-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -423,7 +423,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-03T19:00:00Z
     end_datetime: 2025-11-03T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -433,7 +433,7 @@ eventlistings:
     date_added: 2025-10-28
     start_datetime: 2025-11-04T19:00:00Z
     end_datetime: 2025-11-04T23:59:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -444,7 +444,7 @@ eventlistings:
     date_added: 2025-10-30
     start_datetime: 2025-11-12T18:00:00Z
     end_datetime: 2025-11-12T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Accessibility Ireland, in collaboration with the Irish Accessibility Networking Group (IANG), are proud to present “Shaping the Future of Inclusion: Ireland’s Accessibility Evolution”. We are excited to invite and welcome you along to our fifth live and in-person digital accessibility event with thanks to, Workhuman, Morgan McKinley and TU Dublin.</p>"
     type: diversity
@@ -454,7 +454,7 @@ eventlistings:
     date_added: 2025-10-30
     start_datetime: 2025-11-06T13:00:00Z
     end_datetime: 2025-11-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Calling all Women Join us for a No Code Hacky Hour Forget happy hours. Forget book clubs. This is a build club — the new women’s circle!</p>"
     type: diversity
@@ -465,7 +465,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-22T11:00:00Z
     end_datetime: 2025-11-22T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -475,7 +475,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-08T11:00:00Z
     end_datetime: 2025-11-08T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: STEAM
@@ -485,7 +485,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-15T10:30:00Z
     end_datetime: 2025-11-15T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: STEAM
@@ -495,7 +495,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-11T17:30:00Z
     end_datetime: 2025-11-11T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -505,7 +505,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-10T17:30:00Z
     end_datetime: 2025-11-10T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -515,7 +515,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-24T17:30:00Z
     end_datetime: 2025-11-24T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -525,7 +525,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-25T17:30:00Z
     end_datetime: 2025-11-25T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -535,7 +535,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-18T17:00:00Z
     end_datetime: 2025-11-18T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -545,7 +545,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-18T09:30:00Z
     end_datetime: 2025-11-18T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Media Belfast CIC returns to the beautiful Queen’s University Belfast Great Hall for its annual Ireland and Britain media summit.Our ‘Future Focused’ themed event will be of interest to a wide range of sectors, workers and students. All are welcome.</p>"
     type: diversity
@@ -555,7 +555,7 @@ eventlistings:
     date_added: 2025-11-03
     start_datetime: 2025-11-12T18:00:00Z
     end_datetime: 2025-11-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A relaxed networking event in Belfast for fintech founders, developers, and finance professionals to explore the future of finance tech.</p>"
     type: diversity
