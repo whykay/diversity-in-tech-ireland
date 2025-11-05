@@ -559,3 +559,14 @@ eventlistings:
     recurring: false
     desc: "<p>A relaxed networking event in Belfast for fintech founders, developers, and finance professionals to explore the future of finance tech.</p>"
     type: diversity
+
+  - name: "(In-Person) TechFoundHer: All Island Innovation Showcase on the eve of TechTides (Derry)"
+    url: "https://www.eventbrite.ie/e/all-island-innovation-showcase-on-the-eve-of-techtides-tickets-1962741972074"
+    region: 🇬🇧
+    date_added: 2025-11-05
+    start_datetime: 2025-11-17T17:00:00Z
+    end_datetime: 2025-11-17T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Embrace the Future of Innovation: Be Inspired by game-changing demos from women tech founders from across the island!</p>"
+    type: diversity
