@@ -611,3 +611,23 @@ eventlistings:
     recurring: false
     desc: "<p>Join WiCyS and State Street for an engaging afternoon of roundtable networking and discussions focused on empowering women in cybersecurity.</p>"
     type: diversity
+  - name: "(In-Person) Dub|Sec: November Meetup"
+    url: "https://www.meetup.com/dub-sec/events/311872415/"
+    region: 🇮🇪
+    date_added: 2025-11-11
+    start_datetime: 2025-11-26T18:30:00Z
+    end_datetime: 2025-11-26T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) WICCA IE: Back in Cyberspace"
+    url: "https://www.meetup.com/wicca-ie/events/311975661/"
+    region: 🇮🇪
+    date_added: 2025-11-12
+    start_datetime: 2025-11-18T19:00:00Z
+    end_datetime: 2025-11-18T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This online meetup is a chance for women in cybersecurity across Ireland to connect, catch up, and co-create what comes next.</p>"
+    type: diversity
