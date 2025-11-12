@@ -621,6 +621,7 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
   - name: "(Online) WICCA IE: Back in Cyberspace"
     url: "https://www.meetup.com/wicca-ie/events/311975661/"
     region: 🇮🇪
@@ -630,4 +631,24 @@ eventlistings:
     new: true
     recurring: false
     desc: "<p>This online meetup is a chance for women in cybersecurity across Ireland to connect, catch up, and co-create what comes next.</p>"
+    type: diversity
+  - name: "(In-Person) PyData Ireland Meetup"
+    url: "https://www.meetup.com/pydataireland/events/311974120/"
+    region: 🇮🇪
+    date_added: 2025-11-11
+    start_datetime: 2025-11-25T17:00:00Z
+    end_datetime: 2025-11-25T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Ladies that UX Dublin: Access all areas: Practical ways to embed accessibility into your process"
+    url: "https://www.eventbrite.ie/e/access-all-areas-practical-ways-to-embed-accessibility-into-your-process-tickets-1968593076886"
+    region: 🇮🇪
+    date_added: 2025-11-12
+    start_datetime: 2025-11-27T18:00:00Z
+    end_datetime: 2025-11-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This session explores practical ways to embed accessibility into your everyday workflow, from design to development and beyond.</p>"
     type: diversity
