@@ -113,7 +113,8 @@ groups:
     year_added: 2020
     month_added: 09
     day_added: 08
-    status: active
+    status: retired
+    date_removed: 2025-11-13
     type: all
   - name: Diversein.com
     url: "http://diversein.com/"
@@ -142,7 +143,7 @@ groups:
     day_added: 26
     status: active
     type: all
-  - name: Girl Develop It
+  - name: Code and Coffee, Cork (Women in Tech)
     url: "https://www.meetup.com/meetup-group-KtPOQaae/"
     region: Cork
     date_added: 2018-08-07
@@ -186,7 +187,8 @@ groups:
     year_added: 2019
     month_added: 08
     day_added: 10
-    status: active
+    status: retired
+    date_removed: 2025-11-13
     type: all     
   - name: "GoingFarIE"
     url: "https://twitter.com/GoingFarIE"
@@ -234,7 +236,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    status: retired
+    date_removed: 2025-11-13
     type: all  
   - name: itag Digital Women’s Forum 
     url: "https://twitter.com/itag_DigitalWF"
@@ -453,7 +456,7 @@ groups:
     status: active
     type: all  
   - name: Women in DevOps (Note - Back again in 2024)
-    url: "https://www.womenindevops.com/events/"
+    url: "https://www.linkedin.com/company/womenindevops/"
     region: Dublin/Global
     date_added: 2019-11-06
     year_added: 2019
@@ -782,8 +785,8 @@ groups:
     year_added: 2022
     month_added: 08
     day_added: 02
-    date_removed:
-    status: active
+    date_removed: 2025-11-13
+    status: retired
     type: all
   - name: "Women in Animation Ireland"
     url: "https://twitter.com/Wia_Ireland"
@@ -824,8 +827,8 @@ groups:
     year_added: 2023
     month_added: 01
     day_added: 26
-    date_removed:
-    status: active
+    status: retired
+    date_removed: 2025-11-13
     type: all 
   - name: "Latinas in Tech - Dublin"
     url: "https://latinasintech.org/chapter/dublin/"
@@ -871,7 +874,7 @@ groups:
     type: all 
 
   - name: "Tech and Inclusion Advocates Ireland"
-    url: "https://www.techinclusionadvocates.com/"
+    url: "https://www.linkedin.com/company/tech-and-inclusion-advocates-ireland/"
     region: Ireland
     date_added: 2023-06-10
     year_added: 2023
@@ -911,8 +914,8 @@ groups:
     year_added: 2024
     month_added: 05
     day_added: 01
-    date_removed:
-    status: active
+    status: retired
+    date_removed: 2025-11-13
     type: all 
 
   - name: "Coding Black Females"
@@ -1013,6 +1016,16 @@ groups:
     status: new
     type: all 
 
+  - name: catalyst noir
+    url: "https://catalystnoir.com/"
+    region: Ireland
+    date_added: 2025-11-13
+    year_added: 2025
+    month_added: 11
+    day_added: 13
+    status: new
+    date_removed:
+    type: all
 ###
 # THIRD LEVEL
 ###
