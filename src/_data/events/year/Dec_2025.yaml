@@ -140,3 +140,14 @@ eventlistings:
     recurring: false
     desc: "<p>The annual techie quiz is back, bringing all the Irish tech communities under one roof for some fun and raising money for a good cause: The Dublin Simon Community.</p>"
     type: diversity
+
+  - name: "(In-Person) Data Chats In A Pub @ Lord Edward Pub"
+    url: "https://www.eventbrite.ie/e/data-chats-in-a-pub-tickets-1798536804999"
+    region: 🇮🇪
+    date_added: 2025-11-14
+    start_datetime: 2025-12-04T18:30:00Z
+    end_datetime: 2025-12-04T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
