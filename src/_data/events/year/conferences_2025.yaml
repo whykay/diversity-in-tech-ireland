@@ -561,7 +561,7 @@ conferences:
     date_added: 2025-11-03
     start_datetime: 2025-11-27T09:00:00Z
     end_datetime: 2025-11-27T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Fintech Ireland Summit 2025 will provide attendees with insights from leading experts in central banking, regulation, digital assets, cyber-security, payments, AI, open banking, fintech education and more, covering the continuously evolving Fintech sector.</p>"
     type: tech
@@ -571,7 +571,7 @@ conferences:
     date_added: 2025-11-03
     start_datetime: 2025-11-18T09:30:00Z
     end_datetime: 2025-11-18T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women in Media Belfast CIC returns to the beautiful Queen’s University Belfast Great Hall for its annual Ireland and Britain media summit.Our ‘Future Focused’ themed event will be of interest to a wide range of sectors, workers and students. All are welcome.</p>"
     type: diversity
@@ -627,7 +627,7 @@ conferences:
     date_added: 2025-10-28
     start_datetime: 2026-03-10T09:30:00Z
     end_datetime: 2026-03-10T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will explore how diversity, equity and inclusion are not just moral imperatives but catalysts for digital transformation and innovation. Despite progress, women remain underrepresented across STEM roles and leadership positions, creating barriers that hold back talent, creativity, and growth.</p>"
     type: diversity
@@ -638,7 +638,7 @@ conferences:
     date_added: 2025-11-14
     start_datetime: 2026-03-05T09:30:00Z
     end_datetime: 2026-03-06T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Whether an old hand in the tech sector or a budding new talent, BelTech has a place for everyone with an invitation to technologists from all backgrounds to join us for a full day of talks and discussions on Thursday March 5th. With a key tenet of our conference the celebration of diversity and difference, the BelTech platform is open to all – and we want to see you there.</p>"
     type: tech
@@ -648,7 +648,7 @@ conferences:
     date_added: 2025-11-14
     start_datetime: 2026-02-28T09:30:00Z
     end_datetime: 2026-02-28T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The CESI conference is a space for educators to share their vision of that practice and it is open to all sectors, subject areas, and skill levels. </p>"
     type: tech
