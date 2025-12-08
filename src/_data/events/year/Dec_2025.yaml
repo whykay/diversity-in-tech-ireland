@@ -159,7 +159,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-18T18:00:00Z
     end_datetime: 2025-12-18T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -169,7 +169,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-10T18:30:00Z
     end_datetime: 2025-12-10T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -179,7 +179,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-10T18:30:00Z
     end_datetime: 2025-12-10T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -189,7 +189,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-12T18:00:00Z
     end_datetime: 2025-12-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -199,7 +199,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-12T19:00:00Z
     end_datetime: 2025-12-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -209,7 +209,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-08T19:00:00Z
     end_datetime: 2025-12-08T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -219,7 +219,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-09T19:00:00Z
     end_datetime: 2025-12-09T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -229,7 +229,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-15T19:00:00Z
     end_datetime: 2025-12-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -239,7 +239,7 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-05T16:30:00Z
     end_datetime: 2025-12-07T00:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyLadies Conference (PyLadiesCon) is the third PyLadies conference held– an exciting online and FREE event dedicated to empowerment, learning, and diversity within the Python community! 🎉</p>"
     type: diversity
@@ -249,7 +249,28 @@ eventlistings:
     date_added: 2025-12-04
     start_datetime: 2025-12-08T12:30:00Z
     end_datetime: 2025-12-08T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Let's Build! Festive TechFoundHer Build Club and Info Session on WeBuild</p>"
     type: diversity
+
+  - name: "(In-Person) TechArchives and the Golden Age of Irish Software - an evening with John Sterne and Dr Chris Horn @ Engineer's Ireland"
+    url: "https://www.engineersireland.ie/Events/event/10828"
+    region: 🇮🇪
+    date_added: 2025-12-08
+    start_datetime: 2025-12-10T18:30:00Z
+    end_datetime: 2025-12-10T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Design Mingle: Weaving Connections, Crafting Inspirations @ CREW (Galway)"
+    url: "https://galwayleo.clr.events/event/139478:design-mingle-weaving-connections-crafting-inspirations-on-friday-12th-december-2025"
+    region: 🇮🇪
+    date_added: 2025-12-08
+    start_datetime: 2025-12-12T11:30:00Z
+    end_datetime: 2025-12-12T12:45:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
