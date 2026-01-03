@@ -1,0 +1,112 @@
+---
+eventlistings:
+  - name: "(In-Person) PyLadies Dublin: Introduction to Python Workshop @ Scopely"
+    url: "https://www.meetup.com/pyladiesdublin/events/312523307/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-07T18:00:00Z
+    end_datetime: 2026-01-07T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyLadies Dublin presents our first workshop of this year, a beginners programming workshop with Python.</p>"
+    type: diversity
+  - name: "(In-Person) PyLadies Dublin x Go Ireland"
+    url: "https://www.meetup.com/pyladiesdublin/events/312696820/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-20T18:00:00Z
+    end_datetime: 2026-01-20T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyLadies Dublin are collaborating with Go Ireland this month. Check meetup page for updates.</p>"
+    type: diversity
+  - name: "(In-Person) Python Ireland January 2026 Meetup"
+    url: "https://www.meetup.com/pythonireland/events/312519349/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-21T18:00:00Z
+    end_datetime: 2026-01-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Stripe Developer meetup Dublin January 2026"
+    url: "https://www.meetup.com/stripe-dublin/events/312047084/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-22T18:30:00Z
+    end_datetime: 2026-01-22T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) AWS Meetup Dublin with Jeff Barr, Chief Evangelist, AWS!"
+    url: "https://www.meetup.com/awsdublin/events/312481498/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-14T18:00:00Z
+    end_datetime: 2026-01-14T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) OpenSearch Project Dublin welcome 2026 meetup"
+    url: "https://www.meetup.com/opensearch-project-dublin/events/312458187/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-22T18:00:00Z
+    end_datetime: 2026-01-22T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Tech Pro Ireland - Learning Azure @ TCube"
+    url: "https://www.meetup.com/tech-pro-ireland/events/312478223/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-28T18:00:00Z
+    end_datetime: 2026-01-28T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Scaling Reinsurance Compliance: The Engineering Behind PartnerRe’s \"Overlay\""
+    url: "https://www.meetup.com/snowflake-user-group-ireland-meetup/events/312444126"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-14T18:00:00Z
+    end_datetime: 2026-01-14T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Call me by your January"
+    url: "https://www.meetup.com/the-games-co-op/events/312494570/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-19T19:00:00Z
+    end_datetime: 2026-01-19T22:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312517098/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-09T19:00:00Z
+    end_datetime: 2026-01-09T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/312417873/"
+    region: 🇮🇪
+    date_added: 2026-01-03
+    start_datetime: 2026-01-24T15:00:00Z
+    end_datetime: 2026-01-24T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

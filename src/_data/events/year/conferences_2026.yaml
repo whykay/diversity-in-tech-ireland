@@ -1,0 +1,75 @@
+---
+conferences:
+  - name: "(In-Person) Health Tech Spring Conference 2026 @ Titanic Belfast"
+    url: "https://www.eventbrite.co.uk/e/health-tech-spring-conference-2026-tickets-1628456058909"
+    region: 🇬🇧
+    date_added: 2025-09-26
+    start_datetime: 2026-04-23T09:30:00Z
+    end_datetime: 2026-04-24T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Hosted by the Health Innovation and Research Alliance NI (HIRANI), Health Tech Spring is taking place in Belfast on 23rd and 24th April 2026</p>"
+    type: tech
+
+  - name: "(In-Person) IoD NI Women's Leadership Conference 2026 @ Crowne Plaza Belfast"
+    url: "https://www.eventbrite.ie/e/iod-ni-womens-leadership-conference-2026-tickets-1765856206449"
+    region: 🇬🇧
+    date_added: 2025-10-17
+    start_datetime: 2026-03-06T09:30:00Z
+    end_datetime: 2026-03-06T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>"
+    type: diversity
+  - name: "(In-Person) The Irish Startup Conference 2026 @ TCD"
+    url: "https://www.eventbrite.ie/e/the-irish-startup-conference-2026-tickets-1351586494589"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2026-01-22T09:30:00Z
+    end_datetime: 2026-01-22T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>The Irish Startup Conference 2026 will gather Startup Founders, CXOs, Investors, and more, from across Ireland.</p>"
+    type: startups
+  - name: "(In-Person) Zero Day Con 2026 - Amplify @ Dublin Royal Convention Centre"
+    url: "https://www.eventbrite.ie/e/zero-day-con-2026-amplify-tickets-1737961121499"
+    region: 🇮🇪
+    date_added: 2025-10-17
+    start_datetime: 2026-04-29T09:30:00Z
+    end_datetime: 2026-04-29T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Zero Day Con 2026: Where leaders cut through cyber noise to scale resilience, trust & collaboration in the age of AI-driven threats.</p>"
+    type: tech
+
+  - name: "(In-Person) Women in STEM Summit 2026 @ Croke Park"
+    url: "https://womeninstem.ie/"
+    region: 🇮🇪
+    date_added: 2025-10-28
+    start_datetime: 2026-03-10T09:30:00Z
+    end_datetime: 2026-03-10T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>The Summit will explore how diversity, equity and inclusion are not just moral imperatives but catalysts for digital transformation and innovation. Despite progress, women remain underrepresented across STEM roles and leadership positions, creating barriers that hold back talent, creativity, and growth.</p>"
+    type: diversity
+
+  - name: "(In-Person) BelTech: Software Engineering in 2026 and Beyond"
+    url: "https://www.beltech.co/"
+    region: 🇬🇧
+    date_added: 2025-11-14
+    start_datetime: 2026-03-05T09:30:00Z
+    end_datetime: 2026-03-06T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Whether an old hand in the tech sector or a budding new talent, BelTech has a place for everyone with an invitation to technologists from all backgrounds to join us for a full day of talks and discussions on Thursday March 5th. With a key tenet of our conference the celebration of diversity and difference, the BelTech platform is open to all – and we want to see you there.</p>"
+    type: tech
+  - name: "(In-Person) CESI Conference 2026 "
+    url: "https://www.cesi.ie/"
+    region: 🇮🇪
+    date_added: 2025-11-14
+    start_datetime: 2026-02-28T09:30:00Z
+    end_datetime: 2026-02-28T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>The CESI conference is a space for educators to share their vision of that practice and it is open to all sectors, subject areas, and skill levels. </p>"
+    type: tech
