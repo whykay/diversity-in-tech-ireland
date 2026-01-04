@@ -50,3 +50,13 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+  - name: "(Hybrid) Apache Iceberg™ Europe Community Meetup - Feb 2026 Dublin Edition"
+    url: "https://luma.com/8ll9ya9p"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-05T17:00:00Z
+    end_datetime: 2026-02-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

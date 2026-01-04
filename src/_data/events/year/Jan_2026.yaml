@@ -251,3 +251,13 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+  - name: "(In-Person) Dockyard 001"
+    url: "https://luma.com/5a1sost8"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-01-11T14:00:00Z
+    end_datetime: 2026-01-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
