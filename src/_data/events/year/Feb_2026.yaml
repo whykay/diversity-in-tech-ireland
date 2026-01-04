@@ -1,0 +1,52 @@
+---
+eventlistings:
+  - name: "(In-Person) TOG Open Social @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312020052/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-21T19:00:00Z
+    end_datetime: 2026-02-21T24:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: social
+  - name: "(In-Person) Cork|Sec 152"
+    url: "https://www.meetup.com/corksec/events/311100606/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-10T19:00:00Z
+    end_datetime: 2026-02-10T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/311588327/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-03T19:00:00Z
+    end_datetime: 2026-02-03T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev
+  - name: "(In-Person) Women in Tech Dublin - OutGeekWomen @ eBay Dublin"
+    url: "https://www.eventbrite.com/e/women-in-tech-dublin-outgeekwomen-tickets-1545448852119"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-26T18:00:00Z
+    end_datetime: 2026-02-26T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Listen to short and sweet pitches by CTOs and hiring teams and vote best pitch (who said that corporate evaluation can't be fun?), talk all things tech, network and run speed interviews, meet faces behind our fav tech brands, and see what our local tech has to offer this season.</p>"
+    type: diversity
+  - name: "(In-Person) Data Chats In A Pub @ Lord Edward Pub"
+    url: "https://www.eventbrite.ie/e/data-chats-in-a-pub-tickets-1798536804999"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-05T18:30:00Z
+    end_datetime: 2026-02-05T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

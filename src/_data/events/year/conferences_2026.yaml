@@ -63,7 +63,7 @@ conferences:
     recurring: false
     desc: "<p>Whether an old hand in the tech sector or a budding new talent, BelTech has a place for everyone with an invitation to technologists from all backgrounds to join us for a full day of talks and discussions on Thursday March 5th. With a key tenet of our conference the celebration of diversity and difference, the BelTech platform is open to all – and we want to see you there.</p>"
     type: tech
-  - name: "(In-Person) CESI Conference 2026 "
+  - name: "(In-Person) CESI Conference 2026"
     url: "https://www.cesi.ie/"
     region: 🇮🇪
     date_added: 2025-11-14
@@ -71,5 +71,96 @@ conferences:
     end_datetime: 2026-02-28T16:30:00Z
     new: false
     recurring: false
-    desc: "<p>The CESI conference is a space for educators to share their vision of that practice and it is open to all sectors, subject areas, and skill levels. </p>"
+    desc: "<p>The CESI conference is a space for educators to share their vision of that practice and it is open to all sectors, subject areas, and skill levels.</p>"
+    type: tech
+
+  - name: "(In-Person) The Dublin AI Conference 2026"
+    url: "https://www.eventbrite.ie/e/the-dublin-ai-conference-2026-tickets-1351415302549"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-02-30T18:00:00Z
+    end_datetime: 2026-02-30T22:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Dublin AI Conference 2026 gathers 400 of Ireland's AI, Business, and Tech Leaders for an evening of content and networking.</p>"
+    type: tech 
+  - name: "(In-Person) Dublin Tech Summit 2026"
+    url: "https://dublintechsummit.tech/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-05-27T09:00:00Z
+    end_datetime: 2026-05-28T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Two transformative days of connection, growth, inspiration and some famous Irish hospitality! Lots of discounts and fun things to do while you are in Dublin city.</p>"
+    type: tech 
+  - name: "(In-Person) BSides Galway 2026"
+    url: "https://bsidesgalway.com/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-05-21T09:00:00Z
+    end_datetime: 2026-05-21T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>BSides is a community-driven framework for building events by and for information security community members. These events are a source of education, collaboration, and continued conversation for information technologists and those interested in the cybersecurity field.</p>"
+    type: tech 
+  - name: "(In-Person) Women Techmakers 2026"
+    url: "https://www.womentechmakersbelfast.com/"
+    region: 🇬🇧
+    date_added: 2026-01-04
+    start_datetime: 2026-03-07T09:00:00Z
+    end_datetime: 2026-03-07T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual conference, in celebration of International Women's Day.​</p>"
+    type: diversity
+  - name: "(In-Person) Irish Dreamin' 2026"
+    url: "https://irishdreamin.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-03-19T09:00:00Z
+    end_datetime: 2026-03-19T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Irish Dreamin’ is an annual community-led Salesforce conference, uniting admins, architects, consultants, developers, and partners for a dynamic day of learning, innovation, and networking.</p>"
+    type: tech 
+  - name: "(In-Person) Data Céilí 2026"
+    url: "https://www.dataceili.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-06-11T09:00:00Z
+    end_datetime: 2026-06-12T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Data Céilí is an annual two-day conference all about Microsoft data platform technologies. We combine full-day training sessions with a choice of 24 one-hour sessions where you can pick up some new skills, or deep dive into existing skills.</p>"
+    type: tech 
+  - name: "(In-Person) SREcon26 EMEA 2026"
+    url: "https://www.usenix.org/conferences"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-10-13T09:00:00Z
+    end_datetime: 2026-10-15T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>SREcon26 Europe/Middle East/Africa is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. SREcon strives to challenge both those new to the profession as well as those who have been involved in it for decades. The conference has a culture of critical thought, deep technical insights, continuous improvement, and innovation.</p>"
+    type: tech 
+  - name: "(In-Person) Security and Privacy in Future Mobile Networks (SECURENET) 2026"
+    url: "https://www.eventbrite.ie/e/securenet-2026-tickets-1968109494478"
+    region: 🇮🇪
+    date_added: 2026-01-04
+    start_datetime: 2026-10-16T09:00:00Z
+    end_datetime: 2026-10-16T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The 3rd SECURENET Summit on Security and Privacy in Future Mobile Networks (2025) will continue its focus on addressing the security and privacy challenges of emerging mobile technologies, including 5G and 6G networks. As mobile networks become increasingly vital across various sectors, ensuring their security and privacy has emerged as a critical concern.</p>"
+    type: tech 
+  - name: "(In-Person) The Belfast Cyber Expo 2026"
+    url: "https://www.eventbrite.com/e/the-belfast-cyber-expo-2026-tickets-1967850741541"
+    region: 🇬🇧
+    date_added: 2026-01-04
+    start_datetime: 2026-02-26T09:00:00Z
+    end_datetime: 2026-02-26T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Discover practical IT security strategies, see live demos and connect with experts and peers across Northern Ireland.</p>"
     type: tech
