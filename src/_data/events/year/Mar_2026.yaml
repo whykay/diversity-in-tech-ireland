@@ -10,3 +10,16 @@ eventlistings:
     recurring: false
     desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual conference, in celebration of International Women's Day.​</p>"
     type: diversity 
+
+  - name: "(In-Person) Techstars Startup Weekend Women Dublin 2026"
+    url: "https://www.eventbrite.ie/e/techstars-startup-weekend-women-dublin-2026-20th-to-22nd-march-tickets-1979769832864"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-03-20T17:00:00Z
+    end_datetime: 2026-03-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Build Impact. Lead Change. Shape the Future.</p>
+      <p>Learn how to think, work, and build like a startup in 54 thrilling hours.</p>
+      <p>Techstars Startup Weekend is an exciting and immersive foray into the world of startups. Over an action-packed three days, you’ll meet the very best mentors, investors, co-founders, and sponsors to show you how to get more done faster and, maybe even start that business</p>"
+    type: diversity 
