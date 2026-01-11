@@ -272,3 +272,113 @@ eventlistings:
     recurring: false
     desc: "<p>Across four days, the city will come alive with a vibrant programme of talks, performances, walks, workshops, music, visual art and shared moments, celebrating women’s creativity, heritage and influence in Dublin today. Rooted in the legacy of Brigit and reimagined for a contemporary city, the festival invites everyone to gather, reflect and celebrate together.</p>"
     type: diversity
+  - name: "(In-Person) Dub|Sec January 2026 Meetup"
+    url: "https://www.meetup.com/dub-sec/events/312751872/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-28T18:30:00Z
+    end_datetime: 2026-01-28T21:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) The UX Book Club: Calling Bullshit: The Art of Skepticism in a Data-Driven World"
+    url: "https://www.meetup.com/theuxbookclub/events/311506666/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-27T08:00:00Z
+    end_datetime: 2026-01-27T09:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DubJUG 263: Optimizing Santa's travels in Java with Timefold @ TCube"
+    url: "https://www.meetup.com/dublinjavausergroup/events/312770573/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-27T18:00:00Z
+    end_datetime: 2026-01-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) DubJUG: Pattern Matching in Java @ TCube"
+    url: "https://www.meetup.com/dublinjavausergroup/events/312770374/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-22T18:00:00Z
+    end_datetime: 2026-01-22T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin C++ talk : Derek Molloy @ Anseo"
+    url: "https://www.meetup.com/cppdug/events/312822153/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-27T19:00:00Z
+    end_datetime: 2026-01-27T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312782982/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-12T19:00:00Z
+    end_datetime: 2026-01-12T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312599730/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-16T19:00:00Z
+    end_datetime: 2026-01-16T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) A Day to Finish What You Started – Finish-a-thon @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312784346/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-24T11:00:00Z
+    end_datetime: 2026-01-24T19:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) TOG Turns 17: Birthday Open Social, Pizza, Cake, and a Bit of Craic @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/311087146/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-24T19:00:00Z
+    end_datetime: 2026-01-24T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/311087146/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-19T19:00:00Z
+    end_datetime: 2026-01-19T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) GIT 3.1: Cyber Security @ Portershed"
+    url: "https://www.meetup.com/galway-information-technology/events/312719093/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-15T18:30:00Z
+    end_datetime: 2026-01-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
