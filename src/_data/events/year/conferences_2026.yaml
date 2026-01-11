@@ -185,3 +185,13 @@ conferences:
     recurring: false
     desc: "<p>Now in its second year, the National Open Source Summit 2026 convenes leading international speakers and participants from the open source community. The summit explores opportunities for open source in government, industry, and academia.</p>"
     type: tech 
+  - name: "(In-Person) MidWest TechFest 2026"
+    url: "https://midwesttechfest.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-02-01T09:00:00Z
+    end_datetime: 2026-03-31T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>MidWest TechFest is a four-week celebration of technology, innovation, and collaboration across the Midwest region, taking place during February/March 2026. The festival will launch with the Limerick IT Summit on 26th February and will feature 1–2 major flagship events per week alongside a wide range of smaller community-led sessions.</p>"
+    type: tech 
