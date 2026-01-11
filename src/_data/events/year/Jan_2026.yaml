@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-07T18:00:00Z
     end_datetime: 2026-01-07T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyLadies Dublin presents our first workshop of this year, a beginners programming workshop with Python.</p>"
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-20T18:00:00Z
     end_datetime: 2026-01-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyLadies Dublin are collaborating with Go Ireland this month. Check meetup page for updates.</p>"
     type: diversity
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-21T18:00:00Z
     end_datetime: 2026-01-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -36,7 +36,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-22T18:30:00Z
     end_datetime: 2026-01-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -46,7 +46,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-14T18:00:00Z
     end_datetime: 2026-01-14T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -56,7 +56,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-22T18:00:00Z
     end_datetime: 2026-01-22T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -66,7 +66,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-28T18:00:00Z
     end_datetime: 2026-01-28T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -76,7 +76,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-14T18:00:00Z
     end_datetime: 2026-01-14T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -86,7 +86,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-19T19:00:00Z
     end_datetime: 2026-01-19T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -96,7 +96,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-09T19:00:00Z
     end_datetime: 2026-01-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -106,7 +106,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-24T15:00:00Z
     end_datetime: 2026-01-24T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -116,7 +116,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-05T19:00:00Z
     end_datetime: 2026-01-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -126,7 +126,7 @@ eventlistings:
     date_added: 2026-01-03
     start_datetime: 2026-01-24T19:00:00Z
     end_datetime: 2026-01-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: social
@@ -137,7 +137,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-05T19:00:00Z
     end_datetime: 2026-01-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -147,7 +147,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-10T15:00:00Z
     end_datetime: 2026-01-10T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -157,7 +157,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-20T19:00:00Z
     end_datetime: 2026-01-20T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -167,7 +167,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-13T19:00:00Z
     end_datetime: 2026-01-13T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -177,7 +177,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-06T19:00:00Z
     end_datetime: 2026-01-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: gamedev
@@ -187,7 +187,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-29T18:00:00Z
     end_datetime: 2026-01-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -197,7 +197,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-07T18:00:00Z
     end_datetime: 2026-01-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -207,7 +207,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-22T17:30:00Z
     end_datetime: 2026-01-22T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>An interactive workshop-led evening focused on self-care, energy, and sustainable wellbeing.</p>"
     type: diversity
@@ -217,7 +217,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-08T17:30:00Z
     end_datetime: 2026-01-08T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: design
@@ -227,7 +227,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-08T18:30:00Z
     end_datetime: 2026-01-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -237,7 +237,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-18T12:00:00Z
     end_datetime: 2026-01-18T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -247,7 +247,7 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-27T17:30:00Z
     end_datetime: 2026-01-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: maker
@@ -257,7 +257,18 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-01-11T14:00:00Z
     end_datetime: 2026-01-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) Brigit: Dublin City Celebrating Women"
+    url: "https://dublin.ie/whats-on/brigit/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-01-30T09:00:00Z
+    end_datetime: 2026-02-02T22:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Across four days, the city will come alive with a vibrant programme of talks, performances, walks, workshops, music, visual art and shared moments, celebrating women’s creativity, heritage and influence in Dublin today. Rooted in the legacy of Brigit and reimagined for a contemporary city, the festival invites everyone to gather, reflect and celebrate together.</p>"
+    type: diversity
