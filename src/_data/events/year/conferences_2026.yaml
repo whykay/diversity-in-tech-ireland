@@ -195,3 +195,24 @@ conferences:
     recurring: false
     desc: "<p>MidWest TechFest is a four-week celebration of technology, innovation, and collaboration across the Midwest region, taking place during February/March 2026. The festival will launch with the Limerick IT Summit on 26th February and will feature 1–2 major flagship events per week alongside a wide range of smaller community-led sessions.</p>"
     type: tech 
+
+  - name: "(In-Person) ZeroDays CTF 2026 @ Croke Park"
+    url: "https://www.eventbrite.ie/e/zerodays-ctf-2026-tickets-1978195042624"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-03-21T10:00:00Z
+    end_datetime: 2026-03-21T10:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Get ready for an epic day of challenges and cybersecurity excitement at Croke Park. Join us for a hands-on experience like no other, where you can test your skills against fellow hackers and enthusiasts.</p>"
+    type: tech 
+  - name: "(In-Person) Zero Day Con 2026 - Amplify @ Dublin Royal Convention Centre"
+    url: "https://www.eventbrite.ie/e/zero-day-con-2026-amplify-tickets-1737961121499"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-04-29T09:00:00Z
+    end_datetime: 2026-04-29T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Zero Day Con is Ireland's best cybersecurity conference. Join 600+ CISOs and CIOs on April 29th in Dublin.</p>"
+    type: tech 
