@@ -216,3 +216,13 @@ conferences:
     recurring: false
     desc: "<p>Zero Day Con is Ireland's best cybersecurity conference. Join 600+ CISOs and CIOs on April 29th in Dublin.</p>"
     type: tech 
+  - name: "(In-Person) Leadership Day @ Dogpatch Labs"
+    url: "https://leadershipday.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-01-29T09:00:00Z
+    end_datetime: 2026-01-29T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>🇮🇪 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗗𝗮𝘆 for the Games Industry in Ireland — a new event to deliver 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗼𝘂𝘁𝗰𝗼𝗺𝗲𝘀 𝗳𝗼𝗿 𝗹𝗲𝗮𝗱𝗲𝗿𝘀.</p>"
+    type: gamedev

@@ -101,3 +101,14 @@ eventlistings:
     recurring: false
     desc: 
     type: maker
+
+  - name: "(In-Person) Cyber Security Event Cork"
+    url: "https://www.eventbrite.com/e/cyber-security-event-cork-tickets-1972474597619"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-02-18T19:30:00Z
+    end_datetime: 2026-02-018T13:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech

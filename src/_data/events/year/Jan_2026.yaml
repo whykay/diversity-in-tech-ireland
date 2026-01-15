@@ -382,3 +382,35 @@ eventlistings:
     recurring: false
     desc: 
     type: tech
+
+  - name: "(In-Person) NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.com/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2026-01-15
+    start_datetime: 2026-01-29T09:00:00Z
+    end_datetime: 2026-01-29T10:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) SECURENET 2026 @ UCD"
+    url: "https://www.eventbrite.com/e/securenet-2026-tickets-1968109494478"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-01-16T09:00:00Z
+    end_datetime: 2026-01-16T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(Online) Women4Cyber Ireland Coffee Club"
+    url: "https://www.eventbrite.ie/e/women4cyber-ireland-coffee-club-tickets-1975561529716"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-01-23T11:00:00Z
+    end_datetime: 2026-01-23T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Looking to connect with amazing women in cybersecurity from all over Ireland? Grab your favorite cup of coffee and join us online for some casual chats, networking, and support.</p>
+      <p>This kick-off session will set the tone for an exciting year ahead as we grow our network, strengthen peer support, and highlight opportunities for women at all stages of their cyber journey. We are delighted to feature a special guest speaker, who will be announced over the coming weeks.</p>"
+    type: diversity

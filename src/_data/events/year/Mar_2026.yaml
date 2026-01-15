@@ -32,5 +32,26 @@ eventlistings:
     new: true
     recurring: false
     desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>
-     <p>The theme for the 2026 conference is: “No Limits: Women Who Lead the Way”</p>"
+     <p>The theme for the 2026 conference is: 'No Limits: Women Who Lead the Way'</p>"
     type: diversity 
+
+  - name: "(In-Person) International Women's Day with NI Cyber and Danske Bank UK"
+    url: "https://www.eventbrite.co.uk/e/international-womens-day-with-ni-cyber-and-danske-bank-uk-tickets-1978110335262"
+    region: 🇬🇧
+    date_added: 2026-01-15
+    start_datetime: 2026-03-06T09:30:00Z
+    end_datetime: 2026-03-06T11:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at Danske Bank UK on March 6, 2026 at 9:30 AM (Europe/London). Let's celebrate the achievements and contributions of women in the cybersecurity industry.</p>"
+    type: diversity
+  - name: "(In-Person) Innovators Festival 2026"
+    url: "https://innovatorsfestival.ie/about/"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-03-12T09:30:00Z
+    end_datetime: 2026-03-12T16:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech  
