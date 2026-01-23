@@ -55,3 +55,44 @@ eventlistings:
     recurring: false
     desc:
     type: tech  
+
+  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbfb/"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: 2026-03-03T18:00:00Z
+    end_datetime: 2026-03-03T19:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    type: diversity
+  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbnb/"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: 2026-03-10T18:00:00Z
+    end_datetime: 2026-03-10T19:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    type: diversity
+  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbwb/"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: 2026-03-17T18:00:00Z
+    end_datetime: 2026-03-17T19:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    type: diversity
+  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbgc/"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: 2026-03-24T18:00:00Z
+    end_datetime: 2026-03-24T19:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    type: diversity

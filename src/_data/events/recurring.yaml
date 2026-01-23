@@ -143,3 +143,14 @@ events:
     recurring: true
     desc: 
     type: maker
+
+  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/313005695/"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: Every Tuesday @ 18:00 - 19:00
+    end_datetime: 
+    new: true
+    recurring: true
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    type: diversity
