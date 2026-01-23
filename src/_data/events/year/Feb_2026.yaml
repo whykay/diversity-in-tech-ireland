@@ -107,8 +107,29 @@ eventlistings:
     region: 🇮🇪
     date_added: 2026-01-15
     start_datetime: 2026-02-18T19:30:00Z
-    end_datetime: 2026-02-018T13:30:00Z
+    end_datetime: 2026-02-18T13:30:00Z
     new: true
     recurring: false
     desc: 
     type: tech
+  - name: "(In-Person) SpringRISE (Athlone)"
+    url: "https://www.eventbrite.com/e/springrise-tickets-1980081319529"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-02-05T09:30:00Z
+    end_datetime: 2026-02-05T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The event brings together women leading in research, innovation, and enterprise to share insights, build networks, and explore opportunities shaping the future. Designed for female-led businesses.</p>"
+    type: diversity
+
+  - name: "(In-Person) Ladies that UX Dublin: Content First: How designing with content can create better experiences @ Baseline"
+    url: "https://www.eventbrite.ie/e/content-first-how-designing-with-content-can-create-better-experiences-tickets-1980766712558"
+    region: 🇮🇪
+    date_added: 2026-01-23
+    start_datetime: 2026-02-04T18:00:00Z
+    end_datetime: 2026-02-04T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>In this talk, we’ll see how you can figure out what needs to be said and where, and how you can turn that into final content.</p>"
+    type: diversity
