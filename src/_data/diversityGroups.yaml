@@ -960,7 +960,7 @@ groups:
     month_added: 02
     day_added: 20
     date_removed:
-    status: new
+    status: active
     type: all 
   - name: "Women in CyberSecurity (WiCyS) UK & Ireland"
     url: "https://www.linkedin.com/company/wicysuk"
@@ -970,7 +970,7 @@ groups:
     month_added: 02
     day_added: 20
     date_removed:
-    status: new
+    status: active
     type: all 
   - name: "Midlands Women in Tech"
     url: "https://www.linkedin.com/company/midlandswomenintech/"
@@ -980,7 +980,7 @@ groups:
     month_added: 05
     day_added: 30
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Rewriting the Code (UK/Ireland)"
@@ -991,7 +991,7 @@ groups:
     month_added: 06
     day_added: 17
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Women In Cybersecurity Community Association IE"
@@ -1002,7 +1002,7 @@ groups:
     month_added: 07
     day_added: 02
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: "Women4Cyber Ireland"
@@ -1013,7 +1013,7 @@ groups:
     month_added: 10
     day_added: 28
     date_removed:
-    status: new
+    status: active
     type: all 
 
   - name: catalyst noir
@@ -1023,7 +1023,7 @@ groups:
     year_added: 2025
     month_added: 11
     day_added: 13
-    status: new
+    status: active
     date_removed:
     type: all
 ###
@@ -1187,7 +1187,7 @@ groups:
     year_added: 2025
     month_added: 02
     day_added: 20
-    status: new
+    status: active
     credit:  
     type: student  
   - name: TU Dublin / Women in Tech United (WITU)
@@ -1200,6 +1200,6 @@ groups:
     year_added: 2025
     month_added: 02
     day_added: 20
-    status: new
+    status: active
     credit:  
     type: student  

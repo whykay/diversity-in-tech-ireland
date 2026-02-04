@@ -421,7 +421,7 @@ eventlistings:
     date_added: 2026-01-23
     start_datetime: 2026-01-29T18:00:00Z
     end_datetime: 2026-01-29T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: 
     type: tech
@@ -431,7 +431,7 @@ eventlistings:
     date_added: 2026-01-23
     start_datetime: 2026-01-27T18:00:00Z
     end_datetime: 2026-01-27T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
     type: diversity
