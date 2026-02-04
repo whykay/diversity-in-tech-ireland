@@ -2,7 +2,7 @@
 information:
   - name: "Tech help - Volunteering to assist the elderly"
     desc: "<p>This page gathers details, for the sole purpose of setting up volunteers who wish to assist the elderly, over the telephone, with technical support, during the current Covid-19 crisis.</p>
-  <p>Should a volunteer request it, their details will immediately be removed from this dataset. The data gathered here will not be forwarded for any other purposes other than that stated above.</p>"
+     <p>Should a volunteer request it, their details will immediately be removed from this dataset. The data gathered here will not be forwarded for any other purposes other than that stated above.</p>"
     url: "https://www.surveymonkey.com/r/PYGYTCW"
     status:
   - name: "Open Source Ventilator Project"
@@ -43,7 +43,7 @@ cancelled:
 opportunities:
   - name: "WiCyS Mentorship Program"
     desc: "<p>This is your sign to pursue a new, career changing opportunity as a mentor or mentee with the 9 month WiCyS Mentorship Program, designed to elevate women in cybersecurity through enhanced skills in influence, negotiation, leadership, work/life harmony, and communication.</p>
-     <p>⏳ August 27, 2025: Applications Close at 5PM CT</p>"
+     <p>Check website for upcoming opening applications.</p>"
     url: "https://www.wicys.org/initiatives/mentor/mentor-mentee-program"
     status: new
   - name: "TWi And Tech Writers Without Borders And You"
@@ -53,8 +53,8 @@ opportunities:
     status: archive
   - name: "Bank of Ireland provides €1m in emergency funding for communities impacted by Covid-19"
     desc: '<p>Funds fast-tracked for projects supporting vulnerable groups with immediate needs.</p>
-    <p>In partnership with The Community Foundation for Ireland, the Bank is fast tracking €500,000 of the funds to 13 organisations that are working to support the immediate needs of vulnerable groups across the island of Ireland, north and south.</p>
-    <p>The remaining €500,000 is being donated to The Community Foundation for Ireland and the Community Foundation for Northern Ireland’s Covid-19 Funds to help local charities and community organisations assisting vulnerable individuals and groups through this difficult period. The Community Foundations will launch these funds next week.</p>'
+     <p>In partnership with The Community Foundation for Ireland, the Bank is fast tracking €500,000 of the funds to 13 organisations that are working to support the immediate needs of vulnerable groups across the island of Ireland, north and south.</p>
+     <p>The remaining €500,000 is being donated to The Community Foundation for Ireland and the Community Foundation for Northern Ireland’s Covid-19 Funds to help local charities and community organisations assisting vulnerable individuals and groups through this difficult period. The Community Foundations will launch these funds next week.</p>'
     url: "https://www.bankofireland.com/about-bank-of-ireland/press-releases/2020/bank-of-ireland-provides-e1m-in-emergency-funding-for-communities-impacted-by-covid-19/"
     region: 🇮🇪
     status: archive
@@ -141,20 +141,20 @@ opportunities:
     status: archive
   - name: "AwakenHub: SheGenerate2.0"
     desc: "<p>Are you a very early stage or want-to-be woman founder on the island of Ireland (or looking to move back home imminently)? Need to be part of a community of fellow founders? Willing to commit to an eight month programme of activity to help you get traction? Then apply for SheGenerate2.0</p>
-    <p>Applications close 5pm on Friday 9 September. </p>"
+     <p>Applications close 5pm on Friday 9 September. </p>"
     url: "https://www.awakenhub.com/shegenerate2"
     region: 🇮🇪
     status: archive
   - name: "European Innovation Council: EU Prize for Women Innovators"
     desc: "<p>Applications to the ninth edition of the EU Prize for Women Innovators are now open.</p>
-    <p>Deadline for applications is 18 August 2022 at 17.00 (CET).</p>"
+     <p>Deadline for applications is 18 August 2022 at 17.00 (CET).</p>"
     url: "https://eic.ec.europa.eu/eic-funding-opportunities/eic-prizes/eu-prize-women-innovators_en"
     region: 🇮🇪
     status: archive
 
   - name: "GoingFar Mentorship Programme"
     desc: "<p>GoingFar mentorship programme is for diverse migrant professionals living in Ireland.</p>
-    <p>The programme will run for 3 months and will allow you to receive mentorship from an experienced professional in one of the following three areas: Entrepreneurship / Finding a job / Achieving a leadership position</p>"
+     <p>The programme will run for 3 months and will allow you to receive mentorship from an experienced professional in one of the following three areas: Entrepreneurship / Finding a job / Achieving a leadership position</p>"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSduu4dWIUs-cREfYD49tyqmpeg5-buR4Oh_gsOxWCqBWBVW2Q/viewform"
     region: 🇮🇪
     status: archive
@@ -180,7 +180,7 @@ opportunities:
 
   - name: "Ready, Set, Go Furthr - Applications open"
     desc: "<p>Ready, Set, Go Furthr is a one-day interactive workshop to help ambitious founders get started on the right path to a successful start up journey.</p>
-    <p>Our next workshop will take place on <strong>Wednesday, 25th of January 2023 at the Guinness Enterprise Centre, from 9am - 4pm</strong>. </p>"
+     <p>Our next workshop will take place on <strong>Wednesday, 25th of January 2023 at the Guinness Enterprise Centre, from 9am - 4pm</strong>. </p>"
     url: "https://dublinbic-5694315.hs-sites.com/ready-set-go-furthr-workshop-now-open-for-applications"
     region: 🇮🇪
     status: archive   
@@ -191,18 +191,31 @@ opportunities:
     status: 
   - name: "Edie Windsor Coding Scholarship 2023"
     desc: "<p>The edie windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology.</p>
-    <h4>Deadline is February 14th, 2023.</h4>"
+     <h4>Deadline is February 14th, 2023.</h4>"
     url: "https://www.outreachy.org/"
     region: 🌎
     status: archive
   - name: "Going for Growth programme"
     desc: "<p>Enterprise Ireland is looking for 60 women entrepreneurs to join the latest cycle of its Going for Growth programme.</p>
-    <p>The initiative is designed for women entrepreneurs across all sectors who are strongly focused on growth. Enterprise Ireland said the programme aims to help entrepreneurs achieve their growth goals and build stronger companies, create new jobs and increase their revenue.</p>
-    <h4>The deadline for applications for the latest Going for Growth cycle is Friday, 17 November 2023. The six-month programme will begin in January 2024 and is supported by Enterprise Ireland and KPMG.</h4>"
+     <p>The initiative is designed for women entrepreneurs across all sectors who are strongly focused on growth. Enterprise Ireland said the programme aims to help entrepreneurs achieve their growth goals and build stronger companies, create new jobs and increase their revenue.</p>
+     <h4>The deadline for applications for the latest Going for Growth cycle is Friday, 17 November 2023. The six-month programme will begin in January 2024 and is supported by Enterprise Ireland and KPMG.</h4>"
     url: "https://goingforgrowth.com/"
     region: 🇮🇪
     status: archive
 
+  - name: "Patch"
+    desc: "<p>A 7-week, fully funded accelerator for young people aged 16–21 who want to build ambitious things and be surrounded by people who push them to aim higher.</p>
+     <h4>Applications closed 28th February, 2026 at 11:59pm</h4>"
+    url: "https://apply.joinpatch.org/"
+    region: 🇮🇪
+    status: new
+  - name: "Sparks: Game Changers – by Ardán & Code Coven – Applications Open!"
+    desc: "<p>Ardán and Code Coven, with the support of Fís Éireann/ Screen Ireland through the Digital Games Portfolio, are delighted to announce Sparks: Game Changers, a pilot introductory career development course for people of underrepresented genders in the Irish games industry.</p>
+     <p>For this programme, we define underrepresented genders as women (cis & trans), trans men, non-binary people, and any other gender-non-conforming people. </p>
+     <h4>To apply to take part in this programme, please complete this application form by Sunday, February 8th, 2026, at 11:59pm (GMT)</h4>"
+    url: "https://ardan.ie/funding/games/sparks-game-changers-by-ardan-code-coven-applications-open/"
+    region: 🇮🇪
+    status: new
 
 aob:
   - name: "BelfastFP moved away from Meetup"
