@@ -127,3 +127,13 @@ eventlistings:
     recurring: false
     desc: 
     type: gamedev  
+  - name: "(In-Person) Tech Talk: Women Leaders in Tech"
+    url: "https://www.eventbrite.ie/e/tech-talk-women-leaders-in-tech-tickets-1982275934682"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-03-25T08:15:00Z
+    end_datetime: 2026-03-25T10:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for an insight-led panel spotlighting women driving innovation, who will share leadership stories and career insights.</p>"
+    type: diversity  
