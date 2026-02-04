@@ -185,3 +185,163 @@ eventlistings:
     recurring: true
     desc: "<p>We are delighted to collaborate with Dublin C++ this month. We have one talk and it's about Python and Blender!</p>"
     type: diversity
+  - name: "(In-Person) Apache Kafka® x Apache Flink® Meetup"
+    url: "https://www.meetup.com/dublin-apache-kafka-meetup-by-confluent/events/313067418/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-25T18:00:00Z
+    end_datetime: 2026-02-25T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) MUG <> GitTogether Meetup: AI Dev Tools @ MongoDB"
+    url: "https://www.meetup.com/mongodb-usergroup-dublin/events/312870618/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-19T18:00:00Z
+    end_datetime: 2026-02-19T20:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Dataviz: Andy Kirk - The 7 Hats of Data Visualisation (Revisited!)"
+    url: "https://www.meetup.com/dublin-dataviz/events/313109256/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-26T18:30:00Z
+    end_datetime: 2026-02-26T20:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/312977684/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-28T15:00:00Z
+    end_datetime: 2026-02-28T17:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) The Games Co-Op: Furby-ary"
+    url: "https://www.meetup.com/the-games-co-op/events/313061845/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-16T19:00:00Z
+    end_datetime: 2026-02-16T22:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: gamedev
+  - name: "(In-Person) BrowserStack QA Meetup- Dublin"
+    url: "https://www.meetup.com/browserstack-meetup-group-dublin/events/312953249"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-18T18:00:00Z
+    end_datetime: 2026-02-18T20:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312992913/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-10T19:00:00Z
+    end_datetime: 2026-02-10T21:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312933069/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-06T19:00:00Z
+    end_datetime: 2026-02-06T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Watch Night: The Secret Life of Components (Tim Hunkin) @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312912888/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-09T19:00:00Z
+    end_datetime: 2026-02-09T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313084599/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-16T19:00:00Z
+    end_datetime: 2026-02-16T21:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313085241/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-16T19:00:00Z
+    end_datetime: 2026-02-16T21:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) CorkDevs SocialBeer Meetup 🍻💻 @ Vicarstown Inn"
+    url: "https://www.meetup.com/corkdevs/events/313170875"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-24T19:00:00Z
+    end_datetime: 2026-02-24T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) GIT 3.2: Quick Starts @ Portershed"
+    url: "https://www.meetup.com/galway-information-technology/events/313048371/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-26T18:00:00Z
+    end_datetime: 2026-02-26T20:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) Feb 2026: An ex-interns tale & The Myth of “We’ll Clean It Up Later"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/312985646/"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-12T19:00:00Z
+    end_datetime: 2026-02-12T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "(In-Person) 🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/313063149/"
+    region: 🇬🇧
+    date_added: 2026-02-04
+    start_datetime: 2026-02-17T18:00:00Z
+    end_datetime: 2026-02-17T20:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
+  - name: "(In-Person) Belfast Early Tech Talent: Breaking In & Breaking Through"
+    url: "https://www.meetup.com/belfast-early-tech-talent-meet-up-group/events/313126120/"
+    region: 🇬🇧
+    date_added: 2026-02-04
+    start_datetime: 2026-02-19T16:45:00Z
+    end_datetime: 2026-02-19T19:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
