@@ -96,3 +96,34 @@ eventlistings:
     recurring: true
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
     type: diversity
+
+  - name: "(In-Person) SETU Women in Technology 2026 @ SETU Arena (Waterford)"
+    url: "https://www.setu.ie/events/women-in-technology-2026"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-03-12T09:00:00Z
+    end_datetime: 2026-03-12T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>SETU are delighted to host the sixth ‘Women in Technology’ event at the SETU Arena in Waterford. This event aims to promote the role of women in technology, remove any perceived barriers, that may exist and provide information on pathways for women to enter suitable courses at SETU and subsequently move into an array of diverse and interesting careers in the technological world.</p>"
+    type: diversity  
+  - name: "(Hybrid) Black Shamrock IWD: Crack the Code 2026 @ GEC"
+    url: "https://www.eventbrite.com/e/crack-the-code-2026-tickets-1979879815826"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-03-05T09:00:00Z
+    end_datetime: 2026-03-05T16:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This event is specially designed for students, graduates and anyone else who is passionate about pursuing a career in the video games industry. Held in honour of International Women's Day, the event will celebrate and highlight the contributions of women in gaming and is open to people from all backgrounds.</p>"
+    type: diversity  
+  - name: "(In-Person) Douglas Street Campus Game Jam (Cork)"
+    url: "https://www.eventbrite.ie/e/douglas-street-campus-game-jam-tickets-1981207757736"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-03-07T09:30:00Z
+    end_datetime: 2026-03-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: gamedev  
