@@ -246,3 +246,13 @@ conferences:
     recurring: false
     desc: "<p>The Summit will bring together professionals from across the screen industries — including talent both in front of and behind the camera, funders, broadcasters, commissioners, researchers, advocates, senior executives and thought leaders — for a celebration of creativity, gender equity, and global collaboration.</p>"
     type: diversity
+  - name: "(In-Person) SpringRISE"
+    url: "https://www.eventbrite.com/e/springrise-tickets-1980081319529"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-05T09:30:00Z
+    end_datetime: 2026-02-05T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The event brings together women leading in research, innovation, and enterprise to share insights, build networks, and explore opportunities shaping the future. Designed for female-led businesses, SpringRISE offers a dedicated day showcasing the practical support available - both soft supports and financial resources - to help female-led ventures move ahead with confidence.</p>"
+    type: diversity
