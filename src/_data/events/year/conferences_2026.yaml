@@ -80,7 +80,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-02-30T18:00:00Z
     end_datetime: 2026-02-30T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Dublin AI Conference 2026 gathers 400 of Ireland's AI, Business, and Tech Leaders for an evening of content and networking.</p>"
     type: tech 
@@ -90,7 +90,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-05-27T09:00:00Z
     end_datetime: 2026-05-28T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Two transformative days of connection, growth, inspiration and some famous Irish hospitality! Lots of discounts and fun things to do while you are in Dublin city.</p>"
     type: tech 
@@ -100,7 +100,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-05-21T09:00:00Z
     end_datetime: 2026-05-21T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>BSides is a community-driven framework for building events by and for information security community members. These events are a source of education, collaboration, and continued conversation for information technologists and those interested in the cybersecurity field.</p>"
     type: tech 
@@ -110,7 +110,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-03-07T09:00:00Z
     end_datetime: 2026-03-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual conference, in celebration of International Women's Day.​</p>"
     type: diversity
@@ -120,7 +120,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-03-19T09:00:00Z
     end_datetime: 2026-03-19T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Irish Dreamin’ is an annual community-led Salesforce conference, uniting admins, architects, consultants, developers, and partners for a dynamic day of learning, innovation, and networking.</p>"
     type: tech 
@@ -130,7 +130,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-06-11T09:00:00Z
     end_datetime: 2026-06-12T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Data Céilí is an annual two-day conference all about Microsoft data platform technologies. We combine full-day training sessions with a choice of 24 one-hour sessions where you can pick up some new skills, or deep dive into existing skills.</p>"
     type: tech 
@@ -140,7 +140,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-10-13T09:00:00Z
     end_datetime: 2026-10-15T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>SREcon26 Europe/Middle East/Africa is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. SREcon strives to challenge both those new to the profession as well as those who have been involved in it for decades. The conference has a culture of critical thought, deep technical insights, continuous improvement, and innovation.</p>"
     type: tech 
@@ -150,7 +150,7 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-10-16T09:00:00Z
     end_datetime: 2026-10-16T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 3rd SECURENET Summit on Security and Privacy in Future Mobile Networks (2025) will continue its focus on addressing the security and privacy challenges of emerging mobile technologies, including 5G and 6G networks. As mobile networks become increasingly vital across various sectors, ensuring their security and privacy has emerged as a critical concern.</p>"
     type: tech 
@@ -160,7 +160,99 @@ conferences:
     date_added: 2026-01-04
     start_datetime: 2026-02-26T09:00:00Z
     end_datetime: 2026-02-26T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Discover practical IT security strategies, see live demos and connect with experts and peers across Northern Ireland.</p>"
     type: tech
+
+  - name: "(In-Person) Security BSides Dublin 2026"
+    url: "https://www.bsidesdub.ie/index.php"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-05-23T09:00:00Z
+    end_datetime: 2026-05-23T16:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organising an independent BSides-Approved event for Ireland, in Dublin.</p>"
+    type: tech 
+  - name: "(In-Person) National Open Source Innovation Summit 2026"
+    url: "https://summit.openirelandnetwork.com/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-02-06T09:00:00Z
+    end_datetime: 2026-02-06T16:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Now in its second year, the National Open Source Summit 2026 convenes leading international speakers and participants from the open source community. The summit explores opportunities for open source in government, industry, and academia.</p>"
+    type: tech 
+  - name: "(In-Person) MidWest TechFest 2026"
+    url: "https://midwesttechfest.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-11
+    start_datetime: 2026-02-01T09:00:00Z
+    end_datetime: 2026-03-31T16:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>MidWest TechFest is a four-week celebration of technology, innovation, and collaboration across the Midwest region, taking place during February/March 2026. The festival will launch with the Limerick IT Summit on 26th February and will feature 1–2 major flagship events per week alongside a wide range of smaller community-led sessions.</p>"
+    type: tech 
+
+  - name: "(In-Person) ZeroDays CTF 2026 @ Croke Park"
+    url: "https://www.eventbrite.ie/e/zerodays-ctf-2026-tickets-1978195042624"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-03-21T10:00:00Z
+    end_datetime: 2026-03-21T10:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>Get ready for an epic day of challenges and cybersecurity excitement at Croke Park. Join us for a hands-on experience like no other, where you can test your skills against fellow hackers and enthusiasts.</p>"
+    type: tech 
+  - name: "(In-Person) Zero Day Con 2026 - Amplify @ Dublin Royal Convention Centre"
+    url: "https://www.eventbrite.ie/e/zero-day-con-2026-amplify-tickets-1737961121499"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-04-29T09:00:00Z
+    end_datetime: 2026-04-29T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>Zero Day Con is Ireland's best cybersecurity conference. Join 600+ CISOs and CIOs on April 29th in Dublin.</p>"
+    type: tech 
+  - name: "(In-Person) Leadership Day @ Dogpatch Labs"
+    url: "https://leadershipday.ie/"
+    region: 🇮🇪
+    date_added: 2026-01-15
+    start_datetime: 2026-01-29T09:00:00Z
+    end_datetime: 2026-01-29T16:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>🇮🇪 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗗𝗮𝘆 for the Games Industry in Ireland — a new event to deliver 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗼𝘂𝘁𝗰𝗼𝗺𝗲𝘀 𝗳𝗼𝗿 𝗹𝗲𝗮𝗱𝗲𝗿𝘀.</p>"
+    type: gamedev
+  - name: "(In-Person) itag & itag Skillnet's AI Summit: Practical, Legal and Ethical AI"
+    url: "https://www.eventbrite.ie/e/ai-summit-practical-legal-and-ethical-ai-2026-tickets-1980549469779"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-11T08:00:00Z
+    end_datetime: 2026-02-11T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>This year's summit will bring together international policy-makers and industry leaders to provide a roadmap for responsible AI deployment in 2026.</p>"
+    type: tech
+  - name: "(In-Person) Women in Film and Television International (WIFTI) Summit 2026"
+    url: "https://www.eventbrite.ie/e/ai-summit-practical-legal-and-ethical-ai-2026-tickets-1980549469779"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-04T08:00:00Z
+    end_datetime: 2026-02-07T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Summit will bring together professionals from across the screen industries — including talent both in front of and behind the camera, funders, broadcasters, commissioners, researchers, advocates, senior executives and thought leaders — for a celebration of creativity, gender equity, and global collaboration.</p>"
+    type: diversity
+  - name: "(In-Person) SpringRISE"
+    url: "https://www.eventbrite.com/e/springrise-tickets-1980081319529"
+    region: 🇮🇪
+    date_added: 2026-02-04
+    start_datetime: 2026-02-05T09:30:00Z
+    end_datetime: 2026-02-05T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>The event brings together women leading in research, innovation, and enterprise to share insights, build networks, and explore opportunities shaping the future. Designed for female-led businesses, SpringRISE offers a dedicated day showcasing the practical support available - both soft supports and financial resources - to help female-led ventures move ahead with confidence.</p>"
+    type: diversity

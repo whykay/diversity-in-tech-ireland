@@ -1,7 +1,7 @@
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const htmlmin = require("html-minifier");
+const htmlmin = require("html-minifier-terser");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -108,6 +108,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 
   // Minify HTML
+  /*
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if (outputPath.endsWith(".html")) {
@@ -121,6 +122,19 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+  */
+  module.exports = function(eleventyConfig) {
+	// Can be sync or async
+	eleventyConfig.addTransform("transform-name", async function (content) {
+		console.log(this.page.inputPath);
+
+		// Caution: this could be `false` (from permalink)
+		console.log(this.page.outputPath);
+
+		// No changes made, return as-is
+		return content;
+	});
+};
 
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
