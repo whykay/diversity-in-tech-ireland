@@ -60,41 +60,41 @@ eventlistings:
     url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbfb/"
     region: 🇮🇪
     date_added: 2026-01-23
-    start_datetime: 2026-03-03T18:00:00Z
-    end_datetime: 2026-03-03T19:00:00Z
+    start_datetime: 2026-03-03T08:00:00Z
+    end_datetime: 2026-03-03T09:00:00Z
     new: true
     recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
   - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
     url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbnb/"
     region: 🇮🇪
     date_added: 2026-01-23
-    start_datetime: 2026-03-10T18:00:00Z
-    end_datetime: 2026-03-10T19:00:00Z
+    start_datetime: 2026-03-10T08:00:00Z
+    end_datetime: 2026-03-10T09:00:00Z
     new: true
     recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
   - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
     url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbwb/"
     region: 🇮🇪
     date_added: 2026-01-23
-    start_datetime: 2026-03-17T18:00:00Z
-    end_datetime: 2026-03-17T19:00:00Z
+    start_datetime: 2026-03-17T08:00:00Z
+    end_datetime: 2026-03-17T09:00:00Z
     new: true
     recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
   - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
     url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcfbgc/"
     region: 🇮🇪
     date_added: 2026-01-23
-    start_datetime: 2026-03-24T18:00:00Z
-    end_datetime: 2026-03-24T19:00:00Z
+    start_datetime: 2026-03-24T08:00:00Z
+    end_datetime: 2026-03-24T09:00:00Z
     new: true
     recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions which will start on Tue (Jan 27) and will take place online on our discord server every Tuesday (6-7PM).</p>"
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
 
   - name: "(In-Person) SETU Women in Technology 2026 @ SETU Arena (Waterford)"
@@ -136,4 +136,15 @@ eventlistings:
     new: true
     recurring: false
     desc: "<p>Join us for an insight-led panel spotlighting women driving innovation, who will share leadership stories and career insights.</p>"
+    type: diversity
+
+  - name: "(In-Person) TechFoundHer: Let's Make Some Noise - TechFoundHer Lunch and Learn #IWD 2026 @ Portershed (Galway)"
+    url: "https://www.eventbrite.com/e/lets-make-some-noise-techfoundher-lunch-and-learn-iwd-2026-tickets-1982632028769"
+    region: 🇮🇪
+    date_added: 2026-02-09
+    start_datetime: 2026-03-02T12:00:00Z
+    end_datetime: 2026-03-02T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Let's make some noise to mark International Women's Day with a showcase of women led Innovation!</p>"
     type: diversity  
