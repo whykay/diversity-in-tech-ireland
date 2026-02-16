@@ -148,3 +148,13 @@ eventlistings:
     recurring: false
     desc: "<p>Let's make some noise to mark International Women's Day with a showcase of women led Innovation!</p>"
     type: diversity  
+  - name: "(In-Person) Belfast IWD - Let's Make Some Noise - Lunch and Learn #IWD 2026 @ Microsoft HQ"
+    url: "https://www.eventbrite.com/e/belfast-iwd-lets-make-some-noise-lunch-and-learn-iwd-2026-tickets-1982704890701"
+    region: 🇬🇧
+    date_added: 2026-02-09
+    start_datetime: 2026-03-12T12:00:00Z
+    end_datetime: 2026-03-12T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Embrace the Future of Innovation: Be Inspired by game-changing demos from women tech founders from across the island!</p>"
+    type: diversity  
