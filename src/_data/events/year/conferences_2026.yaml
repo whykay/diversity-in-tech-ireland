@@ -232,7 +232,7 @@ conferences:
     date_added: 2026-02-04
     start_datetime: 2026-02-11T08:00:00Z
     end_datetime: 2026-02-11T13:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This year's summit will bring together international policy-makers and industry leaders to provide a roadmap for responsible AI deployment in 2026.</p>"
     type: tech
@@ -242,7 +242,7 @@ conferences:
     date_added: 2026-02-04
     start_datetime: 2026-02-04T08:00:00Z
     end_datetime: 2026-02-07T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Summit will bring together professionals from across the screen industries — including talent both in front of and behind the camera, funders, broadcasters, commissioners, researchers, advocates, senior executives and thought leaders — for a celebration of creativity, gender equity, and global collaboration.</p>"
     type: diversity
@@ -252,7 +252,7 @@ conferences:
     date_added: 2026-02-04
     start_datetime: 2026-02-05T09:30:00Z
     end_datetime: 2026-02-05T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The event brings together women leading in research, innovation, and enterprise to share insights, build networks, and explore opportunities shaping the future. Designed for female-led businesses, SpringRISE offers a dedicated day showcasing the practical support available - both soft supports and financial resources - to help female-led ventures move ahead with confidence.</p>"
     type: diversity
