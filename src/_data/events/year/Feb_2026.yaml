@@ -144,37 +144,6 @@ eventlistings:
     recurring: true
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
-  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
-    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcdbnb/"
-    region: 🇮🇪
-    date_added: 2026-01-23
-    start_datetime: 2026-02-10T08:00:00Z
-    end_datetime: 2026-02-10T09:00:00Z
-    new: false
-    recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
-    type: diversity
-  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
-    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcdbwb/"
-    region: 🇮🇪
-    date_added: 2026-01-23
-    start_datetime: 2026-02-17T08:00:00Z
-    end_datetime: 2026-02-17T09:00:00Z
-    new: false
-    recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
-    type: diversity
-  - name: "(Online) PyLadies Dublin: Python Weekly Study Group"
-    url: "https://www.meetup.com/pyladiesdublin/events/mrftvtyjcdbgc/"
-    region: 🇮🇪
-    date_added: 2026-01-23
-    start_datetime: 2026-02-24T08:00:00Z
-    end_datetime: 2026-02-24T09:00:00Z
-    new: false
-    recurring: true
-    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>
-      <p>PyLadies Dublin meetup on this day, tbc if this study group is taking place or not. Will update on meetup.</p>"
-    type: diversity
   - name: "(In-Person) PyLadies Dublin: PyLadies Dublin x DublinC++: Python + Blender: Automating Creative Workflows @ Anseo Bar (Upstairs)"
     url: "https://www.meetup.com/pyladiesdublin/events/312867801/"
     region: 🇮🇪
@@ -415,4 +384,14 @@ eventlistings:
     new: false
     recurring: false
     desc: "<p>This is an informal after-work gathering, an opportunity to catch up, meet fellow members, and connect with others across the cybersecurity community in a friendly, welcoming setting.</p>"
+    type: diversity
+  - name: "(In-Person) catalys noir: StartUp Bootcamp"
+    url: "https://www.eventbrite.ie/e/startup-bootcamp-tickets-1688421146099"
+    region: 🇮🇪
+    date_added: 2026-02-21
+    start_datetime: 2026-02-27T17:30:00Z
+    end_datetime: 2026-03-01T20:00:00Z
+    new: true
+    recurring: false
+    desc:
     type: diversity

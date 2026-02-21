@@ -257,3 +257,25 @@ conferences:
     desc: "<p>The event brings together women leading in research, innovation, and enterprise to share insights, build networks, and explore opportunities shaping the future. Designed for female-led businesses, SpringRISE offers a dedicated day showcasing the practical support available - both soft supports and financial resources - to help female-led ventures move ahead with confidence.</p>"
     type: diversity
 
+  - name: "(In-Person) International Digital Gaming Conference 2026 Ireland"
+    url: "https://shop.maynoothuniversity.ie/index.php?app=ecom&ns=prodshow&ref=1590034a"
+    region: 🇮🇪
+    date_added: 2026-02-21
+    start_datetime: 2026-06-14T09:30:00Z
+    end_datetime: 2026-06-18T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>International Digital Gaming Conference being hosted in Maynooth University from 14-18th June 2026.</p>"
+    type: gamedev
+  - name: "(In-Person) Women in Data Science Conference 2026"
+    url: "https://www.linkedin.com/company/women-in-data-science-wids-dublin-2023/posts/?feedView=all"
+    region: 🇮🇪
+    date_added: 2026-02-21
+    start_datetime: 2026-04-29T09:30:00Z
+    end_datetime: 2026-04-29T14:30:00Z
+    new: true
+    recurring: false
+    desc: "<h4>✨ “Women in the Loop”</h4>
+    <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>
+    <p>CFP: <a href=\"https://docs.google.com/forms/d/1SEN5uP-I9g456cmahxLOB2auyRjyH68VypFFBv80Rcg/viewform?pli=1&pli=1&edit_requested=true\">Submit your paper here</a></p>"
+    type: diversity
