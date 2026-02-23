@@ -279,4 +279,24 @@ conferences:
     <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>"
     <p>CFP: <a href=\"https://docs.google.com/forms/d/1SEN5uP-I9g456cmahxLOB2auyRjyH68VypFFBv80Rcg/viewform?pli=1&pli=1&edit_requested=true\">Submit your paper here</a></p>"
     type: diversity
-  
+
+  - name: "(In-Person) AWS AI and Data Conference 2026 (Kilkenny)"
+    url: "https://aws.amazon.com/uki/cloud-services/aws-events/ai-and-data-conference-2026/"
+    region: 🇮🇪
+    date_added: 2026-02-21
+    start_datetime: 2026-03-12T09:30:00Z
+    end_datetime: 2026-03-12T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join the AWS AI & Data Conference 2026 for a focused, single‑day experience that shows you how to turn data into autonomous agents that act on behalf of your business. </p>"
+    type: tech
+  - name: "(In-Person) Women in Technology 2026 @ SETU"
+    url: "https://www.setu.ie/events/women-in-technology-2026"
+    region: 🇮🇪
+    date_added: 2026-02-21
+    start_datetime: 2026-03-12T09:00:00Z
+    end_datetime: 2026-03-12T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join the AWS AI & Data Conference 2026 for a focused, single‑day experience that shows you how to turn data into autonomous agents that act on behalf of your business. </p>"
+    type: diversity
