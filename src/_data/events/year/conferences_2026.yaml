@@ -276,6 +276,7 @@ conferences:
     new: true
     recurring: false
     desc: "<h4>✨ “Women in the Loop”</h4>
-    <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>
+    <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>"
     <p>CFP: <a href=\"https://docs.google.com/forms/d/1SEN5uP-I9g456cmahxLOB2auyRjyH68VypFFBv80Rcg/viewform?pli=1&pli=1&edit_requested=true\">Submit your paper here</a></p>"
     type: diversity
+  
