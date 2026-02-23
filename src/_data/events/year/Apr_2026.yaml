@@ -1,0 +1,62 @@
+---
+eventlistings:
+  - name: "(Remote) PyLadies Dublin 'Beginners Friendly' Python Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/313487471/"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-13T08:00:00Z
+    end_datetime: 2026-04-13T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
+    type: diversity
+  - name: "(Remote) PyLadies Dublin 'Beginners Friendly' Python Study Group"
+    url: "https://www.meetup.com/pyladiesdublin/events/313487472/"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-27T08:00:00Z
+    end_datetime: 2026-04-27T09:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
+    type: diversity
+  - name: "(In-Person) ProductTank Dublin: PMs helping PMs. @ Workday"
+    url: "https://www.meetup.com/producttank-dublin/events/313397659/"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-15T18:00:00Z
+    end_datetime: 2026-04-15T20:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) TOG Hackerspace Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312914970/"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-18T19:00:00Z
+    end_datetime: 2026-04-18T24:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker
+  - name: "(In-Person) Cork|Sec 154"
+    url: "https://www.meetup.com/corksec/events/311100610/"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-14T19:00:00Z
+    end_datetime: 2026-04-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Dublin Maker: Repair Café @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/repair-cafe-tickets-1980452469649"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-04-11T12:00:00Z
+    end_datetime: 2026-04-11T16:00:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: maker

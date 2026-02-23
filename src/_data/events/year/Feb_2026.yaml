@@ -395,3 +395,24 @@ eventlistings:
     recurring: false
     desc:
     type: diversity
+
+  - name: "(In-Person) OWASP Dublin"
+    url: "https://luma.com/vkqr3iee"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-02-26T18:00:00Z
+    end_datetime: 2026-02-26T20:30:00Z
+    new: true
+    recurring: false
+    desc: 
+    type: tech
+  - name: "(In-Person) Immersive Futures Workshop - Dundalk @ Creative Spark"
+    url: "https://www.eventbrite.ie/e/immersive-futures-workshop-dundalk-tickets-1982509310716"
+    region: 🇮🇪
+    date_added: 2026-02-23
+    start_datetime: 2026-02-26T10:00:00Z
+    end_datetime: 2026-02-26T17:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
