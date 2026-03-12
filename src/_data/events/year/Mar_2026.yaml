@@ -6,10 +6,10 @@ eventlistings:
     date_added: 2026-01-04
     start_datetime: 2026-03-07T09:00:00Z
     end_datetime: 2026-03-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Women Techmakers is Google's global program and brand for women in technology. As part of the global event series, we host an annual conference, in celebration of International Women's Day.​</p>"
-    type: diversity 
+    type: diversity
 
   - name: "(In-Person) Techstars Startup Weekend Women Dublin 2026"
     url: "https://www.eventbrite.ie/e/techstars-startup-weekend-women-dublin-2026-20th-to-22nd-march-tickets-1979769832864"
@@ -17,23 +17,24 @@ eventlistings:
     date_added: 2026-01-11
     start_datetime: 2026-03-20T17:00:00Z
     end_datetime: 2026-03-22T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Build Impact. Lead Change. Shape the Future.</p>
       <p>Learn how to think, work, and build like a startup in 54 thrilling hours.</p>
       <p>Techstars Startup Weekend is an exciting and immersive foray into the world of startups. Over an action-packed three days, you’ll meet the very best mentors, investors, co-founders, and sponsors to show you how to get more done faster and, maybe even start that business</p>"
-    type: diversity 
+    type: diversity
   - name: "(In-Person) IoD NI Women's Leadership Conference 2026"
     url: "https://www.eventbrite.com/e/iod-ni-womens-leadership-conference-2026-tickets-1765856206449"
     region: 🇬🇧
     date_added: 2026-01-11
     start_datetime: 2026-03-06T09:00:00Z
     end_datetime: 2026-03-06T16:30:00Z
-    new: true
+    new: false
     recurring: false
-    desc: "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>
-     <p>The theme for the 2026 conference is: 'No Limits: Women Who Lead the Way'</p>"
-    type: diversity 
+    desc:
+      "<p>The 2026 IoD NI Women's Leadership Conference will be a celebration of success - of women in leadership roles and of the conference itself.</p>
+      <p>The theme for the 2026 conference is: 'No Limits: Women Who Lead the Way'</p>"
+    type: diversity
 
   - name: "(In-Person) International Women's Day with NI Cyber and Danske Bank UK"
     url: "https://www.eventbrite.co.uk/e/international-womens-day-with-ni-cyber-and-danske-bank-uk-tickets-1978110335262"
@@ -41,7 +42,7 @@ eventlistings:
     date_added: 2026-01-15
     start_datetime: 2026-03-06T09:30:00Z
     end_datetime: 2026-03-06T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at Danske Bank UK on March 6, 2026 at 9:30 AM (Europe/London). Let's celebrate the achievements and contributions of women in the cybersecurity industry.</p>"
     type: diversity
@@ -51,10 +52,10 @@ eventlistings:
     date_added: 2026-01-15
     start_datetime: 2026-03-12T09:30:00Z
     end_datetime: 2026-03-12T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
-    type: tech  
+    type: tech
 
   - name: "(Online) PyLadies Dublin: Python Bi-Weekly Study Group"
     url: "https://www.meetup.com/pyladiesdublin/events/313291512"
@@ -62,17 +63,17 @@ eventlistings:
     date_added: 2026-01-23
     start_datetime: 2026-03-02T08:00:00Z
     end_datetime: 2026-03-02T09:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
-  - name: "(Online) PyLadies Dublin: Python Bi-Weekly Study Group"
+  - name: "CANCELLED - (Online) PyLadies Dublin: Python Bi-Weekly Study Group"
     url: "https://www.meetup.com/pyladiesdublin/events/313386143/"
     region: 🇮🇪
     date_added: 2026-01-23
     start_datetime: 2026-03-16T08:00:00Z
     end_datetime: 2026-03-16T09:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
@@ -82,11 +83,10 @@ eventlistings:
     date_added: 2026-01-23
     start_datetime: 2026-03-30T08:00:00Z
     end_datetime: 2026-03-30T09:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
-
 
   - name: "(In-Person) SETU Women in Technology 2026 @ SETU Arena (Waterford)"
     url: "https://www.setu.ie/events/women-in-technology-2026"
@@ -94,37 +94,37 @@ eventlistings:
     date_added: 2026-02-04
     start_datetime: 2026-03-12T09:00:00Z
     end_datetime: 2026-03-12T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>SETU are delighted to host the sixth ‘Women in Technology’ event at the SETU Arena in Waterford. This event aims to promote the role of women in technology, remove any perceived barriers, that may exist and provide information on pathways for women to enter suitable courses at SETU and subsequently move into an array of diverse and interesting careers in the technological world.</p>"
-    type: diversity  
+    type: diversity
   - name: "(Hybrid) Black Shamrock IWD: Crack the Code 2026 @ GEC"
     url: "https://www.eventbrite.com/e/crack-the-code-2026-tickets-1979879815826"
     region: 🇮🇪
     date_added: 2026-02-04
     start_datetime: 2026-03-05T09:00:00Z
     end_datetime: 2026-03-05T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This event is specially designed for students, graduates and anyone else who is passionate about pursuing a career in the video games industry. Held in honour of International Women's Day, the event will celebrate and highlight the contributions of women in gaming and is open to people from all backgrounds.</p>"
-    type: diversity  
+    type: diversity
   - name: "(In-Person) Douglas Street Campus Game Jam (Cork)"
     url: "https://www.eventbrite.ie/e/douglas-street-campus-game-jam-tickets-1981207757736"
     region: 🇮🇪
     date_added: 2026-02-04
     start_datetime: 2026-03-07T09:30:00Z
     end_datetime: 2026-03-07T18:00:00Z
-    new: true
+    new: false
     recurring: false
-    desc: 
-    type: gamedev  
+    desc:
+    type: gamedev
   - name: "(In-Person) Tech Talk: Women Leaders in Tech"
     url: "https://www.eventbrite.ie/e/tech-talk-women-leaders-in-tech-tickets-1982275934682"
     region: 🇮🇪
     date_added: 2026-02-04
     start_datetime: 2026-03-25T08:15:00Z
     end_datetime: 2026-03-25T10:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for an insight-led panel spotlighting women driving innovation, who will share leadership stories and career insights.</p>"
     type: diversity
@@ -135,20 +135,20 @@ eventlistings:
     date_added: 2026-02-09
     start_datetime: 2026-03-02T12:00:00Z
     end_datetime: 2026-03-02T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Let's make some noise to mark International Women's Day with a showcase of women led Innovation!</p>"
-    type: diversity  
+    type: diversity
   - name: "(In-Person) Belfast IWD - Let's Make Some Noise - Lunch and Learn #IWD 2026 @ Microsoft HQ"
     url: "https://www.eventbrite.com/e/belfast-iwd-lets-make-some-noise-lunch-and-learn-iwd-2026-tickets-1982704890701"
     region: 🇬🇧
     date_added: 2026-02-09
     start_datetime: 2026-03-12T12:00:00Z
     end_datetime: 2026-03-12T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Embrace the Future of Innovation: Be Inspired by game-changing demos from women tech founders from across the island!</p>"
-    type: diversity  
+    type: diversity
 
   - name: "(In-Person) LoGaCulture Concert: 'Music from the Boyne Valley' and DreaMR"
     url: "https://www.riam.ie/whats-on/logaculture-concert-music-from-the-boyne-valley-and-dreamr"
@@ -156,7 +156,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-26T19:00:00Z
     end_datetime: 2026-03-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -166,7 +166,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-05T18:00:00Z
     end_datetime: 2026-03-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: social
@@ -176,7 +176,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-02-27T17:30:00Z
     end_datetime: 2026-03-01T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: diversity
@@ -186,7 +186,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-12T18:30:00Z
     end_datetime: 2026-03-12T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -196,7 +196,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-09T18:30:00Z
     end_datetime: 2026-03-09T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -206,7 +206,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-09T19:00:00Z
     end_datetime: 2026-03-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -216,7 +216,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-03T19:00:00Z
     end_datetime: 2026-03-03T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -226,7 +226,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-02T19:00:00Z
     end_datetime: 2026-03-02T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -236,7 +236,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-03T19:00:00Z
     end_datetime: 2026-03-03T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -246,7 +246,7 @@ eventlistings:
     date_added: 2026-02-21
     start_datetime: 2026-03-02T19:00:00Z
     end_datetime: 2026-03-02T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -257,7 +257,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-05T19:00:00Z
     end_datetime: 2026-03-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -267,7 +267,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-14T11:00:00Z
     end_datetime: 2026-03-14T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>On 14th March, we’re spending the day building. Portfolios. Personal sites. Tools. Side projects. Anything you’ve been meaning to make but kept putting off because it felt too technical.</p>"
     type: diversity
@@ -277,7 +277,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-25T18:00:00Z
     end_datetime: 2026-03-25T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -287,7 +287,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-05T17:30:00Z
     end_datetime: 2026-03-05T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -297,7 +297,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-12T18:00:00Z
     end_datetime: 2026-03-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -307,7 +307,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-04T17:30:00Z
     end_datetime: 2026-03-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>WIT are hosting our ever-popular Women in Tech Belfast Lightning Talks event tying in with International Women's Day 2026! Lightning talks are short and punchy at 3 to 5 minutes!</p>"
     type: diversity
@@ -317,17 +317,17 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-10T19:00:00Z
     end_datetime: 2026-03-10T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
-  - name: "(Remote) Coffee Meetup"
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup"
     url: "https://www.meetup.com/dublin-linux-community/events/313437010/"
     region: 🇮🇪
     date_added: 2026-02-23
     start_datetime: 2026-03-14T15:00:00Z
     end_datetime: 2026-03-14T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -337,7 +337,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-21T10:00:00Z
     end_datetime: 2026-03-21T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -347,9 +347,9 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-12T18:30:00Z
     end_datetime: 2026-03-12T21:00:00Z
-    new: true
+    new: false
     recurring: false
-    desc: 
+    desc:
     type: tech
   - name: "(In-Person) Data Chats In A Pub @ The Lord Edward"
     url: "https://www.eventbrite.com/e/data-chats-in-a-pub-tickets-1798536804999"
@@ -357,7 +357,118 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-03-05T18:30:00Z
     end_datetime: 2026-03-05T21:00:00Z
+    new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "(Online) WITS Webinar: Where Women, Games and Data Meet"
+    url: "https://www.eventbrite.ie/e/wits-webinar-where-women-games-and-data-meet-tickets-1985057954779"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-27T12:30:00Z
+    end_datetime: 2026-03-27T13:15:00Z
     new: true
     recurring: false
-    desc: 
-    type: tech 
+    desc: "<p>Join us for an insightful online webinar with Kelly Vero, a globally recognised leader in game development and emerging technology.</p><p>Technology, gaming and data shape the world we live in, yet the voices behind them are not always visible.</p>"
+    type: diversity
+  - name: "(In-Person) AWS Meetup Dublin | 24 March 2026 - Reinvent Recap!"
+    url: "https://www.meetup.com/awsdublin/events/313341338/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-24T18:00:00Z
+    end_datetime: 2026-03-24T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Give(a)Go: Women Who Build"
+    url: "https://www.meetup.com/give-a-go/events/313483116/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-14T11:00:00Z
+    end_datetime: 2026-03-14T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>On 14th March, we’re spending the day building. Portfolios. Personal sites. Tools. Side projects. Anything you’ve been meaning to make but kept putting off because it felt too technical.</p>"
+    type: diversity
+  - name: "(In-Person) Dublin C++: C++ vs intuition : Gleb Gladilov"
+    url: "https://www.meetup.com/cppdug/events/313615734/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-31T19:00:00Z
+    end_datetime: 2026-03-31T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dub|Sec Spring Social @ The Black Sheep"
+    url: "https://www.meetup.com/dub-sec/events/313693051/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-24T18:30:00Z
+    end_datetime: 2026-03-24T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312020054/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-21T19:00:00Z
+    end_datetime: 2026-03-21T24:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313512831/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-16T19:00:00Z
+    end_datetime: 2026-03-16T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG Watch Night: The Secret Life of Components (Tim Hunkin)"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312914936/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-23T19:00:00Z
+    end_datetime: 2026-03-23T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) DubJUG 264 @ Google HQ"
+    url: "https://ti.to/dublin-java-user-group/264-gong-hq"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-26T18:15:00Z
+    end_datetime: 2026-03-26T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313638298/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-24T19:00:00Z
+    end_datetime: 2026-03-24T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) The Games Co-Op: March Attacks!"
+    url: "https://www.meetup.com/the-games-co-op/events/313538283/"
+    region: 🇮🇪
+    date_added: 2026-03-12
+    start_datetime: 2026-03-23T19:00:00Z
+    end_datetime: 2026-03-23T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
