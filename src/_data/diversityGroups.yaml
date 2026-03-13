@@ -170,7 +170,7 @@ groups:
     month_added: 06
     day_added: 04
     status: active
-    type: all   
+    type: all
   - name: Global GCS Connect - Diversity in Tech
     url: "https://www.linkedin.com/groups/12448166/"
     region: Ireland
@@ -179,7 +179,7 @@ groups:
     month_added: 09
     day_added: 24
     status: active
-    type: all 
+    type: all
   - name: Global online community for D&I champions
     url: "https://vessy.com/"
     region: Ireland
@@ -189,7 +189,7 @@ groups:
     day_added: 10
     status: retired
     date_removed: 2025-11-13
-    type: all     
+    type: all
   - name: "GoingFarIE"
     url: "https://twitter.com/GoingFarIE"
     region: Ireland
@@ -198,7 +198,7 @@ groups:
     month_added: 09
     day_added: 11
     status: active
-    type: all   
+    type: all
   - name: Hello Sprinters Dublin
     url:
     region: Dublin
@@ -208,7 +208,7 @@ groups:
     day_added: 11
     date_removed: 2018-11-15
     status: retired
-    type: all 
+    type: all
   - name: Her+Data
     url: "https://twitter.com/herplusdata"
     region: Dublin
@@ -218,8 +218,8 @@ groups:
     day_added: 27
     date_removed: 2025-02-20
     status: retired
-    type: all 
-  - name: Intertech Ireland 
+    type: all
+  - name: Intertech Ireland
     url: "http://www.intertech.ie/"
     region: Dublin
     date_added: 2017-02-26
@@ -228,8 +228,8 @@ groups:
     day_added: 26
     date_removed: 2022-12-07
     status: retired
-    type: all 
-  - name: Ireland Girl Geek Dinners 
+    type: all
+  - name: Ireland Girl Geek Dinners
     url: "https://www.meetup.com/Ireland-Girl-Geek-Dinners/"
     region: Dublin
     date_added: 2017-02-26
@@ -238,8 +238,8 @@ groups:
     day_added: 26
     status: retired
     date_removed: 2025-11-13
-    type: all  
-  - name: itag Digital Women’s Forum 
+    type: all
+  - name: itag Digital Women’s Forum
     url: "https://twitter.com/itag_DigitalWF"
     region: Galway
     date_added: 2020-11-25
@@ -247,7 +247,7 @@ groups:
     month_added: 11
     day_added: 25
     status: active
-    type: all  
+    type: all
   - name: Ladies Tech Meetup
     url: "https://www.meetup.com/Limerick-Software-Development-Meetup-Group"
     region: Limerick
@@ -257,7 +257,7 @@ groups:
     day_added: 05
     date_removed: 2021-02-18
     status: retired
-    type: all 
+    type: all
   - name: Ladies that UX Belfast
     url: "https://www.meetup.com/Ladies-that-UX-Belfast/"
     region: Belfast, Northern Ireland
@@ -266,7 +266,7 @@ groups:
     month_added: 08
     day_added: 07
     status: active
-    type: all 
+    type: all
   - name: Ladies that UX Dublin
     url: "https://www.linkedin.com/company/ladiesthatux-dublin"
     region: Dublin
@@ -274,9 +274,9 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    date_removed: 
+    date_removed:
     status: active #was removed in 2022, now back in 2025
-    type: all 
+    type: all
   - name: Lesbians Who Tech Dublin
     url: "https://www.facebook.com/lesbianswhotech/"
     region: Dublin
@@ -286,7 +286,7 @@ groups:
     day_added: 15
     date_removed: 2023-08-17
     status: retired
-    type: all   
+    type: all
   - name: LoveLace Space
     url: "http://www.lovelacespace.com/"
     region: Dublin
@@ -296,7 +296,7 @@ groups:
     day_added: 24
     date_removed: 2022-05-18
     status: retired
-    type: all  
+    type: all
   - name: Mentor HER
     url: "https://www.meetup.com/Mentor-HER/"
     region: Dublin
@@ -306,7 +306,7 @@ groups:
     day_added: 10
     date_removed: 2022-05-18
     status: retired
-    type: all     
+    type: all
   - name: ngGirls Dublin
     url: "http://ng-girls.org/dublin-2019/"
     region: Dublin
@@ -316,7 +316,7 @@ groups:
     day_added: 03
     date_removed: 2022-05-18
     status: retired
-    type: all 
+    type: all
   - name: Rails Girls Dublin
     url: "https://twitter.com/railsgirls_dub"
     region: Dublin
@@ -326,7 +326,7 @@ groups:
     day_added: 26
     status: retired
     date_removed: 2024-11-05
-    type: all 
+    type: all
   - name: Rails Girls Galway
     url: "https://twitter.com/railsgirls_galw"
     region: Galway
@@ -336,7 +336,7 @@ groups:
     day_added: 26
     date_removed: 2022-12-07
     status: retired
-    type: all  
+    type: all
   - name: R-Ladies Dublin
     url: "https://www.meetup.com/R-Ladies-Dublin/"
     region: Dublin
@@ -346,7 +346,7 @@ groups:
     day_added: 26
     status: retired
     date_removed: 2024-11-05
-    type: all 
+    type: all
   - name: SheUps
     url: "https://sheups.com/"
     region: Ireland
@@ -355,7 +355,7 @@ groups:
     month_added: 09
     day_added: 10
     status: active
-    type: all  
+    type: all
   - name: TechFoundHer
     url: "http://techfoundher.com/"
     region: Ireland
@@ -364,7 +364,7 @@ groups:
     month_added: 01
     day_added: 16
     status: active
-    type: all 
+    type: all
   - name: TechFugees Ireland
     url: "https://www.meetup.com/Techfugees-Ireland/"
     region: Dublin
@@ -374,8 +374,8 @@ groups:
     day_added: 23
     date_removed: 2024-05-21
     status: retired
-    type: all 
-  - name: Tech Léi 
+    type: all
+  - name: Tech Léi
     url: "https://www.meetup.com/Tech-Lei"
     region: Dublin
     date_added: 2020-01-16
@@ -384,7 +384,7 @@ groups:
     day_added: 16
     date_removed: 2020-02-04
     status: retired
-    type: all 
+    type: all
   - name: Tech Women for Africa
     url: "https://www.meetup.com/TechWomenforAfrica/"
     region: Dublin
@@ -394,7 +394,7 @@ groups:
     day_added: 26
     date_removed: 2022-05-18
     status: retired
-    type: all 
+    type: all
   - name: Tech Women Dublin
     url: "https://www.meetup.com/Tech-Women-Dublin"
     region: Dublin
@@ -404,7 +404,7 @@ groups:
     day_added: 30
     date_removed: 2022-05-18
     status: retired
-    type: all 
+    type: all
   - name: Women CyberSecurity Society
     url:
     region: Dublin
@@ -434,7 +434,7 @@ groups:
     day_added: 05
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: Women in Games Dublin
     url: "https://www.facebook.com/groups/375003083342726/"
     region: Dublin
@@ -444,8 +444,8 @@ groups:
     day_added: 28
     date_removed:
     status: active
-    type: all  
-  - name: WITS Ireland 
+    type: all
+  - name: WITS Ireland
     url: "http://witsireland.com/"
     region: Ireland
     date_added: 2017-02-26
@@ -454,7 +454,7 @@ groups:
     day_added: 26
     date_removed:
     status: active
-    type: all  
+    type: all
   - name: Women in DevOps (Note - Back again in 2024)
     url: "https://www.linkedin.com/company/womenindevops/"
     region: Dublin/Global
@@ -462,9 +462,9 @@ groups:
     year_added: 2019
     month_added: 11
     day_added: 06
-    date_removed: 
+    date_removed:
     status: active
-    type: all  
+    type: all
   - name: Women in Tech Belfast
     url: "https://www.meetup.com/Women-In-Tech-Belfast-Lean-In/"
     region: Belfast, Northern Ireland
@@ -474,7 +474,7 @@ groups:
     day_added: 15
     date_removed:
     status: active
-    type: all  
+    type: all
   - name: Women in Technology Galway
     url: "https://www.meetup.com/Women-In-Technology-Galway/"
     region: Galway
@@ -484,7 +484,7 @@ groups:
     day_added: 15
     date_removed: 2022-05-18
     status: retired
-    type: all 
+    type: all
   - name: Women of Wearables Dublin
     url: "https://www.womenofwearables.com/new-blog/wow-woman-in-ar-and-wow-ambassador-in-dublin-darya-yegorina-serial-entrepreneur-and-ceo-of-cleverbooks"
     region: Dublin
@@ -494,7 +494,7 @@ groups:
     day_added: 06
     date_removed: 2022-05-18
     status: retired
-    type: all   
+    type: all
   - name: Women Techmakers Belfast
     url: "https://twitter.com/WTMBelfast"
     region: Belfast, Northern Ireland
@@ -504,7 +504,7 @@ groups:
     day_added: 26
     date_removed:
     status: active
-    type: all   
+    type: all
   - name: Women Techmakers Dublin
     url: "https://www.meetup.com/GDG-Dublin/"
     region: Dublin
@@ -514,7 +514,7 @@ groups:
     day_added: 26
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: Women Techmakers Galway
     url: "https://twitter.com/wtmgalway"
     region: Galway
@@ -524,8 +524,8 @@ groups:
     day_added: 26
     date_removed: 2022-12-07
     status: retired
-    type: all 
-  - name: Women Tech Space 
+    type: all
+  - name: Women Tech Space
     url: "https://twitter.com/womentechspace"
     region: Belfast, Northern Ireland
     date_added: 2017-11-23
@@ -534,7 +534,7 @@ groups:
     day_added: 23
     date_removed: 2024-11-05
     status: retired
-    type: all  
+    type: all
   - name: Women Who Code Belfast
     url: "https://twitter.com/WWCBelfast"
     region: Belfast, Northern Ireland
@@ -544,7 +544,7 @@ groups:
     day_added: 26
     date_removed: 2024-04-30
     status: retired
-    type: all   
+    type: all
   - name: Women Who Code Dublin
     url: "https://www.meetup.com/Women-Who-Code-Dublin/"
     region: Dublin
@@ -554,7 +554,7 @@ groups:
     day_added: 26
     date_removed: 2024-04-30
     status: retired
-    type: all  
+    type: all
   - name: Women Who Co-Work Dublin
     url: "https://www.meetup.com/Women-Who-Co-work-Dublin-Jelly"
     region: Dublin
@@ -564,8 +564,8 @@ groups:
     day_added: 07
     date_removed: 2024-11-05
     status: retired
-    type: all 
-  - name: WhyDesign 
+    type: all
+  - name: WhyDesign
     url: "http://whydesign.ie/"
     region: Ireland
     date_added: 2020-09-11
@@ -574,7 +574,7 @@ groups:
     day_added: 11
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: BAME Tech (Drogheda)
     url: "https://www.facebook.com/BameTech/"
@@ -585,7 +585,7 @@ groups:
     day_added: 13
     date_removed:
     status: active
-    type: youth  
+    type: youth
   - name: CoderDojoGirls @ DCU
     url: "https://twitter.com/coderdojogirls"
     region: Dublin
@@ -595,7 +595,7 @@ groups:
     day_added: 13
     date_removed: 2021-03-23
     status: retired
-    type: youth  
+    type: youth
   - name: Girls Hack Ireland
     url: "https://girlshackireland.org/"
     region: Ireland
@@ -605,7 +605,7 @@ groups:
     day_added: 13
     date_removed: 2021-03-23
     status: retired
-    type: youth  
+    type: youth
   - name: iWish
     url: "http://www.iwish.ie/"
     region: Ireland
@@ -615,7 +615,7 @@ groups:
     day_added: 13
     date_removed:
     status: active
-    type: youth   
+    type: youth
   - name: teenturn
     url: "https://teen-turn.com/"
     region: Ireland
@@ -625,7 +625,7 @@ groups:
     day_added: 13
     date_removed:
     status: active
-    type: youth 
+    type: youth
   - name: Women ReBOOT
     url: "http://www.softwareskillnet.ie/women-reboot/"
     desc: For experienced and qualified ICT women who have taken a career break
@@ -636,7 +636,7 @@ groups:
     day_added: 13
     date_removed:
     status: active
-    type: opportunity 
+    type: opportunity
   - name: Geek Girl Dublin
     url: "http://www.geekgirlmeetup.co.uk/"
     desc: This is a UK branch, did start an event in Dublin, but haven't had any since.
@@ -647,10 +647,10 @@ groups:
     day_added: 10
     date_removed:
     status: retired
-    type: all 
-  - name: Askaton 
+    type: all
+  - name: Askaton
     url: "https://www.meetup.com/askaton/"
-    desc: 
+    desc:
     region: Dublin
     date_added: 2017-02-26
     year_added: 2017
@@ -658,10 +658,10 @@ groups:
     day_added: 26
     date_removed: 2017-02-26
     status: retired
-    type: all 
+    type: all
   - name: DigiWomen
-    url: 
-    desc: 
+    url:
+    desc:
     region: Ireland
     date_added: 2017-02-26
     year_added: 2017
@@ -669,10 +669,10 @@ groups:
     day_added: 26
     date_removed: 2017-02-26
     status: retired
-    type: all 
+    type: all
   - name: "#weAREhere"
     url: "https://www.facebook.com/wearehere.ireland/"
-    desc: 
+    desc:
     region: Ireland
     date_added: 2017-02-26
     year_added: 2017
@@ -680,10 +680,10 @@ groups:
     day_added: 26
     date_removed: 2017-02-26
     status: retired
-    type: all 
+    type: all
   - name: Women in Blockchain Dublin
     url:
-    desc: 
+    desc:
     region: Dublin
     date_added: 2018-03-19
     year_added: 2018
@@ -691,10 +691,10 @@ groups:
     day_added: 19
     date_removed: 2018-12-15
     status: retired
-    type: all 
+    type: all
   - name: GirlCrew
     url: https://evoke.ie/2020/10/25/extra/girl-crew-shuts-down-after-struggling-to-monetise-the-company
-    desc: 
+    desc:
     region: Global
     date_added: 2017-02-26
     year_added: 2017
@@ -702,7 +702,7 @@ groups:
     day_added: 26
     date_removed: 2020-11-19
     status: retired
-    type: all 
+    type: all
 
   - name: Women in Privacy
     url: "https://www.meetup.com/women-in-privacy"
@@ -713,7 +713,7 @@ groups:
     day_added: 19
     date_removed: 2023-02-20
     status: retired
-    type: all 
+    type: all
 
   - name: "Dublin Women in Machine Learning and Data Science"
     url: "https://www.meetup.com/Dublin-Women-in-Machine-Learning-and-Data-Science/"
@@ -724,7 +724,7 @@ groups:
     day_added: 23
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "Women in Tech Entrepreneurs & aspiring"
     url: "https://www.meetup.com/wetech/"
     region: Dublin
@@ -734,7 +734,7 @@ groups:
     day_added: 23
     date_removed: 2022-05-18
     status: retired
-    type: all 
+    type: all
   - name: "PhaseInnovate (BameTech/GalTech/SocialTech)"
     url: "https://phaseinnovate.com/"
     region: Dublin
@@ -744,7 +744,7 @@ groups:
     day_added: 23
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "Ada Lovelace Initiative"
     url: "https://www.verifyrecruitment.com/ali.php"
     region: Ireland
@@ -754,7 +754,7 @@ groups:
     day_added: 15
     date_removed:
     status: active
-    type: youth 
+    type: youth
 
   - name: "Lady Nerds of Dublin"
     url: "https://www.meetup.com/lady-nerds-of-dublin"
@@ -765,9 +765,9 @@ groups:
     day_added: 27
     date_removed:
     status: active
-    type: all 
+    type: all
 
-# 2022
+  # 2022
   - name: "Women in eDiscovery Dublin"
     url: "https://www.womeninediscovery.org/dublin"
     region: Dublin
@@ -797,7 +797,7 @@ groups:
     day_added: 03
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "GTA Black Wowen In Tech - Ireland"
     url: "https://www.eventbrite.co.uk/o/global-tech-advocates-black-women-in-tech-25181111483"
     region: Dublin
@@ -807,7 +807,7 @@ groups:
     day_added: 17
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "DATA + WOMEN IRELAND"
     url: "https://usergroups.tableau.com/datawomenireland"
     region: Ireland
@@ -817,9 +817,9 @@ groups:
     day_added: 10
     date_removed: 2024-11-05
     status: retired
-    type: all 
+    type: all
 
-# 2023
+  # 2023
   - name: "HackHers Dublin"
     url: "https://www.meetup.com/hackhers-dublin/"
     region: Dublin
@@ -829,7 +829,7 @@ groups:
     day_added: 26
     status: retired
     date_removed: 2025-11-13
-    type: all 
+    type: all
   - name: "Latinas in Tech - Dublin"
     url: "https://latinasintech.org/chapter/dublin/"
     region: Dublin
@@ -839,7 +839,7 @@ groups:
     day_added: 26
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Black Girls in Tech Ireland"
     url: "https://www.blackgirlsintech.co.uk/"
@@ -850,7 +850,7 @@ groups:
     day_added: 28
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "Black Women in Tech Ireland"
     url: "https://theblackwomenintech.com/ireland/"
     region: Dublin
@@ -860,7 +860,7 @@ groups:
     day_added: 28
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Women in Tech Academy"
     url: "https://www.meetup.com/women-in-technology-coding-academy-meetup-group/"
@@ -871,7 +871,7 @@ groups:
     day_added: 22
     date_removed: 2023-08-17
     status: retired
-    type: all 
+    type: all
 
   - name: "Tech and Inclusion Advocates Ireland"
     url: "https://www.linkedin.com/company/tech-and-inclusion-advocates-ireland/"
@@ -882,7 +882,7 @@ groups:
     day_added: 10
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "SheStrategizes: Women in Marketing Meetup (Dublin Chapter)"
     url: "https://www.meetup.com/shestrategizes-women-in-marketing-meetup-dublin-chapter/"
@@ -893,7 +893,7 @@ groups:
     day_added: 24
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Engineers Ireland: Inclusion and Diversity"
     url: "https://www.engineersireland.ie/Professionals/Communities-Groups/Societies/Inclusion-and-Diversity"
@@ -904,9 +904,9 @@ groups:
     day_added: 16
     date_removed:
     status: active
-    type: all 
+    type: all
 
-# 2024
+  # 2024
   - name: "Women Coders Community Ireland"
     url: "https://www.meetup.com/women-coders-comm-ireland/"
     region: Ireland
@@ -916,7 +916,7 @@ groups:
     day_added: 01
     status: retired
     date_removed: 2025-11-13
-    type: all 
+    type: all
 
   - name: "Coding Black Females"
     url: "https://codingblackfemales.com/"
@@ -927,7 +927,7 @@ groups:
     day_added: 06
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Cork Female Coders./"
     url: "https://www.linkedin.com/groups/12954432/"
@@ -938,7 +938,7 @@ groups:
     day_added: 18
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "DesignOpp"
     url: "https://www.designopp.ie/"
@@ -949,9 +949,9 @@ groups:
     day_added: 19
     date_removed:
     status: active
-    type: all 
+    type: all
 
-# 2025
+  # 2025
   - name: "Women in Engineering Group"
     url: "https://www.engineersireland.ie/Women-in-Engineering-Group"
     region: Ireland
@@ -961,7 +961,7 @@ groups:
     day_added: 20
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "Women in CyberSecurity (WiCyS) UK & Ireland"
     url: "https://www.linkedin.com/company/wicysuk"
     region: Ireland
@@ -971,7 +971,7 @@ groups:
     day_added: 20
     date_removed:
     status: active
-    type: all 
+    type: all
   - name: "Midlands Women in Tech"
     url: "https://www.linkedin.com/company/midlandswomenintech/"
     region: Midlands
@@ -981,7 +981,7 @@ groups:
     day_added: 30
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Rewriting the Code (UK/Ireland)"
     url: "https://www.linkedin.com/company/rewriting-the-code/"
@@ -992,7 +992,7 @@ groups:
     day_added: 17
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Women In Cybersecurity Community Association IE"
     url: "https://www.meetup.com/wicca-ie/"
@@ -1003,7 +1003,7 @@ groups:
     day_added: 02
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: "Women4Cyber Ireland"
     url: "https://www.linkedin.com/company/women4cyber-ireland"
@@ -1014,7 +1014,7 @@ groups:
     day_added: 28
     date_removed:
     status: active
-    type: all 
+    type: all
 
   - name: catalyst noir
     url: "https://catalystnoir.com/"
@@ -1026,12 +1026,24 @@ groups:
     status: active
     date_removed:
     type: all
-###
-# THIRD LEVEL
-###
+
+  - name: WHPC Ireland
+    url: "https://www.linkedin.com/company/whpc-ireland/"
+    region: Ireland
+    date_added: 2026-03-13
+    year_added: 2026
+    month_added: 03
+    day_added: 13
+    status: new
+    date_removed:
+    type: all
+
+  ###
+  # THIRD LEVEL
+  ###
   - name: MTU / WiSTEM
     url: "https://societies.mtu.ie/societies/cork/wistem"
-    instagram: 
+    instagram:
     twitter: MTUCorkWiSTEM
     facebook: "https://www.facebook.com/MTUCorkWiSTEM"
     region: Cork
@@ -1040,13 +1052,13 @@ groups:
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
+    credit: Lauren from GalStem (DCU)
     type: student
   - name: DCU / GalSTEM
     url: "https://dcuclubsandsocs.ie/society/galstem"
     instagram: galstem.dcu
-    twitter: 
-    facebook: 
+    twitter:
+    facebook:
     region: Dublin
     date_added: 2020-11-19
     year_added: 2020
@@ -1054,11 +1066,11 @@ groups:
     day_added: 19
     status: retired
     date_removed: 2025-02-20
-    credit: Lauren from GalStem (DCU) 
+    credit: Lauren from GalStem (DCU)
     type: student
   - name: Maynooth University / Women in STEM society
     url: "https://mulife.ie/society/women-in-stem"
-    instagram: mu_womeninstem 
+    instagram: mu_womeninstem
     twitter: mu_womeninstem
     facebook: "https://www.facebook.com/NUIMwomeninstem"
     region: Maynooth
@@ -1067,13 +1079,13 @@ groups:
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
+    credit: Lauren from GalStem (DCU)
     type: student
   - name: Institute of Technology Carlow / Women in Technology
     url: "https://twitter.com/WITcarlowSETU"
-    instagram: 
-    twitter: 
-    facebook: 
+    instagram:
+    twitter:
+    facebook:
     region: Carlow
     date_added: 2020-11-19
     year_added: 2020
@@ -1081,25 +1093,25 @@ groups:
     day_added: 19
     status: retired
     date_removed: 2025-02-20
-    credit: Lauren from GalStem (DCU) 
+    credit: Lauren from GalStem (DCU)
     type: student
   - name: NUIG / WiSTEM
     url: "https://socs.nuigalway.ie/societies/wistem"
-    instagram: 
-    twitter: 
-    facebook: 
+    instagram:
+    twitter:
+    facebook:
     region: Galway
     date_added: 2020-11-19
     year_added: 2020
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
+    credit: Lauren from GalStem (DCU)
+    type: student
   - name: TU Dublin / FemSTEM
     url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE3MQ=="
-    instagram: 
-    twitter: 
+    instagram:
+    twitter:
     facebook: "https://www.facebook.com/femstem.tudublin.9"
     region: Dublin
     date_added: 2020-11-19
@@ -1108,12 +1120,12 @@ groups:
     day_added: 19
     status: retired
     date_removed: 2025-02-20
-    credit: Lauren from GalStem (DCU) 
-    type: student  
+    credit: Lauren from GalStem (DCU)
+    type: student
   - name: TU Dublin / ESTeEM
     url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/projects/esteem/"
-    instagram: 
-    twitter: 
+    instagram:
+    twitter:
     facebook: "https://www.dit.ie/edi/projects/esteem/"
     region: Dublin
     date_added: 2021-01-21
@@ -1123,7 +1135,7 @@ groups:
     status: retired
     date_removed: 2025-02-20
     credit:
-    type: student  
+    type: student
   - name: UCC / WiSTEM
     url: "https://linktr.ee/WiSTEMSocietyUCC"
     instagram: wistemsocietyucc
@@ -1135,8 +1147,8 @@ groups:
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
+    credit: Lauren from GalStem (DCU)
+    type: student
   - name: UCD / Women+ in STEM
     url: "https://www.ucd.ie/wits/"
     instagram: womeninstem_ucd
@@ -1148,8 +1160,8 @@ groups:
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
+    credit: Lauren from GalStem (DCU)
+    type: student
   - name: UL / WiSTEM2D
     url: "https://www.ul.ie/courses/johnson-and-johnson-wistem2d-programme"
     instagram: wistemsoc.ul
@@ -1161,8 +1173,8 @@ groups:
     month_added: 11
     day_added: 19
     status: active
-    credit: Lauren from GalStem (DCU) 
-    type: student  
+    credit: Lauren from GalStem (DCU)
+    type: student
   - name: TU Dublin (Tallaght) / WiSTEM Society
     url: "https://www.tudublin.ie/socsportal/profile.php?id=MTE5Ng=="
     instagram: tudublinwistemsoctc
@@ -1175,12 +1187,12 @@ groups:
     day_added: 08
     status: retired
     date_removed: 2025-02-20
-    credit:  
-    type: student  
+    credit:
+    type: student
   - name: TU Dublin (Blanchardstown Campus) / WiSTEM Society
     url: "https://linktr.ee/tudblanchwistem"
-    instagram: 
-    twitter: 
+    instagram:
+    twitter:
     facebook:
     region: Dublin
     date_added: 2025-02-20
@@ -1188,8 +1200,8 @@ groups:
     month_added: 02
     day_added: 20
     status: active
-    credit:  
-    type: student  
+    credit:
+    type: student
   - name: TU Dublin / Women in Tech United (WITU)
     url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/edi-initiatives-in-tu-dublin/witu/"
     instagram: witu_dublin
@@ -1201,5 +1213,5 @@ groups:
     month_added: 02
     day_added: 20
     status: active
-    credit:  
-    type: student  
+    credit:
+    type: student
