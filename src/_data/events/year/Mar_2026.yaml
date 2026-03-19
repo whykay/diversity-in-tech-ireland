@@ -472,3 +472,114 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "(In-Person) Data Science and Engineering Club: Mastering Data Science Engineering"
+    url: "https://www.meetup.com/data-science-and-engineering-club/events/313621152/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-28T10:00:00Z
+    end_datetime: 2026-03-28T12:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/313571779/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-28T15:00:00Z
+    end_datetime: 2026-03-28T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Give(a)Go: Women Who Build"
+    url: "https://www.meetup.com/give-a-go/events/313826687/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-25T18:30:00Z
+    end_datetime: 2026-03-25T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: diversity
+  - name: "(In-Person) IoT Belfast 30: IoT in Insurance"
+    url: "https://www.meetup.com/iotbelfast/events/313506346/"
+    region: 🇬🇧
+    date_added: 2026-03-19
+    start_datetime: 2026-03-26T18:30:00Z
+    end_datetime: 2026-03-26T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: DMR Demonstration Evening @ Ballyroan Coomunity Centre"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313419626/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-24T19:30:00Z
+    end_datetime: 2026-03-24T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313730702/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-30T19:00:00Z
+    end_datetime: 2026-03-30T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) GIT 3.3 Project Night"
+    url: "https://www.meetup.com/galway-information-technology/events/313763927/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-27T18:30:00Z
+    end_datetime: 2026-03-27T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Craft Afternoon @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/313616888/"
+    region: 🇬🇧
+    date_added: 2026-03-19
+    start_datetime: 2026-03-21T15:00:00Z
+    end_datetime: 2026-03-21T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TouchDesigner Meetup Dublin @ TOG Hackerspace"
+    url: "https://www.eventbrite.com/e/touchdesigner-meetup-dublin-tickets-1985411986698"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-25T19:00:00Z
+    end_datetime: 2026-03-25T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Data Meet Up - Delving into Data @ Hayward Hawk"
+    url: "https://www.eventbrite.co.uk/e/data-meet-up-delving-into-data-tickets-1984753163139"
+    region: 🇬🇧
+    date_added: 2026-03-19
+    start_datetime: 2026-03-26T18:00:00Z
+    end_datetime: 2026-03-26T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) NI Cyber - the Breakfast Club @ Queen's Titanic Quarter"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2026-03-19
+    start_datetime: 2026-03-26T09:00:00Z
+    end_datetime: 2026-03-26T11:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
