@@ -118,16 +118,6 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
-  - name: "(In-Person) Tech Talk: Women Leaders in Tech"
-    url: "https://www.eventbrite.ie/e/tech-talk-women-leaders-in-tech-tickets-1982275934682"
-    region: 🇮🇪
-    date_added: 2026-02-04
-    start_datetime: 2026-03-25T08:15:00Z
-    end_datetime: 2026-03-25T10:00:00Z
-    new: false
-    recurring: false
-    desc: "<p>Join us for an insight-led panel spotlighting women driving innovation, who will share leadership stories and career insights.</p>"
-    type: diversity
 
   - name: "(In-Person) TechFoundHer: Let's Make Some Noise - TechFoundHer Lunch and Learn #IWD 2026 @ Portershed (Galway)"
     url: "https://www.eventbrite.com/e/lets-make-some-noise-techfoundher-lunch-and-learn-iwd-2026-tickets-1982632028769"
@@ -583,3 +573,13 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Tech Industry Alliance: Women Leaders in Tech @ The Rose Hotel (Tralee)"
+    url: "https://techindustryalliance.ie/event/tech-talk-women-leaders-in-tech/"
+    region: 🇮🇪
+    date_added: 2026-03-19
+    start_datetime: 2026-03-25T08:15:00Z
+    end_datetime: 2026-03-25T10:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us on 25 March for an engaging leadership conversation spotlighting the women driving meaningful change across the technology sector and shaping the future of the South West’s digital ecosystem.</p>"
+    type: diversity
