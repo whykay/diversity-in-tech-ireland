@@ -194,3 +194,44 @@ eventlistings:
     recurring: false
     desc: <p>The conference will create a vibrant space for knowledge sharing, networking, and promoting diversity and inclusion across STEM disciplines.</p>
     type: diversity
+
+  - name: "(In-Person) PyLadies Dublin x Women in High Performance Computing @ EdgeTiere"
+    url: "https://luma.com/j5guca3e"
+    region: 🇮🇪
+    date_added: 2026-03-27
+    start_datetime: 2026-04-21T18:30:00Z
+    end_datetime: 2026-04-21T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyLadies Dublin are collaborating with WHPC, and there will be one speaker talking about 'High Performance Computing (HPC) for AI' with a book raffle afterwards. Edgetier are hosting and providing pizzas. Spaces are limited.</p>"
+    type: diversity
+  - name: "(In-Person) Python Ireland Monthly Meetup @ Edgetier"
+    url: "https://www.meetup.com/pythonireland/events/313901411/"
+    region: 🇮🇪
+    date_added: 2026-03-27
+    start_datetime: 2026-04-06T18:30:00Z
+    end_datetime: 2026-04-06T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/313895986/"
+    region: 🇮🇪
+    date_added: 2026-03-27
+    start_datetime: 2026-04-11T15:00:00Z
+    end_datetime: 2026-04-11T17:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Belfast Design Meetup @ MCS Group"
+    url: "https://www.meetup.com/belfast-design/events/313929737"
+    region: 🇬🇧
+    date_added: 2026-03-27
+    start_datetime: 2026-04-02T17:30:00Z
+    end_datetime: 2026-04-02T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
