@@ -120,7 +120,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-01T19:30:00Z
     end_datetime: 2026-04-01T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -160,7 +160,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-01T18:00:00Z
     end_datetime: 2026-04-01T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -170,7 +170,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-02T18:30:00Z
     end_datetime: 2026-04-02T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2026-03-27
     start_datetime: 2026-04-02T17:30:00Z
     end_datetime: 2026-04-02T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -327,4 +327,45 @@ eventlistings:
     recurring: false
     desc: "<p>Our first Dublin session brought together an amazing group of women for open, honest conversations around community, confidence, and growth — and we’re looking forward to continuing that momentum.</p>
           <p>This session will be hosted by our Community Building & Engagement Co-Leads, Rianka Gupte and Christabel Ebrill, as part of our ongoing Community Connect series.</p>"
+    type: diversity
+  - name: "(In-Person) Cats Making Games - Coffee and Co-work (Kilkenny)"
+    url: "https://www.eventbrite.ie/e/cmg-coffee-and-co-work-tickets-1986219916237"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-05T12:00:00Z
+    end_datetime: 2026-04-05T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Cats Making Games - Coffee and Co-work (Kilkenny)"
+    url: "https://www.eventbrite.ie/e/cmg-coffee-and-co-work-tickets-1986219916237"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-19T12:00:00Z
+    end_datetime: 2026-04-19T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Women's Collective Ireland - Tallaght: Women in Leadership"
+    url: "https://www.eventbrite.ie/e/women-in-leadership-tickets-1986201720814"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-23T10:00:00Z
+    end_datetime: 2026-04-23T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us at Women's Collective Ireland - Tallaght for our 8 week programme all about women stepping up and leading the way. Whether you're looking to grow your skills or connect with like-minded women, this event is for you! Course starting April 23rd at 10:00 - 12.30 .Come along, share your story, and be part of a supportive community. We can’t wait to see you there!</p>"
+    type: diversity
+  - name: "(In-Person) Women4Cyber Ireland – Community Connect | Cork"
+    url: "https://www.eventbrite.ie/e/women4cyber-ireland-community-connect-cork-tickets-1985711394234"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-17T11:00:00Z
+    end_datetime: 2026-04-17T13:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Our first session brought together an amazing group of women for open, honest conversations around community, confidence, and growth — and we’re looking forward to continuing that momentum.</p>
+          <p>This session will be hosted by Agata Crowley, Community Building & Engagement Co-Lead, as part of our ongoing Community Connect series.</p>"
     type: diversity
