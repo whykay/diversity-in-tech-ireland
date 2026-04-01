@@ -317,3 +317,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Women4Cyber Ireland – Community Connect | Dublin"
+    url: "https://www.eventbrite.ie/e/women4cyber-ireland-community-connect-dublin-tickets-1986201375782"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-08T09:30:00Z
+    end_datetime: 2026-04-08T11:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Our first Dublin session brought together an amazing group of women for open, honest conversations around community, confidence, and growth — and we’re looking forward to continuing that momentum.</p>
+          <p>This session will be hosted by our Community Building & Engagement Co-Leads, Rianka Gupte and Christabel Ebrill, as part of our ongoing Community Connect series.</p>"
+    type: diversity
