@@ -307,7 +307,7 @@ conferences:
     date_added: 2026-03-12
     start_datetime: 2026-05-22T09:30:00Z
     end_datetime: 2026-05-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Learn Detection Engineering and Threat Hunting skills in three practical hands-on workshops taught live, in-person at historic Croke Park in Dublin by industry experts Wietze Beukema, Gavin Knapp, Kell Duda & Jibby Saetang. In one day, you will get to complete all three workshops to learn hunting and detecting obfuscated command line arguments with Wietze, learn hunting adversary infrastructure with Gavin, and learn digital detective skills hunting an adversary through logs using KQL with Kell and Jibby.</p>"
     type: tech
@@ -317,7 +317,7 @@ conferences:
     date_added: 2026-03-12
     start_datetime: 2026-05-29T09:30:00Z
     end_datetime: 2026-05-29T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>TechFoundHer Summit 2026 brings together women tech innovators, leaders and status quo disruptors to create some noise. We are designing the future boldly by placing our lived experience, ethics and societal need at the centre of innovation. It's time to do AI, Tech and Innovation differently with women front and centre.
     Women are rebooting — not just technology, but the future itself. Let's Go!!!</p>"
@@ -329,7 +329,7 @@ conferences:
     date_added: 2026-03-12
     start_datetime: 2026-04-22T10:30:00Z
     end_datetime: 2026-04-22T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The conference will create a vibrant space for knowledge sharing, networking, and promoting diversity and inclusion across STEM disciplines.</p>"
     type: diversity
