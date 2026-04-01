@@ -235,3 +235,85 @@ eventlistings:
     recurring: false
     desc:
     type: design
+
+  - name: "(In-Person) NI Women In STEM Hackathon @ Allstate Northern Ireland"
+    url: "https://luma.com/acikjsqx"
+    region: 🇬🇧
+    date_added: 2026-04-01
+    start_datetime: 2026-04-11T09:00:00Z
+    end_datetime: 2026-04-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This hackathon is co-organised by: Women in STEM Society at UU Belfast, Women in STEM Society at UU Magee, Women in STEM Society at QUB, and BCS Northern Ireland.</p>"
+    type: diversity
+  - name: "(In-Person) REEdI@MTU: Women in Engineering Careers Event @ MTU (Kerry)"
+    url: "https://www.eventbrite.ie/e/women-in-engineering-careers-event-tickets-1984960418044"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-23T18:30:00Z
+    end_datetime: 2026-04-23T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Aimed at female secondary school students who are interested in exploring engineering as a future career. Join us for an inspiring ‘Women in Engineering’ evening.</p>
+          <p>Hear from women working across engineering and innovation as they share their journeys, insights and experiences, and shine a light on the diverse pathways within the engineering profession.</p>"
+    type: diversity
+  - name: "(In-Person) Python Ireland meetup @ Edgetier"
+    url: "https://www.meetup.com/pythonireland/events/313901411/"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-08T18:30:00Z
+    end_datetime: 2026-04-08T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Hackerspace Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/312914970/"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-11T19:00:00Z
+    end_datetime: 2026-04-11T24:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Belfast Design Workshop @ Clockwise"
+    url: "https://www.meetup.com/belfast-design/events/314041408/"
+    region: 🇬🇧
+    date_added: 2026-04-01
+    start_datetime: 2026-04-09T17:30:00Z
+    end_datetime: 2026-04-09T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "(In-Person) DubJUG 264 @ Gong’s HQ"
+    url: "https://ti.to/dublin-java-user-group/264-gong-hq"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-16T17:30:00Z
+    end_datetime: 2026-04-16T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) The Games Co-Op: April Tool's @ The Circular"
+    url: "https://www.meetup.com/the-games-co-op/events/313980448/"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-20T19:00:00Z
+    end_datetime: 2026-04-20T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(In-Person) Waterford Tech Meetup"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/313879636/"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-04-09T19:00:00Z
+    end_datetime: 2026-04-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

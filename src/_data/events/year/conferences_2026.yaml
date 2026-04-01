@@ -333,3 +333,14 @@ conferences:
     recurring: false
     desc: "<p>The conference will create a vibrant space for knowledge sharing, networking, and promoting diversity and inclusion across STEM disciplines.</p>"
     type: diversity
+
+  - name: "(In-Person) Cyber Ireland National Conference 2026"
+    url: "https://www.linkedin.com/posts/cyber-ireland_cinc26-cyberireland-cybersecurity-activity-7445080051882086401-o3xX"
+    region: 🇮🇪
+    date_added: 2026-04-01
+    start_datetime: 2026-09-22T09:30:00Z
+    end_datetime: 2026-09-22T17:00:00Z
+    new: false
+    recurring: false
+    desc: "<p>The 𝐂𝐲𝐛𝐞𝐫 𝐈𝐫𝐞𝐥𝐚𝐧𝐝 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 (𝐂𝐈𝐍𝐂) is returning on 𝐓𝐮𝐞𝐬𝐝𝐚𝐲, 22𝐧𝐝 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 2026, to the 𝐋𝐲𝐫𝐚𝐭𝐡 𝐄𝐬𝐭𝐚𝐭𝐞 𝐇𝐨𝐭𝐞𝐥 𝐢𝐧 𝐊𝐢𝐥𝐤𝐞𝐧𝐧𝐲.</p><p>This flagship event brings together leaders and professionals from industry, academia, and government to discuss the pressing cybersecurity challenges facing Ireland and beyond. </p>"
+    type: tech
