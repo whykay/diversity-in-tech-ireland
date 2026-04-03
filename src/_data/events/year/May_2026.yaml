@@ -1,0 +1,92 @@
+---
+eventlistings:
+  - name: "Sound Sensing & Instrument Building Workshop @ The Rediscovery Centre"
+    url: "https://www.eventbrite.ie/e/sound-sensing-instrument-building-workshop-tickets-1982888038501"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-16T11:00:00Z
+    end_datetime: 2026-05-16T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "PyLadies Dublin @ LibertyIT"
+    url: "https://dublin.pyladies.com"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-19T18:30:00Z
+    end_datetime: 2026-05-19T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>PyLadies Dublin will have talks and a book raffle kindly hosted by LibertyIT in Dublin city centre.</p><p>More details coming soon, please check meetup page for updates.</p>"
+    type: diversity
+  - name: "The May SRE Meetup @ Squarespace"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/313931293/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-14T19:00:00Z
+    end_datetime: 2026-05-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dataviz Workshop for Dublin Tech Week @ The Digital Hub"
+    url: "https://www.meetup.com/dublin-dataviz/events/313554370/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-27T18:30:00Z
+    end_datetime: 2026-05-27T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DubJUG 265: GraphQL with Professor Ž"
+    url: "https://www.meetup.com/dublinjavausergroup/events/313775826/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-06T18:15:00Z
+    end_datetime: 2026-05-06T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 155"
+    url: "https://www.meetup.com/corksec/events/311100613/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-12T19:00:00Z
+    end_datetime: 2026-05-12T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Idea to Pitch in 8 Hours — FounderHarbour × Cork Devs"
+    url: "https://www.meetup.com/corkdevs/events/313666048/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-02T09:30:00Z
+    end_datetime: 2026-05-02T17:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Tech Tribe Galway"
+    url: "https://www.meetup.com/tech-tribe-galway/events/314074126/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-11T18:30:00Z
+    end_datetime: 2026-05-11T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/313860408/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-23T15:00:00Z
+    end_datetime: 2026-05-23T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
