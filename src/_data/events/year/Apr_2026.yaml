@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-13T08:00:00Z
     end_datetime: 2026-04-13T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-27T08:00:00Z
     end_datetime: 2026-04-27T09:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Millena de Paula (PyLadies Dublin) will be hosting our weekly Python Study Group sessions and will take place online on our discord server.</p>"
     type: diversity
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-15T18:00:00Z
     end_datetime: 2026-04-15T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -36,7 +36,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-18T19:00:00Z
     end_datetime: 2026-04-18T24:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -46,7 +46,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-14T19:00:00Z
     end_datetime: 2026-04-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -56,7 +56,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-11T12:00:00Z
     end_datetime: 2026-04-11T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -66,7 +66,7 @@ eventlistings:
     date_added: 2026-02-23
     start_datetime: 2026-04-29T09:30:00Z
     end_datetime: 2026-04-29T14:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<h4>✨ “Women in the Loop”</h4>
     <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>"
@@ -78,7 +78,7 @@ eventlistings:
     date_added: 2026-03-12
     start_datetime: 2026-04-16T17:30:00Z
     end_datetime: 2026-04-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -88,7 +88,7 @@ eventlistings:
     date_added: 2026-03-12
     start_datetime: 2026-04-25T15:00:00Z
     end_datetime: 2026-04-25T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -98,7 +98,7 @@ eventlistings:
     date_added: 2026-03-12
     start_datetime: 2026-04-13T19:00:00Z
     end_datetime: 2026-04-13T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -108,7 +108,7 @@ eventlistings:
     date_added: 2026-03-12
     start_datetime: 2026-04-27T19:00:00Z
     end_datetime: 2026-04-27T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -130,7 +130,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-07T19:00:00Z
     end_datetime: 2026-04-07T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -140,7 +140,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-06T19:00:00Z
     end_datetime: 2026-04-06T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -150,7 +150,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-07T19:00:00Z
     end_datetime: 2026-04-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -180,7 +180,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-16T19:30:00Z
     end_datetime: 2026-04-16T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -190,7 +190,7 @@ eventlistings:
     date_added: 2026-03-19
     start_datetime: 2026-04-22T10:30:00Z
     end_datetime: 2026-04-22T16:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: <p>The conference will create a vibrant space for knowledge sharing, networking, and promoting diversity and inclusion across STEM disciplines.</p>
     type: diversity
@@ -201,7 +201,7 @@ eventlistings:
     date_added: 2026-03-27
     start_datetime: 2026-04-21T18:30:00Z
     end_datetime: 2026-04-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>PyLadies Dublin are collaborating with WHPC, and there will be one speaker talking about 'High Performance Computing (HPC) for AI' with a book raffle afterwards. Edgetier are hosting and providing pizzas. Spaces are limited.</p>"
     type: diversity
@@ -211,7 +211,7 @@ eventlistings:
     date_added: 2026-03-27
     start_datetime: 2026-04-06T18:30:00Z
     end_datetime: 2026-04-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2026-03-27
     start_datetime: 2026-04-11T15:00:00Z
     end_datetime: 2026-04-11T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -242,7 +242,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-11T09:00:00Z
     end_datetime: 2026-04-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>This hackathon is co-organised by: Women in STEM Society at UU Belfast, Women in STEM Society at UU Magee, Women in STEM Society at QUB, and BCS Northern Ireland.</p>"
     type: diversity
@@ -252,7 +252,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-23T18:30:00Z
     end_datetime: 2026-04-23T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Aimed at female secondary school students who are interested in exploring engineering as a future career. Join us for an inspiring ‘Women in Engineering’ evening.</p>
           <p>Hear from women working across engineering and innovation as they share their journeys, insights and experiences, and shine a light on the diverse pathways within the engineering profession.</p>"
@@ -263,7 +263,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-08T18:30:00Z
     end_datetime: 2026-04-08T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -273,7 +273,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-11T19:00:00Z
     end_datetime: 2026-04-11T24:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -283,7 +283,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-09T17:30:00Z
     end_datetime: 2026-04-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -293,7 +293,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-16T17:30:00Z
     end_datetime: 2026-04-16T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -303,7 +303,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-20T19:00:00Z
     end_datetime: 2026-04-20T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -313,7 +313,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-09T19:00:00Z
     end_datetime: 2026-04-09T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -323,7 +323,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-08T09:30:00Z
     end_datetime: 2026-04-08T11:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our first Dublin session brought together an amazing group of women for open, honest conversations around community, confidence, and growth — and we’re looking forward to continuing that momentum.</p>
           <p>This session will be hosted by our Community Building & Engagement Co-Leads, Rianka Gupte and Christabel Ebrill, as part of our ongoing Community Connect series.</p>"
@@ -334,7 +334,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-05T12:00:00Z
     end_datetime: 2026-04-05T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -344,7 +344,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-19T12:00:00Z
     end_datetime: 2026-04-19T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -354,7 +354,7 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-23T10:00:00Z
     end_datetime: 2026-04-23T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at Women's Collective Ireland - Tallaght for our 8 week programme all about women stepping up and leading the way. Whether you're looking to grow your skills or connect with like-minded women, this event is for you! Course starting April 23rd at 10:00 - 12.30 .Come along, share your story, and be part of a supportive community. We can’t wait to see you there!</p>"
     type: diversity
@@ -364,8 +364,19 @@ eventlistings:
     date_added: 2026-04-01
     start_datetime: 2026-04-17T11:00:00Z
     end_datetime: 2026-04-17T13:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Our first session brought together an amazing group of women for open, honest conversations around community, confidence, and growth — and we’re looking forward to continuing that momentum.</p>
           <p>This session will be hosted by Agata Crowley, Community Building & Engagement Co-Lead, as part of our ongoing Community Connect series.</p>"
     type: diversity
+
+  - name: "(In-Person) Dub|Sec April 2026 Social @ The Iveagh Garden Hotel"
+    url: "https://www.meetup.com/dub-sec/events/314085800/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-29T18:30:00Z
+    end_datetime: 2026-04-29T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
