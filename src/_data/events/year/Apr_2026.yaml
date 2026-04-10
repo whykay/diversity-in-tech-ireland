@@ -360,3 +360,73 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314083846/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-10T19:00:00Z
+    end_datetime: 2026-04-10T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Tuesday Open House"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/313946678/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-14T19:00:00Z
+    end_datetime: 2026-04-14T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG Watch Night: The Secret Life of Components (Tim Hunkin)"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314058738/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-20T19:00:00Z
+    end_datetime: 2026-04-20T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Self Hosting with Galway IT @ Portershed"
+    url: "https://www.meetup.com/galway-information-technology/events/314125359/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-15T18:00:00Z
+    end_datetime: 2026-04-15T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) makers night @ MakerShop.ie"
+    url: "https://www.meetup.com/ennis-makerspace/events/314201741/"
+    region: 🇮🇪
+    date_added: 2026-04-10
+    start_datetime: 2026-04-15T18:00:00Z
+    end_datetime: 2026-04-15T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) NI Tech & Design Coffee @ Town Square Cafe"
+    url: "https://www.meetup.com/ni-tech-design-slack-meetup/events/314193489/"
+    region: 🇬🇧
+    date_added: 2026-04-10
+    start_datetime: 2026-04-11T11:00:00Z
+    end_datetime: 2026-04-11T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) ProductTank Belfast: Lightning Talks From Your Living Room - Remote Event"
+    url: "https://www.meetup.com/producttank-belfast/events/314077900/"
+    region: 🇬🇧
+    date_added: 2026-04-10
+    start_datetime: 2026-04-22T12:00:00Z
+    end_datetime: 2026-04-22T13:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

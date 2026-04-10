@@ -101,3 +101,23 @@ eventlistings:
     recurring: false
     desc: "<p>The 2026 award ceremony will be held in conjunction with this year's science@culture talk, which will be given this year by Lynn Scarff, Executive Director of the Royal Irish Academy.</p><p>The talk will be followed by the Mary Mulvihill Award 2026 presentations. The award will be presented by Professor Margaret Kelleher, Chair of Anglo-Irish Literature and Drama at UCD.</p>"
     type: diversity
+  - name: "Stripe Developer meetup Dublin March 2026 (In Person)"
+    url: "https://www.meetup.com/stripe-dublin/events/314178184/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-12T18:00:00Z
+    end_datetime: 2026-05-12T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/312700991/"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-05-05T19:00:00Z
+    end_datetime: 2026-05-05T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
