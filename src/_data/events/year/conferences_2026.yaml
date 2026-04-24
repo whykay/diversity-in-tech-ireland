@@ -355,3 +355,14 @@ conferences:
     recurring: false
     desc: "<p>Following the success of previous years, the 2026 conference promises to be bigger and better than ever! This year’s event features an expanded programme, more opportunities for interaction and a dynamic line-up of speakers from across engineering, business and academia.</p>"
     type: diversity
+
+  - name: "Engineers Ireland Women in Engineering Society Annual Conference 2026"
+    url: "https://www.engineersireland.ie/Events/event/11131"
+    region: 🇮🇪
+    date_added: 2026-04-03
+    start_datetime: 2026-06-19T08:15:00Z
+    end_datetime: 2026-06-19T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join the Engineers Ireland Women in Engineering Society on Friday, 19 June in the iconic Round Room at The Mansion House, Dublin, for a special day of celebration, connection and inspiration.</p>"
+    type: diversity
