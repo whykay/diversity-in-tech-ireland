@@ -162,3 +162,13 @@ eventlistings:
     recurring: false
     desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after burnout at work</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
     type: diversity
+  - name: "(In-Person) Centre of Creative Technologies Workshop: Exploring Sound with Programmable Contact Microphones @ University of Galway"
+    url: "https://ti.to/creative-tech/workshop-ed-devane-2026"
+    region: 🇮🇪
+    date_added: 2026-04-21
+    start_datetime: 2026-05-06T12:00:00Z
+    end_datetime: 2026-05-06T15:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
