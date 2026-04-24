@@ -121,3 +121,44 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "(In-Person) TechFoundHer Summit 2026 - System Crash: Women Rebooting @ The Round Room "
+    url: "https://www.eventbrite.ie/e/techfoundher-summit-2026-system-crash-women-rebooting-tickets-1982625741965"
+    region: 🇮🇪
+    date_added: 2026-04-21
+    start_datetime: 2026-05-29T09:15:00Z
+    end_datetime: 2026-05-29T15:30:00Z
+    new: false
+    recurring: false
+    desc: "<p>TechFoundHer Summit 2026 brings together women tech innovators, leaders and status quo disruptors to create some noise. We are designing the future boldly by placing our lived experience, ethics and societal need at the centre of innovation. It's time to do AI, Tech and Innovation differently with women front and centre. Women are rebooting — not just technology, but the future itself. Let's Go!!!</p>"
+    type: diversity
+  - name: "(In-Person) Diversin: Layoff- Safe Space :Employee Support Group Circle @ TCube"
+    url: "https://www.eventbrite.com/e/layoff-safe-space-employee-support-group-circle-tickets-1987491759354"
+    region: 🇮🇪
+    date_added: 2026-04-21
+    start_datetime: 2026-05-07T18:00:00Z
+    end_datetime: 2026-05-07T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after layoffs, understanding circle.</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
+    type: diversity
+  - name: "(In-Person) Diversin: Mobbing & Bullying at Work - Safe Space :Employee Support Group Circle @ TCube"
+    url: "https://www.eventbrite.com/e/mobbing-bullying-at-work-safe-space-employee-support-group-circle-tickets-1987494348097"
+    region: 🇮🇪
+    date_added: 2026-04-21
+    start_datetime: 2026-05-14T18:00:00Z
+    end_datetime: 2026-05-14T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after mobbing and bullying at work.</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
+    type: diversity
+  - name: "(In-Person) Diversin: Invisible & Burnout - Safe Space :Employee Support Group Circle @ TCube"
+    url: "https://www.eventbrite.com/e/invisible-burnout-safe-space-employee-support-group-circle-tickets-1987495330034"
+    region: 🇮🇪
+    date_added: 2026-04-21
+    start_datetime: 2026-05-21T18:00:00Z
+    end_datetime: 2026-05-21T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after burnout at work</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
+    type: diversity
