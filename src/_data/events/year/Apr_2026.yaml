@@ -430,3 +430,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) Fingla Makerspace: Maker Monday for Adults"
+    url: "https://www.eventbrite.ie/e/maker-monday-for-adults-tickets-1986220511016"
+    region: 🇮🇪
+    date_added: 2026-04-26
+    start_datetime: 2026-04-27T18:00:00Z
+    end_datetime: 2026-04-27T19:45:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker

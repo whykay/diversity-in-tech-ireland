@@ -366,3 +366,34 @@ conferences:
     recurring: false
     desc: "<p>Join the Engineers Ireland Women in Engineering Society on Friday, 19 June in the iconic Round Room at The Mansion House, Dublin, for a special day of celebration, connection and inspiration.</p>"
     type: diversity
+  - name: "RebelCon 2026"
+    url: "https://rebelcon.io"
+    region: 🇮🇪
+    date_added: 2026-04-24
+    start_datetime: 2026-10-08T08:15:00Z
+    end_datetime: 2026-10-08T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>RebelCon was born ten years ago from a simple belief: that the people actually building software deserve a room where the conversation is real.</p><p>This year’s theme is Celebration, because ten years in, at this particular moment in the history of software, there’s something worth marking. Not just what we’ve built. But what we’re finally able to build next.</p>"
+    type: tech
+  - name: "ShipItCon 2026"
+    url: "https://shipitcon.com"
+    region: 🇮🇪
+    date_added: 2026-04-24
+    start_datetime: 2026-09-04T08:15:00Z
+    end_datetime: 2026-09-04T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>An annual, community driven, not-for-profit conference about Software Delivery held in Dublin, Ireland. Theme this year is 'Friction'.</p>"
+    type: tech
+
+  - name: "EDGE26 @ Dexcom Stadium (Galway)"
+    url: "https://crewdigital.ie/edge26/"
+    region: 🇮🇪
+    date_added: 2026-04-25
+    start_datetime: 2026-05-21T08:15:00Z
+    end_datetime: 2026-05-21T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ireland’s national gathering for the creative industries.</p><p>Founders, studio leaders, investors, policymakers, and researchers will gather in Galway for a national summit exploring the future of the creative economy.</p>"
+    type: creative
