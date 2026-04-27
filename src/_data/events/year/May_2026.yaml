@@ -183,7 +183,7 @@ eventlistings:
     recurring: false
     desc: "<p>Whether you’re just getting started or already deep into coding, you are so welcome to join us.</p><p>We’re all about creating a friendly, supportive space to learn, chat, and connect — no pressure, just good vibes (and usually cake 🍰)</p>"
     type: diversity
-  - name: "(In-Person) cofecoders (Cork)"
+  - name: "(In-Person) coffe.coders(); (Cork)"
     url: "https://www.instagram.com/p/DWWRyU1iJNW/"
     region: 🇮🇪
     date_added: 2026-04-26
@@ -292,6 +292,116 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-26T15:00:00Z
     end_datetime: 2026-05-26T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Python Ireland Monthly Meetup @ Workday"
+    url: "https://www.meetup.com/pythonireland/events/314480711/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-13T18:30:00Z
+    end_datetime: 2026-05-13T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) DubJUG 265: GraphQL with Professor Ž @ TCube"
+    url: "https://www.meetup.com/dublinjavausergroup/events/313775826/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-06T18:15:00Z
+    end_datetime: 2026-05-06T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314321521/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-01T19:00:00Z
+    end_datetime: 2026-05-01T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) TOG Hackerspace Open House"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314299911/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-05T19:00:00Z
+    end_datetime: 2026-05-05T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG Hackerspace: Electronics Night"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314402968/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-11T19:00:00Z
+    end_datetime: 2026-05-11T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG HackerspaceWatch Night: The Secret Life of Components (Tim Hunkin)"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314282940/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-04T19:00:00Z
+    end_datetime: 2026-05-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG Maker Night - Work on 3D projects using laser cutter, 3D Printer"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314283167/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-04T19:00:00Z
+    end_datetime: 2026-05-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) TOG Maker Night - Work on 3D projects using laser cutter, 3D Printer"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314283167/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-04T19:00:00Z
+    end_datetime: 2026-05-04T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Belfast Design Meetup @ MSC Group"
+    url: "https://www.meetup.com/belfast-design/events/314317488/"
+    region: 🇬🇧
+    date_added: 2026-04-27
+    start_datetime: 2026-05-07T17:30:00Z
+    end_datetime: 2026-05-07T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "(In-Person) Farset Labs: Craft Afternoon"
+    url: "https://www.meetup.com/farsetlabs/events/314436190/"
+    region: 🇬🇧
+    date_added: 2026-04-27
+    start_datetime: 2026-05-16T15:00:00Z
+    end_datetime: 2026-05-16T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "(In-Person) Belfast NetSec Launch"
+    url: "https://www.meetup.com/belfast-netsec/events/314383184/"
+    region: 🇬🇧
+    date_added: 2026-04-27
+    start_datetime: 2026-05-22T18:30:00Z
+    end_datetime: 2026-05-22T20:30:00Z
     new: true
     recurring: false
     desc:
