@@ -397,3 +397,34 @@ conferences:
     recurring: false
     desc: "<p>Ireland’s national gathering for the creative industries.</p><p>Founders, studio leaders, investors, policymakers, and researchers will gather in Galway for a national summit exploring the future of the creative economy.</p>"
     type: creative
+
+  - name: "TechTides Belfast 2026"
+    url: "https://techtides.co/"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-06-11T08:15:00Z
+    end_datetime: 2026-06-11T17:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join a vibrant mix of business professionals, technologists, students, and entrepreneurs from across NI and Ireland at the ICC in Belfast for TechTides, the must-attend tech conference in Northern Ireland.</p>"
+    type: tech
+  - name: "10th GIG-ARTS CONFERENCE DUBLIN 2026"
+    url: "https://www.eventbrite.ie/e/10th-gig-arts-conference-dublin-2026-tickets-1983869439899"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-14T09:00:00Z
+    end_datetime: 2026-05-15T19:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us in Dublin for the milestone 10th edition of the GIG-ARTS conference. Hosted by Dublin City University (DCU), this year’s event brings together leading scholars, policymakers, and practitioners to tackle the defining challenge of our era: balancing digital innovation with the protection of fundamental rights.</p>"
+    type: tech
+  - name: "Cyber Expo & Conference Ireland 2026"
+    url: "https://www.eventbrite.ie/e/cyber-expo-conference-ireland-2026-tickets-1979712199481"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-20T08:00:00Z
+    end_datetime: 2026-05-20T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Ireland's largest cybersecurity gathering is back for its 9th year. Whether you're an MSP looking to expand your security portfolio, an IT professional navigating compliance demands, or a business leader trying to make sense of the evolving threat landscape, this is your chance to connect with the people and solutions that can help.</p>"
+    type: tech

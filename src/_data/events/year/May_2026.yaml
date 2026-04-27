@@ -406,3 +406,63 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+  - name: "(In-Person) Data Chats In A Pub"
+    url: "https://www.eventbrite.com/e/data-chats-in-a-pub-tickets-1798536804999"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-07T18:30:00Z
+    end_datetime: 2026-05-07T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Smart Docklands Networking Event @ Portal, TCD"
+    url: "https://www.eventbrite.ie/e/smart-docklands-networking-event-tickets-1987148751408"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-07T17:00:00Z
+    end_datetime: 2026-05-07T19:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Smart Docklands: Count Docklands Workshop - Pilot Project Event"
+    url: "https://www.eventbrite.ie/e/count-docklands-workshop-pilot-project-event-tickets-1987153109443"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-11T17:00:00Z
+    end_datetime: 2026-05-11T18:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Smart Docklands: The Connective Detective - Build your own smart city (Family-friendly)"
+    url: "https://www.eventbrite.ie/e/the-connective-detective-build-your-own-smart-city-tickets-1985984222270"
+    region: 🇮🇪
+    date_added: 2026-04-27
+    start_datetime: 2026-05-27T15:30:00Z
+    end_datetime: 2026-05-27T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) NICyber: Tech n Tipples with Amicis Group"
+    url: "https://www.eventbrite.co.uk/e/tech-n-tipples-with-amicis-group-tickets-1987868626574"
+    region: 🇬🇧
+    date_added: 2026-04-27
+    start_datetime: 2026-05-20T17:00:00Z
+    end_datetime: 2026-05-20T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(In-Person) Introduction to Fully Automated Software Engineering"
+    url: "https://www.eventbrite.com/e/introduction-to-fully-automated-software-engineering-tickets-1987605506575"
+    region: 🇬🇧
+    date_added: 2026-04-27
+    start_datetime: 2026-05-08T12:00:00Z
+    end_datetime: 2026-05-08T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
