@@ -428,3 +428,14 @@ conferences:
     recurring: false
     desc: "<p>Ireland's largest cybersecurity gathering is back for its 9th year. Whether you're an MSP looking to expand your security portfolio, an IT professional navigating compliance demands, or a business leader trying to make sense of the evolving threat landscape, this is your chance to connect with the people and solutions that can help.</p>"
     type: tech
+
+  - name: "Atlantec Festival 2026"
+    url: "https://atlantec.ie/"
+    region: 🇮🇪
+    date_added: 2026-04-29
+    start_datetime: 2026-05-14T09:00:00Z
+    end_datetime: 2026-05-14T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AtlanTec Festival & Conference 2026 (5th–15th May) brings together engineers, innovators, researchers and industry leaders to explore how human intelligence drives the next era of information innovation. With a dynamic ten-day program and a high-impact Conference on 14th May, AtlanTec is where ideas scale, technology meets purpose, and the West of Ireland steps confidently onto the global tech stage.</p>"
+    type: tech

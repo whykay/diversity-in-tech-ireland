@@ -466,3 +466,34 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "(In-Person) Atlantec: Women of Impact: Leading with Presence and Power (Galway)"
+    url: "https://atlantec.ie/festival-programme/"
+    region: 🇮🇪
+    date_added: 2026-04-29
+    start_datetime: 2026-05-07T14:00:00Z
+    end_datetime: 2026-05-07T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Panel Discussion: Keeping the Human in the Leader</p>"
+    type: diversity
+  - name: "(In-Person) Go Ireland x MongoDB - May 2026 Meetup"
+    url: "https://www.meetup.com/goireland/events/314529915/"
+    region: 🇮🇪
+    date_added: 2026-04-29
+    start_datetime: 2026-05-21T18:00:00Z
+    end_datetime: 2026-05-21T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Online) GATHER 2026"
+    url: "https://www.ahead.ie/GATHER-2026"
+    region: 🇮🇪
+    date_added: 2026-04-29
+    start_datetime: 2026-05-19T09:30:00Z
+    end_datetime: 2026-05-21T12:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>AHEAD in partnership with AONTAS (the National Adult Learning Organisation) and the National Adult Literacy Agency (NALA), are delighted to bring you GATHER, a free 3 day online assistive technology (AT) event.</p><p>‼️NOTE: Times TBC, check website</p>"
+    type: diversity
