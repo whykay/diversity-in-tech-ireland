@@ -97,7 +97,7 @@ eventlistings:
     date_added: 2026-04-03
     start_datetime: 2026-05-20T18:30:00Z
     end_datetime: 2026-05-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The 2026 award ceremony will be held in conjunction with this year's science@culture talk, which will be given this year by Lynn Scarff, Executive Director of the Royal Irish Academy.</p><p>The talk will be followed by the Mary Mulvihill Award 2026 presentations. The award will be presented by Professor Margaret Kelleher, Chair of Anglo-Irish Literature and Drama at UCD.</p>"
     type: diversity
@@ -107,7 +107,7 @@ eventlistings:
     date_added: 2026-04-03
     start_datetime: 2026-05-12T18:00:00Z
     end_datetime: 2026-05-12T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -117,7 +117,7 @@ eventlistings:
     date_added: 2026-04-03
     start_datetime: 2026-05-05T19:00:00Z
     end_datetime: 2026-05-05T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -138,7 +138,7 @@ eventlistings:
     date_added: 2026-04-21
     start_datetime: 2026-05-07T18:00:00Z
     end_datetime: 2026-05-07T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after layoffs, understanding circle.</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
     type: diversity
@@ -148,7 +148,7 @@ eventlistings:
     date_added: 2026-04-21
     start_datetime: 2026-05-14T18:00:00Z
     end_datetime: 2026-05-14T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after mobbing and bullying at work.</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
     type: diversity
@@ -158,7 +158,7 @@ eventlistings:
     date_added: 2026-04-21
     start_datetime: 2026-05-21T18:00:00Z
     end_datetime: 2026-05-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>You are not alone ! This safe space is built for you to share, support, and heal together after burnout at work</p><p>Spots are limited - we like to keep the groups as small and private as possible.</p>"
     type: diversity
@@ -168,7 +168,7 @@ eventlistings:
     date_added: 2026-04-21
     start_datetime: 2026-05-06T12:00:00Z
     end_datetime: 2026-05-06T15:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -179,7 +179,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-05T18:30:00Z
     end_datetime: 2026-05-05T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Whether you’re just getting started or already deep into coding, you are so welcome to join us.</p><p>We’re all about creating a friendly, supportive space to learn, chat, and connect — no pressure, just good vibes (and usually cake 🍰)</p>"
     type: diversity
@@ -189,7 +189,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-19T18:30:00Z
     end_datetime: 2026-05-19T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Whether you’re just getting started or already deep into coding, you are so welcome to join us.</p><p>We’re all about creating a friendly, supportive space to learn, chat, and connect — no pressure, just good vibes (and usually cake 🍰)</p>"
     type: diversity
@@ -200,7 +200,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-23T11:00:00Z
     end_datetime: 2026-05-24T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: games
@@ -210,7 +210,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-26T17:00:00Z
     end_datetime: 2026-05-26T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-06T17:30:00Z
     end_datetime: 2026-05-06T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-11T18:00:00Z
     end_datetime: 2026-05-11T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -241,7 +241,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-18T18:00:00Z
     end_datetime: 2026-05-18T19:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -251,7 +251,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-25T17:30:00Z
     end_datetime: 2026-05-25T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -261,7 +261,7 @@ eventlistings:
     date_added: 2026-04-26
     start_datetime: 2026-05-26T17:30:00Z
     end_datetime: 2026-05-26T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -272,7 +272,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-27T18:30:00Z
     end_datetime: 2026-05-27T19:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -282,7 +282,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-26T15:00:00Z
     end_datetime: 2026-05-26T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -292,7 +292,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-26T15:00:00Z
     end_datetime: 2026-05-26T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -302,7 +302,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-13T18:30:00Z
     end_datetime: 2026-05-13T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -312,7 +312,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-06T18:15:00Z
     end_datetime: 2026-05-06T21:15:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -322,7 +322,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-01T19:00:00Z
     end_datetime: 2026-05-01T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -332,7 +332,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-05T19:00:00Z
     end_datetime: 2026-05-05T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -342,7 +342,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-11T19:00:00Z
     end_datetime: 2026-05-11T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -352,7 +352,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-04T19:00:00Z
     end_datetime: 2026-05-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -362,7 +362,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-04T19:00:00Z
     end_datetime: 2026-05-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -372,7 +372,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-04T19:00:00Z
     end_datetime: 2026-05-04T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -382,7 +382,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-07T17:30:00Z
     end_datetime: 2026-05-07T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-16T15:00:00Z
     end_datetime: 2026-05-16T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-22T18:30:00Z
     end_datetime: 2026-05-22T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-07T18:30:00Z
     end_datetime: 2026-05-07T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-07T17:00:00Z
     end_datetime: 2026-05-07T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-11T17:00:00Z
     end_datetime: 2026-05-11T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -442,7 +442,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-27T15:30:00Z
     end_datetime: 2026-05-27T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -452,7 +452,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-20T17:00:00Z
     end_datetime: 2026-05-20T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -462,7 +462,7 @@ eventlistings:
     date_added: 2026-04-27
     start_datetime: 2026-05-08T12:00:00Z
     end_datetime: 2026-05-08T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -473,7 +473,7 @@ eventlistings:
     date_added: 2026-04-29
     start_datetime: 2026-05-07T14:00:00Z
     end_datetime: 2026-05-07T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Panel Discussion: Keeping the Human in the Leader</p>"
     type: diversity
@@ -483,7 +483,7 @@ eventlistings:
     date_added: 2026-04-29
     start_datetime: 2026-05-21T18:00:00Z
     end_datetime: 2026-05-21T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -493,7 +493,7 @@ eventlistings:
     date_added: 2026-04-29
     start_datetime: 2026-05-19T09:30:00Z
     end_datetime: 2026-05-21T12:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>AHEAD in partnership with AONTAS (the National Adult Learning Organisation) and the National Adult Literacy Agency (NALA), are delighted to bring you GATHER, a free 3 day online assistive technology (AT) event.</p><p>‼️NOTE: Times TBC, check website</p>"
     type: diversity
