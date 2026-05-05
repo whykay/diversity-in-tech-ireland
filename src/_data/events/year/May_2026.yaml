@@ -497,3 +497,64 @@ eventlistings:
     recurring: false
     desc: "<p>AHEAD in partnership with AONTAS (the National Adult Learning Organisation) and the National Adult Literacy Agency (NALA), are delighted to bring you GATHER, a free 3 day online assistive technology (AT) event.</p><p>‼️NOTE: Times TBC, check website</p>"
     type: diversity
+
+  - name: "(In-Person) PlayMyDemo - May 2026"
+    url: "https://luma.com/z72mopad"
+    region: 🇬🇧
+    date_added: 2026-05-05
+    start_datetime: 2026-05-20T21:00:00Z
+    end_datetime: 2026-05-20T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "OWASP Belfast: Secure Dependencies & Faster Software Onboarding"
+    url: "https://www.meetup.com/owasp-belfast/events/314642864/"
+    region: 🇬🇧
+    date_added: 2026-05-05
+    start_datetime: 2026-05-28T17:00:00Z
+    end_datetime: 2026-05-28T19:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "CHAT – GAAD: Exploring the Assistive Technology Assessment Report 2026"
+    url: "https://www.eventbrite.ie/e/chat-gaad-exploring-the-assistive-technology-assessment-report-2026-tickets-1988762495159"
+    region: 🇮🇪
+    date_added: 2026-05-05
+    start_datetime: 2026-05-21T12:00:00Z
+    end_datetime: 2026-05-21T13:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Exploring Ireland’s Assistive Technology report, sharing lived experiences, and chatting about what’s next for access and inclusion.</p><p>This session, part of Global Accessibility Awareness Day (GAAD), will focus on the Assistive Technology Assessment Report for Ireland (2026).</p>"
+    type: diversity
+  - name: "Home Assistant Meetup with Galway IT"
+    url: "https://www.meetup.com/galway-information-technology/events/314498341/"
+    region: 🇮🇪
+    date_added: 2026-05-05
+    start_datetime: 2026-05-20T18:30:00Z
+    end_datetime: 2026-05-20T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Linux Tech Talks: Unifying CLI tools & Graphics API emulation"
+    url: "https://www.meetup.com/dublin-linux-community/events/314505630/"
+    region: 🇮🇪
+    date_added: 2026-05-05
+    start_datetime: 2026-05-26T18:30:00Z
+    end_datetime: 2026-05-26T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: Itsa me, May-rio"
+    url: "https://www.meetup.com/the-games-co-op/events/314561706/"
+    region: 🇮🇪
+    date_added: 2026-05-05
+    start_datetime: 2026-05-18T19:00:00Z
+    end_datetime: 2026-05-18T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
