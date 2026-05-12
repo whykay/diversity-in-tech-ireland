@@ -558,3 +558,94 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "Dub|Sec May 2026 Social"
+    url: "https://www.meetup.com/dub-sec/events/314661321/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-27T18:30:00Z
+    end_datetime: 2026-05-27T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314717537/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-15T19:00:00Z
+    end_datetime: 2026-05-15T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjchbdc/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-22T19:00:00Z
+    end_datetime: 2026-05-22T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Hack and Chill @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314717538/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-29T19:00:00Z
+    end_datetime: 2026-05-29T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314529697/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-18T19:00:00Z
+    end_datetime: 2026-05-18T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314646516/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-25T19:00:00Z
+    end_datetime: 2026-05-25T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "TOG Watch Night: The Secret Life of Components (Tim Hunkin)"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314529409/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-18T19:00:00Z
+    end_datetime: 2026-05-18T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314477798/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-25T19:00:00Z
+    end_datetime: 2026-05-25T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Galway Summer Game Jam 2026 @ CREW"
+    url: "https://www.meetup.com/galway-game-jam/events/314370504/"
+    region: 🇮🇪
+    date_added: 2026-05-12
+    start_datetime: 2026-05-29T18:00:00Z
+    end_datetime: 2026-05-31T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
