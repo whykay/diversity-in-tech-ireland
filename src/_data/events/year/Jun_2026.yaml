@@ -252,3 +252,34 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+
+  - name: "Introduction to Making (adults and ages 15+) @ Richmond Barracks"
+    url: "https://richmondbarracks.ticketsolve.com/ticketbooth/shows/1173672708"
+    region: 🇮🇪
+    date_added: 2026-05-15
+    start_datetime: 2026-06-03T14:30:00Z
+    end_datetime: 2026-06-03T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Introduction to Making (adults and ages 15+) @ Richmond Barracks"
+    url: "https://richmondbarracks.ticketsolve.com/ticketbooth/shows/1173672708"
+    region: 🇮🇪
+    date_added: 2026-05-15
+    start_datetime: 2026-06-10T14:30:00Z
+    end_datetime: 2026-06-10T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Introduction to Making (adults and ages 15+) @ Richmond Barracks"
+    url: "https://richmondbarracks.ticketsolve.com/ticketbooth/shows/1173672708"
+    region: 🇮🇪
+    date_added: 2026-05-15
+    start_datetime: 2026-06-17T14:30:00Z
+    end_datetime: 2026-06-17T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
