@@ -439,3 +439,14 @@ conferences:
     recurring: false
     desc: "<p>AtlanTec Festival & Conference 2026 (5th–15th May) brings together engineers, innovators, researchers and industry leaders to explore how human intelligence drives the next era of information innovation. With a dynamic ten-day program and a high-impact Conference on 14th May, AtlanTec is where ideas scale, technology meets purpose, and the West of Ireland steps confidently onto the global tech stage.</p>"
     type: tech
+
+  - name: "GATHER 2026"
+    url: "https://www.ahead.ie/event/gather-2026/index"
+    region: 🇮🇪
+    date_added: 2026-05-19
+    start_datetime: 2026-05-19T09:00:00Z
+    end_datetime: 2026-05-21T16:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This free 3 day online event, that gathers our Assistive Technology (AT) Community in Further and Higher Education, is a space to meet online, share ideas and insights about the multifaceted topic of AT and how it is part of student success.</p>"
+    type: diversity

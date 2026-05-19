@@ -670,3 +670,14 @@ eventlistings:
     recurring: false
     desc: "<p>Four weekly online sessions exploring what responsible AI looks like in practice. Free, with live Q&A after each talk.</p>"
     type: diversity
+
+  - name: "WITS Ireland: AI without the Hype: Case Studies, Challenges & Frameworks @ Deloitte"
+    url: "https://www.eventbrite.ie/e/ai-without-the-hype-case-studies-challenges-frameworks-tickets-1988830787423"
+    region: 🇮🇪
+    date_added: 2026-05-19
+    start_datetime: 2026-05-26T18:00:00Z
+    end_datetime: 2026-05-26T18:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join WITS Ireland for an evening focused on how AI is actually being applied across healthcare and pharma today.</p>"
+    type: diversity
