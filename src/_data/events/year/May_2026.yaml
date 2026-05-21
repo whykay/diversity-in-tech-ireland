@@ -656,7 +656,7 @@ eventlistings:
     date_added: 2026-05-15
     start_datetime: 2026-05-20T18:00:00Z
     end_datetime: 2026-05-20T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Four weekly online sessions exploring what responsible AI looks like in practice. Free, with live Q&A after each talk.</p>"
     type: diversity
@@ -666,7 +666,7 @@ eventlistings:
     date_added: 2026-05-15
     start_datetime: 2026-05-27T18:00:00Z
     end_datetime: 2026-05-27T19:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Four weekly online sessions exploring what responsible AI looks like in practice. Free, with live Q&A after each talk.</p>"
     type: diversity
@@ -677,7 +677,7 @@ eventlistings:
     date_added: 2026-05-19
     start_datetime: 2026-05-26T18:00:00Z
     end_datetime: 2026-05-26T18:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join WITS Ireland for an evening focused on how AI is actually being applied across healthcare and pharma today.</p>"
     type: diversity
