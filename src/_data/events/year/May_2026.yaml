@@ -681,3 +681,14 @@ eventlistings:
     recurring: false
     desc: "<p>Join WITS Ireland for an evening focused on how AI is actually being applied across healthcare and pharma today.</p>"
     type: diversity
+
+  - name: "Wexford Tech Meetup @ Scurri"
+    url: "https://www.meetup.com/wexford-tech-meetup/events/314890331/"
+    region: 🇮🇪
+    date_added: 2026-05-19
+    start_datetime: 2026-05-27T19:00:00Z
+    end_datetime: 2026-05-27T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
