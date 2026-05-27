@@ -283,3 +283,94 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+
+  - name: "Inclusive Sport in Action: Assistive Technology, Rights & Participation @ University of Galway"
+    url: "https://www.eventbrite.ie/e/inclusive-sport-in-action-assistive-technology-rights-participation-tickets-1985525314665"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-03T11:00:00Z
+    end_datetime: 2026-06-03T15:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for CHAT – Inclusive Sport in Action: Assistive Technology, Rights & Participation, a dynamic and interactive event focused on how Assistive Technology (AT) supports people with disabilities in accessing, enjoying, and leading in sport, physical activity, and recreation.</p>"
+    type: diversity
+  - name: "Dublin Linux Community: Monthly Meetup in the pub @ Moss Lane"
+    url: "https://www.meetup.com/dublin-linux-community/events/314922527/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-27T15:00:00Z
+    end_datetime: 2026-06-27T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Python Ireland June 2026 Meetup"
+    url: "https://www.meetup.com/pythonireland/events/314958258/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-10T18:30:00Z
+    end_datetime: 2026-06-10T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314949200/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-20T19:00:00Z
+    end_datetime: 2026-06-20T23:59:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314771840/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-02T19:00:00Z
+    end_datetime: 2026-06-02T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "The Games Co-Op: Welcome to the June-gle @ The Circular T"
+    url: "https://www.meetup.com/the-games-co-op/events/314908433/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-15T19:00:00Z
+    end_datetime: 2026-06-15T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "(Online) NGINX Community Group: Cork Chapter: NGINX Community Call"
+    url: "https://www.meetup.com/nginx-community-group-cork-chapter/events/314881602/"
+    region: 🇮🇪
+    date_added: 2026-05-27
+    start_datetime: 2026-06-24T17:00:00Z
+    end_datetime: 2026-06-24T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DevOps Belfast @ Instil Software"
+    url: "https://www.meetup.com/devops-belfast/events/314627781/"
+    region: 🇬🇧
+    date_added: 2026-05-27
+    start_datetime: 2026-06-16T18:00:00Z
+    end_datetime: 2026-06-16T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Belfast Design Meetup"
+    url: "https://www.meetup.com/belfast-design/events/314692465/"
+    region: 🇬🇧
+    date_added: 2026-05-27
+    start_datetime: 2026-06-04T17:30:00Z
+    end_datetime: 2026-06-04T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
