@@ -688,7 +688,7 @@ eventlistings:
     date_added: 2026-05-19
     start_datetime: 2026-05-27T19:00:00Z
     end_datetime: 2026-05-27T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
