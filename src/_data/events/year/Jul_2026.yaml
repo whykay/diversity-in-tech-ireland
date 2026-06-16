@@ -1,0 +1,133 @@
+---
+eventlistings:
+  - name: "Ladies that UX Dublin - Summer Meetup6"
+    url: "https://www.eventbrite.ie/e/ladies-that-ux-dublin-summer-meetup-tickets-1991977510356"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-06T18:00:00Z
+    end_datetime: 2026-07-06T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>This July, we're taking a break from presentations and bringing the community together for a relaxed evening at The Bath Pub.</p>"
+    type: diversity
+
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjckbfb"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-03T19:00:00Z
+    end_datetime: 2026-07-03T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjckbnb/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-10T19:00:00Z
+    end_datetime: 2026-07-10T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjckbwb/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-17T19:00:00Z
+    end_datetime: 2026-07-17T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjckbgc/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-24T19:00:00Z
+    end_datetime: 2026-07-24T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/lnrqwtyjckbpc/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-31T19:00:00Z
+    end_datetime: 2026-07-31T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Stripe Developer meetup Dublin July 2026"
+    url: "https://www.meetup.com/stripe-dublin/events/314861670/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-02T18:00:00Z
+    end_datetime: 2026-07-02T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/315267297"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-25T15:00:00Z
+    end_datetime: 2026-07-25T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Craft Night"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/314999357/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-12T18:30:00Z
+    end_datetime: 2026-07-12T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "TOG Hackerspace: Monthly Makerfur Meet"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315240166/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-04T13:00:00Z
+    end_datetime: 2026-07-04T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Rust Dublin 262 - Azi Crawford and Rui Lima"
+    url: "https://ti.to/dublin-rust-user-group/262-azi-crawford-rui-lima/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-08T18:15:00Z
+    end_datetime: 2026-07-08T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "(Remote) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/315240169/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-11T15:00:00Z
+    end_datetime: 2026-07-11T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 157"
+    url: "https://www.meetup.com/corksec/events/311100616/"
+    region: 🇮🇪
+    date_added: 2026-06-16
+    start_datetime: 2026-07-14T19:00:00Z
+    end_datetime: 2026-07-14T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
