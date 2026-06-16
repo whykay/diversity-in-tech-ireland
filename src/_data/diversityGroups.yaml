@@ -1038,6 +1038,17 @@ groups:
     date_removed:
     type: all
 
+  - name: 40++
+    url: "https://40plusplus.org/"
+    region: Ireland
+    date_added: 2026-06-16
+    year_added: 2026
+    month_added: 06
+    day_added: 16
+    status: new
+    date_removed:
+    type: all
+
   ###
   # THIRD LEVEL
   ###
