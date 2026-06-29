@@ -392,7 +392,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-18T18:00:00Z
     end_datetime: 2026-06-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -402,7 +402,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-24T18:00:00Z
     end_datetime: 2026-06-24T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -412,7 +412,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-20T14:00:00Z
     end_datetime: 2026-06-20T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -422,7 +422,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-17T17:45:00Z
     end_datetime: 2026-06-17T20:45:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -432,7 +432,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-19T19:00:00Z
     end_datetime: 2026-06-19T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -442,7 +442,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-28T18:30:00Z
     end_datetime: 2026-06-28T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -452,7 +452,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-26T19:00:00Z
     end_datetime: 2026-06-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -462,7 +462,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-20T15:00:00Z
     end_datetime: 2026-06-20T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -472,7 +472,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-17T17:30:00Z
     end_datetime: 2026-06-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -482,7 +482,7 @@ eventlistings:
     date_added: 2026-06-16
     start_datetime: 2026-06-25T18:30:00Z
     end_datetime: 2026-06-25T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
