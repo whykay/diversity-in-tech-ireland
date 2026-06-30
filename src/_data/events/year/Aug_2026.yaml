@@ -1,0 +1,43 @@
+---
+eventlistings:
+  - name: "TechFoundHer: Belfast Build Club - We're back"
+    url: "https://www.eventbrite.ie/e/belfast-build-club-were-back-tickets-1992784682630"
+    region: 🇬🇧
+    date_added: 2026-06-30
+    start_datetime: 2026-08-06T12:00:00Z
+    end_datetime: 2026-08-06T14:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Forget happy hours. Forget book clubs. Forget Stitch & Bitch.
+     This is the radical remix for our time — where women gather not to stitch fabric, but to stitch ideas, use no code tools, and community, and to build the future together.</p>"
+    type: diversity
+  - name: "Dublin Linux Community: Monthly Meetup in the pub"
+    url: "https://www.meetup.com/dublin-linux-community/events/315262198/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-08-22T15:00:00Z
+    end_datetime: 2026-08-22T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Hack and Chill"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315265696/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-08-21T19:00:00Z
+    end_datetime: 2026-08-21T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Cork|Sec 158"
+    url: "https://www.meetup.com/corksec/events/311100619/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-08-11T19:00:00Z
+    end_datetime: 2026-08-11T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
