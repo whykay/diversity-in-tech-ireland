@@ -131,3 +131,135 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "Pitching For Games Workshop"
+    url: "https://www.galwayfilmfleadh.com/project/pitching-for-games-workshop/"
+    region: 🇮🇪
+    date_added: 2026-06-29
+    start_datetime: 2026-07-11T14:30:00Z
+    end_datetime: 2026-07-11T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+
+  - name: "Python Ireland July 2026 Meetup @ MongoDB"
+    url: "https://www.meetup.com/pythonireland/events/315375859/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-30T18:30:00Z
+    end_datetime: 2026-07-30T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The July SRE Meetup @ Datadog Dublin"
+    url: "https://www.meetup.com/site-reliability-engineering-dublin/events/315469558/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-09T19:00:00Z
+    end_datetime: 2026-07-09T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "AWS User Group Dublin: AWS All Builders - Welcome Grant @ AWSdub19"
+    url: "https://www.meetup.com/awsdublin/events/315381803/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-07T17:45:00Z
+    end_datetime: 2026-07-07T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TouchDesigner Meetup Dublin @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315336436/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-01T19:00:00Z
+    end_datetime: 2026-07-01T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "DubJUG 268: Tyson Gern @ tcube Dublin"
+    url: "https://ti.to/dublin-java-user-group/268-tyson-gern"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-29T18:15:00Z
+    end_datetime: 2026-07-29T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Ealaín Solas: Build & Explore Polarised Light"
+    url: "https://ti.to/dublin-java-user-group/268-tyson-gern"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-29T18:15:00Z
+    end_datetime: 2026-07-29T21:15:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "The Games Co-Op: July-ghts, Camera, Action!"
+    url: "https://www.meetup.com/the-games-co-op/events/315395421/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-20T19:00:00Z
+    end_datetime: 2026-07-20T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "TOG Hackerspace: Tuesday Open House"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315302000/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-07T19:00:00Z
+    end_datetime: 2026-07-07T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker, social
+  - name: "TOG Hackerspace: Repair Club: Buttons & Patches Edition"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315394159/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-22T19:30:00Z
+    end_datetime: 2026-07-22T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "TOG Hackerspace: TOG Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315311551/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-18T19:00:00Z
+    end_datetime: 2026-07-18T23:59:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker, social
+  - name: "Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/315416071/"
+    region: 🇮🇪
+    date_added: 2026-06-30
+    start_datetime: 2026-07-01T18:00:00Z
+    end_datetime: 2026-07-01T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Craft Afternoon @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/315393849/"
+    region: 🇬🇧
+    date_added: 2026-06-30
+    start_datetime: 2026-07-18T15:00:00Z
+    end_datetime: 2026-07-18T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
