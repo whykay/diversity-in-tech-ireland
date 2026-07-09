@@ -450,3 +450,14 @@ conferences:
     recurring: false
     desc: "<p>This free 3 day online event, that gathers our Assistive Technology (AT) Community in Further and Higher Education, is a space to meet online, share ideas and insights about the multifaceted topic of AT and how it is part of student success.</p>"
     type: diversity
+
+  - name: "Nexus Games Summit 2026"
+    url: "https://nexusdublin.ie"
+    region: 🇮🇪
+    date_added: 2026-07-09
+    start_datetime: 2026-09-25T10:00:00Z
+    end_datetime: 2026-09-26T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>New for 2026 and featuring Dean Takahashi of GamesBeat, NEXUS Forum is an exclusive, intimate gathering of senior leaders shaping the future of the games industry. The event is curated for founders, C-suite executives, and decision-makers, allowing for candid conversations, forward-looking insights and strategic relationship building. Through keynote presentations and moderated roundtables, NEXUS Forum creates space for bold ideas and strategic alignment that explore the industry’s next chapter. Limited availability. </p>"
+    type: gamedev
