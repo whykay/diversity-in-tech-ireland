@@ -334,3 +334,34 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "Galway Film Fleadh & Nexus: ‘Pitching for Games 101’ workshop"
+    url: "https://www.galwayfilmfleadh.com/project/pitching-for-games-workshop/"
+    region: 🇮🇪
+    date_added: 2026-07-10
+    start_datetime: 2026-07-11T14:30:00Z
+    end_datetime: 2026-07-11T16:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "Design Mingle: Creative Connections @ CREW (Galway)"
+    url: "https://www.eventbrite.ie/e/design-mingle-creative-connections-tickets-1993004085871"
+    region: 🇮🇪
+    date_added: 2026-07-10
+    start_datetime: 2026-07-24T11:30:00Z
+    end_datetime: 2026-07-24T13:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "Makerspace: 4 week course in fabricated design and laser cutting @ Tallaght Library"
+    url: "https://www.eventbrite.ie/e/makerspace-4-week-course-in-fabricated-design-and-laser-cutting-tickets-1992131458820"
+    region: 🇮🇪
+    date_added: 2026-07-10
+    start_datetime: 2026-07-28T18:00:00Z
+    end_datetime: 2026-07-28T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
