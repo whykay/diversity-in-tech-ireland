@@ -82,3 +82,13 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+  - name: "Women in Tech Belfast: Summer Social 2026 at Kainos, featuring Louise Brogan"
+    url: "https://www.meetup.com/women-in-tech-belfast/events/315821135/"
+    region: 🇬🇧
+    date_added: 2026-07-25
+    start_datetime: 2026-08-26T17:30:00Z
+    end_datetime: 2026-08-26T21:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for our annual Summer Social, an evening of great conversation, new connections and a chance to catch up with the Women in Tech Belfast community. Whether you're a regular attendee or joining us for the first time, this is the perfect opportunity to meet like-minded people from across Belfast's tech ecosystem in a relaxed and welcoming setting.</p>"
+    type: diversity
