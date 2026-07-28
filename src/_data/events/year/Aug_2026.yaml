@@ -193,3 +193,13 @@ eventlistings:
     recurring: false
     desc:
     type: maker
+  - name: "The Games Co-Op: Grand Theft August"
+    url: "https://www.meetup.com/the-games-co-op/events/315876592/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-24T19:00:00Z
+    end_datetime: 2026-08-24T23:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
