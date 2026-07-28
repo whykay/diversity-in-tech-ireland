@@ -92,3 +92,104 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for our annual Summer Social, an evening of great conversation, new connections and a chance to catch up with the Women in Tech Belfast community. Whether you're a regular attendee or joining us for the first time, this is the perfect opportunity to meet like-minded people from across Belfast's tech ecosystem in a relaxed and welcoming setting.</p>"
     type: diversity
+
+  - name: "Dublin Linux Community: Summer Social @ The Circular, Rialto"
+    url: "https://www.meetup.com/dublin-linux-community/events/315850246/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-15T18:00:00Z
+    end_datetime: 2026-08-15T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Dublin C++ User Group: Procedural Animations for Games - Vincent Reichenberger"
+    url: "https://www.meetup.com/cppdug/events/315722828/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-25T20:00:00Z
+    end_datetime: 2026-08-25T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315682962/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-03T19:00:00Z
+    end_datetime: 2026-08-03T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315683032/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-03T19:00:00Z
+    end_datetime: 2026-08-03T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "[Online] Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/315641272/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-08-08T15:00:00Z
+    end_datetime: 2026-08-08T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Belfast Design Coffee"
+    url: "https://www.meetup.com/belfastdesign/events/315708074/"
+    region: 🇬🇧
+    date_added: 2026-07-28
+    start_datetime: 2026-08-27T13:00:00Z
+    end_datetime: 2026-08-27T14:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "Belfast Design Meetup"
+    url: "https://www.meetup.com/belfastdesign/events/315614966"
+    region: 🇬🇧
+    date_added: 2026-07-28
+    start_datetime: 2026-08-13T17:30:00Z
+    end_datetime: 2026-08-13T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "DevOps Belfast - Automating Away the Boring Things"
+    url: "https://www.meetup.com/devops-belfast/events/315757791/"
+    region: 🇬🇧
+    date_added: 2026-07-28
+    start_datetime: 2026-08-11T18:00:00Z
+    end_datetime: 2026-08-11T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: design
+  - name: "Craft Afternoon @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/315750060/"
+    region: 🇬🇧
+    date_added: 2026-07-28
+    start_datetime: 2026-08-15T15:00:00Z
+    end_datetime: 2026-08-15T18:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "🛠 Maker Night @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/315771419/"
+    region: 🇬🇧
+    date_added: 2026-07-28
+    start_datetime: 2026-08-18T18:00:00Z
+    end_datetime: 2026-08-18T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker

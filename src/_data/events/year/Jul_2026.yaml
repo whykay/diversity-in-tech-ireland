@@ -193,16 +193,6 @@ eventlistings:
     recurring: false
     desc:
     type: tech
-  - name: "Ealaín Solas: Build & Explore Polarised Light"
-    url: "https://ti.to/dublin-java-user-group/268-tyson-gern"
-    region: 🇮🇪
-    date_added: 2026-06-30
-    start_datetime: 2026-07-29T18:15:00Z
-    end_datetime: 2026-07-29T21:15:00Z
-    new: false
-    recurring: false
-    desc:
-    type: tech
   - name: "The Games Co-Op: July-ghts, Camera, Action!"
     url: "https://www.meetup.com/the-games-co-op/events/315395421/"
     region: 🇮🇪
@@ -362,6 +352,26 @@ eventlistings:
     start_datetime: 2026-07-28T18:00:00Z
     end_datetime: 2026-07-28T20:00:00Z
     new: false
+    recurring: false
+    desc:
+    type: maker
+  - name: "Codú: Web Developer Meetup"
+    url: "https://www.meetup.com/codu-community/events/315611921/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-07-30T18:00:00Z
+    end_datetime: 2026-07-30T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "TOG Hackerspace: Tuesday Open House"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/315793275/"
+    region: 🇮🇪
+    date_added: 2026-07-28
+    start_datetime: 2026-07-28T19:00:00Z
+    end_datetime: 2026-07-28T21:30:00Z
+    new: true
     recurring: false
     desc:
     type: maker
