@@ -203,3 +203,13 @@ eventlistings:
     recurring: false
     desc:
     type: gamedev
+  - name: "🚀 XCake Happy Hour hosted by Runway"
+    url: "https://www.meetup.com/dublin-mobile-dev/events/315909439/"
+    region: 🇮🇪
+    date_added: 2026-07-31
+    start_datetime: 2026-08-14T17:30:00Z
+    end_datetime: 2026-08-14T22:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
