@@ -1,0 +1,22 @@
+---
+eventlistings:
+  - name: "[Online]Writing for Video Games with Charlene Putney (4 weeks)"
+    url: "https://irishwriterscentre.ie/courses/writing-for-video-games-with-charlene-putney-8/"
+    region: 🇮🇪
+    date_added: 2026-08-05
+    start_datetime: 2026-09-03T18:30:00Z
+    end_datetime: 2026-09-25T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: gamedev
+  - name: "Diversity Inclusion Tech Awards @ The Gibson Hotel (Dublin)"
+    url: "https://diversityintechawards.com/register-to-attend"
+    region: 🇮🇪
+    date_added: 2026-08-05
+    start_datetime: 2026-09-17T18:00:00Z
+    end_datetime: 2026-09-17T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The Diversity Inclusion Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last four years has grown into a programme celebrating all facets of diversity within the tech industry, includes 16 awards celebrating the industry’s achievements in this field.</p>"
+    type: diversity
