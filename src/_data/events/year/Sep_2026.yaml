@@ -20,3 +20,13 @@ eventlistings:
     recurring: false
     desc: "<p>The Diversity Inclusion Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last four years has grown into a programme celebrating all facets of diversity within the tech industry, includes 16 awards celebrating the industry’s achievements in this field.</p>"
     type: diversity
+  - name: "(Online)CHAT - Exploring the Next Generation of CREATE-Funded Innovation"
+    url: "https://www.eventbrite.ie/e/chat-exploring-the-next-generation-of-create-funded-innovation-tickets-1996798070782"
+    region: 🇮🇪
+    date_added: 2026-08-05
+    start_datetime: 2026-09-23T14:00:00Z
+    end_datetime: 2026-09-23T15:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>FreedomTech invites you to join our next online CHAT (Community Hub for Accessible Technology) gathering.</p><p>This session will bring together the 2026 CREATE III grant recipients to share the projects they are developing across Assistive Technology (AT), digital inclusion and accessibility in Ireland.</p>"
+    type: diversity
