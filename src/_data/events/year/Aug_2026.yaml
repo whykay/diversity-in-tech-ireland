@@ -213,3 +213,14 @@ eventlistings:
     recurring: false
     desc:
     type: tech
+
+  - name: "NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867?aff=oddtdtcreator"
+    region: 🇬🇧
+    date_added: 2026-08-13
+    start_datetime: 2026-09-27T09:30:00Z
+    end_datetime: 2026-09-27T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech

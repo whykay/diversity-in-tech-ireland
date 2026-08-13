@@ -30,3 +30,24 @@ eventlistings:
     recurring: false
     desc: "<p>FreedomTech invites you to join our next online CHAT (Community Hub for Accessible Technology) gathering.</p><p>This session will bring together the 2026 CREATE III grant recipients to share the projects they are developing across Assistive Technology (AT), digital inclusion and accessibility in Ireland.</p>"
     type: diversity
+
+  - name: "NI Cyber - the Breakfast Club"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867"
+    region: 🇬🇧
+    date_added: 2026-08-13
+    start_datetime: 2026-09-24T09:30:00Z
+    end_datetime: 2026-09-24T10:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "NI Cyber x Danske Bank Women in Cyber September Social"
+    url: "https://www.eventbrite.com/e/ni-cyber-x-danske-bank-women-in-cyber-september-social-tickets-1997149080662"
+    region: 🇬🇧
+    date_added: 2026-08-13
+    start_datetime: 2026-09-02T17:30:00Z
+    end_datetime: 2026-09-02T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a relaxed evening connecting women in our ecosystem rocking the cyber and banking world over great chats and good vibes.</p>"
+    type: diversity
