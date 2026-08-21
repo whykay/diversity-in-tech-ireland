@@ -461,3 +461,24 @@ conferences:
     recurring: false
     desc: "<p>New for 2026 and featuring Dean Takahashi of GamesBeat, NEXUS Forum is an exclusive, intimate gathering of senior leaders shaping the future of the games industry. The event is curated for founders, C-suite executives, and decision-makers, allowing for candid conversations, forward-looking insights and strategic relationship building. Through keynote presentations and moderated roundtables, NEXUS Forum creates space for bold ideas and strategic alignment that explore the industry’s next chapter. Limited availability. </p>"
     type: gamedev
+
+  - name: "Defuse 2026 @ The Sugar Club"
+    url: "https://defuse.ixd.ie/"
+    region: 🇮🇪
+    date_added: 2026-07-09
+    start_datetime: 2026-11-09T19:00:00Z
+    end_datetime: 2026-11-09T22:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>Come join the Dublin design community for a night of inspiration, innovation and insight as some of Ireland's leading experts in the field of Interaction Design share their stories and highlight some of the most compelling design challenges they face.</p>"
+    type: design
+  - name: "BelfAWSt Unconference Sept"
+    url: "https://www.meetup.com/belfawst-meetup/events/316112159/"
+    region: 🇬🇧
+    date_added: 2026-07-09
+    start_datetime: 2026-09-23T18:00:00Z
+    end_datetime: 2026-09-23T20:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>We’re back! Join us after a spring/summer hiatus for AWS, food, fun, and community. It’s been a while, so we’re kicking off with an unconference-style event - we want to hear from you! What kinds of topics should we dive into? Who should we bring in for guest speakers? What kinds of services, tooling, or technology would you like information sessions or hands on workshops? Do YOU have something exciting you want to share?</p>"
+    type: design

@@ -51,3 +51,186 @@ eventlistings:
     recurring: false
     desc: "<p>Join us for a relaxed evening connecting women in our ecosystem rocking the cyber and banking world over great chats and good vibes.</p>"
     type: diversity
+
+  - name: "PyLadies Dublin @ Bentley Systems"
+    url: "https://luma.com/mrq6hjqr"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-15T18:30:00Z
+    end_datetime: 2026-09-15T20:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>Join us for a relaxed evening kindly hosted by Bentley Systems with talks from Rose Farrell (ninedots), Anna Earley (Spunout.ie) and ​Riona Nazareth (Bentley).</p>"
+    type: diversity
+  - name: "[Coding Grace] Introduction to Python & Electronics Workshop Series (x5 Saturdays)"
+    url: "https://ti.to/coding-grace/circuitpython-and-electronics-workshop-series"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-05T11:00:00Z
+    end_datetime: 2026-10-03T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
+      <p>⚙️ Through a series of five 1.5 hour workshops, we will introduce you to circuits with paper circuits, find out what breadboards are (It's not made of bread 🍞). How it all connects together, what is a Raspberry Pi Pico, and how do you use code to make it all work? And what is this CircuitPython you keep mentioning?</p>
+      <p>🎮 By the last session, you will be able to code a game controller connected to a Raspberry Pi Pico, and when you connect that a laptop, you can play games! And as it's customisable, you can change and modify it as it's all in Python! 🐍</p>"
+    type: diversity
+  - name: "Stripe Developer meetup Dublin September 2026"
+    url: "https://www.meetup.com/stripe-dublin/events/315425387/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-09T18:00:00Z
+    end_datetime: 2026-09-09T20:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Linux Developer Group: Linux Tech Talk: GPUISP in libcamera @ Anseo"
+    url: "https://www.meetup.com/linux-developers/events/315977200/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-29T19:30:00Z
+    end_datetime: 2026-09-29T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Craft Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316116811/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-06T18:30:00Z
+    end_datetime: 2026-09-06T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Craft Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/fphvztyjcmbbc/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-20T18:30:00Z
+    end_datetime: 2026-09-20T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcmbpb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-04T19:00:00Z
+    end_datetime: 2026-09-04T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316131006/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-11T19:00:00Z
+    end_datetime: 2026-09-11T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcmbxb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-18T19:00:00Z
+    end_datetime: 2026-09-18T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcmbhc/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-25T19:00:00Z
+    end_datetime: 2026-09-25T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Monthly Makerfur Meet @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316139121/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-05T13:00:00Z
+    end_datetime: 2026-09-05T17:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316072229/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-08T19:00:00Z
+    end_datetime: 2026-09-08T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316172416/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-14T19:00:00Z
+    end_datetime: 2026-09-14T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/xmjnxtyjcmblc/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-28T19:00:00Z
+    end_datetime: 2026-09-28T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Belfast Design Meetup"
+    url: "https://www.meetup.com/belfastdesign/events/316168734/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-10T17:30:00Z
+    end_datetime: 2026-09-10T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: design
+  - name: "Craft Afternoon @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/315985515/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-19T15:00:00Z
+    end_datetime: 2026-09-19T18:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "ProductTank Belfast: \"Do No Harm\" Product Ethics Workshop"
+    url: "https://www.meetup.com/producttank-belfast/events/316152184/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-16T18:00:00Z
+    end_datetime: 2026-09-16T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "🛠 Maker Night at the Hackerspace @ Farset Labs"
+    url: "https://www.meetup.com/farsetlabs/events/316164783/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-15T18:00:00Z
+    end_datetime: 2026-09-15T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker

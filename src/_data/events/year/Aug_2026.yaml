@@ -215,12 +215,63 @@ eventlistings:
     type: tech
 
   - name: "NI Cyber - the Breakfast Club"
-    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867?aff=oddtdtcreator"
+    url: "https://www.eventbrite.co.uk/e/ni-cyber-the-breakfast-club-tickets-510893384867"
     region: 🇬🇧
     date_added: 2026-08-13
-    start_datetime: 2026-09-27T09:30:00Z
-    end_datetime: 2026-09-27T10:30:00Z
+    start_datetime: 2026-08-27T09:30:00Z
+    end_datetime: 2026-08-27T10:30:00Z
     new: false
+    recurring: false
+    desc:
+    type: tech
+
+  - name: "Dub|Sec July 2026 Social @ The Camden Court Hotel"
+    url: "https://www.meetup.com/dub-sec/events/316009077/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-08-25T18:30:00Z
+    end_datetime: 2026-08-25T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
+  - name: "Tuesday Open House @ TOG Hackerspace"
+    url: "https://www.meetup.com/dub-sec/events/316009077/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-08-25T19:00:00Z
+    end_datetime: 2026-08-25T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316074786/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-08-31T19:00:00Z
+    end_datetime: 2026-08-31T21:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316074904/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-08-31T19:00:00Z
+    end_datetime: 2026-08-31T21:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316034938/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-08-28T19:00:00Z
+    end_datetime: 2026-08-28T21:00:00Z
+    new: true
     recurring: false
     desc:
     type: tech
