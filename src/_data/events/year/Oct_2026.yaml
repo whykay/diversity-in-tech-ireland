@@ -1,0 +1,64 @@
+---
+eventlistings:
+  - name: "[Coding Grace] Introduction to Python & Electronics Workshop Series (Final Session)"
+    url: "https://ti.to/coding-grace/circuitpython-and-electronics-workshop-series"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-03T11:00:00Z
+    end_datetime: 2026-10-03T12:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
+      <p>⚙️ Through a series of five 1.5 hour workshops, we will introduce you to circuits with paper circuits, find out what breadboards are (It's not made of bread 🍞). How it all connects together, what is a Raspberry Pi Pico, and how do you use code to make it all work? And what is this CircuitPython you keep mentioning?</p>
+      <p>🎮 By the last session, you will be able to code a game controller connected to a Raspberry Pi Pico, and when you connect that a laptop, you can play games! And as it's customisable, you can change and modify it as it's all in Python! 🐍</p>"
+    type: diversity
+  - name: "Craft Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/fphvztyjcnbgb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-04T18:30:00Z
+    end_datetime: 2026-10-04T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Craft Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/fphvztyjcnbxb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-18T18:30:00Z
+    end_datetime: 2026-10-18T20:30:00Z
+    new: true
+    recurring: false
+    desc:
+    type: maker
+  - name: "Monthly Makerfur Meet @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/kknwxtyjcnbfb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-03T13:00:00Z
+    end_datetime: 2026-10-03T17:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/xmjnxtyjcnbqb/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-12T19:00:00Z
+    end_datetime: 2026-10-12T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/xmjnxtyjcnbjc/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-26T19:00:00Z
+    end_datetime: 2026-10-26T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
