@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2026-06-30
     start_datetime: 2026-08-06T12:00:00Z
     end_datetime: 2026-08-06T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Forget happy hours. Forget book clubs. Forget Stitch & Bitch.
      This is the radical remix for our time — where women gather not to stitch fabric, but to stitch ideas, use no code tools, and community, and to build the future together.</p>"
@@ -17,7 +17,7 @@ eventlistings:
     date_added: 2026-06-30
     start_datetime: 2026-08-22T15:00:00Z
     end_datetime: 2026-08-22T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -27,7 +27,7 @@ eventlistings:
     date_added: 2026-06-30
     start_datetime: 2026-08-21T19:00:00Z
     end_datetime: 2026-08-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2026-06-30
     start_datetime: 2026-08-11T19:00:00Z
     end_datetime: 2026-08-11T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2026-06-30
     start_datetime: 2026-08-16T13:00:00Z
     end_datetime: 2026-08-16T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2026-07-10
     start_datetime: 2026-08-21T19:00:00Z
     end_datetime: 2026-08-21T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: animation
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2026-07-10
     start_datetime: 2026-08-06T18:30:00Z
     end_datetime: 2026-08-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -78,7 +78,7 @@ eventlistings:
     date_added: 2026-07-10
     start_datetime: 2026-08-22T10:00:00Z
     end_datetime: 2026-08-23T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -88,7 +88,7 @@ eventlistings:
     date_added: 2026-07-25
     start_datetime: 2026-08-26T17:30:00Z
     end_datetime: 2026-08-26T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for our annual Summer Social, an evening of great conversation, new connections and a chance to catch up with the Women in Tech Belfast community. Whether you're a regular attendee or joining us for the first time, this is the perfect opportunity to meet like-minded people from across Belfast's tech ecosystem in a relaxed and welcoming setting.</p>"
     type: diversity
@@ -99,7 +99,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-15T18:00:00Z
     end_datetime: 2026-08-15T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -109,7 +109,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-25T20:00:00Z
     end_datetime: 2026-08-25T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -119,7 +119,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-03T19:00:00Z
     end_datetime: 2026-08-03T21:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -129,7 +129,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-03T19:00:00Z
     end_datetime: 2026-08-03T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -139,7 +139,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-08T15:00:00Z
     end_datetime: 2026-08-08T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -149,7 +149,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-27T13:00:00Z
     end_datetime: 2026-08-27T14:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -159,7 +159,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-13T17:30:00Z
     end_datetime: 2026-08-13T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -169,7 +169,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-11T18:00:00Z
     end_datetime: 2026-08-11T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: design
@@ -179,7 +179,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-15T15:00:00Z
     end_datetime: 2026-08-15T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -189,7 +189,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-18T18:00:00Z
     end_datetime: 2026-08-18T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -199,7 +199,7 @@ eventlistings:
     date_added: 2026-07-28
     start_datetime: 2026-08-24T19:00:00Z
     end_datetime: 2026-08-24T23:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -209,7 +209,7 @@ eventlistings:
     date_added: 2026-07-31
     start_datetime: 2026-08-14T17:30:00Z
     end_datetime: 2026-08-14T22:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -220,7 +220,7 @@ eventlistings:
     date_added: 2026-08-13
     start_datetime: 2026-09-27T09:30:00Z
     end_datetime: 2026-09-27T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
