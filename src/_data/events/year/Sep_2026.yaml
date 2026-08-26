@@ -70,7 +70,8 @@ eventlistings:
     end_datetime: 2026-10-03T12:30:00Z
     new: true
     recurring: false
-    desc: "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
+    desc:
+      "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
       <p>⚙️ Through a series of five 1.5 hour workshops, we will introduce you to circuits with paper circuits, find out what breadboards are (It's not made of bread 🍞). How it all connects together, what is a Raspberry Pi Pico, and how do you use code to make it all work? And what is this CircuitPython you keep mentioning?</p>
       <p>🎮 By the last session, you will be able to code a game controller connected to a Raspberry Pi Pico, and when you connect that a laptop, you can play games! And as it's customisable, you can change and modify it as it's all in Python! 🐍</p>"
     type: diversity
@@ -214,7 +215,7 @@ eventlistings:
     recurring: true
     desc:
     type: maker
-  - name: "ProductTank Belfast: \"Do No Harm\" Product Ethics Workshop"
+  - name: 'ProductTank Belfast: "Do No Harm" Product Ethics Workshop'
     url: "https://www.meetup.com/producttank-belfast/events/316152184/"
     region: 🇬🇧
     date_added: 2026-08-21
@@ -234,3 +235,14 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "TechFoundHer: Mná Made - Innovation Showcase & WeBuild Roadshow"
+    url: "https://www.meetup.com/farsetlabs/events/316164783/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-24T12:00:00Z
+    end_datetime: 2026-09-24T14:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Let's reinvent the Innovation Playbook! Be Inspired by women tech founders building out an unfinished future plus WeBuild Info Session.</p><p>Rewriting the Innovation Playbook brings together a powerful line-up of women founders who are challenging assumptions about what innovation looks like, who gets to build technology, and how great ideas move from concept to reality.</p>"
+    type: diversity
