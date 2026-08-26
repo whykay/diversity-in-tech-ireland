@@ -482,3 +482,14 @@ conferences:
     recurring: false
     desc: "<p>We’re back! Join us after a spring/summer hiatus for AWS, food, fun, and community. It’s been a while, so we’re kicking off with an unconference-style event - we want to hear from you! What kinds of topics should we dive into? Who should we bring in for guest speakers? What kinds of services, tooling, or technology would you like information sessions or hands on workshops? Do YOU have something exciting you want to share?</p>"
     type: design
+
+  - name: "The European AI Conference 2026"
+    url: "https://europeanaiconference.com/"
+    region: 🇮🇪
+    date_added: 2026-08-26
+    start_datetime: 2026-12-02T09:00:00Z
+    end_datetime: 2026-12-02T17:00:00Z
+    new: true
+    recurring: false
+    desc:
+    type: tech
