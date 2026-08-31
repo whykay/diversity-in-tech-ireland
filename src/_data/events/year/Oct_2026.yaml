@@ -62,3 +62,64 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "Data Science Collective for Everyone Here: Dublin Demystifying Data Science For Everyone"
+    url: "https://www.meetup.com/data-science-collective-for-everyone-here/events/316318282/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-09T16:30:00Z
+    end_datetime: 2026-10-09T17:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "SRECon Dublin Happy Hour by the Quay"
+    url: "https://www.meetup.com/clickhouse-ireland-user-group/events/315901993/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-13T18:30:00Z
+    end_datetime: 2026-10-13T20:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Cork|Sec 160"
+    url: "https://www.meetup.com/corksec/events/311100625/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-13T19:00:00Z
+    end_datetime: 2026-10-13T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Galway Game Makers Meetup!"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/316344521/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-10-06T19:00:00Z
+    end_datetime: 2026-10-06T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Dublin STEM Women Graduate Careers Event @ The Convention Centre Dublin"
+    url: "https://www.eventbrite.co.uk/e/dublin-stem-women-graduate-careers-event-tickets-1981565954111"
+    region: 🇮🇪
+    date_added: 2026-08-31
+    start_datetime: 2026-10-16T13:00:00Z
+    end_datetime: 2026-10-16T16:00:00Z
+    new: true
+    recurring: true
+    desc: <p>Join us in Dublin to network with outstanding graduate employers. Each employer will have a stall for you to visit and chat to their recruitment teams. Discover internships and graduate career opportunities, ask questions, and get a head start on your dream career.</p><p>The event is perfect for women who are studying, or recently graduated from, a STEM (Science, Tech, Engineering & Math) related course at university and are considering different career opportunities.</p>
+    type: diversity
+  - name: "Dublin Maker: Repair Café @ TOG Hackerspace"
+    url: "https://www.eventbrite.ie/e/repair-cafe-tickets-1997859803453"
+    region: 🇮🇪
+    date_added: 2026-08-31
+    start_datetime: 2026-10-17T12:00:00Z
+    end_datetime: 2026-10-17T16:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker

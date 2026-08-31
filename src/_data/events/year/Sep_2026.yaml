@@ -246,3 +246,124 @@ eventlistings:
     recurring: true
     desc: "<p>Let's reinvent the Innovation Playbook! Be Inspired by women tech founders building out an unfinished future plus WeBuild Info Session.</p><p>Rewriting the Innovation Playbook brings together a powerful line-up of women founders who are challenging assumptions about what innovation looks like, who gets to build technology, and how great ideas move from concept to reality.</p>"
     type: diversity
+
+  - name: "Dublin Linux Community: Monthly Meetup in the pub @ Moss Lane"
+    url: "https://www.meetup.com/dublin-linux-community/events/316238860/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-26T15:00:00Z
+    end_datetime: 2026-09-26T17:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "TOG Hackerspace Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316243120/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-19T19:00:00Z
+    end_datetime: 2026-09-19T23:59:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker, social
+  - name: "TOG Hackerspace Open Social"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316243120/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-19T19:00:00Z
+    end_datetime: 2026-09-19T23:59:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker, social
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316270371/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-14T19:00:00Z
+    end_datetime: 2026-09-14T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Cork|Sec 159"
+    url: "https://www.meetup.com/corksec/events/311100622/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-01T19:00:00Z
+    end_datetime: 2026-09-01T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Galway Game Makers Meetup! @ CREW"
+    url: "https://www.meetup.com/galway-game-makers-meetup/events/316342019/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-01T19:00:00Z
+    end_datetime: 2026-09-01T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Burbsec Galway @ Murty Rabbitt's"
+    url: "https://www.meetup.com/burbsec-galway/events/316300413/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-03T18:00:00Z
+    end_datetime: 2026-09-03T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Ennis Makerspace: makers night"
+    url: "https://www.meetup.com/ennis-makerspace/events/316300974"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-02T18:00:00Z
+    end_datetime: 2026-09-02T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "IoT Belfast 35: IoT Security & Trustworthiness"
+    url: "https://www.meetup.com/iotbelfast/events/315887437/"
+    region: 🇬🇧
+    date_added: 2026-08-21
+    start_datetime: 2026-09-24T18:30:00Z
+    end_datetime: 2026-09-24T20:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "The Games Co-Op: Playtes-tember @ The Circular"
+    url: "https://www.meetup.com/the-games-co-op/events/316342791/"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-21T19:00:00Z
+    end_datetime: 2026-09-21T23:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Unlock Your Next Career Opportunity in STEM with APNI x eBay"
+    url: "https://www.apni.ie/event-details/unlock-your-next-career-opportunity-in-stem-with-apni-x-ebay"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-03T17:00:00Z
+    end_datetime: 2026-09-03T21:00:00Z
+    new: true
+    recurring: true
+    desc: <p>Join APNI and and eBay for an exclusive evening designed to connect STEM talent with one of the world's leading global commerce and technology companies.</p>
+    type: diversity
+  - name: "Data Chats In A Pub @ The Lord Edward Pub (2nd floor)"
+    url: "https://www.eventbrite.com/e/data-chats-in-a-pub-tickets-1798536804999"
+    region: 🇮🇪
+    date_added: 2026-08-21
+    start_datetime: 2026-09-03T18:30:00Z
+    end_datetime: 2026-09-03T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
