@@ -378,3 +378,13 @@ eventlistings:
     recurring: true
     desc:
     type: diversity
+  - name: "Maker Space for Adults: 3D print workshop"
+    url: "https://www.eventbrite.ie/e/maker-space-for-adults-3d-print-workshop-tickets-1999689224300"
+    region: 🇮🇪
+    date_added: 2026-09-03
+    start_datetime: 2026-09-26T12:30:00Z
+    end_datetime: 2026-09-26T13:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
