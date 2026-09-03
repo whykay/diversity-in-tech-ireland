@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2026-08-05
     start_datetime: 2026-09-03T18:30:00Z
     end_datetime: 2026-09-25T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: gamedev
@@ -16,7 +16,7 @@ eventlistings:
     date_added: 2026-08-05
     start_datetime: 2026-09-17T18:00:00Z
     end_datetime: 2026-09-17T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The Diversity Inclusion Tech Awards shine a light on organisations striving to create a more diverse & inclusive workplace. The event, which started out as the Women in Tech Awards and over the last four years has grown into a programme celebrating all facets of diversity within the tech industry, includes 16 awards celebrating the industry’s achievements in this field.</p>"
     type: diversity
@@ -26,7 +26,7 @@ eventlistings:
     date_added: 2026-08-05
     start_datetime: 2026-09-23T14:00:00Z
     end_datetime: 2026-09-23T15:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>FreedomTech invites you to join our next online CHAT (Community Hub for Accessible Technology) gathering.</p><p>This session will bring together the 2026 CREATE III grant recipients to share the projects they are developing across Assistive Technology (AT), digital inclusion and accessibility in Ireland.</p>"
     type: diversity
@@ -37,7 +37,7 @@ eventlistings:
     date_added: 2026-08-13
     start_datetime: 2026-09-24T09:30:00Z
     end_datetime: 2026-09-24T10:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -47,7 +47,7 @@ eventlistings:
     date_added: 2026-08-13
     start_datetime: 2026-09-02T17:30:00Z
     end_datetime: 2026-09-02T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for a relaxed evening connecting women in our ecosystem rocking the cyber and banking world over great chats and good vibes.</p>"
     type: diversity
@@ -58,7 +58,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-15T18:30:00Z
     end_datetime: 2026-09-15T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for a relaxed evening kindly hosted by Bentley Systems with talks from Rose Farrell (ninedots), Anna Earley (Spunout.ie) and ​Riona Nazareth (Bentley).</p>"
     type: diversity
@@ -68,7 +68,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-05T11:00:00Z
     end_datetime: 2026-10-03T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
       "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
@@ -81,7 +81,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-09T18:00:00Z
     end_datetime: 2026-09-09T20:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -91,7 +91,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-29T19:30:00Z
     end_datetime: 2026-09-29T21:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -101,7 +101,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-06T18:30:00Z
     end_datetime: 2026-09-06T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-20T18:30:00Z
     end_datetime: 2026-09-20T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -121,7 +121,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-04T19:00:00Z
     end_datetime: 2026-09-04T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -131,7 +131,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-11T19:00:00Z
     end_datetime: 2026-09-11T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -141,7 +141,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-18T19:00:00Z
     end_datetime: 2026-09-18T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -151,7 +151,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-25T19:00:00Z
     end_datetime: 2026-09-25T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -161,7 +161,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-05T13:00:00Z
     end_datetime: 2026-09-05T17:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -171,7 +171,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-08T19:00:00Z
     end_datetime: 2026-09-08T21:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -181,7 +181,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-14T19:00:00Z
     end_datetime: 2026-09-14T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -191,7 +191,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-28T19:00:00Z
     end_datetime: 2026-09-28T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -201,7 +201,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-10T17:30:00Z
     end_datetime: 2026-09-10T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: design
@@ -211,7 +211,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-19T15:00:00Z
     end_datetime: 2026-09-19T18:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -221,7 +221,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-16T18:00:00Z
     end_datetime: 2026-09-16T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -231,7 +231,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-15T18:00:00Z
     end_datetime: 2026-09-15T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -242,7 +242,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-24T12:00:00Z
     end_datetime: 2026-09-24T14:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Let's reinvent the Innovation Playbook! Be Inspired by women tech founders building out an unfinished future plus WeBuild Info Session.</p><p>Rewriting the Innovation Playbook brings together a powerful line-up of women founders who are challenging assumptions about what innovation looks like, who gets to build technology, and how great ideas move from concept to reality.</p>"
     type: diversity
@@ -253,7 +253,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-26T15:00:00Z
     end_datetime: 2026-09-26T17:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -263,7 +263,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-19T19:00:00Z
     end_datetime: 2026-09-19T23:59:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker, social
@@ -273,7 +273,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-19T19:00:00Z
     end_datetime: 2026-09-19T23:59:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker, social
@@ -283,7 +283,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-14T19:00:00Z
     end_datetime: 2026-09-14T21:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -293,7 +293,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-01T19:00:00Z
     end_datetime: 2026-09-01T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -303,7 +303,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-01T19:00:00Z
     end_datetime: 2026-09-01T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: gamedev
@@ -313,7 +313,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-03T18:00:00Z
     end_datetime: 2026-09-03T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -323,7 +323,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-02T18:00:00Z
     end_datetime: 2026-09-02T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -333,7 +333,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-24T18:30:00Z
     end_datetime: 2026-09-24T20:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -343,7 +343,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-21T19:00:00Z
     end_datetime: 2026-09-21T23:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: gamedev
@@ -353,7 +353,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-03T17:00:00Z
     end_datetime: 2026-09-03T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: <p>Join APNI and and eBay for an exclusive evening designed to connect STEM talent with one of the world's leading global commerce and technology companies.</p>
     type: diversity
@@ -363,7 +363,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-09-03T18:30:00Z
     end_datetime: 2026-09-03T21:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
