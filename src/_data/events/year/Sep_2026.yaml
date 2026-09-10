@@ -399,3 +399,13 @@ eventlistings:
     recurring: true
     desc: "<p>From Community to Raising Finance: Founder Stories, Honestly Told</p><p>AwakenAngels is celebrating a birthday, and there's no better way to mark it than by handing the mic to the founders who prove what this community actually does.</p>"
     type: diversity
+  - name: "Design Mingle: Creative Connections, Imirce Project @ CREW (Galway)"
+    url: "https://www.eventbrite.ie/e/design-mingle-creative-connections-imirce-project-tickets-2000019649611"
+    region: 🇮🇪
+    date_added: 2026-09-10
+    start_datetime: 2026-09-25T11:30:00Z
+    end_datetime: 2026-09-25T13:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: design
