@@ -123,3 +123,14 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "National Women's Enterprise Day 2026 @ Talbot Hotel"
+    url: "https://events.leapevents.com/tickets/national-womens-enterprise-day-2026"
+    region: 🇮🇪
+    date_added: 2026-09-10
+    start_datetime: 2026-10-15T08:30:00Z
+    end_datetime: 2026-10-15T14:00:00Z
+    new: true
+    recurring: true
+    desc: <p>Join us as we celebrate 20 years of National Women’s Enterprise Day (#NWED) on Thursday, October 15th, with one of the largest gatherings of women entrepreneurs and women in business in 2026!</p>
+    type: diversity

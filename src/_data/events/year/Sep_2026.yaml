@@ -388,3 +388,14 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "Awakenhub: From Community to Raising Finance: Founder Stories, Honestly Told"
+    url: "https://luma.com/uf4mndyt"
+    region: 🇮🇪
+    date_added: 2026-09-10
+    start_datetime: 2026-09-15T17:00:00Z
+    end_datetime: 2026-09-15T18:15:00Z
+    new: true
+    recurring: true
+    desc: "<p>From Community to Raising Finance: Founder Stories, Honestly Told</p><p>AwakenAngels is celebrating a birthday, and there's no better way to mark it than by handing the mic to the founders who prove what this community actually does.</p>"
+    type: diversity
