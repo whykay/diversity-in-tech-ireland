@@ -41,11 +41,17 @@ cancelled:
     status: new
 
 opportunities:
+  - name: "Resilience and Diversification in the Digital Creative Industries"
+    desc: "<p>This course is designed for creative businesses that want to identify new opportunities, diversify their revenue, and build a more resilient business model. Participants will explore business model innovation and consider how their existing creative capabilities, expertise, and IP could be applied in new contexts, sectors and markets.</p>
+     <p>Check website for upcoming opening applications.</p>"
+    url: "https://crewdigital.ie/programme/resilience-and-diversification/"
+    region: 🇮🇪
+    status: new
   - name: "WiCyS Mentorship Program"
     desc: "<p>This is your sign to pursue a new, career changing opportunity as a mentor or mentee with the 9 month WiCyS Mentorship Program, designed to elevate women in cybersecurity through enhanced skills in influence, negotiation, leadership, work/life harmony, and communication.</p>
      <p>Check website for upcoming opening applications.</p>"
     url: "https://www.wicys.org/initiatives/mentor/mentor-mentee-program"
-    status: new
+    status:
   - name: "TWi And Tech Writers Without Borders And You"
     desc: "Professional writers are ready to volunteer. TWi and Tech Writers Without Borders are partnering to bring technical writers to your not for profit COVID-19 related projects."
     url: "https://www.technicallywriteit.com/volunteer-writing-support/"
@@ -67,7 +73,7 @@ opportunities:
     desc: "TSupported by Technology Ireland, InterTradeIreland and Skillnet Ireland, TechIreland has launched a new initiative called the RestartBizMap. [...] interactive map featuring innovative technology solutions to enable businesses to operate in these disruptive Covid times. The project aims to encourage technology adoption by the industry, promote homegrown tech innovation and connect technology providers to industry sectors: retail, manufacturing and services."
     url: "https://www.techireland.org/"
     region: 🇮🇪
-    status: 
+    status:
   - name: "NDRC Early Stage supports for founders across Ireland"
     desc: 'Take your first step to building a globally scalable startup by joining a community, sharing your ideas with top mentors, and preparing your startup for investment or an accelerator with our dedicated regional teams at NDRC.'
     url: "https://www.ndrc.ie/programmes#early"
@@ -77,11 +83,11 @@ opportunities:
     desc: "Unsure how to get a job in the tech industry? Have you been recently made unemployed? Is your job currently at risk or are you just looking for a fresh start? StepIn2Tech can provide you with a mentored pathway to a career in the technology sector."
     url: "https://fit.ie/stepin2tech/"
     region: 🇮🇪
-    status: 
+    status:
   - name: "Lesbians Who Tech: Edie Windsor Scholorship Fund 2021"
     desc: "The Edie Windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology."
     url: "https://lesbianswhotech.org/codingscholarship/"
-    region: 
+    region:
     status: archive
   - name: "Patch Programme 2021"
     desc: "Patch is a 6 week long summer accelerator for 16 – 21 year olds. Participating teams spend the summer working on a chosen project, getting to know an energetic group of peers and learning from brilliant mentors and speakers. Patch is open to future entrepreneurs, scientists, engineers, designers and technologists of all stripes."
@@ -110,7 +116,7 @@ opportunities:
           </p>"
     url: "https://www.ndrc.ie/accelerator?utm_content=183942258"
     region: 🇮🇪
-    status: 
+    status:
   - name: "Women ReBOOT 2022 Programmes"
     desc: "<p>Women ReBOOT Programme, an initiative of Technology Ireland Software Skillnet.</p>"
     url: "https://www.research.net/r/WomenReBOOT_2022"
@@ -158,37 +164,37 @@ opportunities:
     url: "https://docs.google.com/forms/d/e/1FAIpQLSduu4dWIUs-cREfYD49tyqmpeg5-buR4Oh_gsOxWCqBWBVW2Q/viewform"
     region: 🇮🇪
     status: archive
-    
+
   - name: "Level Up: Women In Tech"
     desc: "<p>A social initiative aiming to upskill women from all over the world to start careers in tech.</p>
     <p>Level Up: Women In Tech is an extension of the Level Up initiative, organized by Zartis. Once again, we are combining forces with Code Institute. Together, we aim to upskill women from all over the world, with limited access to tech resources and education, and help them start a career in tech.</p>"
     url: "https://www.zartis.com/levelup/women-in-tech/"
     region: 🇮🇪 🌍
-    status: 
+    status:
 
   - name: "Microsoft for Startups - Founders Hub"
     desc: "<p>We can't wait to hear about your startup or idea! To get to know you, we require all applicants to begin by sharing their LinkedIn profile. After that, you'll be guided through our simple 10-minute application, bringing you one step closer to building and growing with us.</p>"
     url: "https://foundershub.startups.microsoft.com/signup"
     region: 🇮🇪 🌍
-    status: 
+    status: archive
 
   - name: "I-FIT: Ireland's Females in Tech Apprenticeship"
     desc: "<p>Offering participants the opportunity to earn while they learn, modern apprenticeships foster economic independence, progression and clear pathways to quality employment. The first fully-fledged female class is a pioneering approach to boosting participation and showcasing untapped talent. </p>"
     url: "https://fit.ie/i-fit/"
     region: 🇮🇪
-    status: 
+    status:
 
   - name: "Ready, Set, Go Furthr - Applications open"
     desc: "<p>Ready, Set, Go Furthr is a one-day interactive workshop to help ambitious founders get started on the right path to a successful start up journey.</p>
      <p>Our next workshop will take place on <strong>Wednesday, 25th of January 2023 at the Guinness Enterprise Centre, from 9am - 4pm</strong>. </p>"
     url: "https://dublinbic-5694315.hs-sites.com/ready-set-go-furthr-workshop-now-open-for-applications"
     region: 🇮🇪
-    status: archive   
+    status: archive
   - name: "Outreachy - Mentors and Internships 🆙"
     desc: "<p>Outreachy provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>"
     url: "https://www.outreachy.org/"
     region: 🌎
-    status: 
+    status:
   - name: "Edie Windsor Coding Scholarship 2023"
     desc: "<p>The edie windsor coding scholarship fund makes it possible for incoming lgbtq women and non-binary techies to kickstart careers in technology.</p>
      <h4>Deadline is February 14th, 2023.</h4>"
@@ -208,14 +214,14 @@ opportunities:
      <h4>Applications closed 28th February, 2026 at 11:59pm</h4>"
     url: "https://apply.joinpatch.org/"
     region: 🇮🇪
-    status: new
+    status: archive
   - name: "Sparks: Game Changers – by Ardán & Code Coven – Applications Open!"
     desc: "<p>Ardán and Code Coven, with the support of Fís Éireann/ Screen Ireland through the Digital Games Portfolio, are delighted to announce Sparks: Game Changers, a pilot introductory career development course for people of underrepresented genders in the Irish games industry.</p>
      <p>For this programme, we define underrepresented genders as women (cis & trans), trans men, non-binary people, and any other gender-non-conforming people. </p>
      <h4>To apply to take part in this programme, please complete this application form by Sunday, February 8th, 2026, at 11:59pm (GMT)</h4>"
     url: "https://ardan.ie/funding/games/sparks-game-changers-by-ardan-code-coven-applications-open/"
     region: 🇮🇪
-    status: new
+    status: archive
 
 aob:
   - name: "BelfastFP moved away from Meetup"
@@ -225,11 +231,11 @@ aob:
   - name: "GDG Dublin moved from Meetup to GDG Platform"
     desc: "As of October 1st 2021 our GDG Dublin will be moving away from Meetup and any future hosted events will only be available through the GDG Event platform."
     url: "https://gdg.community.dev/gdg-dublin/"
-    status: 
+    status:
   - name: "GDG Galway moved from Meetup to GDG Platform"
     desc: "We are moving home, we are leaving Meetup.com to move to our dedicated platform, we would love to see you over there."
     url: "https://gdg.community.dev/gdg-galway"
-    status: 
+    status:
   - name: "Mobilize on Hiatus until end of year"
     desc:
     url: "https://www.meetup.com/mobilizemeetup/"
@@ -237,11 +243,11 @@ aob:
   - name: "New MongoDB User Group Events site for Dublin"
     desc: 'On April 28th, 2020, they will no longer run any user groups or events on Meetup. To continue interacting with your user group after that date, you need to create an account on <a href="https://live.mongodb.com/dublin">their new platform</a>.'
     url: "https://live.mongodb.com/dublin/"
-    status: 
+    status:
   - name: "Women Who Co-work Dublin moving away from Meetup to Eventbrite"
     desc: 'Updates via: <a href="https://www.eventbrite.ie/o/women-co-17855424135">https://www.eventbrite.ie/o/women-co-17855424135</a>'
     url: "http://womenwhocowork.ie/"
-    status: 
+    status:
   - name: "Platform Engineering Slack channel"
     desc: "This is a space to bring together our community of platform engineers, product managers and platform nerds to share best practices, events and opportunities in the space. We will have dedicated #meet, #jobs and #intros channels, so everyone can make the most of this awesome bunch we are building."
     url: "https://join.slack.com/t/platformengin-b0m7058/shared_invite/zt-viqjsv9g-JrJJa8jo8jSi0GrtDqk_2A"
@@ -251,11 +257,11 @@ resources:
   - name: "Best practices for accessibility for virtual events (via Platform Engineers Dublin)"
     desc: 'As everyone knows, most of our open source events have transformed from in-person to digital this year. However, due to the sudden change, not everything is accessible. We took this issue seriously and decided to work with one of our accessibility experts, Neighborhood Access, to share best practices for our community. We hope this will help you organize your digital events!'
     url: "https://opensource.googleblog.com/2020/12/best-practices-for-accessibility-for.html"
-    status: 
+    status:
   - name: "EuroPython: Resources for Virtual Events"
     desc: 'Info for organisers who can use to host virtual conferences, user group meetings, and sprints! They are offering to share their Zoom Webinar and Pro license to Python events.'
     url: "https://www.europython-society.org/resources"
-    status: 
+    status:
   - name: "Python Software Foundation: Resources for Virtual Events"
     desc: 'Info for organisers who can use to host virtual conferences, user group meetings, and sprints!'
     url: "https://www.python.org/psf/grants/free-resources/"
