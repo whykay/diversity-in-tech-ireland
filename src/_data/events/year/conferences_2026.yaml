@@ -489,7 +489,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-12-02T09:00:00Z
     end_datetime: 2026-12-02T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: tech
@@ -500,7 +500,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-11-10T09:00:00Z
     end_datetime: 2026-11-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us for 2 days filled with insights, networking, and innovation in the world of web data extraction. Learn from industry experts, participate in hands-on workshops, and discover the latest tools and techniques for extracting valuable data from the web.</p>"
     type: tech
@@ -510,7 +510,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-11-10T09:00:00Z
     end_datetime: 2026-11-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us at the 8th Annual AI Awards to honour Ireland’s AI excellence</p>"
     type: tech
@@ -520,7 +520,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-11-11T09:00:00Z
     end_datetime: 2026-11-11T17:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>IRISSCERT holds an annual conference is an all day conference providing attendees with an overview of the current cyber threats facing businesses in Ireland and what they can do to deal with those threats.</p>"
     type: tech
@@ -530,7 +530,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-11-26T09:00:00Z
     end_datetime: 2026-11-26T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The fintech Ireland Summit 2026 will provide attendees with insights from leading experts in central banking, regulation, digital assets, cyber-security, payments, AI, open banking, fintech education and more, covering the continuously evolving Fintech sector.</p>"
     type: tech
@@ -540,7 +540,7 @@ conferences:
     date_added: 2026-08-26
     start_datetime: 2026-10-13T09:00:00Z
     end_datetime: 2026-10-13T16:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Join us as we celebrate 11 years of community, innovation, and impact with our most ambitious Summit yet.</p><p>With over 2,000 attendees, 30+ speakers, and hundreds of organisations represented, the 2025 Summit is designed to reflect the current data landscape and also the explosive growth of AI and its impact across every sector.</p>"
     type: tech
