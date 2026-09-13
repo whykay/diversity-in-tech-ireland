@@ -40,8 +40,10 @@ eventlistings:
     end_datetime: 2026-10-03T17:00:00Z
     new: true
     recurring: true
-    desc:
-    type: maker
+    desc: "<p>Are you a beginner fursuit maker who wants to learn the craft? Are  you into electronics and want to figure out how to make your LED strips emit  custom patterns? Or maybe you want to talk on the radio with your fluffy friends? No matter how big or small, fluffy or simple the project is, bring it in to  us for a social, fluffy event for all cats, dogs, wolves, foxes, and even protogens or any other species known.</p>
+      <p>All you need to take part is an idea that you want to bring to life.
+      The furry maker night will run every first week of the month.</p>"
+    type: diversity
   - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/xmjnxtyjcnbqb/"
     region: 🇮🇪
