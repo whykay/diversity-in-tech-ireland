@@ -544,3 +544,24 @@ conferences:
     recurring: false
     desc: "<p>Join us as we celebrate 11 years of community, innovation, and impact with our most ambitious Summit yet.</p><p>With over 2,000 attendees, 30+ speakers, and hundreds of organisations represented, the 2025 Summit is designed to reflect the current data landscape and also the explosive growth of AI and its impact across every sector.</p>"
     type: tech
+
+  - name: "Beta Festival (various locations)"
+    url: "https://www.betafestival.ie/"
+    region: 🇮🇪
+    date_added: 2026-09-17
+    start_datetime: 2026-11-06T09:00:00Z
+    end_datetime: 2026-11-22T18:30:00Z
+    new: true
+    recurring: true
+    desc: "<p>This year, Beta Festival explores how technology is reshaping how we sense, perceive and understand the world around us. Bringing together artists working across installation, performance, sound, games, AI and digital media, the programme asks what happens when we de-centre the human perspective and begin to consider the intelligence of landscapes, plants, animals, machines and data.</p>"
+    type: tech, creative, art
+  - name: "Culture Crush @ Royal Irish Academy of Music"
+    url: "https://www.culturecrush.ie/"
+    region: 🇮🇪
+    date_added: 2026-09-17
+    start_datetime: 2026-11-18T09:00:00Z
+    end_datetime: 2026-11-18T18:30:00Z
+    new: true
+    recurring: true
+    desc: "<p>Culture Crush... where the cultural and creative communities in Ireland come together as one to connect, share and celebrate at a critical time for our sector </p>"
+    type: creative
