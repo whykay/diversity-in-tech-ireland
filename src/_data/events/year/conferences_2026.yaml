@@ -565,3 +565,14 @@ conferences:
     recurring: true
     desc: "<p>Culture Crush... where the cultural and creative communities in Ireland come together as one to connect, share and celebrate at a critical time for our sector </p>"
     type: creative
+
+  - name: "AICON Belfast @ ICC Belfast"
+    url: "https://ai-con.ai/"
+    region: 🇬🇧
+    date_added: 2026-09-17
+    start_datetime: 2026-09-23T08:15:00Z
+    end_datetime: 2026-09-23T17:30:00Z
+    new: true
+    recurring: true
+    desc: "<p>The conversation around AI has changed. Across industries, the question is no longer whether AI works, but what it takes to make it work at scale, in production, and with accountability. At the centre of that shift is a new generation of agentic AI systems: agents that do not just assist but act, making decisions, orchestrating workflows, and reshaping how organisations operate.</p>"
+    type: tech

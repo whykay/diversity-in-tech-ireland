@@ -177,3 +177,144 @@ eventlistings:
     recurring: true
     desc: "<p>Great products don't happen in isolation. But how do senior practitioners actually balance technical debt, business strategy, and user experience—especially in the age of AI? We’re bringing together a Product Manager, a Designer, and an Engineer for a frank, tactical debate on cross-disciplinary collaboration. Expect real-world stories, sharp insights on workflows, and actionable takeaways to help you lead and collaborate better tomorrow.</p>"
     type: diversity
+
+  - name: "Dublin Data Science: Introducing Machine Learning to a business for the first time @ Dogpatch Labs"
+    url: "https://www.meetup.com/dublin-data-science/events/316567673/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-01T18:30:00Z
+    end_datetime: 2026-10-01T20:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "OOPS #18 - SREcon Social (Dublin) @ The Ferryman"
+    url: "https://www.meetup.com/oops-the-it-incident-outage-meetup/events/316594927/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-12T18:00:00Z
+    end_datetime: 2026-10-12T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316667442/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-12T19:00:00Z
+    end_datetime: 2026-10-12T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/wxjzwtyjcnbjc/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-26T19:00:00Z
+    end_datetime: 2026-10-26T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316667279/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-12T19:00:00Z
+    end_datetime: 2026-10-12T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Electronics Night @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/srmnvtyjcnbjc/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-26T19:00:00Z
+    end_datetime: 2026-10-26T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316530014/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-02T19:00:00Z
+    end_datetime: 2026-10-02T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316626915/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-09T19:00:00Z
+    end_datetime: 2026-10-09T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcnbvb/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-16T19:00:00Z
+    end_datetime: 2026-10-16T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcnbfc/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-23T19:00:00Z
+    end_datetime: 2026-10-23T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Hack and Chill [No AI] @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcnbnc/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-30T19:00:00Z
+    end_datetime: 2026-10-30T21:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "(Online) Dublin Linux Community: Coffee Meetup"
+    url: "https://www.meetup.com/dublin-linux-community/events/316596347/"
+    region: 🇮🇪
+    date_added: 2026-09-23
+    start_datetime: 2026-10-10T15:00:00Z
+    end_datetime: 2026-10-10T17:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
+  - name: "Belfast Design Meetup @ MCS Group"
+    url: "https://www.meetup.com/belfastdesign/events/316668897/"
+    region: 🇬🇧
+    date_added: 2026-09-23
+    start_datetime: 2026-10-08T17:30:00Z
+    end_datetime: 2026-10-08T20:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: design
+  - name: "Belfast Design Coffee"
+    url: "https://www.meetup.com/belfastdesign/events/316668815/"
+    region: 🇬🇧
+    date_added: 2026-09-23
+    start_datetime: 2026-10-24T13:00:00Z
+    end_datetime: 2026-10-24T14:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: design
