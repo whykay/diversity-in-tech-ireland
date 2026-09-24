@@ -275,9 +275,9 @@ conferences:
     end_datetime: 2026-04-29T14:30:00Z
     new: false
     recurring: false
-    desc: "<h4>✨ “Women in the Loop”</h4>
-    <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>"
-    <p>CFP: <a href=\"https://docs.google.com/forms/d/1SEN5uP-I9g456cmahxLOB2auyRjyH68VypFFBv80Rcg/viewform?pli=1&pli=1&edit_requested=true\">Submit your paper here</a></p>"
+    desc: "<h4>✨ 'Women in the Loop'</h4>
+      <p>As AI systems increasingly influence decisions in hiring, healthcare, finance, education, and public services, representation is not optional — it is essential. When women are underrepresented in training data, research teams, or system design, those gaps can translate directly into biased outcomes, unequal performance, and unintended harm.</p>
+      <p>CFP- <a href=\"https://docs.google.com/forms/d/1SEN5uP-I9g456cmahxLOB2auyRjyH68VypFFBv80Rcg/viewform?pli=1&pli=1&edit_requested=true\">Submit your paper here</a></p>"
     type: diversity
 
   - name: "(In-Person) AWS AI and Data Conference 2026 (Kilkenny)"
@@ -319,8 +319,7 @@ conferences:
     end_datetime: 2026-05-29T17:00:00Z
     new: false
     recurring: false
-    desc: "<p>TechFoundHer Summit 2026 brings together women tech innovators, leaders and status quo disruptors to create some noise. We are designing the future boldly by placing our lived experience, ethics and societal need at the centre of innovation. It's time to do AI, Tech and Innovation differently with women front and centre.
-    Women are rebooting — not just technology, but the future itself. Let's Go!!!</p>"
+    desc: "<p>TechFoundHer Summit 2026 brings together women tech innovators, leaders and status quo disruptors to create some noise. We are designing the future boldly by placing our lived experience, ethics and societal need at the centre of innovation. It's time to do AI, Tech and Innovation differently with women front and centre. Women are rebooting — not just technology, but the future itself. Let's Go!!!</p>"
     type: diversity
 
   - name: "(In-Person) Women in STEM+ Conference"
