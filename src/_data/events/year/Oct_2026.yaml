@@ -319,7 +319,7 @@ eventlistings:
     desc:
     type: design
 
-  - name: "H91 MakerSpace: Open Project Day @ PorterShed a Dó, GalwayGalway"
+  - name: "H91 MakerSpace: Open Project Day @ PorterShed a Dó (Galway)"
     url: "https://www.eventbrite.ie/e/open-project-day-tickets-2002177272118"
     region: 🇮🇪
     date_added: 2026-09-24
@@ -329,3 +329,16 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "From Coder to C-Suite @ Portershed (Galway)"
+    url: "https://portershed.clr.events/events/140199/from-coder-to-c-suite"
+    region: 🇮🇪
+    date_added: 2026-09-25
+    start_datetime: 2026-10-08T10:00:00Z
+    end_datetime: 2026-10-08T12:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>From Coder to C Suite brings together women who have  built products, led teams and shaped businesses to share what career progression in tech actually looks like.</p>
+      <p>We’ll explore the move from hands-on technical roles into people management and strategy, the challenges and milestones along the way, and what it takes to keep learning and stay relevant as the industry evolves.
+     </p>"
+    type: diversity
