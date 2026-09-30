@@ -342,3 +342,14 @@ eventlistings:
       <p>We’ll explore the move from hands-on technical roles into people management and strategy, the challenges and milestones along the way, and what it takes to keep learning and stay relevant as the industry evolves.
      </p>"
     type: diversity
+
+  - name: "(Online) 'She Did It... Webinar"
+    url: "https://www.eventbrite.ie/e/she-did-it-webinar-tickets-2002624905000"
+    region: 🇮🇪
+    date_added: 2026-09-30
+    start_datetime: 2026-10-15T14:00:00Z
+    end_datetime: 2026-10-15T15:30:00Z
+    new: true
+    recurring: true
+    desc: "<p>Hear from three women who made it happen! Celebrating International Women’s Enterprise Day Join us for a special webinar celebrating International Women’s Enterprise Day, where you'll hear firsthand from three inspiring female entrepreneurs who successfully started and grew their own businesses.</p>"
+    type: diversity
