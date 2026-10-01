@@ -353,3 +353,14 @@ eventlistings:
     recurring: true
     desc: "<p>Hear from three women who made it happen! Celebrating International Women’s Enterprise Day Join us for a special webinar celebrating International Women’s Enterprise Day, where you'll hear firsthand from three inspiring female entrepreneurs who successfully started and grew their own businesses.</p>"
     type: diversity
+
+  - name: "The Competitive Edge: Women Shaping AI Governance @ Dogpatch Labs"
+    url: "https://luma.com/k27hbjgq"
+    region: 🇮🇪
+    date_added: 2026-10-01
+    start_datetime: 2026-10-13T15:00:00Z
+    end_datetime: 2026-10-13T18:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Fierce and Women in AI Governance are hosting an afternoon at Dogpatch Labs on Tuesday, 13th October, exploring how trustworthy AI governance becomes a competitive advantage, not just a compliance requirement.</p><p>We're bringing together women across AI, governance, policy, investment and startups for a fireside conversation, small-group roundtables and a closing panel - focused on the real decisions, challenges and opportunities shaping responsible AI adoption.</p>"
+    type: diversity
