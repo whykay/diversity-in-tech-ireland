@@ -6,7 +6,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-03T11:00:00Z
     end_datetime: 2026-10-03T12:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>⚡️ Welcome to the world of electronics with Python that can interact with electronics (it's called CircuitPython).</p>
       <p>⚙️ Through a series of five 1.5 hour workshops, we will introduce you to circuits with paper circuits, find out what breadboards are (It's not made of bread 🍞). How it all connects together, what is a Raspberry Pi Pico, and how do you use code to make it all work? And what is this CircuitPython you keep mentioning?</p>
@@ -18,7 +18,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-04T18:30:00Z
     end_datetime: 2026-10-04T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -28,7 +28,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-18T18:30:00Z
     end_datetime: 2026-10-18T20:30:00Z
-    new: true
+    new: false
     recurring: false
     desc:
     type: maker
@@ -38,7 +38,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-03T13:00:00Z
     end_datetime: 2026-10-03T17:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Are you a beginner fursuit maker who wants to learn the craft? Are  you into electronics and want to figure out how to make your LED strips emit  custom patterns? Or maybe you want to talk on the radio with your fluffy friends? No matter how big or small, fluffy or simple the project is, bring it in to  us for a social, fluffy event for all cats, dogs, wolves, foxes, and even protogens or any other species known.</p>
       <p>All you need to take part is an idea that you want to bring to life.
@@ -50,7 +50,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-12T19:00:00Z
     end_datetime: 2026-10-12T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -60,7 +60,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-26T19:00:00Z
     end_datetime: 2026-10-26T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -71,7 +71,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-09T16:30:00Z
     end_datetime: 2026-10-09T17:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -81,7 +81,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-13T18:30:00Z
     end_datetime: 2026-10-13T20:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -91,7 +91,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-13T19:00:00Z
     end_datetime: 2026-10-13T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -101,7 +101,7 @@ eventlistings:
     date_added: 2026-08-21
     start_datetime: 2026-10-06T19:00:00Z
     end_datetime: 2026-10-06T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: gamedev
@@ -111,7 +111,7 @@ eventlistings:
     date_added: 2026-08-31
     start_datetime: 2026-10-16T13:00:00Z
     end_datetime: 2026-10-16T16:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: <p>Join us in Dublin to network with outstanding graduate employers. Each employer will have a stall for you to visit and chat to their recruitment teams. Discover internships and graduate career opportunities, ask questions, and get a head start on your dream career.</p><p>The event is perfect for women who are studying, or recently graduated from, a STEM (Science, Tech, Engineering & Math) related course at university and are considering different career opportunities.</p>
     type: diversity
@@ -121,7 +121,7 @@ eventlistings:
     date_added: 2026-08-31
     start_datetime: 2026-10-17T12:00:00Z
     end_datetime: 2026-10-17T16:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -132,7 +132,7 @@ eventlistings:
     date_added: 2026-09-10
     start_datetime: 2026-10-15T08:30:00Z
     end_datetime: 2026-10-15T14:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Join us as we celebrate 20 years of National Women’s Enterprise Day (#NWED) on Thursday, October 15th, with one of the largest gatherings of women entrepreneurs and women in business in 2026!</p>"
     type: diversity
@@ -143,7 +143,7 @@ eventlistings:
     date_added: 2026-09-17
     start_datetime: 2026-10-01T17:00:00Z
     end_datetime: 2026-10-01T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Join Black Girls in Tech and Squarespace Ireland for an intimate fireside conversation with Karen Emelu, Founder of Black Girls in Tech, exploring what it means to build influence, navigate leadership and create meaningful impact in the technology industry.</p>"
     type: diversity
@@ -153,7 +153,7 @@ eventlistings:
     date_added: 2026-09-17
     start_datetime: 2026-10-22T18:30:00Z
     end_datetime: 2026-10-22T23:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>The Women in STEM Awards 2026 will celebrate and recognise the incredible achievements and innovations of women in science, technology, engineering, and mathematics (STEM) in Ireland.</p>"
     type: diversity
@@ -163,7 +163,7 @@ eventlistings:
     date_added: 2026-09-17
     start_datetime: 2026-10-01T18:45:00Z
     end_datetime: 2026-10-01T19:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>GTA Black Women in Tech Ireland is honoured to collaborate with Amazon Ireland to bring to Dublin a panel discussion, Q&A session and networking event that will introduce attendees to Amazon Ireland, help build their networks, explore careers in tech in general, and more specifically at Amazon.</p>"
     type: diversity
@@ -173,7 +173,7 @@ eventlistings:
     date_added: 2026-09-17
     start_datetime: 2026-10-08T18:00:00Z
     end_datetime: 2026-10-08T20:30:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Great products don't happen in isolation. But how do senior practitioners actually balance technical debt, business strategy, and user experience—especially in the age of AI? We’re bringing together a Product Manager, a Designer, and an Engineer for a frank, tactical debate on cross-disciplinary collaboration. Expect real-world stories, sharp insights on workflows, and actionable takeaways to help you lead and collaborate better tomorrow.</p>"
     type: diversity
@@ -184,7 +184,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-01T18:30:00Z
     end_datetime: 2026-10-01T20:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -194,7 +194,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-12T18:00:00Z
     end_datetime: 2026-10-12T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -204,7 +204,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-12T19:00:00Z
     end_datetime: 2026-10-12T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -214,7 +214,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-26T19:00:00Z
     end_datetime: 2026-10-26T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -224,7 +224,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-12T19:00:00Z
     end_datetime: 2026-10-12T21:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -234,7 +234,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-26T19:00:00Z
     end_datetime: 2026-10-26T21:30:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -244,7 +244,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-02T19:00:00Z
     end_datetime: 2026-10-02T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -254,7 +254,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-09T19:00:00Z
     end_datetime: 2026-10-09T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -264,7 +264,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-16T19:00:00Z
     end_datetime: 2026-10-16T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -274,7 +274,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-23T19:00:00Z
     end_datetime: 2026-10-23T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -284,7 +284,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-30T19:00:00Z
     end_datetime: 2026-10-30T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -294,7 +294,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-10T15:00:00Z
     end_datetime: 2026-10-10T17:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: tech
@@ -304,7 +304,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-08T17:30:00Z
     end_datetime: 2026-10-08T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: design
@@ -314,7 +314,7 @@ eventlistings:
     date_added: 2026-09-23
     start_datetime: 2026-10-24T13:00:00Z
     end_datetime: 2026-10-24T14:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: design
@@ -325,7 +325,7 @@ eventlistings:
     date_added: 2026-09-24
     start_datetime: 2026-10-04T12:00:00Z
     end_datetime: 2026-10-04T16:00:00Z
-    new: true
+    new: false
     recurring: true
     desc:
     type: maker
@@ -336,7 +336,7 @@ eventlistings:
     date_added: 2026-09-25
     start_datetime: 2026-10-08T10:00:00Z
     end_datetime: 2026-10-08T12:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>From Coder to C Suite brings together women who have  built products, led teams and shaped businesses to share what career progression in tech actually looks like.</p>
       <p>We’ll explore the move from hands-on technical roles into people management and strategy, the challenges and milestones along the way, and what it takes to keep learning and stay relevant as the industry evolves.
@@ -349,7 +349,7 @@ eventlistings:
     date_added: 2026-09-30
     start_datetime: 2026-10-15T14:00:00Z
     end_datetime: 2026-10-15T15:30:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Hear from three women who made it happen! Celebrating International Women’s Enterprise Day Join us for a special webinar celebrating International Women’s Enterprise Day, where you'll hear firsthand from three inspiring female entrepreneurs who successfully started and grew their own businesses.</p>"
     type: diversity
@@ -360,7 +360,48 @@ eventlistings:
     date_added: 2026-10-01
     start_datetime: 2026-10-13T15:00:00Z
     end_datetime: 2026-10-13T18:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>Fierce and Women in AI Governance are hosting an afternoon at Dogpatch Labs on Tuesday, 13th October, exploring how trustworthy AI governance becomes a competitive advantage, not just a compliance requirement.</p><p>We're bringing together women across AI, governance, policy, investment and startups for a fireside conversation, small-group roundtables and a closing panel - focused on the real decisions, challenges and opportunities shaping responsible AI adoption.</p>"
     type: diversity
+
+  - name: "Dublin Scala: Scala(3) Meetup - Rebooted"
+    url: "https://www.meetup.com/dublin-scala-users-group/events/314874170/"
+    region: 🇮🇪
+    date_added: 2026-10-01
+    start_datetime: 2026-10-15T18:00:00Z
+    end_datetime: 2026-10-15T20:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "DubJUG 269: Docker's John Feeney & Oracle's Heather VanCura"
+    url: "https://www.meetup.com/dublinjavausergroup/events/316897890/"
+    region: 🇮🇪
+    date_added: 2026-10-01
+    start_datetime: 2026-10-14T18:15:00Z
+    end_datetime: 2026-10-14T21:15:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "AWS UG Dublin - Build What’s Next!"
+    url: "https://www.meetup.com/awsdublin/events/316705042/"
+    region: 🇮🇪
+    date_added: 2026-10-01
+    start_datetime: 2026-10-27T17:45:00Z
+    end_datetime: 2026-10-27T19:45:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+  - name: "Seditious pockets (part 1) with our friends Lovelace Space @ TOG Hackerspace"
+    url: "https://www.meetup.com/tog-dublin-hackerspace/events/316796870/"
+    region: 🇮🇪
+    date_added: 2026-10-01
+    start_datetime: 2026-10-14T19:00:00Z
+    end_datetime: 2026-10-14T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
