@@ -371,7 +371,7 @@ eventlistings:
     date_added: 2026-10-01
     start_datetime: 2026-10-15T18:00:00Z
     end_datetime: 2026-10-15T20:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -381,7 +381,7 @@ eventlistings:
     date_added: 2026-10-01
     start_datetime: 2026-10-14T18:15:00Z
     end_datetime: 2026-10-14T21:15:00Z
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -391,7 +391,7 @@ eventlistings:
     date_added: 2026-10-01
     start_datetime: 2026-10-27T17:45:00Z
     end_datetime: 2026-10-27T19:45:00Z
-    new: true
+    new: false
     recurring: true
     desc: 
     type: tech
@@ -401,7 +401,7 @@ eventlistings:
     date_added: 2026-10-01
     start_datetime: 2026-10-14T19:00:00Z
     end_datetime: 2026-10-14T21:00:00Z
-    new: true
+    new: false
     recurring: true
     desc: 
     type: maker
