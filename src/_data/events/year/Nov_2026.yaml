@@ -10,3 +10,45 @@ eventlistings:
     recurring: true
     desc:
     type: tech
+    
+  - name: "TechTides Youth 2026 @ Foyle Theatre (Derry)"
+    url: "https://www.hightophub.com/apply-today"
+    region: 🇬🇧
+    date_added: 2026-10-23
+    start_datetime: 2026-11-23T10:00:00Z
+    end_datetime: 2026-11-23T14:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>TechTides Youth is back, bringing young people from across Derry, Strabane and Limavady together to explore the world of technology, careers and entrepreneurship.</p><p>Designed and hosted by young people, the day will bring together inspiring speakers, new technology, fresh ideas and the next generation of innovators.</p>"
+    type: diversity
+  - name: "The Future of Creative Work: Creating Conditions for Creative Collaboration @ Catalyst"
+    url: "https://www.eventbrite.ie/e/the-future-of-creative-work-creating-conditions-for-creative-collaboration-tickets-2003121462216"
+    region: 🇬🇧
+    date_added: 2026-10-23
+    start_datetime: 2026-11-05T10:00:00Z
+    end_datetime: 2026-11-05T14:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: creative
+  - name: "Waterford Tech Meetup: 10th Anniversary Panel Session @ Waterford Treasures: Medieval Museum"
+    url: "https://www.meetup.com/waterford-tech-meetup/events/316973046/"
+    region: 🇮🇪
+    date_added: 2026-10-23
+    start_datetime: 2026-11-12T19:00:00Z
+    end_datetime: 2026-11-12T21:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
+    
+  - name: "OWASP Belfast: Cybersecurity Journey: From Learning to Building a Career"
+    url: "https://www.meetup.com/owasp-belfast/events/317045668/"
+    region: 🇬🇧
+    date_added: 2026-10-24
+    start_datetime: 2026-11-12T17:00:00Z
+    end_datetime: 2026-11-12T19:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech

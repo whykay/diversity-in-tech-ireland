@@ -405,3 +405,14 @@ eventlistings:
     recurring: true
     desc: 
     type: maker
+    
+  - name: "She's Voltaic: Logged Out"
+    url: "https://www.linkedin.com/posts/shesvoltaic_womenintech-womenincyber-community-activity-7519804214563282944-tKbd"
+    region: 🇮🇪
+    date_added: 2026-10-24
+    start_datetime: 2026-10-25T19:00:00Z
+    end_datetime: 2026-10-25T20:00:00Z
+    new: true
+    recurring: true
+    desc: "<p>Bring a glass or mug of something and come as you are. We’ll talk about our days, what’s on our minds, and whatever’s in the news. No pitches, no job titles, no agenda. It’s fine to just listen.</p><p>This is for all women, whatever your field and whatever your level of interest in tech.</p>"
+    type: diversity
