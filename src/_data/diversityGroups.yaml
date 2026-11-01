@@ -7,7 +7,8 @@ groups:
     year_added: 2020
     month_added: 09
     day_added: 11
-    status: active
+    status: retired
+    date_removed: 2026-10-25
     type: all
   - name: Coding Grace
     url: "https://codinggrace.com"
@@ -132,7 +133,8 @@ groups:
     year_added: 2017
     month_added: 02
     day_added: 26
-    status: active
+    status: retired
+    date_removed: 2026-10-25
     type: all
   - name: Django Girls Dublin
     url: "https://djangogirlsdublin.tumblr.com/"
@@ -197,7 +199,8 @@ groups:
     year_added: 2020
     month_added: 09
     day_added: 11
-    status: active
+    status: retired
+    date_removed: 2026-10-25
     type: all
   - name: Hello Sprinters Dublin
     url:
@@ -259,7 +262,7 @@ groups:
     status: retired
     type: all
   - name: Ladies that UX Belfast
-    url: "https://www.meetup.com/Ladies-that-UX-Belfast/"
+    url: "https://ladiesthatux.com/belfast/"
     region: Belfast, Northern Ireland
     date_added: 2019-08-07
     year_added: 2019
@@ -268,7 +271,7 @@ groups:
     status: active
     type: all
   - name: Ladies that UX Dublin
-    url: "https://www.linkedin.com/company/ladiesthatux-dublin"
+    url: "https://www.instagram.com/ladiesthatux.dublin/"
     region: Dublin
     date_added: 2017-02-26
     year_added: 2017
@@ -583,8 +586,8 @@ groups:
     year_added: 2018
     month_added: 08
     day_added: 13
-    date_removed:
-    status: active
+    date_removed: 2026-10-25
+    status: retired
     type: youth
   - name: CoderDojoGirls @ DCU
     url: "https://twitter.com/coderdojogirls"
@@ -763,8 +766,8 @@ groups:
     year_added: 2021
     month_added: 08
     day_added: 27
-    date_removed:
-    status: active
+    status: retired
+    date_removed: 2026-10-25
     type: all
 
   # 2022
@@ -789,7 +792,7 @@ groups:
     status: retired
     type: all
   - name: "Women in Animation Ireland"
-    url: "https://twitter.com/Wia_Ireland"
+    url: "https://www.instagram.com/wia.ireland/"
     region: Dublin
     date_added: 2022-08-03
     year_added: 2022
@@ -1001,8 +1004,8 @@ groups:
     year_added: 2025
     month_added: 07
     day_added: 02
-    date_removed:
-    status: active
+    date_removed: 2026-10-25
+    status: retired
     type: all
 
   - name: "Women4Cyber Ireland"
@@ -1076,8 +1079,8 @@ groups:
   ###
   - name: MTU / WiSTEM
     url: "https://societies.mtu.ie/societies/cork/wistem"
-    instagram:
-    twitter: MTUCorkWiSTEM
+    instagram: mtu_wistem_cork
+    twitter: 
     facebook: "https://www.facebook.com/MTUCorkWiSTEM"
     region: Cork
     date_added: 2020-11-19
@@ -1104,7 +1107,7 @@ groups:
   - name: Maynooth University / Women in STEM society
     url: "https://mulife.ie/society/women-in-stem"
     instagram: mu_womeninstem
-    twitter: mu_womeninstem
+    twitter: 
     facebook: "https://www.facebook.com/NUIMwomeninstem"
     region: Maynooth
     date_added: 2020-11-19
@@ -1130,7 +1133,7 @@ groups:
     type: student
   - name: NUIG / WiSTEM
     url: "https://socs.nuigalway.ie/societies/wistem"
-    instagram:
+    instagram: wistem.uniofgalway/
     twitter:
     facebook:
     region: Galway
@@ -1185,7 +1188,7 @@ groups:
   - name: UCD / Women+ in STEM
     url: "https://www.ucd.ie/wits/"
     instagram: womeninstem_ucd
-    twitter: womeninstem_ucd
+    twitter: 
     facebook: "https://www.facebook.com/ucdwomeninstem"
     region: Dublin
     date_added: 2020-11-19
@@ -1198,7 +1201,7 @@ groups:
   - name: UL / WiSTEM2D
     url: "https://www.ul.ie/courses/johnson-and-johnson-wistem2d-programme"
     instagram: wistemsoc.ul
-    twitter: ulwistem2d
+    twitter: 
     facebook: "https://www.facebook.com/wistem2dsoc.ul/"
     region: Limerick
     date_added: 2020-11-19
@@ -1238,7 +1241,7 @@ groups:
   - name: TU Dublin / Women in Tech United (WITU)
     url: "https://www.tudublin.ie/explore/about-the-university/equality-and-diversity/edi-initiatives-in-tu-dublin/witu/"
     instagram: witu_dublin
-    twitter: witu_Dublin
+    twitter: 
     facebook:
     region: Dublin
     date_added: 2025-02-20
