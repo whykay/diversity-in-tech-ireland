@@ -415,3 +415,14 @@ eventlistings:
     recurring: true
     desc: 
     type: maker
+  - name: "Women4Cyber Ireland: Personal Image, Confidence & Presence Workshop @ Morgan McKinley (Cork)"
+    url: "https://www.eventbrite.ie/e/personal-image-confidence-presence-workshop-tickets-2004018592557"
+    region: 🇮🇪
+    date_added: 2026-11-02
+    start_datetime: 2026-11-19T18:30:00Z
+    end_datetime: 2026-11-19T20:30:00Z
+    new: true
+    recurring: true
+    desc: "<p>Whether you're preparing for a job interview, starting your career, growing your professional network, stepping into leadership, or simply looking to strengthen your confidence and professional presence, this workshop is for you!</p>
+     <p>You don't need to work in cybersecurity to join us. We welcome women from all professional backgrounds who want to learn, connect and grow together.</p>"
+    type: diversity
