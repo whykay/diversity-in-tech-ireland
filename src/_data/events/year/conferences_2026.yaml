@@ -591,3 +591,14 @@ conferences:
     desc: "<p>Software engineering has always evolved, but the pace of change has never been faster.</p><p>BelTech 2027 will spotlight the principles, practices, and mindsets that help engineers and organisations to adapt successfully, regardless of what changes next.</p>
      <p>🎤 Call for speakers <a href='https://docs.google.com/forms/d/e/1FAIpQLSdux1t5Tqr70_n6dkZIAPDBUsx6cKRsIgFXjj91DXhx0i-R4A/viewform'>form</a>.</p>"
     type: tech
+    
+  - name: "Security BSides Dublin"
+    url: "https://www.bsidesdub.ie/"
+    region: 🇮🇪
+    date_added: 2026-11-01
+    start_datetime: 2027-05-22T08:15:00Z
+    end_datetime: 2027-05-22T17:30:00Z
+    new: true
+    recurring: false
+    desc: "<p>We are back up and running and happy to announce a provisional date of the 22nd May 2027. See webite for updated info.</p>"
+    type: tech
