@@ -576,6 +576,17 @@ conferences:
     desc: "<p>The conversation around AI has changed. Across industries, the question is no longer whether AI works, but what it takes to make it work at scale, in production, and with accountability. At the centre of that shift is a new generation of agentic AI systems: agents that do not just assist but act, making decisions, orchestrating workflows, and reshaping how organisations operate.</p>"
     type: tech
 
+  - name: "The European Creative Industries Summit "
+    url: "https://failtefuture.eu/"
+    region: 🇮🇪
+    date_added: 2026-11-03
+    start_datetime: 2026-11-10T08:30:00Z
+    end_datetime: 2026-11-13T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>The European Creative Industries Summit unfolds over three days in Dublin, under the auspices of Ireland's EU Presidency: a European Day, an Irish Day, and a day of site visits across the island — preceded by a fringe prelude on the 10th.</p>
+      <p>Whatever your place in Europe's creative economy — policy, funding, practice or research — you'll leave with the arguments, the contacts and the funding routes to act on in 2027.</p>"
+    type: creative
 
 #
 # 2027
@@ -602,3 +613,4 @@ conferences:
     recurring: false
     desc: "<p>We are back up and running and happy to announce a provisional date of the 22nd May 2027. See webite for updated info.</p>"
     type: tech
+  
