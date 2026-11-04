@@ -576,7 +576,7 @@ conferences:
     desc: "<p>The conversation around AI has changed. Across industries, the question is no longer whether AI works, but what it takes to make it work at scale, in production, and with accountability. At the centre of that shift is a new generation of agentic AI systems: agents that do not just assist but act, making decisions, orchestrating workflows, and reshaping how organisations operate.</p>"
     type: tech
 
-  - name: "The European Creative Industries Summit "
+  - name: "The European Creative Industries Summit"
     url: "https://failtefuture.eu/"
     region: 🇮🇪
     date_added: 2026-11-03
@@ -587,6 +587,16 @@ conferences:
     desc: "<p>The European Creative Industries Summit unfolds over three days in Dublin, under the auspices of Ireland's EU Presidency: a European Day, an Irish Day, and a day of site visits across the island — preceded by a fringe prelude on the 10th.</p>
       <p>Whatever your place in Europe's creative economy — policy, funding, practice or research — you'll leave with the arguments, the contacts and the funding routes to act on in 2027.</p>"
     type: creative
+  - name: "Digital Meitheal"
+    url: "https://www.meitheal.eu/"
+    region: 🇮🇪
+    date_added: 2026-11-03
+    start_datetime: 2026-11-19T08:30:00Z
+    end_datetime: 2026-11-20T18:00:00Z
+    new: true
+    recurring: false
+    desc: "<p>A two-day working meitheal (meh-hal) for people building better public and civic services — bringing real challenges, reusable digital building blocks and people prepared to help.</p>"
+    type: openspaces
 
 #
 # 2027

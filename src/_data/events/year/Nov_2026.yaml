@@ -447,3 +447,13 @@ eventlistings:
     recurring: true
     desc: 
     type: maker
+  - name: "Immersive Software Engineering (ISE) Dublin Partner Evening @ Stripe"
+    url: "https://www.eventbrite.ie/e/making-waves-exploring-the-sea-through-science-and-sound-tickets-2002502514928"
+    region: 🇮🇪
+    date_added: 2026-11-03
+    start_datetime: 2026-11-04T16:00:00Z
+    end_datetime: 2026-11-04T18:00:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: tech
