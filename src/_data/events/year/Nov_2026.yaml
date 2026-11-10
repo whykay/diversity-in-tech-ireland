@@ -468,3 +468,14 @@ eventlistings:
     recurring: true
     desc: "<p>​PyLadies Dublin are hosting our very first sprints night. We will be introducing people to APIs and manipulating data (e.g. Irish Government Open Portal or other datasets) as well as using source control like git.</p>"
     type: diversity
+    
+  - name: "Creative Spark: Introduction to 3D Printing"
+    url: "https://creativespark.ie/events/event/introduction-to-3d-printing-ab383"
+    region: 🇮🇪
+    date_added: 2026-11-10
+    start_datetime: 2026-11-26T17:30:00Z
+    end_datetime: 2026-11-26T20:30:00Z
+    new: true
+    recurring: true
+    desc: 
+    type: maker
