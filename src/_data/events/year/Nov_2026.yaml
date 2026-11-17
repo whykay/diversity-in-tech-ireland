@@ -479,3 +479,24 @@ eventlistings:
     recurring: true
     desc:
     type: maker
+
+  - name: "(Online) Creative Europe Desk Ireland: Video Games & Immersive Content Development"
+    url: "https://www.creativeeuropeireland.eu/news-events/-2"
+    region: 🇮🇪
+    date_added: 2026-11-17
+    start_datetime: 2026-11-27T12:00:00Z
+    end_datetime: 2026-11-27T13:00:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev, creatives, startup
+  - name: "ProductCamp Dublin Winter Event @ MJ Wright"
+    url: "https://www.eventbrite.ie/e/productcamp-dublin-winter-event-tickets-2002432774332"
+    region: 🇮🇪
+    date_added: 2026-11-17
+    start_datetime: 2026-11-19T18:30:00Z
+    end_datetime: 2026-11-19T22:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: tech
