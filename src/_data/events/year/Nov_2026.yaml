@@ -10,7 +10,7 @@ eventlistings:
     recurring: true
     desc:
     type: tech
-    
+
   - name: "TechTides Youth 2026 @ Foyle Theatre (Derry)"
     url: "https://www.hightophub.com/apply-today"
     region: 🇬🇧
@@ -29,7 +29,7 @@ eventlistings:
     end_datetime: 2026-11-05T14:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: creative
   - name: "Waterford Tech Meetup: 10th Anniversary Panel Session @ Waterford Treasures: Medieval Museum"
     url: "https://www.meetup.com/waterford-tech-meetup/events/316973046/"
@@ -39,9 +39,9 @@ eventlistings:
     end_datetime: 2026-11-12T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
-    
+
   - name: "OWASP Belfast: Cybersecurity Journey: From Learning to Building a Career"
     url: "https://www.meetup.com/owasp-belfast/events/317045668/"
     region: 🇬🇧
@@ -50,7 +50,7 @@ eventlistings:
     end_datetime: 2026-11-12T19:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
 
   - name: "Eirmersive: FUTURE WORLD-MAKING with LUCAS RIZZOTTO @ Creative Spark (Dundalk)"
@@ -61,7 +61,7 @@ eventlistings:
     end_datetime: 2026-11-03T16:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Design Mingle: Creative Connections, Dwelling on the Edges"
     url: "https://www.eventbrite.ie/e/design-mingle-creative-connections-dwelling-on-the-edges-tickets-2003767142463"
@@ -71,7 +71,7 @@ eventlistings:
     end_datetime: 2026-11-06T13:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: design
   - name: "The Colour of Everyday symposium with the Bernat Klein Foundation"
     url: "https://www.futureisland-island.org/events/tickets-now-available-for-the-colour-of-everyday-symposium-with-the-bernat-klein-foundation/"
@@ -81,7 +81,7 @@ eventlistings:
     end_datetime: 2026-11-28T16:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: design
   - name: "HackAthlone"
     url: "https://hackathlone.com"
@@ -91,7 +91,7 @@ eventlistings:
     end_datetime: 2026-11-15T23:59:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "DEFUSE - DESIGN FOR USE @ The Sugar Club"
     url: "https://defuse.ixd.ie/"
@@ -101,7 +101,7 @@ eventlistings:
     end_datetime: 2026-11-09T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "(Online) Navigating Careers in the Age of AI - Women in Data Science (WiDS) Panel"
     url: "https://www.eventbrite.ie/e/navigating-careers-in-the-age-of-ai-women-in-data-science-wids-panel-tickets-2003960859877"
@@ -121,7 +121,7 @@ eventlistings:
     end_datetime: 2026-11-21T17:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "(Online) National Council For Special Education: Assistive technology solutions that support inclusion for students with physical, vision and hearing needs"
     url: "https://lnkd.in/p/ezJUk3Yf"
@@ -133,7 +133,7 @@ eventlistings:
     recurring: true
     desc: "<p>Explore practical assistive technology solutions that support inclusion for students with physical, vision and hearing needs. Learn about free built-in tools, specialist supports and real classroom applications.</p>"
     type: diversity
-    
+
   - name: "Stripe Developer meetup, Dublin November 12, 2026 (In Person)"
     url: "https://www.meetup.com/stripe-dublin/events/317088717/"
     region: 🇮🇪
@@ -142,7 +142,7 @@ eventlistings:
     end_datetime: 2026-11-12T20:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Linux Tech Talks: Building from Source & Sharing Logic Across Applications @ Anseo"
     url: "https://www.meetup.com/dublin-linux-community/events/316949230/"
@@ -152,7 +152,7 @@ eventlistings:
     end_datetime: 2026-11-24T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "The November SRE Meetup"
     url: "https://www.meetup.com/site-reliability-engineering-dublin/events/317219901/"
@@ -162,7 +162,7 @@ eventlistings:
     end_datetime: 2026-11-11T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Dublin Linux Community: Monthly Meetup in the pub"
     url: "https://www.meetup.com/dublin-linux-community/events/316661793/"
@@ -172,7 +172,7 @@ eventlistings:
     end_datetime: 2026-11-29T17:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Monthly Makerfur Meet @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317033286/"
@@ -182,7 +182,7 @@ eventlistings:
     end_datetime: 2026-11-07T17:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "The Games Co-Op: Null-vember @ The Circular"
     url: "https://www.meetup.com/the-games-co-op/events/317148106/"
@@ -192,7 +192,7 @@ eventlistings:
     end_datetime: 2026-11-23T23:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: gamedev
   - name: "Hack and Chill [No AI] @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317122271/"
@@ -202,7 +202,7 @@ eventlistings:
     end_datetime: 2026-11-13T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Hack and Chill [No AI] @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317223443/"
@@ -212,7 +212,7 @@ eventlistings:
     end_datetime: 2026-11-20T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Hack and Chill [No AI] @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/bgfhztyjcpbkc/"
@@ -222,8 +222,8 @@ eventlistings:
     end_datetime: 2026-11-27T21:00:00Z
     new: false
     recurring: true
-    desc: 
-    type: tech   
+    desc:
+    type: tech
   - name: "Electronics Night @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317165223/"
     region: 🇮🇪
@@ -232,7 +232,7 @@ eventlistings:
     end_datetime: 2026-11-02T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Electronics Night @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317164328/"
@@ -242,7 +242,7 @@ eventlistings:
     end_datetime: 2026-11-16T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Electronics Night @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/cnjrbvyjcpbnc/"
@@ -252,7 +252,7 @@ eventlistings:
     end_datetime: 2026-11-30T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/317062495/"
@@ -262,7 +262,7 @@ eventlistings:
     end_datetime: 2026-11-09T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Maker Night - Work on 3D projects using laser cutter, 3D Printer @ TOG Hackerspace"
     url: "https://www.meetup.com/tog-dublin-hackerspace/events/xmjnxtyjcpbfc/"
@@ -272,7 +272,7 @@ eventlistings:
     end_datetime: 2026-11-23T21:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Cork|Sec 161"
     url: "https://www.meetup.com/corksec/events/316296592/"
@@ -282,7 +282,7 @@ eventlistings:
     end_datetime: 2026-11-10T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Galway Game Makers Meetup!"
     url: "https://www.meetup.com/galway-game-makers-meetup/events/316342366/"
@@ -292,7 +292,7 @@ eventlistings:
     end_datetime: 2026-11-03T21:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: gamedev
   - name: "Belfast Gophers"
     url: "https://www.meetup.com/belfast-gophers/events/316979108/"
@@ -302,7 +302,7 @@ eventlistings:
     end_datetime: 2026-11-26T20:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Belfast Design Coffee"
     url: "https://www.meetup.com/belfastdesign/events/317146259/"
@@ -312,7 +312,7 @@ eventlistings:
     end_datetime: 2026-11-26T14:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: design
   - name: "ProductTank Belfast: Product Decade: Where we’ve been, where we’re going"
     url: "https://www.meetup.com/producttank-belfast/events/317123441/"
@@ -322,7 +322,7 @@ eventlistings:
     end_datetime: 2026-11-19T20:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "🛠 Maker Night @ Farset Labs"
     url: "https://www.meetup.com/farsetlabs/events/317036333/"
@@ -332,7 +332,7 @@ eventlistings:
     end_datetime: 2026-11-17T20:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Belfast Design Meetup"
     url: "https://www.meetup.com/belfastdesign/events/317146042/"
@@ -342,7 +342,7 @@ eventlistings:
     end_datetime: 2026-11-12T20:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: design
   - name: "Craft Afternoon @ Farset Labs"
     url: "https://www.meetup.com/farsetlabs/events/317239477/"
@@ -352,7 +352,7 @@ eventlistings:
     end_datetime: 2026-11-21T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "CloseTheGap Launch @ Royal Irish Academy"
     url: "https://lnkd.in/p/eW5h3MfY"
@@ -373,7 +373,7 @@ eventlistings:
     end_datetime: 2026-11-05T16:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
   - name: "Synthesize_Her TRANSMIT Workshop"
     url: "https://www.betafestival.ie/festival-programme/synthesize-her"
@@ -383,7 +383,7 @@ eventlistings:
     end_datetime: 2026-11-15T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Augmenting Sound with Ed Devane"
     url: "https://www.betafestival.ie/festival-programme/cyberdeck-workshop-with-annike-tan-dn6az"
@@ -393,7 +393,7 @@ eventlistings:
     end_datetime: 2026-11-21T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Cyberdeck Workshop with Annike Tan"
     url: "https://www.betafestival.ie/festival-programme/cyberdeck-workshop-with-annike-tan-dn6az"
@@ -403,7 +403,7 @@ eventlistings:
     end_datetime: 2026-11-21T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Thinking about Permacomputing: can we engage with technology sustainably?"
     url: "https://www.betafestival.ie/festival-programme/permacomputing"
@@ -413,7 +413,7 @@ eventlistings:
     end_datetime: 2026-11-22T15:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Women4Cyber Ireland: Personal Image, Confidence & Presence Workshop @ Morgan McKinley (Cork)"
     url: "https://www.eventbrite.ie/e/personal-image-confidence-presence-workshop-tickets-2004018592557"
@@ -426,7 +426,7 @@ eventlistings:
     desc: "<p>Whether you're preparing for a job interview, starting your career, growing your professional network, stepping into leadership, or simply looking to strengthen your confidence and professional presence, this workshop is for you!</p>
      <p>You don't need to work in cybersecurity to join us. We welcome women from all professional backgrounds who want to learn, connect and grow together.</p>"
     type: diversity
-    
+
   - name: "Simple Circuitry for adults with Andrew Carson @ Fingal Makerspace"
     url: "https://www.eventbrite.ie/e/simple-circuitry-for-adults-with-andrew-carson-tickets-2004313208762"
     region: 🇮🇪
@@ -435,7 +435,7 @@ eventlistings:
     end_datetime: 2026-11-17T19:30:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Making Waves: Exploring the Sea Through Science and Sound"
     url: "https://www.eventbrite.ie/e/making-waves-exploring-the-sea-through-science-and-sound-tickets-2002502514928"
@@ -445,7 +445,7 @@ eventlistings:
     end_datetime: 2026-11-08T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
   - name: "Immersive Software Engineering (ISE) Dublin Partner Evening @ Stripe"
     url: "https://www.eventbrite.ie/e/making-waves-exploring-the-sea-through-science-and-sound-tickets-2002502514928"
@@ -455,27 +455,27 @@ eventlistings:
     end_datetime: 2026-11-04T18:00:00Z
     new: false
     recurring: true
-    desc: 
+    desc:
     type: tech
-    
+
   - name: "PyLadies Dublin Sprints @ Scopely"
     url: "https://luma.com/szqpyy1g"
     region: 🇮🇪
     date_added: 2026-11-07
     start_datetime: 2026-11-17T18:30:00Z
     end_datetime: 2026-11-17T20:30:00Z
-    new: true
+    new: false
     recurring: true
     desc: "<p>​PyLadies Dublin are hosting our very first sprints night. We will be introducing people to APIs and manipulating data (e.g. Irish Government Open Portal or other datasets) as well as using source control like git.</p>"
     type: diversity
-    
+
   - name: "Creative Spark: Introduction to 3D Printing"
     url: "https://creativespark.ie/events/event/introduction-to-3d-printing-ab383"
     region: 🇮🇪
     date_added: 2026-11-10
     start_datetime: 2026-11-26T17:30:00Z
     end_datetime: 2026-11-26T20:30:00Z
-    new: true
+    new: false
     recurring: true
-    desc: 
+    desc:
     type: maker
