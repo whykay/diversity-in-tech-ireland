@@ -582,7 +582,7 @@ conferences:
     date_added: 2026-11-03
     start_datetime: 2026-11-10T08:30:00Z
     end_datetime: 2026-11-13T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>The European Creative Industries Summit unfolds over three days in Dublin, under the auspices of Ireland's EU Presidency: a European Day, an Irish Day, and a day of site visits across the island — preceded by a fringe prelude on the 10th.</p>
       <p>Whatever your place in Europe's creative economy — policy, funding, practice or research — you'll leave with the arguments, the contacts and the funding routes to act on in 2027.</p>"
@@ -593,34 +593,33 @@ conferences:
     date_added: 2026-11-03
     start_datetime: 2026-11-19T08:30:00Z
     end_datetime: 2026-11-20T18:00:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>A two-day working meitheal (meh-hal) for people building better public and civic services — bringing real challenges, reusable digital building blocks and people prepared to help.</p>"
     type: openspaces
 
 #
 # 2027
-# 
+#
   - name: "BelTech 2027 @ Titanic Belfast"
     url: "https://www.beltech.co/"
     region: 🇬🇧
     date_added: 2026-10-24
     start_datetime: 2027-03-04T08:15:00Z
     end_datetime: 2027-03-04T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>Software engineering has always evolved, but the pace of change has never been faster.</p><p>BelTech 2027 will spotlight the principles, practices, and mindsets that help engineers and organisations to adapt successfully, regardless of what changes next.</p>
      <p>🎤 Call for speakers <a href='https://docs.google.com/forms/d/e/1FAIpQLSdux1t5Tqr70_n6dkZIAPDBUsx6cKRsIgFXjj91DXhx0i-R4A/viewform'>form</a>.</p>"
     type: tech
-    
+
   - name: "Security BSides Dublin"
     url: "https://www.bsidesdub.ie/"
     region: 🇮🇪
     date_added: 2026-11-01
     start_datetime: 2027-05-22T08:15:00Z
     end_datetime: 2027-05-22T17:30:00Z
-    new: true
+    new: false
     recurring: false
     desc: "<p>We are back up and running and happy to announce a provisional date of the 22nd May 2027. See webite for updated info.</p>"
     type: tech
-  
