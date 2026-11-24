@@ -83,3 +83,44 @@ eventlistings:
             This special gathering will feature reflections from special guests, who will share their wins, highlights,
             and surprises from the past year.</p>"
     type: diversity
+
+  - name: "Irish Game Dev Community Christmas Party - GALWAY"
+    url: "https://www.eventbrite.ie/e/irish-game-dev-community-christmas-party-galway-tickets-2005222977906"
+    region: 🇮🇪
+    date_added: 2026-11-24
+    start_datetime: 2026-12-11T19:30:00Z
+    end_datetime: 2026-12-111T23:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Irish Game Dev Community Christmas Party - DUBLIN"
+    url: "https://www.eventbrite.ie/e/irish-game-dev-community-christmas-party-dublin-tickets-2005225378085"
+    region: 🇮🇪
+    date_added: 2026-11-24
+    start_datetime: 2026-12-11T19:30:00Z
+    end_datetime: 2026-12-111T23:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Irish Game Dev Community Christmas Party - CORK"
+    url: "https://www.eventbrite.ie/e/irish-game-dev-community-christmas-party-cork-tickets-2005225632847"
+    region: 🇮🇪
+    date_added: 2026-11-24
+    start_datetime: 2026-12-11T19:00:00Z
+    end_datetime: 2026-12-111T23:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "Fingal Makerspace: Maker Monday for adults"
+    url: "https://www.eventbrite.ie/e/maker-monday-for-adults-tickets-2005397891076"
+    region: 🇮🇪
+    date_added: 2026-11-24
+    start_datetime: 2026-12-14T16:00:00Z
+    end_datetime: 2026-12-14T19:45:00Z
+    new: true
+    recurring: true
+    desc:
+    type: maker

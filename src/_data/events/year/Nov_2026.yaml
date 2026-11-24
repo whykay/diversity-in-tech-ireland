@@ -500,3 +500,24 @@ eventlistings:
     recurring: true
     desc:
     type: tech
+
+  - name: "PlayMyDemo Belfast - November 2026"
+    url: "https://luma.com/bp0cg8el"
+    region: 🇬🇧
+    date_added: 2026-11-24
+    start_datetime: 2026-11-26T19:00:00Z
+    end_datetime: 2026-11-26T21:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
+  - name: "ARTIFACTING: A Collaborative Storytelling Workshop"
+    url: "https://a4sounds.org/shop/artifacting/"
+    region: 🇮🇪
+    date_added: 2026-11-24
+    start_datetime: 2026-11-24T18:30:00Z
+    end_datetime: 2026-11-24T20:30:00Z
+    new: true
+    recurring: true
+    desc:
+    type: gamedev
